@@ -1,5 +1,35 @@
 {
-  "questions": {},
-  "news": {},
-  "editions": {}
+  "questions": {
+    "neuropsychology-001": "2026-11-20",
+    "neuropsychology-002": "2026-11-20",
+    "neuropsychology-003": "2026-11-20",
+    "mental_health-001": "2026-11-20",
+    "mental_health-002": "2026-11-20",
+    "mental_health-003": "2026-11-20",
+    "neuroscience-001": "2026-11-20",
+    "neuroscience-002": "2026-11-20",
+    "neuroscience-003": "2026-11-20",
+    "psychotherapy-001": "2026-11-20",
+    "psychotherapy-002": "2026-11-20",
+    "psychotherapy-003": "2026-11-20",
+    "irish-001": "2026-11-20",
+    "irish-002": "2026-11-20",
+    "irish-003": "2026-11-20",
+    "music-001": "2026-11-20",
+    "music-002": "2026-11-20",
+    "music-003": "2026-11-20"
+  },
+  "news": {
+    "fadf6de08845d96029c8c785797a12d488e9e40ff94778e18e3f035b009faa73": "2026-11-20",
+    "adb73d57dcd8285e3965541e35c09e0a8db0d78790f371091d5325c381623577": "2026-11-20",
+    "5c71f0ebd4c2420a0fd4a58c9619da7b1771c72ea17abc4d5722f4fa20cd36a4": "2026-11-20",
+    "c35d20a91cab27bb3249a0e5aa51473480d783387ccf1697be886902b7824230": "2026-11-20",
+    "dcf91a478ab22f4c28e44fcadccb10bdec0a7c150a4909841d573f3d866cb73f": "2026-11-20"
+  },
+  "editions": {
+    "2026-W47": {
+      "date": "2026-11-20",
+      "status": "sent"
+    }
+  }
 }
