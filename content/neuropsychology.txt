@@ -1,0 +1,329 @@
+ID: neuropsychology-001
+TITLE: Words that will not come
+QUESTION: After a left middle cerebral artery stroke affecting the inferior frontal language network, a right-handed teacher speaks in short, effortful phrases. Simple comprehension is relatively preserved, and the right arm is weak. Which syndrome and network fit best?
+A: Wernicke-type aphasia; posterior temporal language network
+B: Hemispatial neglect; right attention network
+C: Broca-type aphasia; dominant frontal language network
+ANSWER: C
+EXPLANATION: Effortful, agrammatic language with relatively preserved simple comprehension suggests a nonfluent aphasia. Broca-type presentations often involve a wider frontal network than one small cortical area.
+EXAMPLE: Compare: fluent speech with poor comprehension points towards a posterior language-network syndrome. Try describing the contrast in one sentence.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-002
+TITLE: Fluent but hard to follow
+QUESTION: Following a left posterior temporal stroke, a patient speaks easily but uses invented words and does not understand simple spoken instructions. Hearing is intact. Which pairing is most likely?
+A: Wernicke-type aphasia; dominant posterior temporal language network
+B: Cerebellar ataxia; cerebellar hemisphere
+C: Broca-type aphasia; dominant inferior frontal network
+ANSWER: A
+EXPLANATION: Fluency does not guarantee meaningful language. Impaired comprehension plus fluent, disorganised speech fits a Wernicke-type pattern, with variable involvement of nearby language regions.
+EXAMPLE: A person says a long sentence but cannot follow 'close your eyes': test language comprehension rather than assuming a hearing problem.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-003
+TITLE: Half a plate
+QUESTION: After a right parietal stroke, a patient eats food only from the right half of the plate and ignores people on the left. Basic visual fields are intact on examination. Which pairing fits?
+A: Left homonymous hemianopia; right primary visual cortex
+B: Broca-type aphasia; left inferior frontal network
+C: Left hemispatial neglect; right frontoparietal attention network
+ANSWER: C
+EXPLANATION: Neglect is impaired attention to contralesional space, not simply loss of vision. Right parietal and connected attention networks are commonly involved.
+EXAMPLE: A clock drawing with all numbers crowded onto the right can suggest neglect. Contrast it with a visual-field defect, which needs separate testing.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-004
+TITLE: The repetition gap
+QUESTION: A patient with a small dominant temporoparietal stroke speaks fairly fluently and understands conversation, but cannot accurately repeat even short unfamiliar phrases. Which pairing is most likely?
+A: Conduction aphasia; dorsal language pathways
+B: Visual agnosia; occipitotemporal visual pathways
+C: Global aphasia; extensive dominant language-network injury
+ANSWER: A
+EXPLANATION: Disproportionately impaired repetition with relatively preserved fluency and comprehension suggests conduction aphasia. Dorsal perisylvian connections and cortical regions can be involved.
+EXAMPLE: Build a three-column language checklist: fluency, comprehension and repetition. Conduction aphasia has its biggest weakness in the third column.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-005
+TITLE: An island of repetition
+QUESTION: Following a left frontal watershed infarct that spares the core perisylvian language network, spontaneous speech is sparse, comprehension is relatively good, and repetition is preserved. Which pairing fits best?
+A: Wernicke-type aphasia; posterior temporal regions
+B: Conduction aphasia; dorsal language connections
+C: Transcortical motor aphasia; frontal regions around the language network
+ANSWER: C
+EXPLANATION: Preserved repetition distinguishes this nonfluent pattern from many Broca-type presentations. Lesions can isolate otherwise functioning language circuitry from initiation systems.
+EXAMPLE: Compare two nonfluent speakers: if repetition is strikingly good in one, consider a transcortical pattern in the fictional case.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-006
+TITLE: More than word finding
+QUESTION: A large left middle cerebral artery infarct causes very limited speech, poor comprehension and poor repetition. Right-sided weakness is also present. Which pairing is most likely?
+A: Prosopagnosia; right ventral visual network
+B: Anomic aphasia; isolated naming difficulty
+C: Global aphasia; extensive dominant perisylvian network injury
+ANSWER: C
+EXPLANATION: Global aphasia affects expression and comprehension across several language tasks, usually reflecting widespread dominant language-network injury.
+EXAMPLE: Compare: naming difficulty alone with otherwise fluent, comprehensible speech would be a much milder anomic pattern.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-007
+TITLE: New days that disappear
+QUESTION: After bilateral medial temporal injury from encephalitis, a patient repeatedly forgets conversations held minutes earlier, although digit span and old motor skills remain relatively good. Which pairing fits?
+A: Hemispatial neglect; right parietal attention systems
+B: Dysarthria; motor speech pathways
+C: Anterograde declarative amnesia; hippocampal memory systems
+ANSWER: C
+EXPLANATION: Bilateral medial temporal damage can severely disrupt new declarative learning while sparing aspects of immediate memory and procedural learning.
+EXAMPLE: Remembering how to ride a bicycle but forgetting meeting the instructor illustrates different memory systems.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-008
+TITLE: A familiar face becomes unfamiliar
+QUESTION: After a right occipitotemporal infarct, a patient cannot recognise familiar people by face, but identifies them by voice and can describe facial features. Which pairing fits best?
+A: Prosopagnosia; ventral occipitotemporal face-processing network
+B: Ideomotor apraxia; parietofrontal action network
+C: Auditory agnosia; temporal auditory network
+ANSWER: A
+EXPLANATION: A selective face-recognition difficulty despite adequate basic vision suggests prosopagnosia. Right-sided or bilateral ventral visual-network damage may be involved.
+EXAMPLE: Recognising a friend by their voice while failing to recognise their face helps distinguish a face-processing problem from a general memory problem.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-009
+TITLE: Seen but not recognised
+QUESTION: Following bilateral ventral occipitotemporal injury, a patient can copy an object drawing but cannot identify the pictured object. Recognition by touch is intact. Which pairing is most likely?
+A: Associative visual agnosia; ventral visual recognition pathways
+B: Primary blindness; bilateral primary visual cortex destruction
+C: Expressive aphasia; dominant frontal language pathways
+ANSWER: A
+EXPLANATION: Preserved copying suggests enough perceptual processing to form a representation, while access to object meaning from vision is impaired. Naming and semantic abilities must also be assessed.
+EXAMPLE: If the same object can be recognised by touch, the difficulty is more specific to visual recognition than to loss of all object knowledge.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-010
+TITLE: The tool-use puzzle
+QUESTION: After a dominant parietal stroke, a patient understands the instruction and has adequate strength but cannot correctly pantomime brushing their teeth. Which pairing fits?
+A: Primary muscle weakness; peripheral motor unit
+B: Ideomotor apraxia; dominant parietofrontal praxis network
+C: Cerebellar ataxia; cerebellar motor coordination network
+ANSWER: B
+EXPLANATION: Apraxia concerns learned purposeful actions that cannot be explained simply by weakness, sensory loss or misunderstanding. Praxis relies on a distributed network.
+EXAMPLE: Ask for a familiar gesture, then check comprehension and strength. Those control checks matter before interpreting a gesture error.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-011
+TITLE: Four clues together
+QUESTION: A patient with a left angular-gyrus-region infarct has difficulty calculating, writing, identifying fingers and distinguishing left from right. Which pairing is most likely?
+A: Korsakoff syndrome; diencephalic memory circuits
+B: Balint syndrome; bilateral parieto-occipital regions
+C: Gerstmann syndrome; dominant inferior parietal region
+ANSWER: C
+EXPLANATION: The classic Gerstmann cluster is acalculia, agraphia, finger agnosia and left-right disorientation. The full cluster is uncommon and localisation is not perfectly specific.
+EXAMPLE: Mnemonic practice: name the four features without looking, then link them to the dominant inferior parietal region.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-012
+TITLE: A changed social filter
+QUESTION: After orbitofrontal contusions in a road collision, a previously considerate person makes tactless remarks and risky choices despite intact basic language. Which pairing fits best?
+A: Primary visual loss; occipital cortex
+B: Disinhibition; orbitofrontal and ventromedial prefrontal networks
+C: Wernicke-type aphasia; posterior temporal cortex
+ANSWER: B
+EXPLANATION: Orbitofrontal and ventromedial networks contribute to evaluating outcomes and regulating social behaviour. Injury can change judgement without producing a major language deficit.
+EXAMPLE: Compare this with a planning problem: poor social restraint and poor sequencing can reflect different, overlapping frontal systems.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-013
+TITLE: Losing the plan
+QUESTION: Following dorsolateral frontal traumatic injury, a patient repeatedly loses track of a multistep task and keeps applying a rule after it stops working. Which pairing fits?
+A: Prosopagnosia; ventral temporal networks
+B: Dysexecutive syndrome; dorsolateral prefrontal networks
+C: Pure word deafness; auditory language networks
+ANSWER: B
+EXPLANATION: Working memory, planning and flexible rule switching depend partly on dorsolateral prefrontal connections. Executive dysfunction is broader than low general intelligence.
+EXAMPLE: Sorting cards by colour, then switching to shape, tests flexibility. Repeating the old rule is called perseveration.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-014
+TITLE: The missing visual world
+QUESTION: An infarct confined to the right primary visual cortex produces loss of the left half of the visual field in both eyes. The patient notices the problem. Which pairing fits best?
+A: Left homonymous hemianopia; right occipital visual cortex
+B: Left neglect; right attention network with intact fields
+C: Monocular blindness; left optic nerve
+ANSWER: A
+EXPLANATION: Post-chiasmal visual injury can cause a contralateral homonymous field defect. Awareness and field testing help distinguish this from neglect, although both may coexist.
+EXAMPLE: Cover one eye and then the other: the same half-field deficit in both eyes suggests a lesion behind the optic chiasm.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-015
+TITLE: Sight lost, pupils spared
+QUESTION: After bilateral occipital infarcts, a patient reports no conscious vision despite preserved pupillary light reflexes and normal ocular structures. Which pairing is most likely?
+A: Optic neuritis; one optic nerve
+B: Prosopagnosia; selective face-processing injury
+C: Cortical blindness; bilateral primary visual cortex injury
+ANSWER: C
+EXPLANATION: Pupillary light responses use subcortical pathways and can survive loss of visual cortex function. The pattern points beyond the eyes to bilateral cortical injury.
+EXAMPLE: The pupil reflex and conscious seeing are different functions. List one structure that contributes to each pathway.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-016
+TITLE: The scene will not come together
+QUESTION: After bilateral parieto-occipital injury, a patient sees individual objects but cannot take in a whole scene, reaches inaccurately under visual guidance and struggles to shift gaze voluntarily. Which pairing fits?
+A: Gerstmann syndrome; dominant inferior parietal region
+B: Broca-type aphasia; dominant frontal network
+C: Balint syndrome; bilateral dorsal visual networks
+ANSWER: C
+EXPLANATION: The classic triad is simultanagnosia, optic ataxia and ocular apraxia. It reflects impaired visuospatial integration, rather than a simple acuity problem.
+EXAMPLE: A patient may identify one tree but struggle with the whole forest. That illustrates the scene-integration component, simultanagnosia.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-017
+TITLE: Tremor near the target
+QUESTION: After a right cerebellar stroke, a patient overshoots with the right hand on finger-to-nose testing and develops tremor as the finger approaches the target. Which pairing fits?
+A: Right-sided dysmetria and intention tremor; right cerebellar circuitry
+B: Left neglect; right parietal attention network
+C: Broca-type aphasia; left frontal language network
+ANSWER: A
+EXPLANATION: Cerebellar hemisphere lesions often impair coordination on the same side of the body. Dysmetria is inaccurate movement range; intention tremor increases near a target.
+EXAMPLE: Contrast this with a resting tremor: here the movement becomes less accurate as the hand approaches the target.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-018
+TITLE: The phantom smell
+QUESTION: A person has recurrent brief stereotyped episodes of an unusual smell, a rising stomach sensation and impaired awareness. Video-EEG localises seizures to the right mesial temporal region. Which pairing fits best?
+A: Focal temporal seizures; mesial temporal networks
+B: A persistent global aphasia; dominant perisylvian network
+C: Primary visual agnosia; occipitotemporal networks
+ANSWER: A
+EXPLANATION: Brief stereotyped auras with impaired awareness are compatible with temporal seizures. Symptoms alone do not reliably establish side; the EEG supplies that information here.
+EXAMPLE: Separate the questions: what suggests a seizure, and what establishes the side? In this case, stereotyped episodes suggest the first; video-EEG helps with the second.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-019
+TITLE: Brief spells at school
+QUESTION: A child has frequent seconds-long staring spells with abrupt recovery. EEG shows generalised 3-Hz spike-and-wave discharges. Which pairing is most likely?
+A: A focal motor seizure; one primary motor area
+B: A focal occipital stroke; one visual cortex
+C: Typical absence seizures; distributed thalamocortical networks
+ANSWER: C
+EXPLANATION: Typical absence seizures are generalised network events. They should not be reduced to injury in a single cortical patch.
+EXAMPLE: A useful contrast: prolonged confusion after an event is less typical of a brief typical absence spell.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-020
+TITLE: One arm begins to jerk
+QUESTION: A conscious patient has rhythmic jerking that starts in the left fingers and spreads up the left arm. EEG supports a right frontal focus. Which pairing fits?
+A: Wernicke-type aphasia; dominant temporal network
+B: Focal motor seizure; right motor cortex network
+C: Left-sided neglect; right parietal attention network
+ANSWER: B
+EXPLANATION: Motor cortex is organised somatotopically. A seizure spreading through adjacent representations can produce a Jacksonian march on the opposite side.
+EXAMPLE: Sketch a simple hand-arm-face motor map. Spreading activity can produce symptoms that follow neighbouring body representations.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-021
+TITLE: Slow movement and a resting tremor
+QUESTION: A patient develops gradually progressive bradykinesia, rigidity and a resting tremor. Imaging and specialist assessment support idiopathic Parkinson disease. Which system is centrally implicated?
+A: Nigrostriatal dopamine pathway and basal ganglia circuits
+B: Primary occipital visual cortex alone
+C: The dominant arcuate fasciculus alone
+ANSWER: A
+EXPLANATION: Loss of substantia nigra pars compacta dopamine neurons disrupts striatal motor circuits. Parkinson disease also has nonmotor features and is not diagnosed from one sign alone.
+EXAMPLE: Compare resting tremor with cerebellar intention tremor: the context of the tremor helps distinguish motor syndromes.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-022
+TITLE: The deficit that is denied
+QUESTION: After a right hemispheric stroke, a patient has clear left-sided paralysis but insists the left arm moves normally. Which pairing fits best?
+A: Conduction aphasia; left dorsal language pathways
+B: Anosognosia for hemiplegia; right hemispheric awareness networks
+C: Anterograde amnesia; bilateral hippocampi
+ANSWER: B
+EXPLANATION: Anosognosia is impaired awareness of a deficit. In hemiplegia it is commonly associated with right hemispheric injury, but no single area explains all cases.
+EXAMPLE: Distinguish inability to acknowledge a neurological deficit from ordinary disagreement about a test result; assessment requires several checks.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-023
+TITLE: Reading one letter at a time
+QUESTION: After a left occipital infarct involving the splenium, a literate patient cannot read words normally but can still write a sentence. Which pairing is most likely?
+A: Global aphasia; extensive dominant language injury
+B: Alexia without agraphia; left visual-language disconnection
+C: Ideomotor apraxia; parietofrontal praxis dysfunction
+ANSWER: B
+EXPLANATION: The classic pattern disconnects visual information from dominant language systems while preserving writing mechanisms. A right homonymous field defect may accompany it.
+EXAMPLE: Ask the patient to write a sentence and then read it. The striking dissociation is the teaching point.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-024
+TITLE: Words without sound meaning
+QUESTION: After bilateral superior temporal injury, a patient hears sounds but cannot understand spoken words. Reading and spontaneous speech are relatively preserved. Which pairing fits?
+A: Broca-type aphasia; frontal speech-language network
+B: Cortical blindness; primary visual networks
+C: Auditory verbal agnosia; auditory-language processing networks
+ANSWER: C
+EXPLANATION: Auditory verbal agnosia is a disproportionate difficulty recognising speech sounds despite preserved peripheral hearing. Auditory and language testing are both needed.
+EXAMPLE: Understanding a written instruction but not the same spoken instruction suggests a modality-specific processing problem.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-025
+TITLE: Hands receive different instructions
+QUESTION: After a callosotomy, an object felt only with the left hand cannot be named aloud, although the right hemisphere can guide the left hand to match it. Left-hemisphere language dominance is established. What explains this?
+A: Interhemispheric disconnection; corpus callosum
+B: Bilateral primary visual loss; occipital cortex
+C: Primary weakness; right peripheral nerves
+ANSWER: A
+EXPLANATION: Left-hand somatosensory information initially reaches the right hemisphere. Reduced transfer to dominant left language areas can prevent verbal naming while nonverbal matching survives.
+EXAMPLE: Compare naming with matching: successful nonverbal recognition shows that failure to name need not mean failure to recognise.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-026
+TITLE: False familiarity after injury
+QUESTION: After traumatic injury involving right frontal monitoring networks, a patient repeatedly accepts plausible but incorrect explanations for memory gaps. Which deficit is a likely contributor?
+A: Impaired source monitoring and executive checking
+B: Selective loss of colour perception
+C: Isolated peripheral hearing loss
+ANSWER: A
+EXPLANATION: Frontal monitoring difficulties can reduce checking of a memory's origin and plausibility. Confabulation is not necessarily deliberate deception and can have several mechanisms.
+EXAMPLE: Remembering a story but confusing whether you experienced it or heard it illustrates a source-memory error.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-027
+TITLE: Emotion in the voice
+QUESTION: After a right hemispheric stroke, a patient understands the words in a sentence but struggles to recognise whether the speaker sounds angry or happy. Which pairing fits best?
+A: Gerstmann syndrome; dominant inferior parietal region
+B: Receptive affective aprosodia; right temporal-frontal networks
+C: Alexia; left occipital-language disconnection
+ANSWER: B
+EXPLANATION: Affective prosody conveys emotion through intonation and rhythm. Right hemispheric networks contribute to recognising it, alongside wider language and emotional systems.
+EXAMPLE: Say 'That was helpful' warmly and sarcastically. The words stay the same while prosody changes the intended meaning.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-028
+TITLE: The rapid decline in attention
+QUESTION: Following a traumatic brain injury, a patient becomes easily distracted, struggles to sustain attention and tires rapidly during testing. Imaging shows diffuse axonal injury. What is the best account?
+A: A perfectly localised isolated language syndrome
+B: Distributed network disruption; slowed processing and attentional dysfunction
+C: Proof of permanent loss of all memory systems
+ANSWER: B
+EXPLANATION: Diffuse axonal injury can disrupt connections across multiple networks. A broad profile is more plausible than one sharply localised cortical syndrome.
+EXAMPLE: Compare focal damage with a network interruption: the latter may affect processing speed across several different tasks.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-029
+TITLE: Starting is the hardest part
+QUESTION: After bilateral medial frontal injury involving anterior cingulate networks, a patient rarely initiates speech or action despite adequate basic motor ability. Which pairing fits?
+A: Prosopagnosia; ventral visual pathways
+B: Abulia; medial frontal motivation-initiation networks
+C: Pure word deafness; auditory-language networks
+ANSWER: B
+EXPLANATION: Abulia is reduced initiation and motivation. It differs from weakness and requires careful differentiation from depression, impaired consciousness and language deficits.
+EXAMPLE: A person may perform an action when prompted but almost never begin it spontaneously. That contrast is useful when examining initiation.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuropsychology-030
+TITLE: Colours without colour
+QUESTION: After bilateral ventral occipital injury, a patient describes the visual world as shades of grey despite intact retinal function. Which pairing fits best?
+A: Cerebral achromatopsia; ventral occipital colour-processing networks
+B: Conduction aphasia; dorsal language pathways
+C: Ideomotor apraxia; parietofrontal praxis networks
+ANSWER: A
+EXPLANATION: Cortical colour-processing injury can impair colour experience despite functioning eyes. Testing must distinguish perceptual loss from difficulty naming colours.
+EXAMPLE: If a person cannot match colours even without naming them, the problem goes beyond simply forgetting colour words.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience

@@ -1,0 +1,329 @@
+ID: psychotherapy-001
+TITLE: CBT's central link
+QUESTION: Which relationship is central to a standard CBT formulation?
+A: Thoughts must always be positive to be useful
+B: Thoughts, emotions and behaviours influence one another in context
+C: Only childhood dreams influence present behaviour
+ANSWER: B
+EXPLANATION: CBT examines patterns that maintain distress and tests more helpful alternatives. The aim is balanced and workable thinking, not forced positivity.
+EXAMPLE: Situation: no reply to a message. Thought: 'They dislike me.' Alternative: 'They may be busy.' Behaviour: wait rather than send repeated messages.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-002
+TITLE: Where cognitive therapy began
+QUESTION: Who is particularly associated with developing cognitive therapy in the 1960s?
+A: Aaron T. Beck
+B: Marsha Linehan as the founder of psychoanalysis
+C: Ivan Pavlov as its sole founder in the 1860s
+ANSWER: A
+EXPLANATION: Beck developed cognitive therapy, initially through work on depression. Modern CBT also draws on behavioural traditions and other contributors.
+EXAMPLE: Keep the historical pairings distinct: Beck -> cognitive therapy; Linehan -> DBT; Freud -> psychoanalysis.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-003
+TITLE: DBT's original developer
+QUESTION: Who developed dialectical behaviour therapy with colleagues?
+A: Aaron Beck as its sole developer
+B: Marsha Linehan
+C: Carl Jung
+ANSWER: B
+EXPLANATION: DBT grew from behavioural work with people experiencing severe emotion dysregulation and suicidal behaviour, combining acceptance and change strategies.
+EXAMPLE: Remember the balance with a fictional phrase: 'Your feelings make sense, and we can practise a different response.'
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-004
+TITLE: The dialectic
+QUESTION: Which statement best expresses the acceptance-change balance in DBT?
+A: Acceptance means no change is ever needed
+B: I can accept my current experience while working to change harmful patterns
+C: Change requires rejecting every current feeling
+ANSWER: B
+EXPLANATION: Dialectical thinking makes room for apparently opposing truths. Validation does not mean endorsing every behaviour.
+EXAMPLE: A therapist can validate disappointment while helping a client choose a more effective way to communicate it.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-005
+TITLE: The four skills groups
+QUESTION: Which list gives the standard DBT skills modules?
+A: Dream analysis, hypnosis, free association and phrenology
+B: Only relaxation and positive affirmations
+C: Mindfulness, distress tolerance, emotion regulation and interpersonal effectiveness
+ANSWER: C
+EXPLANATION: These four modules teach practical skills, while comprehensive DBT includes additional treatment components beyond a skills class.
+EXAMPLE: Sort an example: noticing an urge without immediately acting fits mindfulness; making a clear request fits interpersonal effectiveness.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-006
+TITLE: An automatic thought
+QUESTION: In CBT, what is an automatic thought?
+A: A reflex that never has any verbal or visual content
+B: A guaranteed objective fact
+C: A quickly arising interpretation of a situation
+ANSWER: C
+EXPLANATION: Automatic thoughts can be words or images and are often taken for granted. Identifying one allows it to be examined.
+EXAMPLE: 'I stumbled over a word, so everyone thinks I am incompetent' is an interpretation to examine, not a conclusion to accept automatically.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-007
+TITLE: Testing a prediction
+QUESTION: A client predicts that asking a question will lead to ridicule. With a therapist, they plan a manageable test and compare the result with the prediction. What is this?
+A: Classical dream interpretation
+B: A behavioural experiment
+C: Free association
+ANSWER: B
+EXPLANATION: A behavioural experiment gathers evidence about a specific prediction. It is more than simply telling the client to stop worrying.
+EXAMPLE: Prediction: 'Everyone will laugh.' Observable outcome: how people actually respond to one ordinary question.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-008
+TITLE: Getting moving again
+QUESTION: Which example best illustrates behavioural activation?
+A: Waiting until motivation is perfect before doing anything
+B: Scheduling a small meaningful activity and reviewing its effect
+C: Analysing every dream symbol before leaving the house
+ANSWER: B
+EXPLANATION: Behavioural activation addresses withdrawal and reduced reinforcement through planned engagement. Activities are selected collaboratively and adjusted to circumstances.
+EXAMPLE: A small plan might be a ten-minute walk on Tuesday, followed by a brief note about mood and sense of achievement.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-009
+TITLE: Looking for evidence
+QUESTION: Which question best represents collaborative cognitive reappraisal?
+A: How can we prove you must feel happy?
+B: What evidence supports this thought, and what evidence complicates it?
+C: Why should you never question your first impression?
+ANSWER: B
+EXPLANATION: Cognitive reappraisal examines accuracy and usefulness. It does not assume distress is irrational or that real difficulties can be wished away.
+EXAMPLE: 'I failed one exam' is specific evidence. 'I will fail everything forever' is a much broader prediction.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-010
+TITLE: Socratic curiosity
+QUESTION: What is guided discovery in CBT?
+A: Telling a client exactly what to believe
+B: Interpreting every statement through a fixed dream dictionary
+C: Using collaborative questions to help someone examine meanings and alternatives
+ANSWER: C
+EXPLANATION: Guided discovery supports exploration rather than a debate the therapist must win. Questions should be responsive to the person's experience.
+EXAMPLE: 'What would you say to a friend in the same position?' can help someone generate a different perspective.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-011
+TITLE: The all-or-nothing trap
+QUESTION: Which statement is an example of all-or-nothing thinking?
+A: If I do not get full marks, the whole effort was worthless
+B: I missed two questions and can review those topics
+C: This task is difficult and I can ask for help
+ANSWER: A
+EXPLANATION: All-or-nothing thinking reduces a continuum to two extremes. Identifying it can open up more nuanced evaluation.
+EXAMPLE: A score of 12 out of 15 includes successful learning and areas to practise; it does not need to be labelled total success or total failure.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-012
+TITLE: Exposure's purpose
+QUESTION: Which is the best general description of therapeutic exposure?
+A: Planned contact with feared but sufficiently safe situations to support new learning
+B: Forcing someone into genuine danger
+C: A guarantee that anxiety vanishes immediately
+ANSWER: A
+EXPLANATION: Exposure is collaborative and tailored to a formulation. Learning can occur even when some anxiety remains; safety and consent matter.
+EXAMPLE: In a fictional graded plan, someone might begin by looking at a lift before later practising a short ride with agreed support.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-013
+TITLE: ERP's letters
+QUESTION: In the treatment of OCD, what does ERP stand for?
+A: Exposure and response prevention
+B: External reinforcement programming
+C: Emotion replacement protocol
+ANSWER: A
+EXPLANATION: ERP combines exposure to relevant triggers with reducing compulsive responses. It is a specific clinical method that should be tailored professionally.
+EXAMPLE: A conceptual example is encountering uncertainty while practising not performing the usual ritual; it is not a request to improvise treatment.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-014
+TITLE: Negative reinforcement
+QUESTION: A behaviour increases because it removes an unpleasant experience. What is the learning term?
+A: Extinction by definition
+B: Negative reinforcement
+C: Positive punishment
+ANSWER: B
+EXPLANATION: Negative means something is removed; reinforcement means the behaviour becomes more likely. It does not mean the behaviour is morally bad.
+EXAMPLE: Fastening a seat belt stops an annoying alarm, making fastening more likely. That illustrates negative reinforcement.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-015
+TITLE: Positive reinforcement
+QUESTION: A behaviour becomes more frequent after a rewarding consequence is added. What is this?
+A: Repression
+B: Positive reinforcement
+C: Negative punishment
+ANSWER: B
+EXPLANATION: Positive means something is added, and reinforcement means behaviour increases. Whether a consequence reinforces must be judged by its effect.
+EXAMPLE: If praise follows practice and practice becomes more frequent, the praise has functioned as a reinforcer in that situation.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-016
+TITLE: Psychoanalysis and its origins
+QUESTION: Which historical figure is most closely associated with the founding of psychoanalysis?
+A: Sigmund Freud
+B: Carl Rogers as the founder of psychoanalysis
+C: Marsha Linehan
+ANSWER: A
+EXPLANATION: Freud developed psychoanalysis in the late nineteenth and early twentieth centuries. Later psychodynamic schools revised and expanded many of its ideas.
+EXAMPLE: Do not merge all therapies into one lineage: person-centred therapy is associated with Rogers, while psychoanalysis is historically linked to Freud.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-017
+TITLE: Free association
+QUESTION: What does free association ask a person to do?
+A: Choose only words with positive meanings
+B: Say what comes to mind with as little deliberate censorship as possible
+C: Complete a standard multiple-choice intelligence test
+ANSWER: B
+EXPLANATION: Free association is associated with psychoanalytic methods for exploring patterns, meanings and unconscious processes.
+EXAMPLE: A conversation may move from a recent disagreement to an earlier memory; the therapist explores possible connections rather than using a fixed answer key.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-018
+TITLE: Transference
+QUESTION: In psychodynamic terminology, what is transference?
+A: A literal transfer of memories between two brains
+B: A therapist prescribing a different medication
+C: Patterns of feeling and expectation from other relationships emerging in the therapeutic relationship
+ANSWER: C
+EXPLANATION: Transference refers to how relational expectations can shape experience with the therapist. Its interpretation depends on the clinical context.
+EXAMPLE: A client expects a therapist to be critical in the same way an earlier authority figure was; that expectation can become material for exploration.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-019
+TITLE: Countertransference
+QUESTION: What does countertransference broadly refer to in contemporary psychodynamic usage?
+A: Only the client's dreams
+B: The therapist's emotional responses and relational reactions to the client
+C: The cancellation policy for appointments
+ANSWER: B
+EXPLANATION: The term has evolved and can include responses informed by both the therapist's history and the therapeutic interaction. Reflection and supervision help examine these responses.
+EXAMPLE: A therapist noticing an unusually strong urge to rescue a client might reflect on that reaction in supervision.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-020
+TITLE: Defence mechanisms
+QUESTION: Which description best fits a psychological defence mechanism?
+A: A process that helps manage distressing feelings or conflicts, often outside awareness
+B: A named brain artery
+C: A deliberate lie in every case
+ANSWER: A
+EXPLANATION: Defences are theoretical descriptions of ways people manage internal conflict and emotion. They are not automatically intentional or pathological.
+EXAMPLE: Intellectualisation might involve discussing an upsetting event in abstract terms while keeping its emotional impact at a distance.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-021
+TITLE: Person-centred therapy
+QUESTION: Which trio is especially associated with Carl Rogers?
+A: Empathy, congruence and unconditional positive regard
+B: Punishment, diagnosis and dream decoding
+C: Exposure, medication titration and surgery
+ANSWER: A
+EXPLANATION: Rogers emphasised the quality of the therapeutic relationship and the client's capacity for growth. These conditions are central to the person-centred tradition.
+EXAMPLE: Congruence concerns the therapist being genuine; empathy concerns understanding the client's experience rather than assuming it matches one's own.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-022
+TITLE: REBT's origin
+QUESTION: Who is most closely associated with rational emotive behaviour therapy?
+A: Albert Ellis
+B: Sigmund Freud as its sole developer
+C: B. F. Skinner as its sole developer
+ANSWER: A
+EXPLANATION: Ellis developed REBT, a cognitive-behavioural approach that examines beliefs and their consequences. It is related to, but not identical with, Beck's cognitive therapy.
+EXAMPLE: Historical pairing practice: Ellis -> REBT. Beck -> cognitive therapy. Both contributed to the broader cognitive-behavioural family.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-023
+TITLE: The ABC framework
+QUESTION: In a common REBT model, what do A, B and C stand for?
+A: Activating event, beliefs and consequences
+B: Attention, brainstem and cortex
+C: Acceptance, boredom and certainty
+ANSWER: A
+EXPLANATION: The model distinguishes an event from beliefs about it and emotional or behavioural consequences. The framework does not imply that circumstances are irrelevant.
+EXAMPLE: A: a delayed reply. B: 'They must always answer immediately.' C: anger and repeated checking. Separating these makes the formulation clearer.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-024
+TITLE: ACT's flexibility
+QUESTION: Which goal is central to acceptance and commitment therapy?
+A: Eliminating every unwanted thought before acting
+B: Proving that all thoughts are literally true
+C: Psychological flexibility and action guided by values
+ANSWER: C
+EXPLANATION: ACT focuses on how people relate to internal experiences and on meaningful action. Acceptance does not mean approving of harmful circumstances.
+EXAMPLE: A person can notice anxiety and still take a small step towards a valued activity, rather than waiting for complete emotional comfort.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-025
+TITLE: Defusion
+QUESTION: Which phrase best illustrates cognitive defusion in ACT?
+A: I must prove I will never fail at anything
+B: I am noticing the thought that I will fail
+C: This thought is a command I must obey
+ANSWER: B
+EXPLANATION: Defusion changes the relationship to a thought rather than automatically arguing with its content. A thought can be noticed as an event in the mind.
+EXAMPLE: Compare 'I am useless' with 'I am having the thought that I am useless.' The second wording creates some psychological distance.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-026
+TITLE: Values and goals
+QUESTION: Which distinction fits ACT terminology?
+A: A value is an ongoing direction; a goal is a specific achievable outcome
+B: A value is always completed once and never revisited
+C: Goals are feelings and values are test scores
+ANSWER: A
+EXPLANATION: Values guide patterns of action over time, while goals can mark concrete steps. The same goal can serve different values for different people.
+EXAMPLE: Value: learning. Goal: practise three music questions this week. Completing the goal does not finish the value of learning.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-027
+TITLE: Motivational interviewing
+QUESTION: Which stance is characteristic of motivational interviewing?
+A: Assuming the therapist's reasons must replace the person's reasons
+B: Collaborative exploration of ambivalence and the person's own reasons for change
+C: Confrontation until the person agrees with the therapist
+ANSWER: B
+EXPLANATION: Motivational interviewing emphasises partnership, acceptance, compassion and evocation. It is not a technique for manipulating consent.
+EXAMPLE: 'What do you like about your current pattern, and what concerns you about it?' makes room for both sides of ambivalence.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-028
+TITLE: OARS
+QUESTION: Which set describes the common motivational interviewing acronym OARS?
+A: Open questions, affirmations, reflective listening and summaries
+B: Observation, avoidance, repression and sedation
+C: Objectives, anger, rewards and silence
+ANSWER: A
+EXPLANATION: OARS names core conversational skills. Using them well requires attention to the person's meaning and autonomy.
+EXAMPLE: An open question invites elaboration: 'What would improving sleep make possible for you?' differs from a yes/no question.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-029
+TITLE: Interpersonal psychotherapy
+QUESTION: Which area is a recognised focus in interpersonal psychotherapy?
+A: Only training visual reaction speed
+B: Only interpretation of ancient symbols
+C: Current interpersonal difficulties such as role transitions or disputes
+ANSWER: C
+EXPLANATION: IPT links symptoms with interpersonal context and commonly works on grief, role disputes, role transitions and interpersonal difficulties.
+EXAMPLE: Moving to a new city can change roles and support networks. An IPT formulation may explore those interpersonal changes.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+---
+ID: psychotherapy-030
+TITLE: The alliance
+QUESTION: What does the therapeutic alliance commonly include?
+A: Agreement that the therapist must always be right
+B: Friendship outside therapy as a requirement
+C: Agreement on goals and tasks, plus a collaborative bond
+ANSWER: C
+EXPLANATION: The alliance concerns working together within a professional relationship. Goals, tasks and bond offer a useful framework for discussing it.
+EXAMPLE: If homework feels irrelevant, discussing the task and its purpose can repair collaboration rather than assuming the client lacks motivation.
+SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment

@@ -1,0 +1,329 @@
+ID: neuroscience-001
+TITLE: Dopamine beyond pleasure
+QUESTION: Which description best captures dopamine's roles in the brain?
+A: The sole neurotransmitter used for vision
+B: A chemical that produces only pleasure
+C: Movement, motivation, learning and reward-related signalling
+ANSWER: C
+EXPLANATION: Dopamine has several pathways and receptor types. Its functions cannot be reduced to a single emotion.
+EXAMPLE: A reward arriving unexpectedly can change dopamine-cell firing in some circuits. Separately, nigrostriatal dopamine supports movement.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-002
+TITLE: Serotonin without the slogan
+QUESTION: Which statement is most accurate about serotonin?
+A: It operates only in the spinal cord
+B: It is a direct happiness meter
+C: It contributes to several processes, including mood, sleep and appetite
+ANSWER: C
+EXPLANATION: Serotonin acts through multiple receptor types in different circuits. A simple 'more serotonin means more happiness' rule is misleading.
+EXAMPLE: Try listing three systems that use serotonin. Mood regulation, sleep-related processes and appetite provide a starting set.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-003
+TITLE: Oxytocin in context
+QUESTION: Which statement about oxytocin is most accurate?
+A: It is the brain's primary excitatory transmitter
+B: It has reproductive roles and context-dependent effects on social behaviour
+C: It universally makes everyone trust everyone else
+ANSWER: B
+EXPLANATION: Oxytocin participates in childbirth and milk ejection and influences some social processes. Social effects depend on the person, task and context.
+EXAMPLE: Replace the label 'love hormone' with a fuller sentence: reproductive physiology plus context-sensitive social signalling.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-004
+TITLE: The inhibitory workhorse
+QUESTION: Which neurotransmitter mediates much of the fast inhibitory signalling in the adult brain?
+A: GABA
+B: Glutamate
+C: Dopamine
+ANSWER: A
+EXPLANATION: GABA is a major inhibitory transmitter in the mature central nervous system. Effects depend on receptor type and ionic conditions.
+EXAMPLE: Excitation and inhibition work together: inhibiting one neuron can even disinhibit a downstream neuron.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-005
+TITLE: The excitatory workhorse
+QUESTION: Which transmitter mediates much of the fast excitatory signalling in the central nervous system?
+A: Glutamate
+B: Oxytocin
+C: Melatonin
+ANSWER: A
+EXPLANATION: Glutamate acts at several receptor families, including AMPA and NMDA receptors, and is central to excitatory transmission.
+EXAMPLE: AMPA and NMDA are receptor names, while glutamate is a transmitter that can activate them.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-006
+TITLE: Acetylcholine has more than one job
+QUESTION: Which pairing is most accurate?
+A: Only visual colour perception
+B: Only production of cerebrospinal fluid
+C: Neuromuscular transmission and contributions to attention and memory
+ANSWER: C
+EXPLANATION: Acetylcholine acts at skeletal neuromuscular junctions and in central circuits involved in cognition and arousal.
+EXAMPLE: The same transmitter can work in the peripheral nervous system and in brain circuits; location changes its role.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-007
+TITLE: Alertness and noradrenaline
+QUESTION: Which brainstem nucleus is a major source of noradrenaline projections to the brain?
+A: Locus coeruleus
+B: Hippocampal dentate gyrus
+C: Primary visual cortex
+ANSWER: A
+EXPLANATION: The locus coeruleus projects widely and contributes to arousal, attention and responses to salient events.
+EXAMPLE: Use a pairing card: locus coeruleus -> noradrenaline. Raphe nuclei -> serotonin is another useful pairing.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-008
+TITLE: The memory distinction
+QUESTION: Which task relies especially on hippocampal systems?
+A: Producing a knee-jerk reflex
+B: Forming a new memory of meeting someone yesterday
+C: Contracting a single muscle fibre at its motor end plate
+ANSWER: B
+EXPLANATION: The hippocampus supports new episodic and relational learning. It is not the storage site for every kind of memory.
+EXAMPLE: Remembering an event and improving at a motor skill can dissociate, showing that memory is not one single system.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-009
+TITLE: Amygdala beyond fear
+QUESTION: Which description is the best fit for amygdala function?
+A: Serving as the sole centre for mathematical calculation
+B: Learning about biologically significant cues and contributing to emotional responses
+C: Generating every emotion on its own
+ANSWER: B
+EXPLANATION: Amygdala circuits contribute to emotional learning and salience, including but not limited to threat processing.
+EXAMPLE: A previously neutral sound can acquire significance through learning. Several connected structures contribute to the response.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-010
+TITLE: Thalamic relay
+QUESTION: Which sensory pathway reaches primary cortex without a first-order thalamic relay before its initial cortical destination?
+A: Vision
+B: Somatosensation
+C: Olfaction
+ANSWER: C
+EXPLANATION: Initial olfactory cortical processing is unusual in bypassing a first-order thalamic relay. Later olfactory processing can still involve thalamic circuits.
+EXAMPLE: Vision uses the lateral geniculate nucleus on a major route to primary visual cortex; olfaction follows a different initial route.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-011
+TITLE: Keeping time inside
+QUESTION: Which hypothalamic structure is a central circadian pacemaker?
+A: Substantia nigra
+B: Suprachiasmatic nucleus
+C: Angular gyrus
+ANSWER: B
+EXPLANATION: The suprachiasmatic nucleus helps coordinate circadian rhythms and receives information related to environmental light.
+EXAMPLE: A regular light-dark cycle can help synchronise the clock. The clock is more than simply a conscious decision to feel sleepy.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-012
+TITLE: Myelin's contribution
+QUESTION: Why does myelin generally increase conduction speed along an axon?
+A: It turns an axon into a blood vessel
+B: It supports rapid saltatory conduction between nodes
+C: It makes every synapse release more dopamine
+ANSWER: B
+EXPLANATION: Myelin alters electrical properties of the axon and supports regeneration of action potentials at nodes of Ranvier.
+EXAMPLE: Picture the nodes as sites where the signal is actively regenerated, not as literal gaps that the signal magically jumps across.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-013
+TITLE: The action potential rule
+QUESTION: Which statement describes the size of an action potential at a given axonal location under comparable conditions?
+A: It becomes twice as tall whenever a stimulus doubles
+B: It is approximately all-or-none once threshold is reached
+C: It is always identical to a postsynaptic potential
+ANSWER: B
+EXPLANATION: Stronger input often changes firing frequency or recruits more neurons rather than simply scaling individual action-potential amplitude.
+EXAMPLE: Compare a stronger sensory stimulus with more frequent spikes, rather than imagining each spike becoming proportionally taller.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-014
+TITLE: What actually crosses?
+QUESTION: At a typical chemical synapse, what crosses the synaptic cleft to influence a postsynaptic cell?
+A: Myelin sheaths
+B: Neurotransmitter molecules
+C: An entire presynaptic axon
+ANSWER: B
+EXPLANATION: Presynaptic vesicles release transmitter, which diffuses across the cleft and binds to receptors. Electrical synapses instead use gap junctions.
+EXAMPLE: Make a four-step sequence: spike arrives -> calcium entry -> transmitter release -> receptor activation.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-015
+TITLE: Changing the connection
+QUESTION: What does long-term potentiation refer to?
+A: A universal deletion of unused memories
+B: A lasting increase in synaptic effectiveness after particular activity patterns
+C: A permanent increase in skull size
+ANSWER: B
+EXPLANATION: LTP is one studied form of synaptic plasticity. It is a candidate mechanism for aspects of learning, not a synonym for all memory.
+EXAMPLE: Learning can strengthen some connections and weaken others. Long-term depression names a different direction of change.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-016
+TITLE: The body map
+QUESTION: What does somatotopic organisation mean?
+A: Every neuron represents the whole body equally
+B: Each memory occupies a separate bone
+C: Neighbouring neural populations represent related parts of the body
+ANSWER: C
+EXPLANATION: Somatosensory and motor cortices contain organised body maps. Representation size reflects processing demands, not just body-part size.
+EXAMPLE: Hands and lips take up disproportionately large cortical territory compared with some larger body parts.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-017
+TITLE: Executive control
+QUESTION: Which function is strongly associated with prefrontal networks?
+A: Acting as the only source of all reflexes
+B: Detecting sound in the cochlea
+C: Maintaining goals and regulating behaviour in context
+ANSWER: C
+EXPLANATION: Prefrontal regions work with other cortical and subcortical areas to support planning, working memory and flexible control.
+EXAMPLE: Remembering a rule while resisting an irrelevant distraction recruits coordinated control processes rather than a single 'willpower spot'.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-018
+TITLE: The cerebellar contribution
+QUESTION: Which description is the best general account of cerebellar involvement?
+A: Only the secretion of digestive enzymes
+B: Coordination, prediction and learning across motor and some nonmotor functions
+C: Only conscious visual recognition of faces
+ANSWER: B
+EXPLANATION: The cerebellum is strongly involved in motor calibration and timing and also participates in cognitive networks.
+EXAMPLE: Gradually adjusting a movement after repeated small errors illustrates calibration and learning.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-019
+TITLE: Who makes CNS myelin?
+QUESTION: Which glial cell forms myelin in the central nervous system?
+A: Oligodendrocyte
+B: Microglial cell
+C: Schwann cell
+ANSWER: A
+EXPLANATION: Oligodendrocytes myelinate central axons; Schwann cells myelinate peripheral axons. Microglia have major immune-surveillance roles.
+EXAMPLE: Build a two-column card: CNS -> oligodendrocyte; PNS -> Schwann cell.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-020
+TITLE: The brain's resident immune cells
+QUESTION: Which cells are central to immune surveillance within the brain?
+A: Skeletal muscle fibres
+B: Microglia
+C: Photoreceptors
+ANSWER: B
+EXPLANATION: Microglia monitor their environment and participate in immune responses and synaptic remodelling. Their roles vary with context.
+EXAMPLE: Do not treat all glia as passive support: different glial classes have active and distinct functions.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-021
+TITLE: What does fMRI measure?
+QUESTION: The commonly used BOLD signal in fMRI most directly reflects what?
+A: Changes related to blood oxygenation and local haemodynamics
+B: The exact content of a person's thoughts
+C: Individual action potentials measured directly
+ANSWER: A
+EXPLANATION: BOLD is an indirect correlate of neural activity and depends on vascular responses. Interpretation requires task design and statistical care.
+EXAMPLE: A brighter statistical map does not by itself establish that a region uniquely causes the mental process being studied.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-022
+TITLE: EEG's strength
+QUESTION: Which is a major strength of scalp EEG?
+A: High temporal resolution for population electrical activity
+B: Perfect localisation of deep brain sources
+C: Direct measurement of every neuron in the brain
+ANSWER: A
+EXPLANATION: EEG detects voltage differences related mainly to synchronised population activity. Its temporal resolution is high, while source localisation is more uncertain.
+EXAMPLE: A millisecond-scale change can be easier to time with EEG than with a haemodynamic measure such as BOLD fMRI.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-023
+TITLE: The autonomic contrast
+QUESTION: Which pairing is broadly correct?
+A: Sympathetic mobilisation and parasympathetic support for rest and digestion
+B: Sympathetic language production and parasympathetic colour vision
+C: Both systems control only voluntary finger movement
+ANSWER: A
+EXPLANATION: The two autonomic branches regulate organs and often have complementary effects, though their relationship is more complex than a universal on/off switch.
+EXAMPLE: Increased heart rate during exertion and recovery afterwards illustrate autonomic regulation across changing demands.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-024
+TITLE: REM is not the only dream stage
+QUESTION: Which statement about dreaming is most accurate?
+A: Dreaming is impossible outside REM sleep
+B: Dreaming can occur in REM and non-REM sleep
+C: Dreaming proves the body is fully awake
+ANSWER: B
+EXPLANATION: Vivid dreaming is often associated with REM, but reports can also follow awakening from non-REM sleep.
+EXAMPLE: Separate a sleep-stage classification from a subjective experience: they overlap without being identical categories.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-025
+TITLE: Working versus long-term memory
+QUESTION: Holding a phone number briefly while entering it is closest to which concept?
+A: Working memory
+B: An automatic spinal reflex
+C: Primary retinal transduction
+ANSWER: A
+EXPLANATION: Working memory maintains and manipulates information over short periods. It interacts with attention and long-term knowledge.
+EXAMPLE: Repeating digits keeps them active; rearranging them mentally adds a manipulation demand.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-026
+TITLE: The corpus callosum
+QUESTION: What is a major function of the corpus callosum?
+A: Pumping cerebrospinal fluid through the ventricles
+B: Converting light into retinal electrical signals
+C: Communication between the cerebral hemispheres
+ANSWER: C
+EXPLANATION: The corpus callosum is a major white-matter commissure connecting the hemispheres. Other interhemispheric pathways also exist.
+EXAMPLE: A disconnection can disrupt information transfer even when a specialised system in each hemisphere still functions.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-027
+TITLE: The basal ganglia
+QUESTION: Which description best fits a major basal ganglia role?
+A: Producing all cerebrospinal fluid
+B: Selection and regulation of actions within cortical-subcortical loops
+C: Replacing every function of the cerebellum
+ANSWER: B
+EXPLANATION: Basal ganglia loops contribute to action selection, movement, learning and motivation. Their roles depend on the connected circuit.
+EXAMPLE: Compare selecting an action with calibrating its precision: basal ganglia and cerebellar circuits contribute differently and interact.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-028
+TITLE: Neurogenesis and restraint
+QUESTION: Which statement about the adult human brain is the most careful?
+A: Most neurons are not routinely replaced; adult neurogenesis remains an active research topic
+B: Learning always requires growing an entirely new brain region
+C: Every neuron is replaced each week
+ANSWER: A
+EXPLANATION: Plasticity includes changes in connections and circuit function. Claims about the extent of adult human neurogenesis require careful interpretation.
+EXAMPLE: Learning a melody can alter how existing circuits operate without requiring weekly replacement of all their neurons.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-029
+TITLE: Correlation and causation
+QUESTION: A brain region is more active during a task. What follows directly?
+A: Its measured activity is associated with the task under those conditions
+B: It is the only region necessary for the task
+C: It must store the entire task as a single memory
+ANSWER: A
+EXPLANATION: An activity association alone does not establish necessity, sufficiency or exclusivity. Lesion and perturbation studies can address different causal questions.
+EXAMPLE: A region responding during reading may support attention rather than reading-specific computations; comparison conditions help distinguish explanations.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-030
+TITLE: Sensory prediction
+QUESTION: Which description best captures a prediction-error signal?
+A: A record of skull shape
+B: A guarantee that the brain predicted correctly
+C: A difference between an expected and observed event
+ANSWER: C
+EXPLANATION: Prediction errors can update internal models in learning and perception. The precise computation depends on the circuit and model.
+EXAMPLE: If you expect a quiet note and hear a loud one, the mismatch provides information for updating the expectation.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience

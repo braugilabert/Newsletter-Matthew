@@ -1,0 +1,13 @@
+.venv/
+.local-packages/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.DS_Store
+.build_content.py
+*.tmp
+
+# Keep docs/ and state/ tracked: Actions needs them between weekly runs.
+# Preview HTML is deliberately tracked so the client can review the design.

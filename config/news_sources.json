@@ -1,0 +1,21 @@
+{
+  "days_back": 7,
+  "max_stories": 5,
+  "require_priority_match": true,
+  "sources": [
+    {"name": "RTÉ — Ireland", "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/", "kind": "Reporting"},
+    {"name": "The Journal", "url": "https://www.thejournal.ie/feed/", "kind": "Reporting / analysis — see article"},
+    {"name": "Irish Examiner — Ireland", "url": "https://www.irishexaminer.com/feed/35-ireland_news.xml", "kind": "Reporting"}
+  ],
+  "priority_terms": {
+    "housing": 5, "homeless": 5, "rent": 4, "tenant": 4,
+    "worker": 4, "union": 4, "strike": 4, "pay deal": 4,
+    "poverty": 4, "inequality": 4, "disability": 4,
+    "health": 3, "hospital": 3, "education": 3, "school": 3,
+    "public service": 4, "cost of living": 4, "social": 2,
+    "climate": 3, "rights": 3, "discrimination": 4,
+    "election": 2, "budget": 3, "dáil": 2, "government": 1,
+    "taoiseach": 1, "data breach": 3, "transport": 3,
+    "asylum": 3, "refugee": 3, "child": 2
+  }
+}

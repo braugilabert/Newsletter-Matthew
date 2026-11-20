@@ -1,0 +1,329 @@
+ID: music-001
+TITLE: One beat at a time
+QUESTION: In 4/4, with the crotchet (quarter note) as one beat, how long is a minim (half note)?
+A: Two beats
+B: Half a beat
+C: Four beats
+ANSWER: A
+EXPLANATION: A minim lasts twice as long as a crotchet. The beat unit matters when translating note values into beats.
+EXAMPLE: Clap: crotchet, crotchet, minim. Count 1, 2, 3-4. The pattern fills one 4/4 bar.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-002
+TITLE: The major-scale recipe
+QUESTION: Which interval pattern builds a major scale from its tonic?
+A: Tone, tone, semitone, tone, tone, tone, semitone
+B: Seven consecutive semitones
+C: Tone, semitone, tone, tone, semitone, tone, tone
+ANSWER: A
+EXPLANATION: The major pattern is W-W-H-W-W-W-H, where W is a whole tone and H is a semitone.
+EXAMPLE: C major: C D E F G A B C. Check the semitones at E-F and B-C.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-003
+TITLE: Build a C major triad
+QUESTION: Which notes form a root-position C major triad?
+A: C F G
+B: C E G
+C: C E-flat G
+ANSWER: B
+EXPLANATION: A major triad contains a root, a major third and a perfect fifth. C-E is a major third; C-G is a perfect fifth.
+EXAMPLE: Play or sing C, E, G separately, then together if possible. Lower E to E-flat to hear the change to minor.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-004
+TITLE: Quavers in a bar
+QUESTION: How many quavers (eighth notes) fill a 4/4 bar containing only quavers?
+A: Six
+B: Eight
+C: Four
+ANSWER: B
+EXPLANATION: Each quaver lasts half a crotchet beat. Four crotchet beats therefore contain eight quavers.
+EXAMPLE: Count 1-and-2-and-3-and-4-and while tapping once on each spoken syllable.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-005
+TITLE: A dot changes duration
+QUESTION: In 4/4, how many crotchet beats does a dotted minim (dotted half note) last?
+A: Two
+B: Four
+C: Three
+ANSWER: C
+EXPLANATION: A dot adds half of the original note's duration. A two-beat minim gains one beat, making three.
+EXAMPLE: A dotted minim plus one crotchet fills a 4/4 bar: 3 + 1 = 4 beats.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-006
+TITLE: Sharps and flats
+QUESTION: In standard Western notation, what does a sharp normally do to a note?
+A: Raises it by one octave
+B: Raises it by one semitone
+C: Always makes it louder
+ANSWER: B
+EXPLANATION: A sharp changes pitch, not loudness. Its precise frequency depends on the tuning system, but the notated interval is one semitone.
+EXAMPLE: On a piano, C-sharp is the next key above C. Volume instructions use other markings such as forte or piano.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-007
+TITLE: The smallest keyboard step
+QUESTION: How many semitones separate adjacent keys on a conventionally tuned piano, including black keys?
+A: Twelve
+B: One
+C: Two
+ANSWER: B
+EXPLANATION: A semitone is the smallest adjacent-key step in the usual twelve-note equal-tempered keyboard system.
+EXAMPLE: E to F is one semitone even though both are white keys. C to D is two semitones.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-008
+TITLE: An octave
+QUESTION: How many semitones are in a standard Western octave?
+A: Seven
+B: Twelve
+C: Six
+ANSWER: B
+EXPLANATION: An octave spans twelve semitones in the twelve-note system, while its diatonic letter-name span counts eight notes inclusively.
+EXAMPLE: C to the next higher C is an octave. The letter names C D E F G A B C count eight positions including both endpoints.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-009
+TITLE: The treble staff
+QUESTION: In treble clef, what are the staff lines from bottom to top?
+A: E G B D F
+B: G B D F A
+C: F A C E G
+ANSWER: A
+EXPLANATION: The treble clef identifies the G line, which is the second line from the bottom. The five lines are E G B D F.
+EXAMPLE: The spaces from bottom to top spell F A C E. Compare lines and spaces rather than memorising them as one mixed list.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-010
+TITLE: The bass staff
+QUESTION: In bass clef, what are the staff lines from bottom to top?
+A: A C E G B
+B: E G B D F
+C: G B D F A
+ANSWER: C
+EXPLANATION: The bass clef marks F on the fourth line from the bottom. Its lines are G B D F A.
+EXAMPLE: The spaces are A C E G. Draw five lines and label the fourth line F before filling the rest.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-011
+TITLE: A minor triad
+QUESTION: Which notes form an A minor triad?
+A: A C E
+B: A D E
+C: A C-sharp E
+ANSWER: A
+EXPLANATION: A minor triad contains a minor third above the root and a perfect fifth. A-C is the minor third.
+EXAMPLE: Compare A C E with A C-sharp E. Changing only the third changes the chord quality from minor to major.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-012
+TITLE: First inversion
+QUESTION: Which voicing is a C major triad in first inversion, with the lowest note written first?
+A: E G C
+B: C E G
+C: G C E
+ANSWER: A
+EXPLANATION: In first inversion, the third of the chord is in the bass. The chord remains C major even though E is lowest.
+EXAMPLE: Root position: C E G. First inversion: E G C. Second inversion: G C E.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-013
+TITLE: Second inversion
+QUESTION: Which note is in the bass in a second-inversion G major triad?
+A: G
+B: B
+C: D
+ANSWER: C
+EXPLANATION: G major contains G B D. Second inversion places the fifth, D, in the bass.
+EXAMPLE: Write three positions: G B D; B D G; D G B. Identify the lowest note in each.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-014
+TITLE: The tonic
+QUESTION: In D major, which note is the tonic?
+A: F-sharp
+B: D
+C: A
+ANSWER: B
+EXPLANATION: The tonic is scale degree one and the tonal centre of the key. D major begins and resolves around D.
+EXAMPLE: The dominant of D major is A, scale degree five. Tonic and dominant are different roles.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-015
+TITLE: One sharp
+QUESTION: Which major key has a key signature containing only F-sharp?
+A: G major
+B: F major
+C: C major
+ANSWER: A
+EXPLANATION: G major uses F-sharp to preserve the major-scale interval pattern. F major instead uses B-flat.
+EXAMPLE: Write G A B C D E F-sharp G. Check the final semitone from F-sharp to G.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-016
+TITLE: One flat
+QUESTION: Which major key has a key signature containing only B-flat?
+A: G major
+B: D major
+C: F major
+ANSWER: C
+EXPLANATION: F major needs B-flat to make the fourth scale degree fit the major-scale pattern.
+EXAMPLE: Write F G A B-flat C D E F. The semitone steps are A-B-flat and E-F.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-017
+TITLE: Relative minor
+QUESTION: What is the relative natural minor key of C major?
+A: D minor
+B: A minor
+C: C minor
+ANSWER: B
+EXPLANATION: Relative major and minor keys share a key signature. A natural minor uses the same unaltered note collection as C major.
+EXAMPLE: C major centres on C; A minor centres on A. Shared notes do not mean the tonal centre is identical.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-018
+TITLE: Parallel minor
+QUESTION: What is the parallel minor key of C major?
+A: E minor
+B: A minor
+C: C minor
+ANSWER: C
+EXPLANATION: Parallel keys share a tonic. Relative keys share a key signature. C minor and C major both centre on C.
+EXAMPLE: Compare C major: C D E F G A B. C natural minor: C D E-flat F G A-flat B-flat.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-019
+TITLE: Count the interval
+QUESTION: What is the generic interval from C up to G?
+A: A sixth
+B: A fifth
+C: A fourth
+ANSWER: B
+EXPLANATION: Count letter names inclusively: C(1), D(2), E(3), F(4), G(5). Generic interval number is separate from quality.
+EXAMPLE: C to F is a fourth. C to G is a fifth. Then use semitones to identify qualities such as perfect or augmented.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-020
+TITLE: Major versus minor third
+QUESTION: In twelve-note equal temperament, how many semitones form a major third?
+A: Five
+B: Four
+C: Three
+ANSWER: B
+EXPLANATION: A major third spans four semitones; a minor third spans three. Letter spelling still matters for naming an interval correctly.
+EXAMPLE: C-E is a major third. C-E-flat is a minor third. C-D-sharp has the same keyboard distance as the latter but different spelling.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-021
+TITLE: Perfect fifth
+QUESTION: In twelve-note equal temperament, how many semitones form a perfect fifth?
+A: Six
+B: Eight
+C: Seven
+ANSWER: C
+EXPLANATION: A perfect fifth spans seven semitones. A diminished fifth spans six and an augmented fifth spans eight.
+EXAMPLE: C-G is a perfect fifth. C-G-flat is a diminished fifth. Count both letters and semitones.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-022
+TITLE: What 3/4 tells you
+QUESTION: In 3/4, what does the time signature indicate?
+A: Three quaver beats per bar
+B: Three crotchet beats per bar
+C: Four groups of three bars
+ANSWER: B
+EXPLANATION: The upper number gives three beats per bar; the lower 4 identifies the crotchet as the notated beat unit in this simple metre.
+EXAMPLE: Clap a waltz pattern: ONE-two-three, ONE-two-three. Accent the first beat gently.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-023
+TITLE: Feeling 6/8
+QUESTION: At a typical moderate tempo, how is 6/8 commonly grouped?
+A: Three groups of two quavers as its usual compound-duple grouping
+B: Six groups of four crotchets
+C: Two groups of three quavers
+ANSWER: C
+EXPLANATION: 6/8 is commonly compound duple: two dotted-crotchet beats, each dividing into three quavers. Slow music may be counted in six.
+EXAMPLE: Count ONE-two-three FOUR-five-six, or two larger pulses: ONE-and-a TWO-and-a.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-024
+TITLE: The tie
+QUESTION: What does a tie normally do?
+A: Combines the durations of adjacent notes of the same pitch
+B: Always makes the second note louder
+C: Changes a major chord into a minor chord
+ANSWER: A
+EXPLANATION: A tie joins the same pitch across note values or bar lines. A slur groups notes in articulation and need not join identical pitches.
+EXAMPLE: Two tied crotchets on C last as long as a minim on C, with no new attack on the second crotchet.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-025
+TITLE: Rests count too
+QUESTION: In 4/4, with a crotchet as one beat, how long is a crotchet rest?
+A: Half a beat of silence
+B: One beat of silence
+C: Two beats of sound
+ANSWER: B
+EXPLANATION: Rests specify notated silence. Their durations correspond to the note values with the same names.
+EXAMPLE: Clap on beats 1, 2 and 4, leaving beat 3 silent. Keep the internal pulse through the rest.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-026
+TITLE: Tempo and loudness
+QUESTION: Which marking usually concerns loudness rather than speed?
+A: Allegro
+B: Piano (p)
+C: Adagio
+ANSWER: B
+EXPLANATION: Piano means softly. Allegro and adagio are tempo indications, though musical context affects their interpretation.
+EXAMPLE: Compare p with f: softly versus loudly. Compare adagio with allegro: broadly slower versus faster.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-027
+TITLE: The natural sign
+QUESTION: What does a natural sign normally do?
+A: Raises a note by an octave
+B: Cancels a sharp or flat alteration for the relevant note according to notation rules
+C: Doubles a note's duration
+ANSWER: B
+EXPLANATION: A natural restores the unsharpened, unflattened letter pitch. Accidentals normally apply within the bar and specified octave, subject to notation conventions.
+EXAMPLE: In G major, an F-natural marking temporarily alters the key-signature F-sharp for that notated F.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-028
+TITLE: The dominant chord
+QUESTION: In C major, which root-position triad is the dominant chord, V?
+A: F A C
+B: C E G
+C: G B D
+ANSWER: C
+EXPLANATION: The dominant is built on scale degree five. In C major, degree five is G, producing G major.
+EXAMPLE: A basic I-IV-V-I progression in C uses C major, F major, G major, C major.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-029
+TITLE: Natural minor recipe
+QUESTION: Which pattern constructs a natural minor scale?
+A: Tone, tone, semitone, tone, tone, tone, semitone
+B: Seven consecutive whole tones
+C: Tone, semitone, tone, tone, semitone, tone, tone
+ANSWER: C
+EXPLANATION: Natural minor uses W-H-W-W-H-W-W. Harmonic and melodic minor introduce other patterns in common Western usage.
+EXAMPLE: A natural minor is A B C D E F G A. The semitone steps are B-C and E-F.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-030
+TITLE: A two-minute start
+QUESTION: You have a 4/4 bar with a minim and a crotchet. How many crotchet beats remain to fill the bar?
+A: One
+B: Three
+C: Two
+ANSWER: A
+EXPLANATION: The minim uses two beats and the crotchet uses one, leaving one beat in a four-beat bar.
+EXAMPLE: Practice now: clap a minim on beats 1-2, a crotchet on 3 and a crotchet on 4. Then replace beat 4 with a crotchet rest.
+SOURCE: https://www.musictheory.net/lessons

@@ -1,0 +1,271 @@
+PREVIEW / DEMO — sample edition, never sent.
+
+Matt's Newsletter | 2026-W47 | 20 November 2026
+
+Hi Matt! Try the questions before the answer key.
+
+
+01. Neuropsychology case files
+Symptoms, brain regions and the most likely syndrome.
+
+1.1. The tool-use puzzle
+After a dominant parietal stroke, a patient understands the instruction and has adequate strength but cannot correctly pantomime brushing their teeth. Which pairing fits?
+
+A. Primary muscle weakness; peripheral motor unit
+
+B. Ideomotor apraxia; dominant parietofrontal praxis network
+
+C. Cerebellar ataxia; cerebellar motor coordination network
+
+1.2. Four clues together
+A patient with a left angular-gyrus-region infarct has difficulty calculating, writing, identifying fingers and distinguishing left from right. Which pairing is most likely?
+
+A. Korsakoff syndrome; diencephalic memory circuits
+
+B. Balint syndrome; bilateral parieto-occipital regions
+
+C. Gerstmann syndrome; dominant inferior parietal region
+
+1.3. A changed social filter
+After orbitofrontal contusions in a road collision, a previously considerate person makes tactless remarks and risky choices despite intact basic language. Which pairing fits best?
+
+A. Primary visual loss; occipital cortex
+
+B. Disinhibition; orbitofrontal and ventromedial prefrontal networks
+
+C. Wernicke-type aphasia; posterior temporal cortex
+
+
+02. Neuroscience
+Neurotransmitters, circuits and how the brain works.
+
+2.1. Thalamic relay
+Which sensory pathway reaches primary cortex without a first-order thalamic relay before its initial cortical destination?
+
+A. Vision
+
+B. Somatosensation
+
+C. Olfaction
+
+2.2. Keeping time inside
+Which hypothalamic structure is a central circadian pacemaker?
+
+A. Substantia nigra
+
+B. Suprachiasmatic nucleus
+
+C. Angular gyrus
+
+2.3. Myelin's contribution
+Why does myelin generally increase conduction speed along an axon?
+
+A. It turns an axon into a blood vessel
+
+B. It supports rapid saltatory conduction between nodes
+
+C. It makes every synapse release more dopamine
+
+
+03. Psychotherapy toolkit
+Methods, origins and the language of therapy.
+
+3.1. Socratic curiosity
+What is guided discovery in CBT?
+
+A. Telling a client exactly what to believe
+
+B. Interpreting every statement through a fixed dream dictionary
+
+C. Using collaborative questions to help someone examine meanings and alternatives
+
+3.2. The all-or-nothing trap
+Which statement is an example of all-or-nothing thinking?
+
+A. If I do not get full marks, the whole effort was worthless
+
+B. I missed two questions and can review those topics
+
+C. This task is difficult and I can ask for help
+
+3.3. Exposure's purpose
+Which is the best general description of therapeutic exposure?
+
+A. Planned contact with feared but sufficiently safe situations to support new learning
+
+B. Forcing someone into genuine danger
+
+C. A guarantee that anxiety vanishes immediately
+
+
+04. A little Gaeilge
+Practical Irish at A2/B1, one small step at a time.
+
+4.1. Yesterday versus tomorrow
+Which word means 'yesterday'?
+
+A. inné
+
+B. amárach
+
+C. inniu
+
+4.2. Past tense of bí
+Complete: ___ mé sa bhaile inné. Meaning: I was at home yesterday.
+
+A. Beidh
+
+B. Tá
+
+C. Bhí
+
+4.3. Future tense of bí
+Complete: ___ mé ann amárach. Meaning: I will be there tomorrow.
+
+A. Bhí
+
+B. Beidh
+
+C. Níl
+
+
+05. Music theory, finally
+A few minutes of practice count. Start here.
+
+5.1. The bass staff
+In bass clef, what are the staff lines from bottom to top?
+
+A. A C E G B
+
+B. E G B D F
+
+C. G B D F A
+
+5.2. A minor triad
+Which notes form an A minor triad?
+
+A. A C E
+
+B. A D E
+
+C. A C-sharp E
+
+5.3. First inversion
+Which voicing is a C major triad in first inversion, with the lowest note written first?
+
+A. E G C
+
+B. C E G
+
+C. G C E
+
+
+06. Ireland’s News — social justice editorial priorities
+
+Preview uses a dated, source-linked news snapshot; it is not a live feed fetch.
+
+Credit unions seek answers on scale of data breach as IT provider says flaw is fixed
+The Journal | 19 November 2026
+https://www.thejournal.ie/credit-union-wellington-it-robert-troy-7231923-Nov2026/
+
+Parents Council raises concern over school transport fees
+RTÉ — Ireland | 20 November 2026
+https://www.rte.ie/news/politics/2026/1120/1599942-school-fees-politics/
+
+Housing shortage can trap women in abusive homes - report
+RTÉ — Ireland | 19 November 2026
+https://www.rte.ie/news/2026/1119/1599841-womens-council-report/
+
+The very public civil war in the health service
+The Journal | 20 November 2026
+https://www.thejournal.ie/hse-podcast-civil-war-analysis-7231786-Nov2026/
+
+Taoiseach Micheál Martin to meet CUH chief Jennifer Kearney next week
+Irish Examiner — Ireland | 19 November 2026
+https://www.irishexaminer.com/news/arid-41940087.html
+
+
+ANSWER KEY AND WORKED EXAMPLES
+
+1.1. B. Ideomotor apraxia; dominant parietofrontal praxis network
+Apraxia concerns learned purposeful actions that cannot be explained simply by weakness, sensory loss or misunderstanding. Praxis relies on a distributed network.
+Worked example / practice: Ask for a familiar gesture, then check comprehension and strength. Those control checks matter before interpreting a gesture error.
+https://openstax.org/details/books/introduction-behavioral-neuroscience
+
+1.2. C. Gerstmann syndrome; dominant inferior parietal region
+The classic Gerstmann cluster is acalculia, agraphia, finger agnosia and left-right disorientation. The full cluster is uncommon and localisation is not perfectly specific.
+Worked example / practice: Mnemonic practice: name the four features without looking, then link them to the dominant inferior parietal region.
+https://openstax.org/details/books/introduction-behavioral-neuroscience
+
+1.3. B. Disinhibition; orbitofrontal and ventromedial prefrontal networks
+Orbitofrontal and ventromedial networks contribute to evaluating outcomes and regulating social behaviour. Injury can change judgement without producing a major language deficit.
+Worked example / practice: Compare this with a planning problem: poor social restraint and poor sequencing can reflect different, overlapping frontal systems.
+https://openstax.org/details/books/introduction-behavioral-neuroscience
+
+2.1. C. Olfaction
+Initial olfactory cortical processing is unusual in bypassing a first-order thalamic relay. Later olfactory processing can still involve thalamic circuits.
+Worked example / practice: Vision uses the lateral geniculate nucleus on a major route to primary visual cortex; olfaction follows a different initial route.
+https://openstax.org/details/books/introduction-behavioral-neuroscience
+
+2.2. B. Suprachiasmatic nucleus
+The suprachiasmatic nucleus helps coordinate circadian rhythms and receives information related to environmental light.
+Worked example / practice: A regular light-dark cycle can help synchronise the clock. The clock is more than simply a conscious decision to feel sleepy.
+https://openstax.org/details/books/introduction-behavioral-neuroscience
+
+2.3. B. It supports rapid saltatory conduction between nodes
+Myelin alters electrical properties of the axon and supports regeneration of action potentials at nodes of Ranvier.
+Worked example / practice: Picture the nodes as sites where the signal is actively regenerated, not as literal gaps that the signal magically jumps across.
+https://openstax.org/details/books/introduction-behavioral-neuroscience
+
+3.1. C. Using collaborative questions to help someone examine meanings and alternatives
+Guided discovery supports exploration rather than a debate the therapist must win. Questions should be responsive to the person's experience.
+Worked example / practice: 'What would you say to a friend in the same position?' can help someone generate a different perspective.
+https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+
+3.2. A. If I do not get full marks, the whole effort was worthless
+All-or-nothing thinking reduces a continuum to two extremes. Identifying it can open up more nuanced evaluation.
+Worked example / practice: A score of 12 out of 15 includes successful learning and areas to practise; it does not need to be labelled total success or total failure.
+https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+
+3.3. A. Planned contact with feared but sufficiently safe situations to support new learning
+Exposure is collaborative and tailored to a formulation. Learning can occur even when some anxiety remains; safety and consent matter.
+Worked example / practice: In a fictional graded plan, someone might begin by looking at a lift before later practising a short ride with agreed support.
+https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
+
+4.1. A. inné
+Inné means yesterday, inniu means today and amárach means tomorrow. These time words help interpret a short text.
+Worked example / practice: Mini-sequence: inné -> inniu -> amárach. Yesterday -> today -> tomorrow.
+https://www.teanglann.ie/en/
+
+4.2. C. Bhí
+Bhí is the affirmative past form of bí. The time word inné reinforces the past meaning.
+Worked example / practice: Compare: Tá mé sa bhaile = I am at home. Bhí mé sa bhaile = I was at home.
+https://www.teanglann.ie/en/
+
+4.3. B. Beidh
+Beidh is the affirmative future form of bí. Ann here means there.
+Worked example / practice: Time swap: Bhí mé ann inné. Beidh mé ann amárach. I was there yesterday. I will be there tomorrow.
+https://www.teanglann.ie/en/
+
+5.1. C. G B D F A
+The bass clef marks F on the fourth line from the bottom. Its lines are G B D F A.
+Worked example / practice: The spaces are A C E G. Draw five lines and label the fourth line F before filling the rest.
+https://www.musictheory.net/lessons
+
+5.2. A. A C E
+A minor triad contains a minor third above the root and a perfect fifth. A-C is the minor third.
+Worked example / practice: Compare A C E with A C-sharp E. Changing only the third changes the chord quality from minor to major.
+https://www.musictheory.net/lessons
+
+5.3. A. E G C
+In first inversion, the third of the chord is in the bass. The chord remains C major even though E is lowest.
+Worked example / practice: Root position: C E G. First inversion: E G C. Second inversion: G C E.
+https://www.musictheory.net/lessons
+
+Clinical vignettes are fictional educational examples. Brain functions involve networks; a likely quiz answer is not a clinical assessment. Irish follows broadly standard usage; dialect forms may differ.
+
+To stop receiving this newsletter, reply to the sender and ask to be removed.
+
+Read online: previews/archive/editions/2026-W47.html
+
+Past editions: previews/archive/index.html

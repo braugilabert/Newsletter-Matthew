@@ -1,0 +1,24 @@
+name: Check quizzes and previews
+on:
+  pull_request:
+  push:
+    paths:
+      - '**.py'
+      - 'content/**'
+      - 'config/**'
+      - 'requirements.txt'
+      - '.github/workflows/**'
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements.txt
+      - run: python newsletter.py --check
+      - run: python -m unittest discover -s tests -v
+      - run: python newsletter.py --demo --offline

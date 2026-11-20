@@ -1,0 +1,3 @@
+# The generator otherwise uses Python's standard library.
+# IANA timezone data is needed on Windows and kept current on GitHub runners.
+tzdata>=2026.1
