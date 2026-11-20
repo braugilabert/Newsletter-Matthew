@@ -20,6 +20,24 @@ Clinical items ask for the best explanation **within the information supplied**.
 
 Items teach terminology and conceptual distinctions. Illustrations of exposure, ERP and other clinical interventions explain the ideas rather than prescribe a treatment plan.
 
+## Mental health diagnostic cases
+
+The bank contains 120 fictional cases across 40 learning themes. Each question explicitly names **DSM-5-TR** or **ICD-11**. Cases ask for the best-fitting category from four choices, considering symptoms, course, impairment and relevant exclusions; they are not complete clinical assessments. The cases and explanations are original educational writing, not reproduced diagnostic checklists.
+
+- [American Psychiatric Association: What is the DSM?](https://www.psychiatry.org/patients-families/what-is-the-dsm/) and [DSM-5-TR updates](https://www.psychiatry.org/psychiatrists/practice/dsm/updates-to-dsm/updates-to-dsm-5-tr-criteria-text/): classification and edition information.
+- [WHO: ICD-11 clinical descriptions and diagnostic requirements](https://www.who.int/publications-detail-redirect/9789240077263): framework reference for ICD-11 cases.
+- [NIMH health topics](https://www.nimh.nih.gov/health/topics): depression, bipolar disorder, anxiety, OCD, eating disorders, schizophrenia, ADHD and autism.
+- [US National Center for PTSD: PTSD and DSM-5](https://www.ptsd.va.gov/professional/treat/essentials/dsm5_ptsd.asp) and [acute stress disorder](https://www.ptsd.va.gov/professional/treat/essentials/acute_stress_disorder.asp): trauma-related patterns and time courses.
+- [APA: prolonged grief disorder](https://www.psychiatry.org/patients-families/prolonged-grief-disorder): adult DSM-5-TR duration and impairment distinctions.
+- [APA: dissociative disorders](https://www.psychiatry.org/patients-families/dissociative-disorders/dissociative-disorders) and [somatic symptom disorder](https://www.psychiatry.org/patients-families/somatic-symptom-disorder/what-is-somatic-symptom-disorder/): differential concepts.
+- [WHO: gaming disorder](https://www.who.int/standards/classifications/frequently-asked-questions/gaming-disorder) and [NHLBI: insomnia](https://www.nhlbi.nih.gov/health/insomnia): functional impact and course.
+
+Classification differences are stated rather than merged. In particular, ICD-11 complex PTSD is not presented as a separate DSM-5-TR diagnosis, and the adult prolonged-grief examples distinguish the ICD-11 six-month minimum from the DSM-5-TR twelve-month minimum. Time alone does not establish either diagnosis. Distress, cultural context, impairment and alternative explanations remain important.
+
+The expanded neuropsychology bank also includes progressive language and cognitive presentations. Further background: [NIA overview of dementias](https://www.nia.nih.gov/health/alzheimers-and-dementia/understanding-different-types-dementia), [PPA assessment](https://pmc.ncbi.nlm.nih.gov/articles/PMC6464628/) and [posterior cortical atrophy consensus](https://pmc.ncbi.nlm.nih.gov/articles/PMC5788455/).
+
+Source URLs remain in every TXT record for editorial traceability. **They are not rendered as “Explore the topic” links in either email format.**
+
 ## Irish
 
 - [Teanglann: dictionary, grammar and pronunciation](https://www.teanglann.ie/en/).

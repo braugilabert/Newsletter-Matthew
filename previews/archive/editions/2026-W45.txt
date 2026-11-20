@@ -2,7 +2,7 @@ PREVIEW / DEMO — sample edition, never sent.
 
 Matt's Newsletter | 2026-W45 | 6 November 2026
 
-Hi Matt! Try the questions before the answer key.
+Try the questions before the answer key.
 
 
 01. Neuropsychology case files
@@ -17,6 +17,8 @@ B. Visual agnosia; occipitotemporal visual pathways
 
 C. Global aphasia; extensive dominant language-network injury
 
+D. Hemispatial neglect; right frontoparietal attention network
+
 1.2. An island of repetition
 Following a left frontal watershed infarct that spares the core perisylvian language network, spontaneous speech is sparse, comprehension is relatively good, and repetition is preserved. Which pairing fits best?
 
@@ -25,6 +27,8 @@ A. Wernicke-type aphasia; posterior temporal regions
 B. Conduction aphasia; dorsal language connections
 
 C. Transcortical motor aphasia; frontal regions around the language network
+
+D. Cortical blindness; bilateral occipital cortex
 
 1.3. More than word finding
 A large left middle cerebral artery infarct causes very limited speech, poor comprehension and poor repetition. Right-sided weakness is also present. Which pairing is most likely?
@@ -35,11 +39,50 @@ B. Anomic aphasia; isolated naming difficulty
 
 C. Global aphasia; extensive dominant perisylvian network injury
 
+D. Ideomotor apraxia; dominant parietofrontal networks
 
-02. Neuroscience
+
+02. Mental health case files
+Fictional diagnostic cases: DSM-5-TR and ICD-11.
+
+2.1. A history beyond the lows
+DSM-5-TR. An adult has a documented major depressive episode and a previous five-day period of elevated mood, increased energy, little need for sleep, more talking, racing thoughts and increased projects. The change was clear but caused no marked impairment, psychosis or hospitalisation. There has never been mania. Which diagnosis best fits this fictional case?
+
+A. Major depressive disorder
+
+B. Bipolar II disorder
+
+C. Cyclothymic disorder
+
+D. Bipolar I disorder
+
+2.2. Fluctuations below episode thresholds
+DSM-5-TR. Medical and substance-related explanations are excluded. For three years, an adult has frequent periods of mildly elevated energy and periods of depressive symptoms, present for more than half the time without gaps longer than two months. No period has met full hypomanic, manic or major depressive episode criteria, but functioning suffers. Which diagnosis best fits this fictional case?
+
+A. Major depressive disorder
+
+B. Bipolar I disorder
+
+C. Bipolar II disorder
+
+D. Cyclothymic disorder
+
+2.3. Worry that spreads across life
+DSM-5-TR. Medical and substance-related explanations are excluded. For eight months, an adult worries excessively on most days about money, health and ordinary work tasks, struggles to control it, and has restlessness, muscle tension, fatigue and poor sleep with impairment. Which diagnosis best fits this fictional case?
+
+A. Obsessive-compulsive disorder
+
+B. Specific phobia
+
+C. Panic disorder
+
+D. Generalized anxiety disorder
+
+
+03. Neuroscience
 Neurotransmitters, circuits and how the brain works.
 
-2.1. The inhibitory workhorse
+3.1. The inhibitory workhorse
 Which neurotransmitter mediates much of the fast inhibitory signalling in the adult brain?
 
 A. GABA
@@ -48,7 +91,9 @@ B. Glutamate
 
 C. Dopamine
 
-2.2. The excitatory workhorse
+D. Melatonin
+
+3.2. The excitatory workhorse
 Which transmitter mediates much of the fast excitatory signalling in the central nervous system?
 
 A. Glutamate
@@ -57,7 +102,9 @@ B. Oxytocin
 
 C. Melatonin
 
-2.3. Acetylcholine has more than one job
+D. Acetylcholine
+
+3.3. Acetylcholine has more than one job
 Which pairing is most accurate?
 
 A. Only visual colour perception
@@ -66,11 +113,13 @@ B. Only production of cerebrospinal fluid
 
 C. Neuromuscular transmission and contributions to attention and memory
 
+D. Only the transport of oxygen in red blood cells
 
-03. Psychotherapy toolkit
+
+04. Psychotherapy toolkit
 Methods, origins and the language of therapy.
 
-3.1. The dialectic
+4.1. The dialectic
 Which statement best expresses the acceptance-change balance in DBT?
 
 A. Acceptance means no change is ever needed
@@ -79,7 +128,9 @@ B. I can accept my current experience while working to change harmful patterns
 
 C. Change requires rejecting every current feeling
 
-3.2. The four skills groups
+D. Accepting a feeling means endorsing every action it produces
+
+4.2. The four skills groups
 Which list gives the standard DBT skills modules?
 
 A. Dream analysis, hypnosis, free association and phrenology
@@ -88,7 +139,9 @@ B. Only relaxation and positive affirmations
 
 C. Mindfulness, distress tolerance, emotion regulation and interpersonal effectiveness
 
-3.3. An automatic thought
+D. Only psychoeducation and interpretation of dreams
+
+4.3. An automatic thought
 In CBT, what is an automatic thought?
 
 A. A reflex that never has any verbal or visual content
@@ -97,11 +150,13 @@ B. A guaranteed objective fact
 
 C. A quickly arising interpretation of a situation
 
+D. A mental event that never changes with context
 
-04. A little Gaeilge
+
+05. A little Gaeilge
 Practical Irish at A2/B1, one small step at a time.
 
-4.1. The negative of tá
+5.1. The negative of tá
 Complete: ___ mé tuirseach. Meaning: I am not tired.
 
 A. An
@@ -110,7 +165,9 @@ B. Níl
 
 C. Ní
 
-4.2. Where is the bus?
+D. Bhí
+
+5.2. Where is the bus?
 Which question means 'Where is the bus?'
 
 A. Cé hé an bus?
@@ -119,7 +176,9 @@ B. Conas atá an bus?
 
 C. Cá bhfuil an bus?
 
-4.3. Saying your name
+D. Cad is ainm don bhus?
+
+5.3. Saying your name
 Which sentence means 'My name is Matthew'?
 
 A. Is maith liom Matthew.
@@ -128,11 +187,13 @@ B. Tá Matthew agam.
 
 C. Matthew is ainm dom.
 
+D. Is Matthew orm.
 
-05. Music theory, finally
+
+06. Music theory, finally
 A few minutes of practice count. Start here.
 
-5.1. Quavers in a bar
+6.1. Quavers in a bar
 How many quavers (eighth notes) fill a 4/4 bar containing only quavers?
 
 A. Six
@@ -141,7 +202,9 @@ B. Eight
 
 C. Four
 
-5.2. A dot changes duration
+D. Twelve
+
+6.2. A dot changes duration
 In 4/4, how many crotchet beats does a dotted minim (dotted half note) last?
 
 A. Two
@@ -150,7 +213,9 @@ B. Four
 
 C. Three
 
-5.3. Sharps and flats
+D. One
+
+6.3. Sharps and flats
 In standard Western notation, what does a sharp normally do to a note?
 
 A. Raises it by one octave
@@ -159,88 +224,123 @@ B. Raises it by one semitone
 
 C. Always makes it louder
 
+D. Lowers it by one semitone
 
-06. Ireland’s News — social justice editorial priorities
+
+07. Ireland’s News — social justice editorial priorities
 
 Archive layout sample: no historical news has been reconstructed.
 
 
 ANSWER KEY AND WORKED EXAMPLES
 
-1.1. A. Conduction aphasia; dorsal language pathways
+1.1. The repetition gap
+A patient with a small dominant temporoparietal stroke speaks fairly fluently and understands conversation, but cannot accurately repeat even short unfamiliar phrases. Which pairing is most likely?
+Answer: A. Conduction aphasia; dorsal language pathways
 Disproportionately impaired repetition with relatively preserved fluency and comprehension suggests conduction aphasia. Dorsal perisylvian connections and cortical regions can be involved.
 Worked example / practice: Build a three-column language checklist: fluency, comprehension and repetition. Conduction aphasia has its biggest weakness in the third column.
-https://openstax.org/details/books/introduction-behavioral-neuroscience
 
-1.2. C. Transcortical motor aphasia; frontal regions around the language network
+1.2. An island of repetition
+Following a left frontal watershed infarct that spares the core perisylvian language network, spontaneous speech is sparse, comprehension is relatively good, and repetition is preserved. Which pairing fits best?
+Answer: C. Transcortical motor aphasia; frontal regions around the language network
 Preserved repetition distinguishes this nonfluent pattern from many Broca-type presentations. Lesions can isolate otherwise functioning language circuitry from initiation systems.
 Worked example / practice: Compare two nonfluent speakers: if repetition is strikingly good in one, consider a transcortical pattern in the fictional case.
-https://openstax.org/details/books/introduction-behavioral-neuroscience
 
-1.3. C. Global aphasia; extensive dominant perisylvian network injury
+1.3. More than word finding
+A large left middle cerebral artery infarct causes very limited speech, poor comprehension and poor repetition. Right-sided weakness is also present. Which pairing is most likely?
+Answer: C. Global aphasia; extensive dominant perisylvian network injury
 Global aphasia affects expression and comprehension across several language tasks, usually reflecting widespread dominant language-network injury.
 Worked example / practice: Compare: naming difficulty alone with otherwise fluent, comprehensible speech would be a much milder anomic pattern.
-https://openstax.org/details/books/introduction-behavioral-neuroscience
 
-2.1. A. GABA
+2.1. A history beyond the lows
+DSM-5-TR. An adult has a documented major depressive episode and a previous five-day period of elevated mood, increased energy, little need for sleep, more talking, racing thoughts and increased projects. The change was clear but caused no marked impairment, psychosis or hospitalisation. There has never been mania. Which diagnosis best fits this fictional case?
+Answer: B. Bipolar II disorder
+Bipolar II disorder requires hypomanic and major depressive episodes without a manic episode. Hypomania is an observable sustained change without the marked impairment, hospitalisation or psychosis that would make the elevated episode manic.
+Worked example / practice: Always ask about past elevated periods when evaluating a depressive presentation; current low mood alone does not establish unipolar depression.
+
+2.2. Fluctuations below episode thresholds
+DSM-5-TR. Medical and substance-related explanations are excluded. For three years, an adult has frequent periods of mildly elevated energy and periods of depressive symptoms, present for more than half the time without gaps longer than two months. No period has met full hypomanic, manic or major depressive episode criteria, but functioning suffers. Which diagnosis best fits this fictional case?
+Answer: D. Cyclothymic disorder
+Cyclothymic disorder in adults involves at least two years of numerous subthreshold hypomanic and depressive symptoms, present for much of the time, without long symptom-free intervals or a history meeting full mood-episode criteria.
+Worked example / practice: Subthreshold does not mean unimportant: impairment may occur even when no single period meets a full episode definition.
+
+2.3. Worry that spreads across life
+DSM-5-TR. Medical and substance-related explanations are excluded. For eight months, an adult worries excessively on most days about money, health and ordinary work tasks, struggles to control it, and has restlessness, muscle tension, fatigue and poor sleep with impairment. Which diagnosis best fits this fictional case?
+Answer: D. Generalized anxiety disorder
+Generalized anxiety disorder involves difficult-to-control excessive worry across several areas with associated symptoms and impairment. DSM-5-TR adult duration is at least six months; it is not restricted to one object or social scrutiny.
+Worked example / practice: Ask what the worry concerns, how controllable it feels and its duration, rather than treating worry as diagnostic by itself.
+
+3.1. The inhibitory workhorse
+Which neurotransmitter mediates much of the fast inhibitory signalling in the adult brain?
+Answer: A. GABA
 GABA is a major inhibitory transmitter in the mature central nervous system. Effects depend on receptor type and ionic conditions.
 Worked example / practice: Excitation and inhibition work together: inhibiting one neuron can even disinhibit a downstream neuron.
-https://openstax.org/details/books/introduction-behavioral-neuroscience
 
-2.2. A. Glutamate
+3.2. The excitatory workhorse
+Which transmitter mediates much of the fast excitatory signalling in the central nervous system?
+Answer: A. Glutamate
 Glutamate acts at several receptor families, including AMPA and NMDA receptors, and is central to excitatory transmission.
 Worked example / practice: AMPA and NMDA are receptor names, while glutamate is a transmitter that can activate them.
-https://openstax.org/details/books/introduction-behavioral-neuroscience
 
-2.3. C. Neuromuscular transmission and contributions to attention and memory
+3.3. Acetylcholine has more than one job
+Which pairing is most accurate?
+Answer: C. Neuromuscular transmission and contributions to attention and memory
 Acetylcholine acts at skeletal neuromuscular junctions and in central circuits involved in cognition and arousal.
 Worked example / practice: The same transmitter can work in the peripheral nervous system and in brain circuits; location changes its role.
-https://openstax.org/details/books/introduction-behavioral-neuroscience
 
-3.1. B. I can accept my current experience while working to change harmful patterns
+4.1. The dialectic
+Which statement best expresses the acceptance-change balance in DBT?
+Answer: B. I can accept my current experience while working to change harmful patterns
 Dialectical thinking makes room for apparently opposing truths. Validation does not mean endorsing every behaviour.
 Worked example / practice: A therapist can validate disappointment while helping a client choose a more effective way to communicate it.
-https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 
-3.2. C. Mindfulness, distress tolerance, emotion regulation and interpersonal effectiveness
+4.2. The four skills groups
+Which list gives the standard DBT skills modules?
+Answer: C. Mindfulness, distress tolerance, emotion regulation and interpersonal effectiveness
 These four modules teach practical skills, while comprehensive DBT includes additional treatment components beyond a skills class.
 Worked example / practice: Sort an example: noticing an urge without immediately acting fits mindfulness; making a clear request fits interpersonal effectiveness.
-https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 
-3.3. C. A quickly arising interpretation of a situation
+4.3. An automatic thought
+In CBT, what is an automatic thought?
+Answer: C. A quickly arising interpretation of a situation
 Automatic thoughts can be words or images and are often taken for granted. Identifying one allows it to be examined.
 Worked example / practice: 'I stumbled over a word, so everyone thinks I am incompetent' is an interpretation to examine, not a conclusion to accept automatically.
-https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 
-4.1. B. Níl
+5.1. The negative of tá
+Complete: ___ mé tuirseach. Meaning: I am not tired.
+Answer: B. Níl
 The present negative form of bí is níl. A simple ní before tá is not the standard construction.
 Worked example / practice: Positive: Tá mé tuirseach. Negative: Níl mé tuirseach. Meaning: I am tired / I am not tired.
-https://www.teanglann.ie/en/
 
-4.2. C. Cá bhfuil an bus?
+5.2. Where is the bus?
+Which question means 'Where is the bus?'
+Answer: C. Cá bhfuil an bus?
 Cá bhfuil is a common where-is construction. An bus means the bus.
 Worked example / practice: Useful travel question: Cá bhfuil an stáisiún? Meaning: Where is the station?
-https://www.teanglann.ie/en/
 
-4.3. C. Matthew is ainm dom.
+5.3. Saying your name
+Which sentence means 'My name is Matthew'?
+Answer: C. Matthew is ainm dom.
 X is ainm dom is a standard naming pattern. Dom is the combined form of do plus mé.
 Worked example / practice: Swap the name: Aoife is ainm dom. To ask someone's name: Cad is ainm duit?
-https://www.teanglann.ie/en/
 
-5.1. B. Eight
+6.1. Quavers in a bar
+How many quavers (eighth notes) fill a 4/4 bar containing only quavers?
+Answer: B. Eight
 Each quaver lasts half a crotchet beat. Four crotchet beats therefore contain eight quavers.
 Worked example / practice: Count 1-and-2-and-3-and-4-and while tapping once on each spoken syllable.
-https://www.musictheory.net/lessons
 
-5.2. C. Three
+6.2. A dot changes duration
+In 4/4, how many crotchet beats does a dotted minim (dotted half note) last?
+Answer: C. Three
 A dot adds half of the original note's duration. A two-beat minim gains one beat, making three.
 Worked example / practice: A dotted minim plus one crotchet fills a 4/4 bar: 3 + 1 = 4 beats.
-https://www.musictheory.net/lessons
 
-5.3. B. Raises it by one semitone
+6.3. Sharps and flats
+In standard Western notation, what does a sharp normally do to a note?
+Answer: B. Raises it by one semitone
 A sharp changes pitch, not loudness. Its precise frequency depends on the tuning system, but the notated interval is one semitone.
 Worked example / practice: On a piano, C-sharp is the next key above C. Volume instructions use other markings such as forte or piano.
-https://www.musictheory.net/lessons
 
 Clinical vignettes are fictional educational examples. Brain functions involve networks; a likely quiz answer is not a clinical assessment. Irish follows broadly standard usage; dialect forms may differ.
 

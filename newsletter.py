@@ -32,12 +32,13 @@ ROOT = Path(__file__).resolve().parent
 NAME = "Matt's Newsletter"
 SECTIONS = (
     ("neuropsychology", "Neuropsychology case files", "Symptoms, brain regions and the most likely syndrome."),
+    ("mental_health", "Mental health case files", "Fictional diagnostic cases: DSM-5-TR and ICD-11."),
     ("neuroscience", "Neuroscience", "Neurotransmitters, circuits and how the brain works."),
     ("psychotherapy", "Psychotherapy toolkit", "Methods, origins and the language of therapy."),
     ("irish", "A little Gaeilge", "Practical Irish at A2/B1, one small step at a time."),
     ("music", "Music theory, finally", "A few minutes of practice count. Start here."),
 )
-FIELDS = {"ID", "TITLE", "QUESTION", "A", "B", "C", "ANSWER", "EXPLANATION", "EXAMPLE", "SOURCE"}
+FIELDS = {"ID", "TITLE", "QUESTION", "A", "B", "C", "D", "ANSWER", "EXPLANATION", "EXAMPLE", "SOURCE"}
 LOG = logging.getLogger(__name__)
 
 
@@ -76,8 +77,10 @@ def load_bank(path):
         missing = FIELDS - record.keys()
         if missing or any(not v for v in record.values()):
             raise ValueError(f"{path.name}: missing or empty fields in {record.get('ID')}: {missing}")
-        if record["ANSWER"] not in {"A", "B", "C"}:
-            raise ValueError(f"{path.name}: ANSWER must be A, B or C")
+        if record["ANSWER"] not in {"A", "B", "C", "D"}:
+            raise ValueError(f"{path.name}: ANSWER must be A, B, C or D")
+        if len({record[option].casefold() for option in "ABCD"}) != 4:
+            raise ValueError(f"{path.name}: options must be distinct in {record['ID']}")
         safe_url(record["SOURCE"])
         records.append(record)
     ids = [r["ID"] for r in records]
@@ -280,6 +283,9 @@ def page(title, body):
 
 def render_email(day, selected, stories, news_note, web_url="", archive_url="", demo=False):
     eid, total = edition_id(day), sum(len(selected[k]) for k, *_ in SECTIONS)
+    news_number = f"{len(SECTIONS) + 1:02d}"
+    overview = ' &nbsp; '.join(f'{i:02d} {esc(title)}' for i, (_, title, _) in enumerate(SECTIONS, 1))
+    overview += f' &nbsp; {news_number} Ireland’s News'
     banner = ('<p style="border:2px solid #000000;padding:12px;font-size:13px">'
               'PREVIEW / DEMO — sample edition, never sent. Archive dates demonstrate the design.</p>') if demo else ""
     nav = " · ".join(link(url, label) for url, label in [(web_url, "Read online"), (archive_url, "Past editions")] if url)
@@ -290,12 +296,11 @@ def render_email(day, selected, stories, news_note, web_url="", archive_url="", 
             f'border-bottom:1px solid #000000;padding:12px 0;font-size:13px">{english_date(day)}'
             f' · {total} questions · one good week of learning</p><p>{nav}</p>'
             '<p>Hi Matt,</p><p>A few brain teasers, a little Gaeilge and a reason to pick up your instrument. '
-            'Try the questions first; the answer key and worked examples are at the end. '
+            'Try the questions first; the answer key and worked examples are at the end. After you finish all, have a beer. '
             'Keep a note of your answers and give yourself one point per question.</p>'
-            '<p style="font-size:13px">01 Case files &nbsp; 02 Neuroscience &nbsp; 03 Therapy<br>'
-            '04 Gaeilge &nbsp; 05 Music &nbsp; 06 Ireland’s News</p></td></tr>']
+            f'<p style="font-size:13px">{overview}</p></td></tr>']
     answers, answer_sections = [], []
-    text = [f"{NAME} | {eid} | {english_date(day)}", "Hi Matt! Try the questions before the answer key."]
+    text = [f"{NAME} | {eid} | {english_date(day)}", "Try the questions before the answer key."]
     if demo:
         text.insert(0, "PREVIEW / DEMO — sample edition, never sent.")
     for number, (key, title, subtitle) in enumerate(SECTIONS, 1):
@@ -308,21 +313,22 @@ def render_email(day, selected, stories, news_note, web_url="", archive_url="", 
                         f'<h3 style="font:700 21px/1.3 Georgia,serif;margin:10px 0">{esc(q["TITLE"])}</h3>'
                         f'<p>{esc(q["QUESTION"])}</p>')
             text.append(f'{label}. {q["TITLE"]}\n{q["QUESTION"]}')
-            for option in "ABC":
+            for option in "ABCD":
                 body.append(f'<p style="margin:6px 0"><strong>{option}.</strong> {esc(q[option])}</p>')
                 text.append(f'{option}. {q[option]}')
             body.append('</div>')
             key_body.append('<div style="padding:8px 0 18px;border-bottom:1px solid #000000">'
-                            f'<p><strong>{label} · {correct}. {esc(q[correct])}</strong></p>'
+                            f'<p><strong>{label} · {esc(q["TITLE"])}</strong></p>'
+                            f'<p>{esc(q["QUESTION"])}</p>'
+                            f'<p><strong>Answer: {correct}. {esc(q[correct])}</strong></p>'
                             f'<p>{esc(q["EXPLANATION"])}</p><p><strong>Worked example / practice:</strong> '
-                            f'{esc(q["EXAMPLE"])}</p><p style="font-size:12px">'
-                            f'{link(q["SOURCE"], "Explore the topic")}</p></div>')
+                            f'{esc(q["EXAMPLE"])}</p></div>')
             answers.append((label, q))
         rows.append(panel(f"{number:02d}", title, subtitle, "".join(body)))
         answer_sections.append(panel(f"KEY {number:02d}", title, "Answers, explanations and one more small step.", ''.join(key_body)))
     news_body = ('<p style="font-size:13px">A social justice lens: housing, workers’ rights, public services, equality and climate. '
                  'Editorial priorities guide the selection; headlines and dates come from the linked sources.</p>')
-    text.append("\n06. Ireland’s News — social justice editorial priorities")
+    text.append(f"\n{news_number}. Ireland’s News — social justice editorial priorities")
     if news_note:
         news_body += f'<p style="border:1px solid #000000;padding:12px">{esc(news_note)}</p>'
         text.append(news_note)
@@ -334,18 +340,19 @@ def render_email(day, selected, stories, news_note, web_url="", archive_url="", 
                       f'{link(story["url"], story["title"])}</h3></div>')
         text.append(f'{story["title"]}\n{story["source"]} | {english_date(published)}\n{story["url"]}')
     news_body += '<p><strong>Think about it:</strong> Who is affected, whose voice is missing, and what evidence would help assess the policy?</p>'
-    rows.append(panel("06", "Ireland’s News", "The past seven days, with people at the centre.", news_body))
+    rows.append(panel(news_number, "Ireland’s News", "The past seven days, with people at the centre.", news_body))
     rows.append('<tr><td style="padding:12px 24px 28px"><p style="border:2px solid #000000;padding:18px">'
                 f'<strong>Pencils down?</strong> Your score: ____ / {total}. Read on for the answers, explanations and practice ideas.</p></td></tr>')
     rows.extend(answer_sections)
     text.append("\nANSWER KEY AND WORKED EXAMPLES")
     for label, q in answers:
-        text.append(f'{label}. {q["ANSWER"]}. {q[q["ANSWER"]]}\n{q["EXPLANATION"]}\n'
-                    f'Worked example / practice: {q["EXAMPLE"]}\n{q["SOURCE"]}')
+        text.append(f'{label}. {q["TITLE"]}\n{q["QUESTION"]}\n'
+                    f'Answer: {q["ANSWER"]}. {q[q["ANSWER"]]}\n{q["EXPLANATION"]}\n'
+                    f'Worked example / practice: {q["EXAMPLE"]}')
     footer = ('Clinical vignettes are fictional educational examples. Brain functions involve networks; '
               'a likely quiz answer is not a clinical assessment. Irish follows broadly standard usage; dialect forms may differ.')
     rows.append('<tr><td style="padding:12px 24px 40px;border-top:4px solid #000000;font-size:12px">'
-                f'<p>{footer}</p><p>{esc(NAME)} · Once a week · Made for Matthew</p>'
+                f'<p>{footer}</p><p>{esc(NAME)} · Once a week · Made for Matthew by Carta Clara</p>'
                 '<p>To stop receiving this newsletter, reply to the sender and ask to be removed.</p></td></tr>')
     text += [footer, "To stop receiving this newsletter, reply to the sender and ask to be removed."]
     if web_url:
@@ -368,7 +375,8 @@ def archive_page(entries, demo=False):
         body += ('<article style="border-top:2px solid #000000;padding:18px 0"><p style="font-size:12px">'
                  f'{esc(entry["id"])} · {english_date(date.fromisoformat(entry["date"]))}'
                  f'{" · DEMO" if entry.get("demo") else ""}</p><h3 style="font:700 25px Georgia,serif">'
-                 f'{link(entry["file"], entry["title"])}</h3><p>{entry["questions"]} questions · Five subjects · Ireland’s News</p></article>')
+                 f'{link(entry["file"], entry["title"])}</h3><p>{entry["questions"]} questions · '
+                 f'{entry.get("subjects", 5)} subjects · Ireland’s News</p></article>')
     return page(f"Past editions · {NAME}", body + '</td></tr>')
 
 
@@ -382,6 +390,7 @@ def publish(folder, day, selected, rendered, demo=False):
     entries = [e for e in read_json(folder / "editions.json", []) if e["id"] != eid]
     entries.append({"id": eid, "date": day.isoformat(), "title": selected["neuropsychology"][0]["TITLE"],
                     "questions": sum(len(selected[k]) for k, *_ in SECTIONS),
+                    "subjects": len(SECTIONS),
                     "file": f"editions/{eid}.html", "demo": demo})
     write_json(folder / "editions.json", entries)
     (folder / "index.html").write_text(archive_page(entries, demo), encoding="utf-8")

@@ -16,18 +16,19 @@ import newsletter as app
 
 
 class ContentTests(unittest.TestCase):
-    def test_ten_weeks_without_repeating_a_question(self):
+    def test_forty_weeks_without_repeating_a_question(self):
         banks, history, seen = app.load_banks(), {}, set()
-        self.assertTrue(all(len(b) >= 30 for b in banks.values()))
-        for week in range(10):
+        self.assertTrue(all(len(b) >= 120 for b in banks.values()))
+        per_edition = len(app.SECTIONS) * 3
+        for week in range(40):
             day = date(2026, 11, 16) + timedelta(weeks=week)
             chosen = app.select_questions(banks, history, 3)
             ids = {q['ID'] for bank in chosen.values() for q in bank}
-            self.assertEqual(len(ids), 15)
+            self.assertEqual(len(ids), per_edition)
             self.assertFalse(ids & seen)
             seen.update(ids)
             app.record_usage(history, chosen, [], day)
-        self.assertEqual(len(seen), 150)
+        self.assertEqual(len(seen), per_edition * 40)
 
     def test_exhausted_bank_returns_oldest_questions_first(self):
         banks = {key: bank[:3] for key, bank in app.load_banks().items()}
@@ -61,7 +62,7 @@ class ContentTests(unittest.TestCase):
     def test_invalid_answer_is_rejected(self):
         with tempfile.TemporaryDirectory() as tmp:
             path = Path(tmp) / 'bad.txt'
-            q = dict(app.load_banks()['music'][0], ANSWER='D')
+            q = dict(app.load_banks()['music'][0], ANSWER='E')
             path.write_text('\n'.join(f'{k}: {v}' for k, v in q.items()), encoding='utf-8')
             with self.assertRaisesRegex(ValueError, 'ANSWER'):
                 app.load_bank(path)
@@ -78,6 +79,59 @@ class ContentTests(unittest.TestCase):
         self.assertLess(len(body.encode()), 100_000)  # Stay below common Gmail clipping size.
         self.assertIn('ANSWER KEY', plain)
         self.assertEqual(selected, original)
+
+    def test_fourth_answer_can_be_correct_and_options_must_be_distinct(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / 'four.txt'
+            q = dict(app.load_banks()['music'][0], ANSWER='D')
+            path.write_text('\n'.join(f'{k}: {v}' for k, v in q.items()), encoding='utf-8')
+            self.assertEqual(app.load_bank(path)[0]['ANSWER'], 'D')
+            q['D'] = q['A']
+            path.write_text('\n'.join(f'{k}: {v}' for k, v in q.items()), encoding='utf-8')
+            with self.assertRaisesRegex(ValueError, 'distinct'):
+                app.load_bank(path)
+
+    def test_all_banks_have_four_options_and_unique_questions(self):
+        questions = [q for bank in app.load_banks().values() for q in bank]
+        self.assertEqual(len({q['QUESTION'] for q in questions}), len(questions))
+        for q in questions:
+            self.assertTrue(all(q[letter] for letter in 'ABCD'), q['ID'])
+            self.assertEqual(len({q[letter].casefold() for letter in 'ABCD'}), 4, q['ID'])
+
+    def test_answer_key_repeats_questions_and_omits_reading_links(self):
+        selected = app.select_questions(app.load_banks(), {}, 3)
+        body, plain = app.render_email(date(2026, 11, 20), selected, [], '')
+        self.assertNotIn('Explore the topic', body)
+        self.assertNotIn('Explore the topic', plain)
+        key = plain.split('ANSWER KEY AND WORKED EXAMPLES', 1)[1]
+        for bank in selected.values():
+            for q in bank:
+                self.assertEqual(body.count(app.esc(q['QUESTION'])), 2, q['ID'])
+                self.assertIn(q['QUESTION'], key)
+                self.assertIn(f"Answer: {q['ANSWER']}. {q[q['ANSWER']]}", key)
+                self.assertNotIn(q['SOURCE'], body)
+                self.assertNotIn(q['SOURCE'], plain)
+                self.assertIn(f"D. {q['D']}", plain)
+
+    def test_new_category_and_news_numbering_are_consistent(self):
+        keys = [key for key, *_ in app.SECTIONS]
+        self.assertEqual(keys[:2], ['neuropsychology', 'mental_health'])
+        selected = app.select_questions(app.load_banks(), {}, 3)
+        body, plain = app.render_email(date(2026, 11, 20), selected, [], '')
+        self.assertIn('02. Mental health case files', plain)
+        self.assertIn('07. Ireland’s News', plain)
+        for q in app.load_banks()['mental_health']:
+            self.assertTrue(q['QUESTION'].startswith(('DSM-5-TR', 'ICD-11')), q['ID'])
+        self.assertIn('18 questions', body)
+
+    def test_default_editions_stay_within_email_size_budget(self):
+        banks, history = app.load_banks(), {}
+        for week in range(40):
+            day = date(2026, 11, 16) + timedelta(weeks=week)
+            chosen = app.select_questions(banks, history, 3)
+            body, _ = app.render_email(day, chosen, [], '')
+            self.assertLess(len(body.encode('utf-8')), 100_000, f'Week {week + 1}')
+            app.record_usage(history, chosen, [], day)
 
 
 class NewsTests(unittest.TestCase):
@@ -173,7 +227,7 @@ class DeliveryTests(unittest.TestCase):
             app.main(['--send'])
         smtp.assert_called_once()
         history = json.loads((self.root / 'state/history.json').read_text())
-        self.assertEqual(len(history['questions']), 15)
+        self.assertEqual(len(history['questions']), len(app.SECTIONS) * 3)
         self.assertEqual(len(history['editions']), 1)
         self.assertFalse((self.root / 'state/pending.json').exists())
         self.assertTrue((self.root / 'docs/index.html').exists())

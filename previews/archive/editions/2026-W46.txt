@@ -2,7 +2,7 @@ PREVIEW / DEMO — sample edition, never sent.
 
 Matt's Newsletter | 2026-W46 | 13 November 2026
 
-Hi Matt! Try the questions before the answer key.
+Try the questions before the answer key.
 
 
 01. Neuropsychology case files
@@ -17,6 +17,8 @@ B. Dysarthria; motor speech pathways
 
 C. Anterograde declarative amnesia; hippocampal memory systems
 
+D. Prosopagnosia; right ventral occipitotemporal network
+
 1.2. A familiar face becomes unfamiliar
 After a right occipitotemporal infarct, a patient cannot recognise familiar people by face, but identifies them by voice and can describe facial features. Which pairing fits best?
 
@@ -25,6 +27,8 @@ A. Prosopagnosia; ventral occipitotemporal face-processing network
 B. Ideomotor apraxia; parietofrontal action network
 
 C. Auditory agnosia; temporal auditory network
+
+D. Conduction aphasia; dominant dorsal language pathways
 
 1.3. Seen but not recognised
 Following bilateral ventral occipitotemporal injury, a patient can copy an object drawing but cannot identify the pictured object. Recognition by touch is intact. Which pairing is most likely?
@@ -35,11 +39,50 @@ B. Primary blindness; bilateral primary visual cortex destruction
 
 C. Expressive aphasia; dominant frontal language pathways
 
+D. Hemispatial neglect; right attention network
 
-02. Neuroscience
+
+02. Mental health case files
+Fictional diagnostic cases: DSM-5-TR and ICD-11.
+
+2.1. Fear of the next unexpected episode
+DSM-5-TR. An adult has recurrent unexpected surges of intense fear with palpitations, shaking, breathlessness and dizziness, peaking within minutes. For two months they have worried persistently about another attack and changed daily activities to avoid one. Which diagnosis best fits this fictional case?
+
+A. Generalized anxiety disorder
+
+B. Panic disorder
+
+C. Specific phobia
+
+D. Bipolar II disorder
+
+2.2. When escape feels difficult
+DSM-5-TR. For nine months, an adult avoids buses and crowded queues because escape or help might be difficult if they become dizzy or panicky. They need a companion, the fear is disproportionate and life is substantially restricted. Which diagnosis best fits this fictional case?
+
+A. Separation anxiety disorder
+
+B. Agoraphobia
+
+C. Social anxiety disorder
+
+D. Specific phobia of spiders
+
+2.3. The feared judgement
+DSM-5-TR. For a year, an adult fears conversations and meetings because others may notice trembling and judge them negatively. These settings consistently provoke anxiety, are avoided or endured with distress, and disrupt work. Which diagnosis best fits this fictional case?
+
+A. Social anxiety disorder
+
+B. Illness anxiety disorder
+
+C. Agoraphobia
+
+D. Generalized anxiety disorder
+
+
+03. Neuroscience
 Neurotransmitters, circuits and how the brain works.
 
-2.1. Alertness and noradrenaline
+3.1. Alertness and noradrenaline
 Which brainstem nucleus is a major source of noradrenaline projections to the brain?
 
 A. Locus coeruleus
@@ -48,7 +91,9 @@ B. Hippocampal dentate gyrus
 
 C. Primary visual cortex
 
-2.2. The memory distinction
+D. Substantia nigra pars compacta
+
+3.2. The memory distinction
 Which task relies especially on hippocampal systems?
 
 A. Producing a knee-jerk reflex
@@ -57,7 +102,9 @@ B. Forming a new memory of meeting someone yesterday
 
 C. Contracting a single muscle fibre at its motor end plate
 
-2.3. Amygdala beyond fear
+D. Generating the retinal response to light
+
+3.3. Amygdala beyond fear
 Which description is the best fit for amygdala function?
 
 A. Serving as the sole centre for mathematical calculation
@@ -66,11 +113,13 @@ B. Learning about biologically significant cues and contributing to emotional re
 
 C. Generating every emotion on its own
 
+D. Acting as the sole pacemaker of circadian rhythms
 
-03. Psychotherapy toolkit
+
+04. Psychotherapy toolkit
 Methods, origins and the language of therapy.
 
-3.1. Testing a prediction
+4.1. Testing a prediction
 A client predicts that asking a question will lead to ridicule. With a therapist, they plan a manageable test and compare the result with the prediction. What is this?
 
 A. Classical dream interpretation
@@ -79,7 +128,9 @@ B. A behavioural experiment
 
 C. Free association
 
-3.2. Getting moving again
+D. A projective personality test
+
+4.2. Getting moving again
 Which example best illustrates behavioural activation?
 
 A. Waiting until motivation is perfect before doing anything
@@ -88,7 +139,9 @@ B. Scheduling a small meaningful activity and reviewing its effect
 
 C. Analysing every dream symbol before leaving the house
 
-3.3. Looking for evidence
+D. Replacing every meaningful activity with rest indefinitely
+
+4.3. Looking for evidence
 Which question best represents collaborative cognitive reappraisal?
 
 A. How can we prove you must feel happy?
@@ -97,11 +150,13 @@ B. What evidence supports this thought, and what evidence complicates it?
 
 C. Why should you never question your first impression?
 
+D. How can we ignore all evidence against the thought?
 
-04. A little Gaeilge
+
+05. A little Gaeilge
 Practical Irish at A2/B1, one small step at a time.
 
-4.1. An ordinary greeting
+5.1. An ordinary greeting
 What is the usual reply to Dia duit when greeting one person?
 
 A. Go dtí amárach.
@@ -110,7 +165,9 @@ B. Dia is Muire duit.
 
 C. Oíche Shamhna.
 
-4.2. Counting objects simply
+D. Slán go fóill.
+
+5.2. Counting objects simply
 Which standalone number is 'three'?
 
 A. a trí
@@ -119,7 +176,9 @@ B. a dó
 
 C. a cúig
 
-4.3. Tea, please
+D. a seacht
+
+5.3. Tea, please
 Choose the polite phrase meaning 'a cup of tea, please'.
 
 A. Cupán tae, le do thoil.
@@ -128,11 +187,13 @@ B. Cupán tae, oíche mhaith.
 
 C. Cupán tae, cá bhfuil tú?
 
+D. Cupán tae, tá ocras orm.
 
-05. Music theory, finally
+
+06. Music theory, finally
 A few minutes of practice count. Start here.
 
-5.1. The smallest keyboard step
+6.1. The smallest keyboard step
 How many semitones separate adjacent keys on a conventionally tuned piano, including black keys?
 
 A. Twelve
@@ -141,7 +202,9 @@ B. One
 
 C. Two
 
-5.2. An octave
+D. Three
+
+6.2. An octave
 How many semitones are in a standard Western octave?
 
 A. Seven
@@ -150,7 +213,9 @@ B. Twelve
 
 C. Six
 
-5.3. The treble staff
+D. Eight
+
+6.3. The treble staff
 In treble clef, what are the staff lines from bottom to top?
 
 A. E G B D F
@@ -159,88 +224,123 @@ B. G B D F A
 
 C. F A C E G
 
+D. F A C E
 
-06. Ireland’s News — social justice editorial priorities
+
+07. Ireland’s News — social justice editorial priorities
 
 Archive layout sample: no historical news has been reconstructed.
 
 
 ANSWER KEY AND WORKED EXAMPLES
 
-1.1. C. Anterograde declarative amnesia; hippocampal memory systems
+1.1. New days that disappear
+After bilateral medial temporal injury from encephalitis, a patient repeatedly forgets conversations held minutes earlier, although digit span and old motor skills remain relatively good. Which pairing fits?
+Answer: C. Anterograde declarative amnesia; hippocampal memory systems
 Bilateral medial temporal damage can severely disrupt new declarative learning while sparing aspects of immediate memory and procedural learning.
 Worked example / practice: Remembering how to ride a bicycle but forgetting meeting the instructor illustrates different memory systems.
-https://openstax.org/details/books/introduction-behavioral-neuroscience
 
-1.2. A. Prosopagnosia; ventral occipitotemporal face-processing network
+1.2. A familiar face becomes unfamiliar
+After a right occipitotemporal infarct, a patient cannot recognise familiar people by face, but identifies them by voice and can describe facial features. Which pairing fits best?
+Answer: A. Prosopagnosia; ventral occipitotemporal face-processing network
 A selective face-recognition difficulty despite adequate basic vision suggests prosopagnosia. Right-sided or bilateral ventral visual-network damage may be involved.
 Worked example / practice: Recognising a friend by their voice while failing to recognise their face helps distinguish a face-processing problem from a general memory problem.
-https://openstax.org/details/books/introduction-behavioral-neuroscience
 
-1.3. A. Associative visual agnosia; ventral visual recognition pathways
+1.3. Seen but not recognised
+Following bilateral ventral occipitotemporal injury, a patient can copy an object drawing but cannot identify the pictured object. Recognition by touch is intact. Which pairing is most likely?
+Answer: A. Associative visual agnosia; ventral visual recognition pathways
 Preserved copying suggests enough perceptual processing to form a representation, while access to object meaning from vision is impaired. Naming and semantic abilities must also be assessed.
 Worked example / practice: If the same object can be recognised by touch, the difficulty is more specific to visual recognition than to loss of all object knowledge.
-https://openstax.org/details/books/introduction-behavioral-neuroscience
 
-2.1. A. Locus coeruleus
+2.1. Fear of the next unexpected episode
+DSM-5-TR. An adult has recurrent unexpected surges of intense fear with palpitations, shaking, breathlessness and dizziness, peaking within minutes. For two months they have worried persistently about another attack and changed daily activities to avoid one. Which diagnosis best fits this fictional case?
+Answer: B. Panic disorder
+Panic disorder involves recurrent unexpected panic attacks plus at least a month of persistent concern or maladaptive behaviour change. A panic attack alone is not the same as panic disorder.
+Worked example / practice: Distinguish unexpected attacks from fear occurring only during a specific phobic or social situation.
+
+2.2. When escape feels difficult
+DSM-5-TR. For nine months, an adult avoids buses and crowded queues because escape or help might be difficult if they become dizzy or panicky. They need a companion, the fear is disproportionate and life is substantially restricted. Which diagnosis best fits this fictional case?
+Answer: B. Agoraphobia
+Agoraphobia concerns situations where escape or help may feel difficult if incapacitating or embarrassing symptoms occur. DSM-5-TR requires fear across at least two specified situation types and a persistent impairing pattern.
+Worked example / practice: A person may fear buses and queues because help feels unavailable, rather than fearing strangers judging their conversational skill.
+
+2.3. The feared judgement
+DSM-5-TR. For a year, an adult fears conversations and meetings because others may notice trembling and judge them negatively. These settings consistently provoke anxiety, are avoided or endured with distress, and disrupt work. Which diagnosis best fits this fictional case?
+Answer: A. Social anxiety disorder
+Social anxiety disorder centres on possible negative evaluation in social or performance situations, with persistent disproportionate fear, avoidance or distressed endurance and impairment. Ordinary shyness alone is insufficient.
+Worked example / practice: Compare fear of being judged while speaking with fear of being unable to escape a building.
+
+3.1. Alertness and noradrenaline
+Which brainstem nucleus is a major source of noradrenaline projections to the brain?
+Answer: A. Locus coeruleus
 The locus coeruleus projects widely and contributes to arousal, attention and responses to salient events.
 Worked example / practice: Use a pairing card: locus coeruleus -> noradrenaline. Raphe nuclei -> serotonin is another useful pairing.
-https://openstax.org/details/books/introduction-behavioral-neuroscience
 
-2.2. B. Forming a new memory of meeting someone yesterday
+3.2. The memory distinction
+Which task relies especially on hippocampal systems?
+Answer: B. Forming a new memory of meeting someone yesterday
 The hippocampus supports new episodic and relational learning. It is not the storage site for every kind of memory.
 Worked example / practice: Remembering an event and improving at a motor skill can dissociate, showing that memory is not one single system.
-https://openstax.org/details/books/introduction-behavioral-neuroscience
 
-2.3. B. Learning about biologically significant cues and contributing to emotional responses
+3.3. Amygdala beyond fear
+Which description is the best fit for amygdala function?
+Answer: B. Learning about biologically significant cues and contributing to emotional responses
 Amygdala circuits contribute to emotional learning and salience, including but not limited to threat processing.
 Worked example / practice: A previously neutral sound can acquire significance through learning. Several connected structures contribute to the response.
-https://openstax.org/details/books/introduction-behavioral-neuroscience
 
-3.1. B. A behavioural experiment
+4.1. Testing a prediction
+A client predicts that asking a question will lead to ridicule. With a therapist, they plan a manageable test and compare the result with the prediction. What is this?
+Answer: B. A behavioural experiment
 A behavioural experiment gathers evidence about a specific prediction. It is more than simply telling the client to stop worrying.
 Worked example / practice: Prediction: 'Everyone will laugh.' Observable outcome: how people actually respond to one ordinary question.
-https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 
-3.2. B. Scheduling a small meaningful activity and reviewing its effect
+4.2. Getting moving again
+Which example best illustrates behavioural activation?
+Answer: B. Scheduling a small meaningful activity and reviewing its effect
 Behavioural activation addresses withdrawal and reduced reinforcement through planned engagement. Activities are selected collaboratively and adjusted to circumstances.
 Worked example / practice: A small plan might be a ten-minute walk on Tuesday, followed by a brief note about mood and sense of achievement.
-https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 
-3.3. B. What evidence supports this thought, and what evidence complicates it?
+4.3. Looking for evidence
+Which question best represents collaborative cognitive reappraisal?
+Answer: B. What evidence supports this thought, and what evidence complicates it?
 Cognitive reappraisal examines accuracy and usefulness. It does not assume distress is irrational or that real difficulties can be wished away.
 Worked example / practice: 'I failed one exam' is specific evidence. 'I will fail everything forever' is a much broader prediction.
-https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 
-4.1. B. Dia is Muire duit.
+5.1. An ordinary greeting
+What is the usual reply to Dia duit when greeting one person?
+Answer: B. Dia is Muire duit.
 Dia is Muire duit is the traditional response to Dia duit. Other greetings and local forms are also used.
 Worked example / practice: Two-person dialogue: A: Dia duit. B: Dia is Muire duit. A simple friendly greeting exchange.
-https://www.teanglann.ie/en/
 
-4.2. A. a trí
+5.2. Counting objects simply
+Which standalone number is 'three'?
+Answer: A. a trí
 A trí is three in the basic counting series. Counting people and counting objects introduce additional patterns.
 Worked example / practice: Count aloud: a haon, a dó, a trí, a ceathair, a cúig. This is practice with the abstract counting series.
-https://www.teanglann.ie/en/
 
-4.3. A. Cupán tae, le do thoil.
+5.3. Tea, please
+Choose the polite phrase meaning 'a cup of tea, please'.
+Answer: A. Cupán tae, le do thoil.
 Le do thoil means please when speaking to one person. Le bhur dtoil is the plural form.
 Worked example / practice: At a café: Ba mhaith liom cupán tae, le do thoil. Meaning: I would like a cup of tea, please.
-https://www.teanglann.ie/en/
 
-5.1. B. One
+6.1. The smallest keyboard step
+How many semitones separate adjacent keys on a conventionally tuned piano, including black keys?
+Answer: B. One
 A semitone is the smallest adjacent-key step in the usual twelve-note equal-tempered keyboard system.
 Worked example / practice: E to F is one semitone even though both are white keys. C to D is two semitones.
-https://www.musictheory.net/lessons
 
-5.2. B. Twelve
+6.2. An octave
+How many semitones are in a standard Western octave?
+Answer: B. Twelve
 An octave spans twelve semitones in the twelve-note system, while its diatonic letter-name span counts eight notes inclusively.
 Worked example / practice: C to the next higher C is an octave. The letter names C D E F G A B C count eight positions including both endpoints.
-https://www.musictheory.net/lessons
 
-5.3. A. E G B D F
+6.3. The treble staff
+In treble clef, what are the staff lines from bottom to top?
+Answer: A. E G B D F
 The treble clef identifies the G line, which is the second line from the bottom. The five lines are E G B D F.
 Worked example / practice: The spaces from bottom to top spell F A C E. Compare lines and spaces rather than memorising them as one mixed list.
-https://www.musictheory.net/lessons
 
 Clinical vignettes are fictional educational examples. Brain functions involve networks; a likely quiz answer is not a clinical assessment. Irish follows broadly standard usage; dialect forms may differ.
 

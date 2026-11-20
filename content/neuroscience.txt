@@ -4,6 +4,7 @@ QUESTION: Which description best captures dopamine's roles in the brain?
 A: The sole neurotransmitter used for vision
 B: A chemical that produces only pleasure
 C: Movement, motivation, learning and reward-related signalling
+D: It exclusively carries signals between the two eyes
 ANSWER: C
 EXPLANATION: Dopamine has several pathways and receptor types. Its functions cannot be reduced to a single emotion.
 EXAMPLE: A reward arriving unexpectedly can change dopamine-cell firing in some circuits. Separately, nigrostriatal dopamine supports movement.
@@ -15,6 +16,7 @@ QUESTION: Which statement is most accurate about serotonin?
 A: It operates only in the spinal cord
 B: It is a direct happiness meter
 C: It contributes to several processes, including mood, sleep and appetite
+D: Its only role is producing skeletal muscle contraction
 ANSWER: C
 EXPLANATION: Serotonin acts through multiple receptor types in different circuits. A simple 'more serotonin means more happiness' rule is misleading.
 EXAMPLE: Try listing three systems that use serotonin. Mood regulation, sleep-related processes and appetite provide a starting set.
@@ -26,6 +28,7 @@ QUESTION: Which statement about oxytocin is most accurate?
 A: It is the brain's primary excitatory transmitter
 B: It has reproductive roles and context-dependent effects on social behaviour
 C: It universally makes everyone trust everyone else
+D: It controls every social interaction independently of context
 ANSWER: B
 EXPLANATION: Oxytocin participates in childbirth and milk ejection and influences some social processes. Social effects depend on the person, task and context.
 EXAMPLE: Replace the label 'love hormone' with a fuller sentence: reproductive physiology plus context-sensitive social signalling.
@@ -37,6 +40,7 @@ QUESTION: Which neurotransmitter mediates much of the fast inhibitory signalling
 A: GABA
 B: Glutamate
 C: Dopamine
+D: Melatonin
 ANSWER: A
 EXPLANATION: GABA is a major inhibitory transmitter in the mature central nervous system. Effects depend on receptor type and ionic conditions.
 EXAMPLE: Excitation and inhibition work together: inhibiting one neuron can even disinhibit a downstream neuron.
@@ -48,6 +52,7 @@ QUESTION: Which transmitter mediates much of the fast excitatory signalling in t
 A: Glutamate
 B: Oxytocin
 C: Melatonin
+D: Acetylcholine
 ANSWER: A
 EXPLANATION: Glutamate acts at several receptor families, including AMPA and NMDA receptors, and is central to excitatory transmission.
 EXAMPLE: AMPA and NMDA are receptor names, while glutamate is a transmitter that can activate them.
@@ -59,6 +64,7 @@ QUESTION: Which pairing is most accurate?
 A: Only visual colour perception
 B: Only production of cerebrospinal fluid
 C: Neuromuscular transmission and contributions to attention and memory
+D: Only the transport of oxygen in red blood cells
 ANSWER: C
 EXPLANATION: Acetylcholine acts at skeletal neuromuscular junctions and in central circuits involved in cognition and arousal.
 EXAMPLE: The same transmitter can work in the peripheral nervous system and in brain circuits; location changes its role.
@@ -70,6 +76,7 @@ QUESTION: Which brainstem nucleus is a major source of noradrenaline projections
 A: Locus coeruleus
 B: Hippocampal dentate gyrus
 C: Primary visual cortex
+D: Substantia nigra pars compacta
 ANSWER: A
 EXPLANATION: The locus coeruleus projects widely and contributes to arousal, attention and responses to salient events.
 EXAMPLE: Use a pairing card: locus coeruleus -> noradrenaline. Raphe nuclei -> serotonin is another useful pairing.
@@ -81,6 +88,7 @@ QUESTION: Which task relies especially on hippocampal systems?
 A: Producing a knee-jerk reflex
 B: Forming a new memory of meeting someone yesterday
 C: Contracting a single muscle fibre at its motor end plate
+D: Generating the retinal response to light
 ANSWER: B
 EXPLANATION: The hippocampus supports new episodic and relational learning. It is not the storage site for every kind of memory.
 EXAMPLE: Remembering an event and improving at a motor skill can dissociate, showing that memory is not one single system.
@@ -92,6 +100,7 @@ QUESTION: Which description is the best fit for amygdala function?
 A: Serving as the sole centre for mathematical calculation
 B: Learning about biologically significant cues and contributing to emotional responses
 C: Generating every emotion on its own
+D: Acting as the sole pacemaker of circadian rhythms
 ANSWER: B
 EXPLANATION: Amygdala circuits contribute to emotional learning and salience, including but not limited to threat processing.
 EXAMPLE: A previously neutral sound can acquire significance through learning. Several connected structures contribute to the response.
@@ -103,6 +112,7 @@ QUESTION: Which sensory pathway reaches primary cortex without a first-order tha
 A: Vision
 B: Somatosensation
 C: Olfaction
+D: Audition
 ANSWER: C
 EXPLANATION: Initial olfactory cortical processing is unusual in bypassing a first-order thalamic relay. Later olfactory processing can still involve thalamic circuits.
 EXAMPLE: Vision uses the lateral geniculate nucleus on a major route to primary visual cortex; olfaction follows a different initial route.
@@ -114,6 +124,7 @@ QUESTION: Which hypothalamic structure is a central circadian pacemaker?
 A: Substantia nigra
 B: Suprachiasmatic nucleus
 C: Angular gyrus
+D: Primary somatosensory cortex
 ANSWER: B
 EXPLANATION: The suprachiasmatic nucleus helps coordinate circadian rhythms and receives information related to environmental light.
 EXAMPLE: A regular light-dark cycle can help synchronise the clock. The clock is more than simply a conscious decision to feel sleepy.
@@ -125,6 +136,7 @@ QUESTION: Why does myelin generally increase conduction speed along an axon?
 A: It turns an axon into a blood vessel
 B: It supports rapid saltatory conduction between nodes
 C: It makes every synapse release more dopamine
+D: It eliminates the need for all action potentials
 ANSWER: B
 EXPLANATION: Myelin alters electrical properties of the axon and supports regeneration of action potentials at nodes of Ranvier.
 EXAMPLE: Picture the nodes as sites where the signal is actively regenerated, not as literal gaps that the signal magically jumps across.
@@ -136,6 +148,7 @@ QUESTION: Which statement describes the size of an action potential at a given a
 A: It becomes twice as tall whenever a stimulus doubles
 B: It is approximately all-or-none once threshold is reached
 C: It is always identical to a postsynaptic potential
+D: It is generated only in the cell nucleus
 ANSWER: B
 EXPLANATION: Stronger input often changes firing frequency or recruits more neurons rather than simply scaling individual action-potential amplitude.
 EXAMPLE: Compare a stronger sensory stimulus with more frequent spikes, rather than imagining each spike becoming proportionally taller.
@@ -147,6 +160,7 @@ QUESTION: At a typical chemical synapse, what crosses the synaptic cleft to infl
 A: Myelin sheaths
 B: Neurotransmitter molecules
 C: An entire presynaptic axon
+D: Whole postsynaptic cell bodies
 ANSWER: B
 EXPLANATION: Presynaptic vesicles release transmitter, which diffuses across the cleft and binds to receptors. Electrical synapses instead use gap junctions.
 EXAMPLE: Make a four-step sequence: spike arrives -> calcium entry -> transmitter release -> receptor activation.
@@ -158,6 +172,7 @@ QUESTION: What does long-term potentiation refer to?
 A: A universal deletion of unused memories
 B: A lasting increase in synaptic effectiveness after particular activity patterns
 C: A permanent increase in skull size
+D: A temporary change in the external sound volume
 ANSWER: B
 EXPLANATION: LTP is one studied form of synaptic plasticity. It is a candidate mechanism for aspects of learning, not a synonym for all memory.
 EXAMPLE: Learning can strengthen some connections and weaken others. Long-term depression names a different direction of change.
@@ -169,6 +184,7 @@ QUESTION: What does somatotopic organisation mean?
 A: Every neuron represents the whole body equally
 B: Each memory occupies a separate bone
 C: Neighbouring neural populations represent related parts of the body
+D: The brain is organised only by distance from the skull
 ANSWER: C
 EXPLANATION: Somatosensory and motor cortices contain organised body maps. Representation size reflects processing demands, not just body-part size.
 EXAMPLE: Hands and lips take up disproportionately large cortical territory compared with some larger body parts.
@@ -180,6 +196,7 @@ QUESTION: Which function is strongly associated with prefrontal networks?
 A: Acting as the only source of all reflexes
 B: Detecting sound in the cochlea
 C: Maintaining goals and regulating behaviour in context
+D: Manufacturing the lens of the eye
 ANSWER: C
 EXPLANATION: Prefrontal regions work with other cortical and subcortical areas to support planning, working memory and flexible control.
 EXAMPLE: Remembering a rule while resisting an irrelevant distraction recruits coordinated control processes rather than a single 'willpower spot'.
@@ -191,6 +208,7 @@ QUESTION: Which description is the best general account of cerebellar involvemen
 A: Only the secretion of digestive enzymes
 B: Coordination, prediction and learning across motor and some nonmotor functions
 C: Only conscious visual recognition of faces
+D: Producing only spinal reflexes
 ANSWER: B
 EXPLANATION: The cerebellum is strongly involved in motor calibration and timing and also participates in cognitive networks.
 EXAMPLE: Gradually adjusting a movement after repeated small errors illustrates calibration and learning.
@@ -202,6 +220,7 @@ QUESTION: Which glial cell forms myelin in the central nervous system?
 A: Oligodendrocyte
 B: Microglial cell
 C: Schwann cell
+D: Astrocyte
 ANSWER: A
 EXPLANATION: Oligodendrocytes myelinate central axons; Schwann cells myelinate peripheral axons. Microglia have major immune-surveillance roles.
 EXAMPLE: Build a two-column card: CNS -> oligodendrocyte; PNS -> Schwann cell.
@@ -213,6 +232,7 @@ QUESTION: Which cells are central to immune surveillance within the brain?
 A: Skeletal muscle fibres
 B: Microglia
 C: Photoreceptors
+D: Schwann cells
 ANSWER: B
 EXPLANATION: Microglia monitor their environment and participate in immune responses and synaptic remodelling. Their roles vary with context.
 EXAMPLE: Do not treat all glia as passive support: different glial classes have active and distinct functions.
@@ -224,6 +244,7 @@ QUESTION: The commonly used BOLD signal in fMRI most directly reflects what?
 A: Changes related to blood oxygenation and local haemodynamics
 B: The exact content of a person's thoughts
 C: Individual action potentials measured directly
+D: Direct neurotransmitter concentrations in each synapse
 ANSWER: A
 EXPLANATION: BOLD is an indirect correlate of neural activity and depends on vascular responses. Interpretation requires task design and statistical care.
 EXAMPLE: A brighter statistical map does not by itself establish that a region uniquely causes the mental process being studied.
@@ -235,6 +256,7 @@ QUESTION: Which is a major strength of scalp EEG?
 A: High temporal resolution for population electrical activity
 B: Perfect localisation of deep brain sources
 C: Direct measurement of every neuron in the brain
+D: Unlimited spatial resolution without assumptions
 ANSWER: A
 EXPLANATION: EEG detects voltage differences related mainly to synchronised population activity. Its temporal resolution is high, while source localisation is more uncertain.
 EXAMPLE: A millisecond-scale change can be easier to time with EEG than with a haemodynamic measure such as BOLD fMRI.
@@ -246,6 +268,7 @@ QUESTION: Which pairing is broadly correct?
 A: Sympathetic mobilisation and parasympathetic support for rest and digestion
 B: Sympathetic language production and parasympathetic colour vision
 C: Both systems control only voluntary finger movement
+D: Neither has any influence on organs
 ANSWER: A
 EXPLANATION: The two autonomic branches regulate organs and often have complementary effects, though their relationship is more complex than a universal on/off switch.
 EXAMPLE: Increased heart rate during exertion and recovery afterwards illustrate autonomic regulation across changing demands.
@@ -257,6 +280,7 @@ QUESTION: Which statement about dreaming is most accurate?
 A: Dreaming is impossible outside REM sleep
 B: Dreaming can occur in REM and non-REM sleep
 C: Dreaming proves the body is fully awake
+D: Dreaming always requires lucid awareness
 ANSWER: B
 EXPLANATION: Vivid dreaming is often associated with REM, but reports can also follow awakening from non-REM sleep.
 EXAMPLE: Separate a sleep-stage classification from a subjective experience: they overlap without being identical categories.
@@ -268,6 +292,7 @@ QUESTION: Holding a phone number briefly while entering it is closest to which c
 A: Working memory
 B: An automatic spinal reflex
 C: Primary retinal transduction
+D: Long-term storage of all childhood memories
 ANSWER: A
 EXPLANATION: Working memory maintains and manipulates information over short periods. It interacts with attention and long-term knowledge.
 EXAMPLE: Repeating digits keeps them active; rearranging them mentally adds a manipulation demand.
@@ -279,6 +304,7 @@ QUESTION: What is a major function of the corpus callosum?
 A: Pumping cerebrospinal fluid through the ventricles
 B: Converting light into retinal electrical signals
 C: Communication between the cerebral hemispheres
+D: Generating all spinal motor reflexes
 ANSWER: C
 EXPLANATION: The corpus callosum is a major white-matter commissure connecting the hemispheres. Other interhemispheric pathways also exist.
 EXAMPLE: A disconnection can disrupt information transfer even when a specialised system in each hemisphere still functions.
@@ -290,6 +316,7 @@ QUESTION: Which description best fits a major basal ganglia role?
 A: Producing all cerebrospinal fluid
 B: Selection and regulation of actions within cortical-subcortical loops
 C: Replacing every function of the cerebellum
+D: Converting sound vibrations directly into retinal images
 ANSWER: B
 EXPLANATION: Basal ganglia loops contribute to action selection, movement, learning and motivation. Their roles depend on the connected circuit.
 EXAMPLE: Compare selecting an action with calibrating its precision: basal ganglia and cerebellar circuits contribute differently and interact.
@@ -301,6 +328,7 @@ QUESTION: Which statement about the adult human brain is the most careful?
 A: Most neurons are not routinely replaced; adult neurogenesis remains an active research topic
 B: Learning always requires growing an entirely new brain region
 C: Every neuron is replaced each week
+D: All adult learning is impossible without neurogenesis
 ANSWER: A
 EXPLANATION: Plasticity includes changes in connections and circuit function. Claims about the extent of adult human neurogenesis require careful interpretation.
 EXAMPLE: Learning a melody can alter how existing circuits operate without requiring weekly replacement of all their neurons.
@@ -312,6 +340,7 @@ QUESTION: A brain region is more active during a task. What follows directly?
 A: Its measured activity is associated with the task under those conditions
 B: It is the only region necessary for the task
 C: It must store the entire task as a single memory
+D: The task has no relationship to other brain systems
 ANSWER: A
 EXPLANATION: An activity association alone does not establish necessity, sufficiency or exclusivity. Lesion and perturbation studies can address different causal questions.
 EXAMPLE: A region responding during reading may support attention rather than reading-specific computations; comparison conditions help distinguish explanations.
@@ -323,7 +352,1088 @@ QUESTION: Which description best captures a prediction-error signal?
 A: A record of skull shape
 B: A guarantee that the brain predicted correctly
 C: A difference between an expected and observed event
+D: A measure of how bright a stimulus appears
 ANSWER: C
 EXPLANATION: Prediction errors can update internal models in learning and perception. The precise computation depends on the circuit and model.
 EXAMPLE: If you expect a quiet note and hear a loud one, the mismatch provides information for updating the expectation.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-031
+TITLE: A resting electrical difference
+QUESTION: Which ion’s permeability strongly contributes to a typical neuron’s negative resting potential?
+A: Iodine in thyroid hormone
+B: Potassium
+C: Calcium stored only in bone
+D: Iron bound to haemoglobin
+ANSWER: B
+EXPLANATION: Resting membrane potential depends on ionic gradients and selective membrane permeability, especially potassium conductance. The sodium-potassium pump helps maintain the gradients over time.
+EXAMPLE: Distinguish a pump maintaining concentration gradients from an ion channel permitting passive ion movement.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-032
+TITLE: The rising and falling spike
+QUESTION: Which event commonly drives the rapid rising phase of an axonal action potential?
+A: Destruction of the axon membrane
+B: Closing every ion channel permanently
+C: Opening of voltage-gated sodium channels
+D: Release of melatonin from the nucleus
+ANSWER: C
+EXPLANATION: Many neuronal action potentials involve rapid sodium-channel activation followed by sodium-channel inactivation and increased potassium conductance. Channel timing matters as much as ion identity.
+EXAMPLE: A rapid depolarising phase and a later repolarising phase involve changing conductances rather than the whole neuron physically moving.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-033
+TITLE: A brief recovery interval
+QUESTION: During the absolute refractory period, what is true?
+A: Another normal action potential cannot be initiated at that location
+B: All synapses become permanently inactive
+C: Myelin is newly manufactured
+D: Any tiny input produces unlimited spikes
+ANSWER: A
+EXPLANATION: After a spike, sodium-channel inactivation creates an absolute refractory period. Later recovery and afterhyperpolarisation can create a relative refractory period.
+EXAMPLE: A cell cannot increase firing rate without limit because its membrane mechanisms need time to recover.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-034
+TITLE: Adding inputs together
+QUESTION: Two nearby excitatory inputs arrive on different dendritic branches. What process can combine their effects?
+A: Neurogenesis by definition
+B: Spatial summation
+C: Axonal myelination
+D: Sensory adaptation in the lens
+ANSWER: B
+EXPLANATION: Spatial summation combines inputs from different locations; temporal summation combines inputs close together in time. Whether threshold is reached depends on the integrated membrane response.
+EXAMPLE: Two weak inputs may jointly matter even if neither alone reaches threshold.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-035
+TITLE: Channels and slower cascades
+QUESTION: Which receptor class directly gates an ion channel when activated?
+A: Ionotropic
+B: Metabotropic in every case
+C: A red-blood-cell oxygen receptor
+D: A steroid receptor in the nucleus only
+ANSWER: A
+EXPLANATION: Ionotropic receptors directly gate ion channels, while metabotropic receptors act through signalling cascades. The labels describe mechanisms rather than a universal excitatory-versus-inhibitory division.
+EXAMPLE: A transmitter can act at both receptor classes; acetylcholine has nicotinic and muscarinic receptor families.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-036
+TITLE: Agonist or antagonist?
+QUESTION: A substance binds and activates a receptor. What is it called?
+A: An agonist
+B: A myelin sheath
+C: A commissure
+D: An antagonist by definition
+ANSWER: A
+EXPLANATION: An agonist activates a receptor, while an antagonist blocks receptor activation without itself producing the same activating effect. Network outcomes also depend on the receptor and circuit.
+EXAMPLE: Blocking an inhibitory receptor can increase activity, so blocking a receptor does not always mean reducing whole-circuit activity.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-037
+TITLE: Clearing the synaptic signal
+QUESTION: What does neurotransmitter reuptake describe?
+A: Transport of transmitter from extracellular space back into cells
+B: Removal of the entire synaptic cleft
+C: Release of a hormone into a ventricle only
+D: Growth of a new axon after every spike
+ANSWER: A
+EXPLANATION: Transmitters can be cleared by reuptake, enzymatic breakdown or diffusion, depending on the transmitter and location. Clearance changes how long signalling can persist.
+EXAMPLE: A transporter moving transmitter back into a cell and an enzyme breaking it down are different mechanisms.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-038
+TITLE: Different dopamine routes
+QUESTION: Which pairing correctly identifies a dopamine projection pathway?
+A: Cerebellum to skin: mesolimbic pathway
+B: Thalamus to kidney: nigrostriatal pathway
+C: Retina to cochlea: mesocortical pathway
+D: Substantia nigra to striatum: nigrostriatal pathway
+ANSWER: D
+EXPLANATION: Nigrostriatal, mesolimbic and mesocortical pathways connect different structures and contribute to different functions. A single global dopamine level cannot capture these roles.
+EXAMPLE: Compare movement-related striatal loops with reward-learning tasks before making claims about what dopamine does.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-039
+TITLE: A coincidence-sensitive receptor
+QUESTION: Which receptor is especially associated with a voltage-dependent magnesium block?
+A: Muscarinic acetylcholine receptor
+B: NMDA receptor
+C: Dopamine D2 receptor
+D: Oxytocin receptor
+ANSWER: B
+EXPLANATION: NMDA receptor function depends on glutamate binding and voltage-dependent relief of magnesium block. Calcium entry through these receptors can contribute to plasticity under appropriate conditions.
+EXAMPLE: Think of receptor activation as depending on both chemical input and the membrane’s electrical state.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-040
+TITLE: Skills and episodes
+QUESTION: Which is a clear example of procedural learning?
+A: Remembering the date of yesterday’s meeting
+B: Recalling the plot of a film watched last night
+C: Naming the people at a recent party
+D: Gradually improving a well-practised movement sequence
+ANSWER: D
+EXPLANATION: Procedural learning and episodic learning can dissociate. Basal ganglia, cerebellar and cortical systems support different aspects of skills, while hippocampal systems are important for new episodic learning.
+EXAMPLE: A person may improve at a tracing task without consciously remembering earlier practice sessions.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-041
+TITLE: A memory changes with time
+QUESTION: What does systems consolidation broadly concern?
+A: Changes over time in the networks supporting a memory
+B: Moving a memory into the skull bone
+C: Converting all memories into spinal reflexes
+D: Replacing every neuron after sleep
+ANSWER: A
+EXPLANATION: Systems consolidation concerns changing contributions of distributed networks over time. It does not mean every remote memory becomes a perfectly fixed record.
+EXAMPLE: Compare learning an episode now with retrieving it months later; both retrieval and reactivation can influence the memory.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-042
+TITLE: Learning that an old cue is safe
+QUESTION: A cue stops predicting a previously expected event. What process can reduce the learned response?
+A: Extinction learning
+B: Axonal decussation
+C: Primary retinal transduction
+D: Myelination by definition
+ANSWER: A
+EXPLANATION: Extinction commonly involves new learning that competes with an earlier association rather than simple erasure. Context changes can influence whether an extinguished response returns.
+EXAMPLE: A previously feared cue may elicit less response in a safe setting but more again after a context change.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-043
+TITLE: The stress cascade
+QUESTION: In the HPA axis, what does the A refer to?
+A: Adrenal
+B: Axon
+C: Amygdala
+D: Auditory
+ANSWER: A
+EXPLANATION: The hypothalamic-pituitary-adrenal axis links hypothalamic, pituitary and adrenal signalling. Cortisol participates in feedback and adaptation, with effects depending on timing and context.
+EXAMPLE: Keep the sequence straight: hypothalamus -> pituitary -> adrenal cortex, rather than treating cortisol as a neurotransmitter released by every synapse.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-044
+TITLE: The night signal
+QUESTION: Which gland is associated with melatonin secretion?
+A: Adrenal cortex
+B: Thyroid gland
+C: Pineal gland
+D: Pancreatic islets
+ANSWER: C
+EXPLANATION: The pineal gland releases melatonin in a circadian pattern influenced by light-related pathways. Melatonin is a timing signal, not a universal explanation for every sleep problem.
+EXAMPLE: Distinguish homeostatic sleep pressure from circadian timing: being awake a long time and being at the biological night are different influences.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-045
+TITLE: A selective barrier
+QUESTION: Which structure is central to the blood-brain barrier’s physical restriction?
+A: Cartilage around the outer ear
+B: Tight junctions between specialised capillary endothelial cells
+C: The tympanic membrane
+D: Gaps between skull bones
+ANSWER: B
+EXPLANATION: The blood-brain barrier relies heavily on specialised endothelial tight junctions, supported by other cells of the neurovascular unit. It is selectively permeable rather than completely impermeable.
+EXAMPLE: Brain blood vessels can permit some exchanges while restricting others; astrocytes support the environment but do not alone form the endothelial seal.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-046
+TITLE: The fluid spaces
+QUESTION: What mainly produces cerebrospinal fluid?
+A: The cochlear ossicles
+B: Choroid plexuses
+C: Skeletal motor end plates
+D: The lens of the eye
+ANSWER: B
+EXPLANATION: Cerebrospinal fluid is produced mainly by choroid plexuses and circulates through ventricular and subarachnoid spaces. Obstruction can affect ventricular size and pressure.
+EXAMPLE: Differentiate brain ventricles containing CSF from the heart’s ventricles pumping blood.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-047
+TITLE: Following a crossed pathway
+QUESTION: Why can a left motor-cortical lesion cause right-sided weakness?
+A: Many corticospinal fibres cross before reaching their spinal targets
+B: The skull rotates signals to the other side
+C: The spinal cord contains no motor pathways
+D: Every muscle is controlled only by its nearest eye
+ANSWER: A
+EXPLANATION: Many major motor and sensory pathways cross, but the crossing point differs across systems. The lesion level and the pathway are therefore essential to localisation.
+EXAMPLE: A left cerebral motor lesion often affects the right body; do not automatically apply that rule to every cerebellar or brainstem sign.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-048
+TITLE: Light becomes a signal
+QUESTION: Which cells first transduce light in the retina?
+A: Cochlear hair cells
+B: Rods and cones
+C: Skeletal muscle fibres
+D: Oligodendrocytes
+ANSWER: B
+EXPLANATION: Photoreceptors transduce light; retinal circuits process signals before information travels through the optic nerve. The optic disc lacks photoreceptors, creating a physiological blind spot.
+EXAMPLE: A blind spot in the normal retina differs from a cortical visual-field defect caused by a brain lesion.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-049
+TITLE: Sound becomes a signal
+QUESTION: Which cells are central to sensory transduction in the cochlea?
+A: Retinal cones
+B: Hair cells
+C: Cerebellar Purkinje cells
+D: Astrocytic endfeet
+ANSWER: B
+EXPLANATION: Cochlear hair cells convert mechanical movement into neural signalling. Frequency is represented partly through the tonotopic organisation of the basilar membrane and auditory pathways.
+EXAMPLE: High and low frequencies peak at different positions along the basilar membrane.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-050
+TITLE: Two visual streams
+QUESTION: Which function is strongly associated with the ventral visual stream?
+A: Recognising object identity
+B: Synthesising every hormone
+C: Producing the heartbeat
+D: Generating all spinal reflexes
+ANSWER: A
+EXPLANATION: Ventral visual pathways contribute strongly to object identity, while dorsal pathways support spatial and action-related processing. The streams interact rather than operating in complete isolation.
+EXAMPLE: Recognising a cup and reaching accurately to its handle make different visual demands.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-051
+TITLE: What a lesion can tell us
+QUESTION: Which question is lesion evidence particularly useful for investigating?
+A: The exact wording of every thought
+B: Whether damaged tissue or its connections contribute to a function
+C: The complete genetic history of a person
+D: The colour of a neuron’s membrane
+ANSWER: B
+EXPLANATION: Lesion evidence can inform causal necessity, but interpretation must consider lesion extent, connections, prior ability and compensation. A lesion is rarely a perfectly selective experimental manipulation.
+EXAMPLE: A region being active in a task and a lesion disrupting that task provide different kinds of evidence.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-052
+TITLE: Temporarily perturbing a circuit
+QUESTION: Which method can transiently perturb accessible cortical processing using magnetic pulses?
+A: An EEG recording without stimulation
+B: Ordinary structural MRI alone
+C: A standard vocabulary questionnaire
+D: TMS
+ANSWER: D
+EXPLANATION: Transcranial magnetic stimulation uses magnetic pulses to induce electrical effects in accessible cortical tissue. Effects depend on stimulation parameters and network context.
+EXAMPLE: TMS is an intervention on activity, whereas ordinary fMRI records an indirect activity correlate.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-053
+TITLE: Studying functional connections
+QUESTION: What does functional connectivity usually refer to?
+A: A measure of bone density
+B: A count of skull sutures
+C: Statistical dependence between measured signals
+D: Proof of a direct axon between every correlated pair
+ANSWER: C
+EXPLANATION: Functional connectivity describes statistical relationships between signals; effective connectivity models directed influences under assumptions. Correlated signals do not alone establish a direct anatomical connection.
+EXAMPLE: Two regions can correlate because a third process influences both.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-054
+TITLE: Recognising a useful control
+QUESTION: Why compare two tasks matched for visual input and motor response?
+A: To reduce alternative explanations for the observed difference
+B: To make all brain activity disappear
+C: To prove the participant uses no attention
+D: To guarantee the result applies to every person
+ANSWER: A
+EXPLANATION: A control condition helps distinguish competing explanations for a result. Matching sensory and motor demands can help isolate the additional processing of interest.
+EXAMPLE: If a task compares reading with resting, differences may include vision, attention and response demands as well as reading.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-055
+TITLE: The sensory relay after the crossing
+QUESTION: Which thalamic nucleus is a major relay on the retinal route to primary visual cortex?
+A: Locus coeruleus
+B: Substantia nigra
+C: Lateral geniculate nucleus
+D: Medial geniculate nucleus
+ANSWER: C
+EXPLANATION: The lateral geniculate nucleus participates in a major visual relay, while the medial geniculate nucleus participates in an auditory relay. The thalamus also contributes to wider processing and coordination.
+EXAMPLE: Pair LGN with vision and MGN with audition, while remembering that sensory processing uses additional pathways.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-056
+TITLE: Mapping touch and movement
+QUESTION: Which cortical area is classically located in the postcentral gyrus?
+A: Primary motor cortex
+B: Primary visual cortex
+C: Primary somatosensory cortex
+D: Primary auditory cortex
+ANSWER: C
+EXPLANATION: Primary somatosensory and motor cortices have organised body representations. Fine control and sensory discrimination influence representation size; the maps can change with experience and injury.
+EXAMPLE: A large cortical hand representation does not mean the hand is physically larger than the trunk.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-057
+TITLE: Arousal and awareness
+QUESTION: Which distinction is useful in consciousness assessment?
+A: Only reflex strength versus body height
+B: Level of arousal versus content or presence of awareness
+C: Left handedness versus eye colour
+D: Only hunger versus thirst
+ANSWER: B
+EXPLANATION: Arousal and awareness are related but distinct aspects of consciousness. Brainstem and distributed thalamocortical systems contribute; no single bedside sign captures the entire state.
+EXAMPLE: Opening the eyes is evidence about arousal but does not by itself prove normal understanding or awareness.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-058
+TITLE: Generalisation is not perfection
+QUESTION: What does neural plasticity broadly describe?
+A: A guarantee that every injury fully recovers
+B: Experience- or injury-related changes in neural function or organisation
+C: A complete replacement of all neurons every night
+D: Only growth in skull size
+ANSWER: B
+EXPLANATION: Neural plasticity supports change with experience, but transfer between tasks is not guaranteed. Practice structure, feedback and context shape learning.
+EXAMPLE: Improving at one sequence does not automatically improve every unrelated skill.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-059
+TITLE: A receptor’s effect depends on context
+QUESTION: What is disinhibition in a simple circuit?
+A: A type of retinal pigment
+B: The physical removal of every dendrite
+C: A universal synonym for neuronal death
+D: Reduced inhibition allowing another neuron to become more active
+ANSWER: D
+EXPLANATION: A transmitter’s effect depends on receptor properties, ionic gradients and the network. Excitation and inhibition are functional outcomes, not universal labels that can be inferred from a chemical name alone.
+EXAMPLE: Inhibiting an inhibitory interneuron may increase the activity of another cell: this is disinhibition.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-060
+TITLE: Sleep and remembering
+QUESTION: Which study design better tests sleep’s contribution to memory?
+A: Measure only how sleepy one person feels once
+B: Compare matched learning intervals with relevant sleep and time-of-day controls
+C: Compare two unrelated tasks in different people without controls
+D: Assume any overnight improvement proves a specific mechanism
+ANSWER: B
+EXPLANATION: Sleep can support aspects of memory processing, but effects depend on the task, sleep conditions and timing. Memory consolidation is not confined to one sleep stage or a single mechanism.
+EXAMPLE: Compare performance after matched intervals with and without sleep while controlling for time of day and fatigue.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-061
+TITLE: A resting electrical difference
+QUESTION: What is a main contribution of the sodium-potassium pump?
+A: Making myelin at each node
+B: Directly releasing every synaptic vesicle
+C: Maintaining sodium and potassium concentration gradients
+D: Converting every inhibitory synapse into excitation
+ANSWER: C
+EXPLANATION: Resting membrane potential depends on ionic gradients and selective membrane permeability, especially potassium conductance. The sodium-potassium pump helps maintain the gradients over time.
+EXAMPLE: Distinguish a pump maintaining concentration gradients from an ion channel permitting passive ion movement.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-062
+TITLE: The rising and falling spike
+QUESTION: Which change commonly helps repolarise the membrane?
+A: A permanent absence of potassium channels
+B: The disappearance of all ionic gradients
+C: Increased potassium conductance with sodium-channel inactivation
+D: Sudden growth of a new dendrite
+ANSWER: C
+EXPLANATION: Many neuronal action potentials involve rapid sodium-channel activation followed by sodium-channel inactivation and increased potassium conductance. Channel timing matters as much as ion identity.
+EXAMPLE: A rapid depolarising phase and a later repolarising phase involve changing conductances rather than the whole neuron physically moving.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-063
+TITLE: A brief recovery interval
+QUESTION: What helps explain the absolute refractory period?
+A: Disappearance of the cell nucleus
+B: Permanent removal of potassium from the body
+C: A lack of photons in the retina
+D: Temporary inactivation of voltage-gated sodium channels
+ANSWER: D
+EXPLANATION: After a spike, sodium-channel inactivation creates an absolute refractory period. Later recovery and afterhyperpolarisation can create a relative refractory period.
+EXAMPLE: A cell cannot increase firing rate without limit because its membrane mechanisms need time to recover.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-064
+TITLE: Adding inputs together
+QUESTION: One synapse is activated repeatedly before its previous effect decays. What is this?
+A: Axonal degeneration by definition
+B: Interhemispheric disconnection
+C: Temporal summation
+D: Cortical magnification
+ANSWER: C
+EXPLANATION: Spatial summation combines inputs from different locations; temporal summation combines inputs close together in time. Whether threshold is reached depends on the integrated membrane response.
+EXAMPLE: Two weak inputs may jointly matter even if neither alone reaches threshold.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-065
+TITLE: Channels and slower cascades
+QUESTION: Which mechanism fits a metabotropic receptor?
+A: Activation of intracellular signalling through G proteins or related cascades
+B: Direct conversion of the axon into myelin
+C: Moving a whole vesicle through the postsynaptic nucleus
+D: Eliminating all receptor specificity
+ANSWER: A
+EXPLANATION: Ionotropic receptors directly gate ion channels, while metabotropic receptors act through signalling cascades. The labels describe mechanisms rather than a universal excitatory-versus-inhibitory division.
+EXAMPLE: A transmitter can act at both receptor classes; acetylcholine has nicotinic and muscarinic receptor families.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-066
+TITLE: Agonist or antagonist?
+QUESTION: A substance prevents a transmitter from activating its receptor without activating that receptor itself. What is it?
+A: An antagonist
+B: An action potential
+C: A full agonist
+D: An axon terminal
+ANSWER: A
+EXPLANATION: An agonist activates a receptor, while an antagonist blocks receptor activation without itself producing the same activating effect. Network outcomes also depend on the receptor and circuit.
+EXAMPLE: Blocking an inhibitory receptor can increase activity, so blocking a receptor does not always mean reducing whole-circuit activity.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-067
+TITLE: Clearing the synaptic signal
+QUESTION: What is a main role of acetylcholinesterase at many cholinergic synapses?
+A: Transporting oxygen through blood
+B: Generating every potassium gradient
+C: Breaking down acetylcholine
+D: Synthesising myelin
+ANSWER: C
+EXPLANATION: Transmitters can be cleared by reuptake, enzymatic breakdown or diffusion, depending on the transmitter and location. Clearance changes how long signalling can persist.
+EXAMPLE: A transporter moving transmitter back into a cell and an enzyme breaking it down are different mechanisms.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-068
+TITLE: Different dopamine routes
+QUESTION: Which system is especially associated with dopamine projections from the ventral tegmental area to nucleus accumbens?
+A: The optic nerve alone
+B: The olfactory epithelium alone
+C: The spinal stretch reflex alone
+D: Mesolimbic circuitry
+ANSWER: D
+EXPLANATION: Nigrostriatal, mesolimbic and mesocortical pathways connect different structures and contribute to different functions. A single global dopamine level cannot capture these roles.
+EXAMPLE: Compare movement-related striatal loops with reward-learning tasks before making claims about what dopamine does.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-069
+TITLE: A coincidence-sensitive receptor
+QUESTION: Why can an NMDA receptor contribute to coincidence detection?
+A: It works only inside blood vessels
+B: Its activation depends on ligand conditions and postsynaptic depolarisation
+C: It is activated only by light reaching the skull
+D: It opens independently of all membrane conditions
+ANSWER: B
+EXPLANATION: NMDA receptor function depends on glutamate binding and voltage-dependent relief of magnesium block. Calcium entry through these receptors can contribute to plasticity under appropriate conditions.
+EXAMPLE: Think of receptor activation as depending on both chemical input and the membrane’s electrical state.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-070
+TITLE: Skills and episodes
+QUESTION: Which observation demonstrates that learning and conscious recollection can dissociate?
+A: Skill improves despite poor memory for the practice episodes
+B: Normal vision always implies normal recall
+C: Every memory task yields identical results
+D: No performance ever changes
+ANSWER: A
+EXPLANATION: Procedural learning and episodic learning can dissociate. Basal ganglia, cerebellar and cortical systems support different aspects of skills, while hippocampal systems are important for new episodic learning.
+EXAMPLE: A person may improve at a tracing task without consciously remembering earlier practice sessions.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-071
+TITLE: A memory changes with time
+QUESTION: Which statement about retrieved memories is most careful?
+A: Every retrieval is a perfect video replay
+B: Only inaccurate memories use brain networks
+C: Retrieval never depends on context
+D: Retrieval can be reconstructive and susceptible to updating
+ANSWER: D
+EXPLANATION: Systems consolidation concerns changing contributions of distributed networks over time. It does not mean every remote memory becomes a perfectly fixed record.
+EXAMPLE: Compare learning an episode now with retrieving it months later; both retrieval and reactivation can influence the memory.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-072
+TITLE: Learning that an old cue is safe
+QUESTION: Which observation argues against simple permanent erasure of the original association?
+A: The person remembers the instructions
+B: The response decreases during training
+C: The cue can still be detected
+D: The response returns in a different context
+ANSWER: D
+EXPLANATION: Extinction commonly involves new learning that competes with an earlier association rather than simple erasure. Context changes can influence whether an extinguished response returns.
+EXAMPLE: A previously feared cue may elicit less response in a safe setting but more again after a context change.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-073
+TITLE: The stress cascade
+QUESTION: Which gland’s cortex releases cortisol in this axis?
+A: Lacrimal gland
+B: Salivary gland
+C: Pineal gland
+D: Adrenal gland
+ANSWER: D
+EXPLANATION: The hypothalamic-pituitary-adrenal axis links hypothalamic, pituitary and adrenal signalling. Cortisol participates in feedback and adaptation, with effects depending on timing and context.
+EXAMPLE: Keep the sequence straight: hypothalamus -> pituitary -> adrenal cortex, rather than treating cortisol as a neurotransmitter released by every synapse.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-074
+TITLE: The night signal
+QUESTION: Which environmental input is a powerful cue for circadian synchronisation?
+A: A learned spelling rule alone
+B: The colour of a notebook
+C: The number of windows drawn on paper
+D: Light-dark timing
+ANSWER: D
+EXPLANATION: The pineal gland releases melatonin in a circadian pattern influenced by light-related pathways. Melatonin is a timing signal, not a universal explanation for every sleep problem.
+EXAMPLE: Distinguish homeostatic sleep pressure from circadian timing: being awake a long time and being at the biological night are different influences.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-075
+TITLE: A selective barrier
+QUESTION: Which statement about the barrier is most accurate?
+A: It consists solely of neurons' cell bodies
+B: It selectively regulates movement between blood and brain tissue
+C: It makes brain blood flow unnecessary
+D: No molecule can ever cross it
+ANSWER: B
+EXPLANATION: The blood-brain barrier relies heavily on specialised endothelial tight junctions, supported by other cells of the neurovascular unit. It is selectively permeable rather than completely impermeable.
+EXAMPLE: Brain blood vessels can permit some exchanges while restricting others; astrocytes support the environment but do not alone form the endothelial seal.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-076
+TITLE: The fluid spaces
+QUESTION: Where is cerebrospinal fluid normally found?
+A: Only in peripheral myelin layers
+B: Only in skeletal muscle fibres
+C: Brain ventricles and subarachnoid spaces
+D: Only inside red blood cells
+ANSWER: C
+EXPLANATION: Cerebrospinal fluid is produced mainly by choroid plexuses and circulates through ventricular and subarachnoid spaces. Obstruction can affect ventricular size and pressure.
+EXAMPLE: Differentiate brain ventricles containing CSF from the heart’s ventricles pumping blood.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-077
+TITLE: Following a crossed pathway
+QUESTION: Why must the level of a spinal or brainstem lesion be considered?
+A: Only the side of the person’s dominant hand matters
+B: Different pathways cross at different levels
+C: No sensory pathway ever crosses
+D: All pathways cross at exactly the same point
+ANSWER: B
+EXPLANATION: Many major motor and sensory pathways cross, but the crossing point differs across systems. The lesion level and the pathway are therefore essential to localisation.
+EXAMPLE: A left cerebral motor lesion often affects the right body; do not automatically apply that rule to every cerebellar or brainstem sign.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-078
+TITLE: Light becomes a signal
+QUESTION: Why is there a normal physiological blind spot at the optic disc?
+A: Every eye has an occipital stroke
+B: Dopamine cannot reach the skull there
+C: The lens contains a permanent dark patch
+D: Photoreceptors are absent where the optic nerve exits
+ANSWER: D
+EXPLANATION: Photoreceptors transduce light; retinal circuits process signals before information travels through the optic nerve. The optic disc lacks photoreceptors, creating a physiological blind spot.
+EXAMPLE: A blind spot in the normal retina differs from a cortical visual-field defect caused by a brain lesion.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-079
+TITLE: Sound becomes a signal
+QUESTION: What does tonotopy describe?
+A: The number of syllables in a memory
+B: A map of the body’s muscles only
+C: A map of every spoken word’s meaning
+D: Orderly representation of sound frequency
+ANSWER: D
+EXPLANATION: Cochlear hair cells convert mechanical movement into neural signalling. Frequency is represented partly through the tonotopic organisation of the basilar membrane and auditory pathways.
+EXAMPLE: High and low frequencies peak at different positions along the basilar membrane.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-080
+TITLE: Two visual streams
+QUESTION: Which function is strongly associated with the dorsal visual stream?
+A: Using visual spatial information to guide action
+B: Naming every emotion from a voice
+C: Converting sound waves in the cochlea
+D: Maintaining every autobiographical memory
+ANSWER: A
+EXPLANATION: Ventral visual pathways contribute strongly to object identity, while dorsal pathways support spatial and action-related processing. The streams interact rather than operating in complete isolation.
+EXAMPLE: Recognising a cup and reaching accurately to its handle make different visual demands.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-081
+TITLE: What a lesion can tell us
+QUESTION: Why is a lesion-function inference sometimes difficult?
+A: Connections never matter for brain function
+B: Lesions can affect several regions and disconnect networks
+C: Every lesion affects only one function
+D: Prior abilities are always fully known
+ANSWER: B
+EXPLANATION: Lesion evidence can inform causal necessity, but interpretation must consider lesion extent, connections, prior ability and compensation. A lesion is rarely a perfectly selective experimental manipulation.
+EXAMPLE: A region being active in a task and a lesion disrupting that task provide different kinds of evidence.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-082
+TITLE: Temporarily perturbing a circuit
+QUESTION: Why can perturbation complement an activity map?
+A: It can test what happens when processing is changed rather than only observed
+B: It reveals every memory directly
+C: It removes the need for comparison conditions
+D: It guarantees one-region-one-function localisation
+ANSWER: A
+EXPLANATION: Transcranial magnetic stimulation uses magnetic pulses to induce electrical effects in accessible cortical tissue. Effects depend on stimulation parameters and network context.
+EXAMPLE: TMS is an intervention on activity, whereas ordinary fMRI records an indirect activity correlate.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-083
+TITLE: Studying functional connections
+QUESTION: Why does correlation between two regions not prove direct communication?
+A: A common input or task factor may influence both
+B: Neural signals can never be correlated
+C: Every correlation is necessarily a recording error
+D: Only identical regions can correlate
+ANSWER: A
+EXPLANATION: Functional connectivity describes statistical relationships between signals; effective connectivity models directed influences under assumptions. Correlated signals do not alone establish a direct anatomical connection.
+EXAMPLE: Two regions can correlate because a third process influences both.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-084
+TITLE: Recognising a useful control
+QUESTION: What is reverse inference in brain imaging?
+A: Comparing task and control conditions
+B: Recording the time of a button press
+C: Measuring activity after presenting a stimulus
+D: Inferring a particular mental process from activity in a region associated with it
+ANSWER: D
+EXPLANATION: A control condition helps distinguish competing explanations for a result. Matching sensory and motor demands can help isolate the additional processing of interest.
+EXAMPLE: If a task compares reading with resting, differences may include vision, attention and response demands as well as reading.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-085
+TITLE: The sensory relay after the crossing
+QUESTION: Which thalamic nucleus is a major auditory relay?
+A: Medial geniculate nucleus
+B: Suprachiasmatic nucleus
+C: Lateral geniculate nucleus
+D: Dentate gyrus
+ANSWER: A
+EXPLANATION: The lateral geniculate nucleus participates in a major visual relay, while the medial geniculate nucleus participates in an auditory relay. The thalamus also contributes to wider processing and coordination.
+EXAMPLE: Pair LGN with vision and MGN with audition, while remembering that sensory processing uses additional pathways.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-086
+TITLE: Mapping touch and movement
+QUESTION: Which cortical area is classically located in the precentral gyrus?
+A: Primary visual cortex
+B: Olfactory epithelium
+C: Primary motor cortex
+D: Primary somatosensory cortex
+ANSWER: C
+EXPLANATION: Primary somatosensory and motor cortices have organised body representations. Fine control and sensory discrimination influence representation size; the maps can change with experience and injury.
+EXAMPLE: A large cortical hand representation does not mean the hand is physically larger than the trunk.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-087
+TITLE: Arousal and awareness
+QUESTION: Which system contributes importantly to wakefulness and arousal?
+A: Only the optic lens
+B: Only peripheral skin receptors
+C: Only the cochlear ossicles
+D: Ascending brainstem arousal systems with forebrain connections
+ANSWER: D
+EXPLANATION: Arousal and awareness are related but distinct aspects of consciousness. Brainstem and distributed thalamocortical systems contribute; no single bedside sign captures the entire state.
+EXAMPLE: Opening the eyes is evidence about arousal but does not by itself prove normal understanding or awareness.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-088
+TITLE: Generalisation is not perfection
+QUESTION: Why assess an untrained task after practice?
+A: To ensure the person never learned the original task
+B: To prove every gain is permanent
+C: To measure eye colour changes
+D: To test whether improvement generalises beyond the practised task
+ANSWER: D
+EXPLANATION: Neural plasticity supports change with experience, but transfer between tasks is not guaranteed. Practice structure, feedback and context shape learning.
+EXAMPLE: Improving at one sequence does not automatically improve every unrelated skill.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-089
+TITLE: A receptor’s effect depends on context
+QUESTION: Why can inhibiting one neuron increase a downstream response?
+A: The inhibited neuron may itself normally inhibit the downstream cell
+B: Synapses have no direction
+C: All neurons are excitatory
+D: Inhibition always raises every neuron’s voltage directly
+ANSWER: A
+EXPLANATION: A transmitter’s effect depends on receptor properties, ionic gradients and the network. Excitation and inhibition are functional outcomes, not universal labels that can be inferred from a chemical name alone.
+EXAMPLE: Inhibiting an inhibitory interneuron may increase the activity of another cell: this is disinhibition.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-090
+TITLE: Sleep and remembering
+QUESTION: Which claim is most careful?
+A: Only REM sleep can ever relate to memory
+B: Remembering is impossible unless a person recalls dreaming
+C: Sleep permanently stores every experience exactly
+D: Sleep can support some memory processes without guaranteeing perfect recall
+ANSWER: D
+EXPLANATION: Sleep can support aspects of memory processing, but effects depend on the task, sleep conditions and timing. Memory consolidation is not confined to one sleep stage or a single mechanism.
+EXAMPLE: Compare performance after matched intervals with and without sleep while controlling for time of day and fatigue.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-091
+TITLE: A resting electrical difference
+QUESTION: If a neuron’s ion gradients are lost, which function is directly compromised?
+A: Maintaining electrical signalling across its membrane
+B: Transporting oxygen on haemoglobin
+C: Reading the genetic code only
+D: Production of skull bone only
+ANSWER: A
+EXPLANATION: Resting membrane potential depends on ionic gradients and selective membrane permeability, especially potassium conductance. The sodium-potassium pump helps maintain the gradients over time.
+EXAMPLE: Distinguish a pump maintaining concentration gradients from an ion channel permitting passive ion movement.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-092
+TITLE: The rising and falling spike
+QUESTION: Why is an action potential different from a small graded postsynaptic potential?
+A: It requires a conscious decision for each spike
+B: It occurs only in bones
+C: It regenerates through voltage-dependent membrane mechanisms
+D: It has no electrical component
+ANSWER: C
+EXPLANATION: Many neuronal action potentials involve rapid sodium-channel activation followed by sodium-channel inactivation and increased potassium conductance. Channel timing matters as much as ion identity.
+EXAMPLE: A rapid depolarising phase and a later repolarising phase involve changing conductances rather than the whole neuron physically moving.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-093
+TITLE: A brief recovery interval
+QUESTION: During a relative refractory period, which description fits?
+A: Every inhibitory input becomes a full spike
+B: The neuron is necessarily dead
+C: No later spike can ever occur
+D: A stronger-than-usual input may be required to initiate a spike
+ANSWER: D
+EXPLANATION: After a spike, sodium-channel inactivation creates an absolute refractory period. Later recovery and afterhyperpolarisation can create a relative refractory period.
+EXAMPLE: A cell cannot increase firing rate without limit because its membrane mechanisms need time to recover.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-094
+TITLE: Adding inputs together
+QUESTION: What ultimately matters for spike initiation near the trigger zone?
+A: The integrated effects of excitatory and inhibitory inputs
+B: Only the single most recent transmitter molecule
+C: The colour of the dendrite
+D: The number of skull bones
+ANSWER: A
+EXPLANATION: Spatial summation combines inputs from different locations; temporal summation combines inputs close together in time. Whether threshold is reached depends on the integrated membrane response.
+EXAMPLE: Two weak inputs may jointly matter even if neither alone reaches threshold.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-095
+TITLE: Channels and slower cascades
+QUESTION: Which statement avoids a common mistake?
+A: All receptors have identical time courses
+B: Every ionotropic receptor is excitatory
+C: Ionotropic and metabotropic do not simply mean excitatory and inhibitory
+D: Every metabotropic receptor is inhibitory
+ANSWER: C
+EXPLANATION: Ionotropic receptors directly gate ion channels, while metabotropic receptors act through signalling cascades. The labels describe mechanisms rather than a universal excitatory-versus-inhibitory division.
+EXAMPLE: A transmitter can act at both receptor classes; acetylcholine has nicotinic and muscarinic receptor families.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-096
+TITLE: Agonist or antagonist?
+QUESTION: Why can the same drug have different effects across circuits?
+A: All brain regions are functionally identical
+B: Drug molecules acquire memories of a person
+C: Receptors and circuit roles differ across locations
+D: A transmitter always has only one receptor type
+ANSWER: C
+EXPLANATION: An agonist activates a receptor, while an antagonist blocks receptor activation without itself producing the same activating effect. Network outcomes also depend on the receptor and circuit.
+EXAMPLE: Blocking an inhibitory receptor can increase activity, so blocking a receptor does not always mean reducing whole-circuit activity.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-097
+TITLE: Clearing the synaptic signal
+QUESTION: If reuptake is inhibited, which immediate synaptic consequence may follow?
+A: Transmitter can remain available outside cells for longer
+B: All receptors are necessarily destroyed
+C: Axons stop containing any ions
+D: Every postsynaptic neuron instantly dies
+ANSWER: A
+EXPLANATION: Transmitters can be cleared by reuptake, enzymatic breakdown or diffusion, depending on the transmitter and location. Clearance changes how long signalling can persist.
+EXAMPLE: A transporter moving transmitter back into a cell and an enzyme breaking it down are different mechanisms.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-098
+TITLE: Different dopamine routes
+QUESTION: Why is the phrase 'dopamine is only pleasure' inadequate?
+A: Dopamine is found only outside the brain
+B: All dopamine neurons have the same projection targets
+C: Dopamine cannot affect learning
+D: Dopamine also contributes to movement, motivation and several learning processes
+ANSWER: D
+EXPLANATION: Nigrostriatal, mesolimbic and mesocortical pathways connect different structures and contribute to different functions. A single global dopamine level cannot capture these roles.
+EXAMPLE: Compare movement-related striatal loops with reward-learning tasks before making claims about what dopamine does.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-099
+TITLE: A coincidence-sensitive receptor
+QUESTION: Which ion entering through NMDA receptors can support plasticity-related signalling?
+A: Copper inside a bone matrix
+B: Iodine bound in thyroid hormone
+C: Iron bound to haemoglobin
+D: Calcium
+ANSWER: D
+EXPLANATION: NMDA receptor function depends on glutamate binding and voltage-dependent relief of magnesium block. Calcium entry through these receptors can contribute to plasticity under appropriate conditions.
+EXAMPLE: Think of receptor activation as depending on both chemical input and the membrane’s electrical state.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-100
+TITLE: Skills and episodes
+QUESTION: Which conclusion is most defensible?
+A: Motor skills never involve the brain
+B: Memory includes partly distinct interacting systems
+C: All memory is stored in one hippocampal neuron
+D: Learning is impossible without conscious verbal explanation
+ANSWER: B
+EXPLANATION: Procedural learning and episodic learning can dissociate. Basal ganglia, cerebellar and cortical systems support different aspects of skills, while hippocampal systems are important for new episodic learning.
+EXAMPLE: A person may improve at a tracing task without consciously remembering earlier practice sessions.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-101
+TITLE: A memory changes with time
+QUESTION: Why compare recent and remote memory after a lesion?
+A: Remote memories always require no brain activity
+B: Only remote memories can be assessed objectively
+C: Recent memories are necessarily false
+D: They may depend differently on affected and spared networks
+ANSWER: D
+EXPLANATION: Systems consolidation concerns changing contributions of distributed networks over time. It does not mean every remote memory becomes a perfectly fixed record.
+EXAMPLE: Compare learning an episode now with retrieving it months later; both retrieval and reactivation can influence the memory.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-102
+TITLE: Learning that an old cue is safe
+QUESTION: What is a careful account of extinction?
+A: It removes every emotional response permanently
+B: New learning can inhibit expression of an older association
+C: Every original memory trace is necessarily destroyed
+D: It is identical to forgetting through lack of rehearsal
+ANSWER: B
+EXPLANATION: Extinction commonly involves new learning that competes with an earlier association rather than simple erasure. Context changes can influence whether an extinguished response returns.
+EXAMPLE: A previously feared cue may elicit less response in a safe setting but more again after a context change.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-103
+TITLE: The stress cascade
+QUESTION: Which statement is most accurate about cortisol?
+A: Its effects depend on amount, timing and physiological context
+B: It is always harmful at any level
+C: It is the sole cause of every anxiety disorder
+D: It is the main transmitter at skeletal neuromuscular junctions
+ANSWER: A
+EXPLANATION: The hypothalamic-pituitary-adrenal axis links hypothalamic, pituitary and adrenal signalling. Cortisol participates in feedback and adaptation, with effects depending on timing and context.
+EXAMPLE: Keep the sequence straight: hypothalamus -> pituitary -> adrenal cortex, rather than treating cortisol as a neurotransmitter released by every synapse.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-104
+TITLE: The night signal
+QUESTION: Which pair describes two major influences on sleep timing?
+A: Circadian rhythms and homeostatic sleep pressure
+B: Only skeletal reflexes and taste
+C: Only hand dominance and eye colour
+D: Only the number of meals ever eaten
+ANSWER: A
+EXPLANATION: The pineal gland releases melatonin in a circadian pattern influenced by light-related pathways. Melatonin is a timing signal, not a universal explanation for every sleep problem.
+EXAMPLE: Distinguish homeostatic sleep pressure from circadian timing: being awake a long time and being at the biological night are different influences.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-105
+TITLE: A selective barrier
+QUESTION: Which cells are part of the supporting neurovascular environment?
+A: Only retinal photoreceptors
+B: Only skeletal muscle fibres
+C: Astrocytes and pericytes
+D: Only circulating red blood cells
+ANSWER: C
+EXPLANATION: The blood-brain barrier relies heavily on specialised endothelial tight junctions, supported by other cells of the neurovascular unit. It is selectively permeable rather than completely impermeable.
+EXAMPLE: Brain blood vessels can permit some exchanges while restricting others; astrocytes support the environment but do not alone form the endothelial seal.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-106
+TITLE: The fluid spaces
+QUESTION: What can obstructed CSF circulation contribute to?
+A: Hydrocephalus
+B: An isolated change in iris colour
+C: Direct conversion of dopamine to myelin
+D: A necessary improvement in all memory functions
+ANSWER: A
+EXPLANATION: Cerebrospinal fluid is produced mainly by choroid plexuses and circulates through ventricular and subarachnoid spaces. Obstruction can affect ventricular size and pressure.
+EXAMPLE: Differentiate brain ventricles containing CSF from the heart’s ventricles pumping blood.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-107
+TITLE: Following a crossed pathway
+QUESTION: Which statement avoids overgeneralisation?
+A: All brain lesions affect only the same-side body
+B: Cerebellar signs can never be lateralised
+C: Laterality rules depend on the specific circuit and lesion location
+D: All brain lesions affect only the opposite-side body
+ANSWER: C
+EXPLANATION: Many major motor and sensory pathways cross, but the crossing point differs across systems. The lesion level and the pathway are therefore essential to localisation.
+EXAMPLE: A left cerebral motor lesion often affects the right body; do not automatically apply that rule to every cerebellar or brainstem sign.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-108
+TITLE: Light becomes a signal
+QUESTION: Which pathway carries retinal output towards the brain?
+A: Optic nerve
+B: Facial motor nerve
+C: Auditory nerve
+D: Vagus nerve exclusively
+ANSWER: A
+EXPLANATION: Photoreceptors transduce light; retinal circuits process signals before information travels through the optic nerve. The optic disc lacks photoreceptors, creating a physiological blind spot.
+EXAMPLE: A blind spot in the normal retina differs from a cortical visual-field defect caused by a brain lesion.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-109
+TITLE: Sound becomes a signal
+QUESTION: Which physical input initiates normal hearing transduction?
+A: Light entering the optic nerve
+B: A fall in blood glucose alone
+C: Contraction of finger muscles alone
+D: Sound-related mechanical movement in the inner ear
+ANSWER: D
+EXPLANATION: Cochlear hair cells convert mechanical movement into neural signalling. Frequency is represented partly through the tonotopic organisation of the basilar membrane and auditory pathways.
+EXAMPLE: High and low frequencies peak at different positions along the basilar membrane.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-110
+TITLE: Two visual streams
+QUESTION: Which statement about these streams is most accurate?
+A: They never exchange information
+B: They are useful functional distinctions within interacting networks
+C: One stream controls only the left eye and the other only the right eye
+D: Each consists of one isolated neuron
+ANSWER: B
+EXPLANATION: Ventral visual pathways contribute strongly to object identity, while dorsal pathways support spatial and action-related processing. The streams interact rather than operating in complete isolation.
+EXAMPLE: Recognising a cup and reaching accurately to its handle make different visual demands.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-111
+TITLE: What a lesion can tell us
+QUESTION: Which conclusion is most careful after impaired performance follows a lesion?
+A: The impairment proves the person can never improve
+B: The affected network likely contributes, but alternative task demands must be considered
+C: The damaged spot stores the whole skill by itself
+D: All neighbouring regions are irrelevant
+ANSWER: B
+EXPLANATION: Lesion evidence can inform causal necessity, but interpretation must consider lesion extent, connections, prior ability and compensation. A lesion is rarely a perfectly selective experimental manipulation.
+EXAMPLE: A region being active in a task and a lesion disrupting that task provide different kinds of evidence.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-112
+TITLE: Temporarily perturbing a circuit
+QUESTION: Which limitation matters for TMS interpretation?
+A: It cannot have any behavioural effect
+B: It directly reads out exact neurotransmitter concentrations
+C: Stimulation can influence connected networks as well as the targeted area
+D: It always stimulates every brain region equally
+ANSWER: C
+EXPLANATION: Transcranial magnetic stimulation uses magnetic pulses to induce electrical effects in accessible cortical tissue. Effects depend on stimulation parameters and network context.
+EXAMPLE: TMS is an intervention on activity, whereas ordinary fMRI records an indirect activity correlate.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-113
+TITLE: Studying functional connections
+QUESTION: What additional evidence helps interpret a connectivity finding?
+A: Only the participant’s favourite music
+B: Only the colours used in the plot
+C: Only whether a graph looks symmetrical
+D: Anatomical, experimental and task-related information
+ANSWER: D
+EXPLANATION: Functional connectivity describes statistical relationships between signals; effective connectivity models directed influences under assumptions. Correlated signals do not alone establish a direct anatomical connection.
+EXAMPLE: Two regions can correlate because a third process influences both.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-114
+TITLE: Recognising a useful control
+QUESTION: Why can reverse inference be weak?
+A: Every region has exactly one known function
+B: Imaging can never detect any difference
+C: The same region can participate in several processes
+D: Participants always perform tasks identically
+ANSWER: C
+EXPLANATION: A control condition helps distinguish competing explanations for a result. Matching sensory and motor demands can help isolate the additional processing of interest.
+EXAMPLE: If a task compares reading with resting, differences may include vision, attention and response demands as well as reading.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-115
+TITLE: The sensory relay after the crossing
+QUESTION: Which description of the thalamus is most balanced?
+A: It functions only during sleep
+B: It produces all neurotransmitters alone
+C: It is merely an inert tube
+D: It participates in sensory relay and broader cortical-subcortical processing
+ANSWER: D
+EXPLANATION: The lateral geniculate nucleus participates in a major visual relay, while the medial geniculate nucleus participates in an auditory relay. The thalamus also contributes to wider processing and coordination.
+EXAMPLE: Pair LGN with vision and MGN with audition, while remembering that sensory processing uses additional pathways.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-116
+TITLE: Mapping touch and movement
+QUESTION: What does a disproportionately large cortical hand representation suggest?
+A: That the hand contains most of the body’s mass
+B: High processing demands for sensation or fine control
+C: That the trunk has no sensory representation
+D: That every hand movement is consciously planned in one neuron
+ANSWER: B
+EXPLANATION: Primary somatosensory and motor cortices have organised body representations. Fine control and sensory discrimination influence representation size; the maps can change with experience and injury.
+EXAMPLE: A large cortical hand representation does not mean the hand is physically larger than the trunk.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-117
+TITLE: Arousal and awareness
+QUESTION: Why is one motor response not a complete measure of awareness?
+A: All aware people can speak fluently
+B: Arousal and awareness are always identical
+C: Motor or language impairments can limit an otherwise aware person’s responses
+D: Every absent movement proves absence of awareness
+ANSWER: C
+EXPLANATION: Arousal and awareness are related but distinct aspects of consciousness. Brainstem and distributed thalamocortical systems contribute; no single bedside sign captures the entire state.
+EXAMPLE: Opening the eyes is evidence about arousal but does not by itself prove normal understanding or awareness.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-118
+TITLE: Generalisation is not perfection
+QUESTION: Which practice feature can support error-based learning?
+A: Removing every opportunity to notice an error
+B: Informative feedback linked to performance
+C: Changing the goal without explanation on every trial
+D: Assuming all repetitions are equally useful
+ANSWER: B
+EXPLANATION: Neural plasticity supports change with experience, but transfer between tasks is not guaranteed. Practice structure, feedback and context shape learning.
+EXAMPLE: Improving at one sequence does not automatically improve every unrelated skill.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-119
+TITLE: A receptor’s effect depends on context
+QUESTION: What information is needed before assigning a transmitter a circuit effect?
+A: Only the neuron’s distance from the scalp
+B: Receptor type, target cell and circuit organisation
+C: Only the transmitter’s first letter
+D: Only the colour of a diagram
+ANSWER: B
+EXPLANATION: A transmitter’s effect depends on receptor properties, ionic gradients and the network. Excitation and inhibition are functional outcomes, not universal labels that can be inferred from a chemical name alone.
+EXAMPLE: Inhibiting an inhibitory interneuron may increase the activity of another cell: this is disinhibition.
+SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience
+---
+ID: neuroscience-120
+TITLE: Sleep and remembering
+QUESTION: Why control for fatigue when comparing memory tests?
+A: Fatigue can never affect attention
+B: A tired person has necessarily lost all memories
+C: Alertness can affect performance independently of stored knowledge
+D: Fatigue changes only eye colour
+ANSWER: C
+EXPLANATION: Sleep can support aspects of memory processing, but effects depend on the task, sleep conditions and timing. Memory consolidation is not confined to one sleep stage or a single mechanism.
+EXAMPLE: Compare performance after matched intervals with and without sleep while controlling for time of day and fatigue.
 SOURCE: https://openstax.org/details/books/introduction-behavioral-neuroscience

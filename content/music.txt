@@ -4,6 +4,7 @@ QUESTION: In 4/4, with the crotchet (quarter note) as one beat, how long is a mi
 A: Two beats
 B: Half a beat
 C: Four beats
+D: Three beats
 ANSWER: A
 EXPLANATION: A minim lasts twice as long as a crotchet. The beat unit matters when translating note values into beats.
 EXAMPLE: Clap: crotchet, crotchet, minim. Count 1, 2, 3-4. The pattern fills one 4/4 bar.
@@ -15,6 +16,7 @@ QUESTION: Which interval pattern builds a major scale from its tonic?
 A: Tone, tone, semitone, tone, tone, tone, semitone
 B: Seven consecutive semitones
 C: Tone, semitone, tone, tone, semitone, tone, tone
+D: Semitone, semitone, tone, tone, tone, tone, tone
 ANSWER: A
 EXPLANATION: The major pattern is W-W-H-W-W-W-H, where W is a whole tone and H is a semitone.
 EXAMPLE: C major: C D E F G A B C. Check the semitones at E-F and B-C.
@@ -26,6 +28,7 @@ QUESTION: Which notes form a root-position C major triad?
 A: C F G
 B: C E G
 C: C E-flat G
+D: C E G-flat
 ANSWER: B
 EXPLANATION: A major triad contains a root, a major third and a perfect fifth. C-E is a major third; C-G is a perfect fifth.
 EXAMPLE: Play or sing C, E, G separately, then together if possible. Lower E to E-flat to hear the change to minor.
@@ -37,6 +40,7 @@ QUESTION: How many quavers (eighth notes) fill a 4/4 bar containing only quavers
 A: Six
 B: Eight
 C: Four
+D: Twelve
 ANSWER: B
 EXPLANATION: Each quaver lasts half a crotchet beat. Four crotchet beats therefore contain eight quavers.
 EXAMPLE: Count 1-and-2-and-3-and-4-and while tapping once on each spoken syllable.
@@ -48,6 +52,7 @@ QUESTION: In 4/4, how many crotchet beats does a dotted minim (dotted half note)
 A: Two
 B: Four
 C: Three
+D: One
 ANSWER: C
 EXPLANATION: A dot adds half of the original note's duration. A two-beat minim gains one beat, making three.
 EXAMPLE: A dotted minim plus one crotchet fills a 4/4 bar: 3 + 1 = 4 beats.
@@ -59,6 +64,7 @@ QUESTION: In standard Western notation, what does a sharp normally do to a note?
 A: Raises it by one octave
 B: Raises it by one semitone
 C: Always makes it louder
+D: Lowers it by one semitone
 ANSWER: B
 EXPLANATION: A sharp changes pitch, not loudness. Its precise frequency depends on the tuning system, but the notated interval is one semitone.
 EXAMPLE: On a piano, C-sharp is the next key above C. Volume instructions use other markings such as forte or piano.
@@ -70,6 +76,7 @@ QUESTION: How many semitones separate adjacent keys on a conventionally tuned pi
 A: Twelve
 B: One
 C: Two
+D: Three
 ANSWER: B
 EXPLANATION: A semitone is the smallest adjacent-key step in the usual twelve-note equal-tempered keyboard system.
 EXAMPLE: E to F is one semitone even though both are white keys. C to D is two semitones.
@@ -81,6 +88,7 @@ QUESTION: How many semitones are in a standard Western octave?
 A: Seven
 B: Twelve
 C: Six
+D: Eight
 ANSWER: B
 EXPLANATION: An octave spans twelve semitones in the twelve-note system, while its diatonic letter-name span counts eight notes inclusively.
 EXAMPLE: C to the next higher C is an octave. The letter names C D E F G A B C count eight positions including both endpoints.
@@ -92,6 +100,7 @@ QUESTION: In treble clef, what are the staff lines from bottom to top?
 A: E G B D F
 B: G B D F A
 C: F A C E G
+D: F A C E
 ANSWER: A
 EXPLANATION: The treble clef identifies the G line, which is the second line from the bottom. The five lines are E G B D F.
 EXAMPLE: The spaces from bottom to top spell F A C E. Compare lines and spaces rather than memorising them as one mixed list.
@@ -103,6 +112,7 @@ QUESTION: In bass clef, what are the staff lines from bottom to top?
 A: A C E G B
 B: E G B D F
 C: G B D F A
+D: A C E G
 ANSWER: C
 EXPLANATION: The bass clef marks F on the fourth line from the bottom. Its lines are G B D F A.
 EXAMPLE: The spaces are A C E G. Draw five lines and label the fourth line F before filling the rest.
@@ -114,6 +124,7 @@ QUESTION: Which notes form an A minor triad?
 A: A C E
 B: A D E
 C: A C-sharp E
+D: A C E-flat
 ANSWER: A
 EXPLANATION: A minor triad contains a minor third above the root and a perfect fifth. A-C is the minor third.
 EXAMPLE: Compare A C E with A C-sharp E. Changing only the third changes the chord quality from minor to major.
@@ -125,6 +136,7 @@ QUESTION: Which voicing is a C major triad in first inversion, with the lowest n
 A: E G C
 B: C E G
 C: G C E
+D: C G E
 ANSWER: A
 EXPLANATION: In first inversion, the third of the chord is in the bass. The chord remains C major even though E is lowest.
 EXAMPLE: Root position: C E G. First inversion: E G C. Second inversion: G C E.
@@ -136,6 +148,7 @@ QUESTION: Which note is in the bass in a second-inversion G major triad?
 A: G
 B: B
 C: D
+D: F-sharp
 ANSWER: C
 EXPLANATION: G major contains G B D. Second inversion places the fifth, D, in the bass.
 EXAMPLE: Write three positions: G B D; B D G; D G B. Identify the lowest note in each.
@@ -147,6 +160,7 @@ QUESTION: In D major, which note is the tonic?
 A: F-sharp
 B: D
 C: A
+D: C-sharp
 ANSWER: B
 EXPLANATION: The tonic is scale degree one and the tonal centre of the key. D major begins and resolves around D.
 EXAMPLE: The dominant of D major is A, scale degree five. Tonic and dominant are different roles.
@@ -158,6 +172,7 @@ QUESTION: Which major key has a key signature containing only F-sharp?
 A: G major
 B: F major
 C: C major
+D: B-flat major
 ANSWER: A
 EXPLANATION: G major uses F-sharp to preserve the major-scale interval pattern. F major instead uses B-flat.
 EXAMPLE: Write G A B C D E F-sharp G. Check the final semitone from F-sharp to G.
@@ -169,6 +184,7 @@ QUESTION: Which major key has a key signature containing only B-flat?
 A: G major
 B: D major
 C: F major
+D: A major
 ANSWER: C
 EXPLANATION: F major needs B-flat to make the fourth scale degree fit the major-scale pattern.
 EXAMPLE: Write F G A B-flat C D E F. The semitone steps are A-B-flat and E-F.
@@ -180,6 +196,7 @@ QUESTION: What is the relative natural minor key of C major?
 A: D minor
 B: A minor
 C: C minor
+D: F minor
 ANSWER: B
 EXPLANATION: Relative major and minor keys share a key signature. A natural minor uses the same unaltered note collection as C major.
 EXAMPLE: C major centres on C; A minor centres on A. Shared notes do not mean the tonal centre is identical.
@@ -191,6 +208,7 @@ QUESTION: What is the parallel minor key of C major?
 A: E minor
 B: A minor
 C: C minor
+D: G minor
 ANSWER: C
 EXPLANATION: Parallel keys share a tonic. Relative keys share a key signature. C minor and C major both centre on C.
 EXAMPLE: Compare C major: C D E F G A B. C natural minor: C D E-flat F G A-flat B-flat.
@@ -202,6 +220,7 @@ QUESTION: What is the generic interval from C up to G?
 A: A sixth
 B: A fifth
 C: A fourth
+D: A seventh
 ANSWER: B
 EXPLANATION: Count letter names inclusively: C(1), D(2), E(3), F(4), G(5). Generic interval number is separate from quality.
 EXAMPLE: C to F is a fourth. C to G is a fifth. Then use semitones to identify qualities such as perfect or augmented.
@@ -213,6 +232,7 @@ QUESTION: In twelve-note equal temperament, how many semitones form a major thir
 A: Five
 B: Four
 C: Three
+D: Six
 ANSWER: B
 EXPLANATION: A major third spans four semitones; a minor third spans three. Letter spelling still matters for naming an interval correctly.
 EXAMPLE: C-E is a major third. C-E-flat is a minor third. C-D-sharp has the same keyboard distance as the latter but different spelling.
@@ -224,6 +244,7 @@ QUESTION: In twelve-note equal temperament, how many semitones form a perfect fi
 A: Six
 B: Eight
 C: Seven
+D: Nine
 ANSWER: C
 EXPLANATION: A perfect fifth spans seven semitones. A diminished fifth spans six and an augmented fifth spans eight.
 EXAMPLE: C-G is a perfect fifth. C-G-flat is a diminished fifth. Count both letters and semitones.
@@ -235,6 +256,7 @@ QUESTION: In 3/4, what does the time signature indicate?
 A: Three quaver beats per bar
 B: Three crotchet beats per bar
 C: Four groups of three bars
+D: Three minim beats per bar
 ANSWER: B
 EXPLANATION: The upper number gives three beats per bar; the lower 4 identifies the crotchet as the notated beat unit in this simple metre.
 EXAMPLE: Clap a waltz pattern: ONE-two-three, ONE-two-three. Accent the first beat gently.
@@ -246,6 +268,7 @@ QUESTION: At a typical moderate tempo, how is 6/8 commonly grouped?
 A: Three groups of two quavers as its usual compound-duple grouping
 B: Six groups of four crotchets
 C: Two groups of three quavers
+D: Two groups of four quavers
 ANSWER: C
 EXPLANATION: 6/8 is commonly compound duple: two dotted-crotchet beats, each dividing into three quavers. Slow music may be counted in six.
 EXAMPLE: Count ONE-two-three FOUR-five-six, or two larger pulses: ONE-and-a TWO-and-a.
@@ -257,6 +280,7 @@ QUESTION: What does a tie normally do?
 A: Combines the durations of adjacent notes of the same pitch
 B: Always makes the second note louder
 C: Changes a major chord into a minor chord
+D: Connects notes only when they have different pitches
 ANSWER: A
 EXPLANATION: A tie joins the same pitch across note values or bar lines. A slur groups notes in articulation and need not join identical pitches.
 EXAMPLE: Two tied crotchets on C last as long as a minim on C, with no new attack on the second crotchet.
@@ -268,6 +292,7 @@ QUESTION: In 4/4, with a crotchet as one beat, how long is a crotchet rest?
 A: Half a beat of silence
 B: One beat of silence
 C: Two beats of sound
+D: Four beats of silence
 ANSWER: B
 EXPLANATION: Rests specify notated silence. Their durations correspond to the note values with the same names.
 EXAMPLE: Clap on beats 1, 2 and 4, leaving beat 3 silent. Keep the internal pulse through the rest.
@@ -279,6 +304,7 @@ QUESTION: Which marking usually concerns loudness rather than speed?
 A: Allegro
 B: Piano (p)
 C: Adagio
+D: Presto
 ANSWER: B
 EXPLANATION: Piano means softly. Allegro and adagio are tempo indications, though musical context affects their interpretation.
 EXAMPLE: Compare p with f: softly versus loudly. Compare adagio with allegro: broadly slower versus faster.
@@ -290,6 +316,7 @@ QUESTION: What does a natural sign normally do?
 A: Raises a note by an octave
 B: Cancels a sharp or flat alteration for the relevant note according to notation rules
 C: Doubles a note's duration
+D: Changes only the note’s loudness
 ANSWER: B
 EXPLANATION: A natural restores the unsharpened, unflattened letter pitch. Accidentals normally apply within the bar and specified octave, subject to notation conventions.
 EXAMPLE: In G major, an F-natural marking temporarily alters the key-signature F-sharp for that notated F.
@@ -301,6 +328,7 @@ QUESTION: In C major, which root-position triad is the dominant chord, V?
 A: F A C
 B: C E G
 C: G B D
+D: A C E
 ANSWER: C
 EXPLANATION: The dominant is built on scale degree five. In C major, degree five is G, producing G major.
 EXAMPLE: A basic I-IV-V-I progression in C uses C major, F major, G major, C major.
@@ -312,6 +340,7 @@ QUESTION: Which pattern constructs a natural minor scale?
 A: Tone, tone, semitone, tone, tone, tone, semitone
 B: Seven consecutive whole tones
 C: Tone, semitone, tone, tone, semitone, tone, tone
+D: Tone, tone, tone, semitone, tone, semitone, tone
 ANSWER: C
 EXPLANATION: Natural minor uses W-H-W-W-H-W-W. Harmonic and melodic minor introduce other patterns in common Western usage.
 EXAMPLE: A natural minor is A B C D E F G A. The semitone steps are B-C and E-F.
@@ -323,7 +352,1088 @@ QUESTION: You have a 4/4 bar with a minim and a crotchet. How many crotchet beat
 A: One
 B: Three
 C: Two
+D: Four
 ANSWER: A
 EXPLANATION: The minim uses two beats and the crotchet uses one, leaving one beat in a four-beat bar.
 EXAMPLE: Practice now: clap a minim on beats 1-2, a crotchet on 3 and a crotchet on 4. Then replace beat 4 with a crotchet rest.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-031
+TITLE: Four tiny notes to a beat
+QUESTION: In 4/4 with a crotchet beat, how many semiquavers fill one beat?
+A: Eight
+B: Two
+C: Six
+D: Four
+ANSWER: D
+EXPLANATION: A semiquaver (sixteenth note) is one quarter of a crotchet (quarter note). Four semiquavers fit one crotchet beat in this counting system.
+EXAMPLE: In 4/4, count four equal subdivisions of a beat as one-e-and-a.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-032
+TITLE: Dots on smaller notes
+QUESTION: With the crotchet as one beat, how long is a dotted crotchet?
+A: Three beats
+B: One and a half beats
+C: Half a beat
+D: Two beats
+ANSWER: B
+EXPLANATION: A single dot adds half the original value. A dotted crotchet lasts one and a half crotchet beats; a dotted quaver lasts three quarters of a crotchet beat.
+EXAMPLE: A dotted crotchet plus a quaver totals two crotchet beats: 1.5 + 0.5 = 2.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-033
+TITLE: Finish the bar
+QUESTION: In 4/4, a dotted minim uses three beats. What single note fills the remaining beat?
+A: Minim
+B: Crotchet
+C: Semibreve
+D: Dotted minim
+ANSWER: B
+EXPLANATION: Add the note values before choosing what remains. In 4/4 a semibreve fills four crotchet beats, a minim two and a quaver half.
+EXAMPLE: A minim plus two quavers uses three crotchet beats, leaving one beat in 4/4.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-034
+TITLE: Rests and a continuing pulse
+QUESTION: In 4/4, a minim rest followed by two crotchets totals how many beats?
+A: Two
+B: Three
+C: Four
+D: Six
+ANSWER: C
+EXPLANATION: Rests occupy duration even though they make no sound. Counting the silent space keeps later notes in their correct positions.
+EXAMPLE: A minim rest in 4/4 uses two crotchet beats just as a sounding minim does.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-035
+TITLE: Simple triple and duple
+QUESTION: What does 2/4 normally indicate?
+A: Two semibreve beats per bar
+B: Four quaver beats per bar
+C: Two crotchet beats per bar
+D: Four minim beats per bar
+ANSWER: C
+EXPLANATION: In simple metre each beat commonly divides into two. The lower number specifies the notated beat unit; the upper number counts those units per bar.
+EXAMPLE: 2/4 has two crotchet beats; 3/8 has three quaver units, commonly grouped as simple triple at slower tempos.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-036
+TITLE: Larger compound metres
+QUESTION: At a typical moderate tempo, how many main dotted-crotchet beats are in 9/8?
+A: Three
+B: Nine
+C: Two
+D: Four
+ANSWER: A
+EXPLANATION: Compound metres group three subdivisions per main beat. 9/8 commonly has three dotted-crotchet beats and 12/8 four, while 6/8 commonly has two.
+EXAMPLE: Twelve quavers in 12/8 can be grouped 3 + 3 + 3 + 3.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-037
+TITLE: A slower or faster pulse
+QUESTION: At crotchet = 60, how long does one crotchet last?
+A: Two seconds
+B: Half a second
+C: Four seconds
+D: One second
+ANSWER: D
+EXPLANATION: A metronome marking must specify the note value receiving the pulse. At crotchet = 60, one crotchet lasts one second; doubling the rate halves the duration.
+EXAMPLE: At crotchet = 120, two crotchet beats pass each second.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-038
+TITLE: The next keyboard step
+QUESTION: How many semitones are there from E up to F on a piano?
+A: Four
+B: Three
+C: One
+D: Two
+ANSWER: C
+EXPLANATION: Adjacent keys on a twelve-note equal-tempered piano are one semitone apart. E-F and B-C are adjacent white-key semitones.
+EXAMPLE: C to D crosses C-sharp, so it is two semitones rather than one.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-039
+TITLE: Two spellings, one piano key
+QUESTION: Which note shares a piano key with C-sharp in equal temperament?
+A: D-sharp
+B: D-flat
+C: E-flat
+D: B-flat
+ANSWER: B
+EXPLANATION: Enharmonic spellings can identify the same key in twelve-note equal temperament. Their written spelling still affects interval names and harmonic interpretation.
+EXAMPLE: C-sharp and D-flat name the same piano key in equal temperament, but can have different grammatical roles in music.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-040
+TITLE: A sharp is not an octave
+QUESTION: What does a double sharp normally do to a natural letter pitch?
+A: Only makes it louder
+B: Raises it by two semitones
+C: Raises it by one octave
+D: Lowers it by two semitones
+ANSWER: B
+EXPLANATION: Accidentals alter pitch by semitone steps relative to a letter name. A double sharp raises by two semitones and a double flat lowers by two.
+EXAMPLE: F-double-sharp sounds like G on an equal-tempered piano, while retaining the letter name F.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-041
+TITLE: Three sharp keys
+QUESTION: Which sharps are in D major?
+A: B-sharp and E-sharp
+B: F-sharp and G-sharp
+C: C-sharp and D-sharp
+D: F-sharp and C-sharp
+ANSWER: D
+EXPLANATION: The sharp order begins F, C, G. G, D and A major therefore have one, two and three sharps respectively.
+EXAMPLE: D major contains F-sharp and C-sharp. Check the W-W-H-W-W-W-H pattern from D.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-042
+TITLE: Three flat keys
+QUESTION: Which flats are in B-flat major?
+A: B-flat and E-flat
+B: B-flat and A-flat
+C: A-flat and D-flat
+D: E-flat and D-flat
+ANSWER: A
+EXPLANATION: The flat order begins B, E, A. F, B-flat and E-flat major therefore have one, two and three flats respectively.
+EXAMPLE: B-flat major contains B-flat and E-flat; the other letter pitches remain natural.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-043
+TITLE: Relative keys with sharps
+QUESTION: What is the relative minor of G major?
+A: E minor
+B: B minor
+C: D minor
+D: G minor
+ANSWER: A
+EXPLANATION: A relative minor shares its major key’s signature and begins on the major scale’s sixth degree. A shared signature does not mean an identical tonal centre.
+EXAMPLE: G major and E minor share F-sharp.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-044
+TITLE: Relative keys with flats
+QUESTION: What is the relative minor of F major?
+A: A minor
+B: G minor
+C: F minor
+D: D minor
+ANSWER: D
+EXPLANATION: Relative minor keys begin on scale degree six of the major scale and share the signature. Use the letter names and accidentals already present in the scale.
+EXAMPLE: F major and D minor both use a one-flat key signature.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-045
+TITLE: Natural and harmonic minor
+QUESTION: Which note is raised to turn A natural minor into A harmonic minor?
+A: C becomes C-sharp
+B: G becomes G-sharp
+C: D becomes D-sharp
+D: F becomes F-sharp
+ANSWER: B
+EXPLANATION: Harmonic minor raises degree seven of the natural minor scale. This creates a leading note a semitone below the tonic.
+EXAMPLE: A natural minor uses G; A harmonic minor uses G-sharp.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-046
+TITLE: The classical ascending melodic minor
+QUESTION: Which notes are raised in A ascending melodic minor compared with A natural minor?
+A: F and G become F-sharp and G-sharp
+B: Only G becomes G-sharp
+C: B and E become B-sharp and E-sharp
+D: C and D become C-sharp and D-sharp
+ANSWER: A
+EXPLANATION: In the common classical ascending melodic minor form, degrees six and seven of natural minor are raised. The customary descending form returns to natural minor; other musical traditions use the scale differently.
+EXAMPLE: A ascending melodic minor is A B C D E F-sharp G-sharp A.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-047
+TITLE: Thirds and sixths
+QUESTION: What is the interval from C up to E-flat?
+A: Major second
+B: Minor third
+C: Perfect fourth
+D: Major third
+ANSWER: B
+EXPLANATION: An interval’s number counts letter names inclusively; its quality depends on the pitch distance. In equal temperament, a minor third is three semitones and a major sixth nine.
+EXAMPLE: C-E-flat is a minor third; C-A is a major sixth.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-048
+TITLE: The fourth and its alteration
+QUESTION: How many semitones form a perfect fourth in equal temperament?
+A: Seven
+B: Four
+C: Six
+D: Five
+ANSWER: D
+EXPLANATION: A perfect fourth spans five semitones in equal temperament. Raising its upper note by a semitone creates an augmented fourth when letter spelling remains a fourth.
+EXAMPLE: C-F is a perfect fourth; C-F-sharp is an augmented fourth.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-049
+TITLE: Sevenths before the octave
+QUESTION: What is the interval from C up to B?
+A: Perfect octave
+B: Major seventh
+C: Minor seventh
+D: Major sixth
+ANSWER: B
+EXPLANATION: C-B is a major seventh, while C-B-flat is a minor seventh. Their equal-tempered sizes are eleven and ten semitones respectively.
+EXAMPLE: C-B-C demonstrates a major seventh followed by the final semitone to the octave.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-050
+TITLE: Build major triads in new keys
+QUESTION: Which notes form a D major triad?
+A: D F A
+B: D F-sharp A
+C: D F-sharp A-flat
+D: D G A
+ANSWER: B
+EXPLANATION: A major triad contains a root, major third and perfect fifth. Retain the correct letter sequence when adding accidentals.
+EXAMPLE: D major is D-F-sharp-A. The letter F is the third above D.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-051
+TITLE: Build minor triads in new keys
+QUESTION: Which notes form a D minor triad?
+A: D F A
+B: D F-sharp A
+C: D F A-flat
+D: D G A
+ANSWER: A
+EXPLANATION: A minor triad contains a root, minor third and perfect fifth. Lowering the major third by one semitone changes a major triad into its parallel minor triad.
+EXAMPLE: D minor is D-F-A; D major is D-F-sharp-A.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-052
+TITLE: Two less familiar triad qualities
+QUESTION: Which notes form a C diminished triad?
+A: C E G
+B: C E-flat G-flat
+C: C E G-sharp
+D: C E-flat G
+ANSWER: B
+EXPLANATION: A diminished triad contains a minor third and diminished fifth. An augmented triad contains a major third and augmented fifth.
+EXAMPLE: C diminished is C-E-flat-G-flat; C augmented is C-E-G-sharp.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-053
+TITLE: Inversions in different chords
+QUESTION: With the lowest note written first, which is D minor in first inversion?
+A: D F A
+B: F A D
+C: D A F
+D: A D F
+ANSWER: B
+EXPLANATION: A triad’s inversion is determined by which chord member is in the bass. First inversion has the third below; second inversion has the fifth below.
+EXAMPLE: For D minor, F in the bass gives first inversion; A in the bass gives second inversion.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-054
+TITLE: A seventh joins the triad
+QUESTION: Which notes form G dominant seventh?
+A: G B D F-sharp
+B: G B-flat D F
+C: G B D-sharp F-sharp
+D: G B D F
+ANSWER: D
+EXPLANATION: A dominant seventh chord adds a minor seventh to a major triad. A major seventh chord instead adds a major seventh.
+EXAMPLE: G dominant seventh is G-B-D-F. The F-natural is a minor seventh above G.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-055
+TITLE: Roman numerals in C major
+QUESTION: Which triad is ii in C major?
+A: D major
+B: C minor
+C: D minor
+D: G major
+ANSWER: C
+EXPLANATION: Roman numerals indicate scale-degree roots and commonly chord quality. In C major, I = C major, ii = D minor, IV = F major and V = G major.
+EXAMPLE: A ii-V-I progression in C can be D minor -> G major -> C major.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-056
+TITLE: Cadences at phrase endings
+QUESTION: In C major, which roots outline a plagal IV-I cadence?
+A: C to G
+B: F to C
+C: G to C
+D: D to G
+ANSWER: B
+EXPLANATION: In a common Western tonal context, V-I is an authentic cadence, IV-I a plagal cadence and a phrase ending on V can form a half cadence. More specific cadence labels require details such as voicing.
+EXAMPLE: In C major, G-C gives V-I; F-C gives IV-I.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-057
+TITLE: A fifth around the circle
+QUESTION: Starting on C and moving up one perfect fifth, which note is next?
+A: G
+B: D
+C: F
+D: A
+ANSWER: A
+EXPLANATION: Moving up a perfect fifth leads C-G-D-A-E in the sharp direction of the circle of fifths. Moving towards flats reverses this sequence through fourths.
+EXAMPLE: C to G adds one sharp to the major-key signature; G to D adds the next.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-058
+TITLE: Transpose a tiny phrase
+QUESTION: Transpose C-D-E up a whole tone using D major spelling.
+A: C-sharp D-sharp F
+B: D E F
+C: D E F-sharp
+D: D F G
+ANSWER: C
+EXPLANATION: A transposition moves each note by the same interval while preserving the musical pattern. For these exercises, use the named major-scale spelling.
+EXAMPLE: Moving C-D-E up a whole tone produces D-E-F-sharp.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-059
+TITLE: Accents and articulation
+QUESTION: Which term generally asks for connected notes?
+A: Fortissimo
+B: Staccato
+C: Crescendo
+D: Legato
+ANSWER: D
+EXPLANATION: Dynamics concern loudness; articulation concerns how notes begin, connect and end. Staccato generally indicates separation and legato connection, while an accent marks emphasis.
+EXAMPLE: A passage can be both soft and staccato, since loudness and connection are separate dimensions.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-060
+TITLE: Notes beyond five lines
+QUESTION: In treble clef, which note is on the first ledger line below the staff?
+A: D above middle C
+B: E above middle C
+C: Middle C
+D: B below middle C
+ANSWER: C
+EXPLANATION: Ledger lines extend the staff above or below its five lines. Middle C lies on one ledger line below the treble staff or above the bass staff.
+EXAMPLE: The same middle-C pitch can be written relative to either clef; the clef changes the reading reference.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-061
+TITLE: Four tiny notes to a beat
+QUESTION: In 4/4, how many semiquavers fill an entire bar containing only semiquavers?
+A: Four
+B: Sixteen
+C: Twelve
+D: Eight
+ANSWER: B
+EXPLANATION: A semiquaver (sixteenth note) is one quarter of a crotchet (quarter note). Four semiquavers fit one crotchet beat in this counting system.
+EXAMPLE: In 4/4, count four equal subdivisions of a beat as one-e-and-a.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-062
+TITLE: Dots on smaller notes
+QUESTION: With the crotchet as one beat, how long is a dotted quaver?
+A: Two beats
+B: Three quarters of a beat
+C: Half a beat
+D: One and a half beats
+ANSWER: B
+EXPLANATION: A single dot adds half the original value. A dotted crotchet lasts one and a half crotchet beats; a dotted quaver lasts three quarters of a crotchet beat.
+EXAMPLE: A dotted crotchet plus a quaver totals two crotchet beats: 1.5 + 0.5 = 2.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-063
+TITLE: Finish the bar
+QUESTION: In 4/4, a minim and two quavers have been written. What single note fills the bar?
+A: Minim
+B: Dotted minim
+C: Crotchet
+D: Semibreve
+ANSWER: C
+EXPLANATION: Add the note values before choosing what remains. In 4/4 a semibreve fills four crotchet beats, a minim two and a quaver half.
+EXAMPLE: A minim plus two quavers uses three crotchet beats, leaving one beat in 4/4.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-064
+TITLE: Rests and a continuing pulse
+QUESTION: With the crotchet as one beat, a quaver rest lasts how long?
+A: Half a beat
+B: One beat
+C: Four beats
+D: Two beats
+ANSWER: A
+EXPLANATION: Rests occupy duration even though they make no sound. Counting the silent space keeps later notes in their correct positions.
+EXAMPLE: A minim rest in 4/4 uses two crotchet beats just as a sounding minim does.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-065
+TITLE: Simple triple and duple
+QUESTION: What does the lower number 2 indicate in 3/2?
+A: Two beats per bar
+B: Every note must be twice as loud
+C: Only two pitches may be used
+D: The minim is the notated beat unit
+ANSWER: D
+EXPLANATION: In simple metre each beat commonly divides into two. The lower number specifies the notated beat unit; the upper number counts those units per bar.
+EXAMPLE: 2/4 has two crotchet beats; 3/8 has three quaver units, commonly grouped as simple triple at slower tempos.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-066
+TITLE: Larger compound metres
+QUESTION: At a typical moderate tempo, how many main dotted-crotchet beats are in 12/8?
+A: Three
+B: Four
+C: Two
+D: Twelve
+ANSWER: B
+EXPLANATION: Compound metres group three subdivisions per main beat. 9/8 commonly has three dotted-crotchet beats and 12/8 four, while 6/8 commonly has two.
+EXAMPLE: Twelve quavers in 12/8 can be grouped 3 + 3 + 3 + 3.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-067
+TITLE: A slower or faster pulse
+QUESTION: At crotchet = 120, how long does one crotchet last?
+A: Four seconds
+B: Two seconds
+C: One second
+D: Half a second
+ANSWER: D
+EXPLANATION: A metronome marking must specify the note value receiving the pulse. At crotchet = 60, one crotchet lasts one second; doubling the rate halves the duration.
+EXAMPLE: At crotchet = 120, two crotchet beats pass each second.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-068
+TITLE: The next keyboard step
+QUESTION: How many semitones are there from B up to the next C?
+A: Three
+B: One
+C: Two
+D: Five
+ANSWER: B
+EXPLANATION: Adjacent keys on a twelve-note equal-tempered piano are one semitone apart. E-F and B-C are adjacent white-key semitones.
+EXAMPLE: C to D crosses C-sharp, so it is two semitones rather than one.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-069
+TITLE: Two spellings, one piano key
+QUESTION: Which note shares a piano key with F-sharp in equal temperament?
+A: G-sharp
+B: A-flat
+C: E-flat
+D: G-flat
+ANSWER: D
+EXPLANATION: Enharmonic spellings can identify the same key in twelve-note equal temperament. Their written spelling still affects interval names and harmonic interpretation.
+EXAMPLE: C-sharp and D-flat name the same piano key in equal temperament, but can have different grammatical roles in music.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-070
+TITLE: A sharp is not an octave
+QUESTION: What does a double flat normally do to a natural letter pitch?
+A: Only shortens it
+B: Lowers it by one octave
+C: Lowers it by two semitones
+D: Raises it by two semitones
+ANSWER: C
+EXPLANATION: Accidentals alter pitch by semitone steps relative to a letter name. A double sharp raises by two semitones and a double flat lowers by two.
+EXAMPLE: F-double-sharp sounds like G on an equal-tempered piano, while retaining the letter name F.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-071
+TITLE: Three sharp keys
+QUESTION: How many sharps are in A major?
+A: Three
+B: Two
+C: Four
+D: One
+ANSWER: A
+EXPLANATION: The sharp order begins F, C, G. G, D and A major therefore have one, two and three sharps respectively.
+EXAMPLE: D major contains F-sharp and C-sharp. Check the W-W-H-W-W-W-H pattern from D.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-072
+TITLE: Three flat keys
+QUESTION: How many flats are in E-flat major?
+A: Four
+B: Three
+C: Two
+D: One
+ANSWER: B
+EXPLANATION: The flat order begins B, E, A. F, B-flat and E-flat major therefore have one, two and three flats respectively.
+EXAMPLE: B-flat major contains B-flat and E-flat; the other letter pitches remain natural.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-073
+TITLE: Relative keys with sharps
+QUESTION: What is the relative minor of D major?
+A: B minor
+B: D minor
+C: F-sharp minor
+D: A minor
+ANSWER: A
+EXPLANATION: A relative minor shares its major key’s signature and begins on the major scale’s sixth degree. A shared signature does not mean an identical tonal centre.
+EXAMPLE: G major and E minor share F-sharp.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-074
+TITLE: Relative keys with flats
+QUESTION: What is the relative minor of B-flat major?
+A: C minor
+B: G minor
+C: D minor
+D: B-flat minor
+ANSWER: B
+EXPLANATION: Relative minor keys begin on scale degree six of the major scale and share the signature. Use the letter names and accidentals already present in the scale.
+EXAMPLE: F major and D minor both use a one-flat key signature.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-075
+TITLE: Natural and harmonic minor
+QUESTION: Which note is the raised seventh in D harmonic minor?
+A: G-sharp
+B: B-natural
+C: C-sharp
+D: F-sharp
+ANSWER: C
+EXPLANATION: Harmonic minor raises degree seven of the natural minor scale. This creates a leading note a semitone below the tonic.
+EXAMPLE: A natural minor uses G; A harmonic minor uses G-sharp.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-076
+TITLE: The classical ascending melodic minor
+QUESTION: In the common classical convention, which form is used when descending melodic minor?
+A: A whole-tone scale only
+B: The parallel major scale
+C: A chromatic scale only
+D: Natural minor
+ANSWER: D
+EXPLANATION: In the common classical ascending melodic minor form, degrees six and seven of natural minor are raised. The customary descending form returns to natural minor; other musical traditions use the scale differently.
+EXAMPLE: A ascending melodic minor is A B C D E F-sharp G-sharp A.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-077
+TITLE: Thirds and sixths
+QUESTION: What is the interval from C up to A?
+A: Perfect fifth
+B: Major seventh
+C: Major sixth
+D: Minor sixth
+ANSWER: C
+EXPLANATION: An interval’s number counts letter names inclusively; its quality depends on the pitch distance. In equal temperament, a minor third is three semitones and a major sixth nine.
+EXAMPLE: C-E-flat is a minor third; C-A is a major sixth.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-078
+TITLE: The fourth and its alteration
+QUESTION: What is the correctly spelled interval from C up to F-sharp?
+A: Major third
+B: Augmented fourth
+C: Minor sixth
+D: Diminished fifth
+ANSWER: B
+EXPLANATION: A perfect fourth spans five semitones in equal temperament. Raising its upper note by a semitone creates an augmented fourth when letter spelling remains a fourth.
+EXAMPLE: C-F is a perfect fourth; C-F-sharp is an augmented fourth.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-079
+TITLE: Sevenths before the octave
+QUESTION: What is the interval from C up to B-flat?
+A: Perfect fifth
+B: Minor seventh
+C: Minor sixth
+D: Major seventh
+ANSWER: B
+EXPLANATION: C-B is a major seventh, while C-B-flat is a minor seventh. Their equal-tempered sizes are eleven and ten semitones respectively.
+EXAMPLE: C-B-C demonstrates a major seventh followed by the final semitone to the octave.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-080
+TITLE: Build major triads in new keys
+QUESTION: Which notes form an E major triad?
+A: E G B
+B: E A B
+C: E G-sharp B
+D: E G-sharp B-flat
+ANSWER: C
+EXPLANATION: A major triad contains a root, major third and perfect fifth. Retain the correct letter sequence when adding accidentals.
+EXAMPLE: D major is D-F-sharp-A. The letter F is the third above D.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-081
+TITLE: Build minor triads in new keys
+QUESTION: Which notes form an E minor triad?
+A: E G B
+B: E G B-flat
+C: E A B
+D: E G-sharp B
+ANSWER: A
+EXPLANATION: A minor triad contains a root, minor third and perfect fifth. Lowering the major third by one semitone changes a major triad into its parallel minor triad.
+EXAMPLE: D minor is D-F-A; D major is D-F-sharp-A.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-082
+TITLE: Two less familiar triad qualities
+QUESTION: Which notes form a C augmented triad?
+A: C E-flat G
+B: C E-flat G-flat
+C: C E G-sharp
+D: C E G
+ANSWER: C
+EXPLANATION: A diminished triad contains a minor third and diminished fifth. An augmented triad contains a major third and augmented fifth.
+EXAMPLE: C diminished is C-E-flat-G-flat; C augmented is C-E-G-sharp.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-083
+TITLE: Inversions in different chords
+QUESTION: With the lowest note written first, which is F major in second inversion?
+A: C F A
+B: A C F
+C: F A C
+D: F C A
+ANSWER: A
+EXPLANATION: A triad’s inversion is determined by which chord member is in the bass. First inversion has the third below; second inversion has the fifth below.
+EXAMPLE: For D minor, F in the bass gives first inversion; A in the bass gives second inversion.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-084
+TITLE: A seventh joins the triad
+QUESTION: Which notes form C major seventh?
+A: C E G B-flat
+B: C E G B
+C: C E-flat G B-flat
+D: C E G-sharp B
+ANSWER: B
+EXPLANATION: A dominant seventh chord adds a minor seventh to a major triad. A major seventh chord instead adds a major seventh.
+EXAMPLE: G dominant seventh is G-B-D-F. The F-natural is a minor seventh above G.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-085
+TITLE: Roman numerals in C major
+QUESTION: Which triad is IV in C major?
+A: G major
+B: F minor
+C: F major
+D: A minor
+ANSWER: C
+EXPLANATION: Roman numerals indicate scale-degree roots and commonly chord quality. In C major, I = C major, ii = D minor, IV = F major and V = G major.
+EXAMPLE: A ii-V-I progression in C can be D minor -> G major -> C major.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-086
+TITLE: Cadences at phrase endings
+QUESTION: In C major, which progression outlines an authentic V-I cadence?
+A: A minor to F major
+B: F major to C major
+C: G major to C major
+D: C major to G major
+ANSWER: C
+EXPLANATION: In a common Western tonal context, V-I is an authentic cadence, IV-I a plagal cadence and a phrase ending on V can form a half cadence. More specific cadence labels require details such as voicing.
+EXAMPLE: In C major, G-C gives V-I; F-C gives IV-I.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-087
+TITLE: A fifth around the circle
+QUESTION: In the sequence C-G-D-A, which note follows A when continuing by ascending perfect fifths?
+A: F
+B: C
+C: E
+D: B-flat
+ANSWER: C
+EXPLANATION: Moving up a perfect fifth leads C-G-D-A-E in the sharp direction of the circle of fifths. Moving towards flats reverses this sequence through fourths.
+EXAMPLE: C to G adds one sharp to the major-key signature; G to D adds the next.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-088
+TITLE: Transpose a tiny phrase
+QUESTION: Transpose C-E-G up a whole tone using D major spelling.
+A: D F A
+B: E G B
+C: C D E
+D: D F-sharp A
+ANSWER: D
+EXPLANATION: A transposition moves each note by the same interval while preserving the musical pattern. For these exercises, use the named major-scale spelling.
+EXAMPLE: Moving C-D-E up a whole tone produces D-E-F-sharp.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-089
+TITLE: Accents and articulation
+QUESTION: Which term generally asks for separated notes?
+A: Staccato
+B: Diminuendo
+C: Pianissimo
+D: Legato
+ANSWER: A
+EXPLANATION: Dynamics concern loudness; articulation concerns how notes begin, connect and end. Staccato generally indicates separation and legato connection, while an accent marks emphasis.
+EXAMPLE: A passage can be both soft and staccato, since loudness and connection are separate dimensions.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-090
+TITLE: Notes beyond five lines
+QUESTION: In bass clef, which note is on the first ledger line above the staff?
+A: D above middle C
+B: Middle C
+C: G below middle C
+D: A below middle C
+ANSWER: B
+EXPLANATION: Ledger lines extend the staff above or below its five lines. Middle C lies on one ledger line below the treble staff or above the bass staff.
+EXAMPLE: The same middle-C pitch can be written relative to either clef; the clef changes the reading reference.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-091
+TITLE: Four tiny notes to a beat
+QUESTION: In 4/4, two semiquavers together last how much of a crotchet beat?
+A: A quarter of a beat
+B: Two beats
+C: Half a beat
+D: One beat
+ANSWER: C
+EXPLANATION: A semiquaver (sixteenth note) is one quarter of a crotchet (quarter note). Four semiquavers fit one crotchet beat in this counting system.
+EXAMPLE: In 4/4, count four equal subdivisions of a beat as one-e-and-a.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-092
+TITLE: Dots on smaller notes
+QUESTION: How many semiquavers equal one dotted quaver?
+A: Three
+B: Six
+C: Two
+D: Four
+ANSWER: A
+EXPLANATION: A single dot adds half the original value. A dotted crotchet lasts one and a half crotchet beats; a dotted quaver lasts three quarters of a crotchet beat.
+EXAMPLE: A dotted crotchet plus a quaver totals two crotchet beats: 1.5 + 0.5 = 2.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-093
+TITLE: Finish the bar
+QUESTION: In 4/4, three crotchets and one quaver have been written. What single note completes the bar?
+A: Quaver
+B: Crotchet
+C: Semibreve
+D: Minim
+ANSWER: A
+EXPLANATION: Add the note values before choosing what remains. In 4/4 a semibreve fills four crotchet beats, a minim two and a quaver half.
+EXAMPLE: A minim plus two quavers uses three crotchet beats, leaving one beat in 4/4.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-094
+TITLE: Rests and a continuing pulse
+QUESTION: In 3/4, how many crotchet rests fill one complete bar?
+A: Four
+B: Six
+C: Two
+D: Three
+ANSWER: D
+EXPLANATION: Rests occupy duration even though they make no sound. Counting the silent space keeps later notes in their correct positions.
+EXAMPLE: A minim rest in 4/4 uses two crotchet beats just as a sounding minim does.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-095
+TITLE: Simple triple and duple
+QUESTION: How many quavers fill a 3/8 bar if only quavers are written?
+A: Six
+B: Three
+C: Two
+D: Eight
+ANSWER: B
+EXPLANATION: In simple metre each beat commonly divides into two. The lower number specifies the notated beat unit; the upper number counts those units per bar.
+EXAMPLE: 2/4 has two crotchet beats; 3/8 has three quaver units, commonly grouped as simple triple at slower tempos.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-096
+TITLE: Larger compound metres
+QUESTION: How many quavers are in one dotted-crotchet beat?
+A: Six
+B: Two
+C: Three
+D: Four
+ANSWER: C
+EXPLANATION: Compound metres group three subdivisions per main beat. 9/8 commonly has three dotted-crotchet beats and 12/8 four, while 6/8 commonly has two.
+EXAMPLE: Twelve quavers in 12/8 can be grouped 3 + 3 + 3 + 3.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-097
+TITLE: A slower or faster pulse
+QUESTION: At crotchet = 60, approximately how long does one 4/4 bar last without tempo changes?
+A: Four seconds
+B: Two seconds
+C: Eight seconds
+D: One second
+ANSWER: A
+EXPLANATION: A metronome marking must specify the note value receiving the pulse. At crotchet = 60, one crotchet lasts one second; doubling the rate halves the duration.
+EXAMPLE: At crotchet = 120, two crotchet beats pass each second.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-098
+TITLE: The next keyboard step
+QUESTION: How many semitones are there from C up to D?
+A: One
+B: Four
+C: Two
+D: Three
+ANSWER: C
+EXPLANATION: Adjacent keys on a twelve-note equal-tempered piano are one semitone apart. E-F and B-C are adjacent white-key semitones.
+EXAMPLE: C to D crosses C-sharp, so it is two semitones rather than one.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-099
+TITLE: Two spellings, one piano key
+QUESTION: Which note shares a piano key with B in equal temperament?
+A: C-flat
+B: B-flat
+C: C-sharp
+D: A-sharp
+ANSWER: A
+EXPLANATION: Enharmonic spellings can identify the same key in twelve-note equal temperament. Their written spelling still affects interval names and harmonic interpretation.
+EXAMPLE: C-sharp and D-flat name the same piano key in equal temperament, but can have different grammatical roles in music.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-100
+TITLE: A sharp is not an octave
+QUESTION: On an equal-tempered piano, F-double-sharp sounds at the same pitch as which natural note?
+A: D
+B: E
+C: A
+D: G
+ANSWER: D
+EXPLANATION: Accidentals alter pitch by semitone steps relative to a letter name. A double sharp raises by two semitones and a double flat lowers by two.
+EXAMPLE: F-double-sharp sounds like G on an equal-tempered piano, while retaining the letter name F.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-101
+TITLE: Three sharp keys
+QUESTION: Which major key has F-sharp, C-sharp and G-sharp in its signature?
+A: E major
+B: A major
+C: G major
+D: D major
+ANSWER: B
+EXPLANATION: The sharp order begins F, C, G. G, D and A major therefore have one, two and three sharps respectively.
+EXAMPLE: D major contains F-sharp and C-sharp. Check the W-W-H-W-W-W-H pattern from D.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-102
+TITLE: Three flat keys
+QUESTION: Which major key has B-flat, E-flat and A-flat in its signature?
+A: F major
+B: A-flat major
+C: E-flat major
+D: B-flat major
+ANSWER: C
+EXPLANATION: The flat order begins B, E, A. F, B-flat and E-flat major therefore have one, two and three flats respectively.
+EXAMPLE: B-flat major contains B-flat and E-flat; the other letter pitches remain natural.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-103
+TITLE: Relative keys with sharps
+QUESTION: What is the relative minor of A major?
+A: E minor
+B: F-sharp minor
+C: A minor
+D: C-sharp minor
+ANSWER: B
+EXPLANATION: A relative minor shares its major key’s signature and begins on the major scale’s sixth degree. A shared signature does not mean an identical tonal centre.
+EXAMPLE: G major and E minor share F-sharp.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-104
+TITLE: Relative keys with flats
+QUESTION: What is the relative minor of E-flat major?
+A: C minor
+B: E-flat minor
+C: F minor
+D: G minor
+ANSWER: A
+EXPLANATION: Relative minor keys begin on scale degree six of the major scale and share the signature. Use the letter names and accidentals already present in the scale.
+EXAMPLE: F major and D minor both use a one-flat key signature.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-105
+TITLE: Natural and harmonic minor
+QUESTION: Which interval separates a leading note from the tonic immediately above it?
+A: A perfect fifth
+B: A semitone
+C: A whole tone
+D: An octave
+ANSWER: B
+EXPLANATION: Harmonic minor raises degree seven of the natural minor scale. This creates a leading note a semitone below the tonic.
+EXAMPLE: A natural minor uses G; A harmonic minor uses G-sharp.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-106
+TITLE: The classical ascending melodic minor
+QUESTION: Which note is degree six in A ascending melodic minor?
+A: F-sharp
+B: E-flat
+C: G-sharp
+D: F-natural
+ANSWER: A
+EXPLANATION: In the common classical ascending melodic minor form, degrees six and seven of natural minor are raised. The customary descending form returns to natural minor; other musical traditions use the scale differently.
+EXAMPLE: A ascending melodic minor is A B C D E F-sharp G-sharp A.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-107
+TITLE: Thirds and sixths
+QUESTION: How many semitones are in a minor third in equal temperament?
+A: Five
+B: Four
+C: Six
+D: Three
+ANSWER: D
+EXPLANATION: An interval’s number counts letter names inclusively; its quality depends on the pitch distance. In equal temperament, a minor third is three semitones and a major sixth nine.
+EXAMPLE: C-E-flat is a minor third; C-A is a major sixth.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-108
+TITLE: The fourth and its alteration
+QUESTION: Which interval is formed by C up to G-flat?
+A: Augmented fourth
+B: Major third
+C: Diminished fifth
+D: Perfect fourth
+ANSWER: C
+EXPLANATION: A perfect fourth spans five semitones in equal temperament. Raising its upper note by a semitone creates an augmented fourth when letter spelling remains a fourth.
+EXAMPLE: C-F is a perfect fourth; C-F-sharp is an augmented fourth.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-109
+TITLE: Sevenths before the octave
+QUESTION: How many semitones are in a major seventh in equal temperament?
+A: Eleven
+B: Nine
+C: Twelve
+D: Ten
+ANSWER: A
+EXPLANATION: C-B is a major seventh, while C-B-flat is a minor seventh. Their equal-tempered sizes are eleven and ten semitones respectively.
+EXAMPLE: C-B-C demonstrates a major seventh followed by the final semitone to the octave.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-110
+TITLE: Build major triads in new keys
+QUESTION: Which notes form a B-flat major triad?
+A: B-flat D F
+B: B-flat E-flat F
+C: B-flat D F-flat
+D: B-flat D-flat F
+ANSWER: A
+EXPLANATION: A major triad contains a root, major third and perfect fifth. Retain the correct letter sequence when adding accidentals.
+EXAMPLE: D major is D-F-sharp-A. The letter F is the third above D.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-111
+TITLE: Build minor triads in new keys
+QUESTION: Which notes form a G minor triad?
+A: G B-flat D
+B: G B D
+C: G C D
+D: G B-flat D-flat
+ANSWER: A
+EXPLANATION: A minor triad contains a root, minor third and perfect fifth. Lowering the major third by one semitone changes a major triad into its parallel minor triad.
+EXAMPLE: D minor is D-F-A; D major is D-F-sharp-A.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-112
+TITLE: Two less familiar triad qualities
+QUESTION: What changes a minor triad into a diminished triad while keeping the root and third?
+A: Double the note durations
+B: Lower the fifth by a semitone
+C: Raise the root by an octave only
+D: Raise the third by a semitone
+ANSWER: B
+EXPLANATION: A diminished triad contains a minor third and diminished fifth. An augmented triad contains a major third and augmented fifth.
+EXAMPLE: C diminished is C-E-flat-G-flat; C augmented is C-E-G-sharp.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-113
+TITLE: Inversions in different chords
+QUESTION: Which note is in the bass of E minor in first inversion?
+A: B
+B: G
+C: E
+D: F-sharp
+ANSWER: B
+EXPLANATION: A triad’s inversion is determined by which chord member is in the bass. First inversion has the third below; second inversion has the fifth below.
+EXAMPLE: For D minor, F in the bass gives first inversion; A in the bass gives second inversion.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-114
+TITLE: A seventh joins the triad
+QUESTION: What distinguishes C dominant seventh from C major seventh?
+A: A different root named D
+B: B-flat rather than B-natural
+C: G-flat rather than G-natural
+D: E-flat rather than E-natural
+ANSWER: B
+EXPLANATION: A dominant seventh chord adds a minor seventh to a major triad. A major seventh chord instead adds a major seventh.
+EXAMPLE: G dominant seventh is G-B-D-F. The F-natural is a minor seventh above G.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-115
+TITLE: Roman numerals in C major
+QUESTION: Which sequence represents ii-V-I in C major?
+A: A minor, D minor, E major
+B: G major, D major, A major
+C: D minor, G major, C major
+D: C major, F major, G major
+ANSWER: C
+EXPLANATION: Roman numerals indicate scale-degree roots and commonly chord quality. In C major, I = C major, ii = D minor, IV = F major and V = G major.
+EXAMPLE: A ii-V-I progression in C can be D minor -> G major -> C major.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-116
+TITLE: Cadences at phrase endings
+QUESTION: Which ending can form a half cadence in a major key?
+A: Every phrase ending on I
+B: Any pair of unpitched sounds
+C: A phrase ending on V
+D: Only a silent bar
+ANSWER: C
+EXPLANATION: In a common Western tonal context, V-I is an authentic cadence, IV-I a plagal cadence and a phrase ending on V can form a half cadence. More specific cadence labels require details such as voicing.
+EXAMPLE: In C major, G-C gives V-I; F-C gives IV-I.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-117
+TITLE: A fifth around the circle
+QUESTION: Moving in the flat direction from C major, which major key comes next on the circle?
+A: G major
+B: A major
+C: D major
+D: F major
+ANSWER: D
+EXPLANATION: Moving up a perfect fifth leads C-G-D-A-E in the sharp direction of the circle of fifths. Moving towards flats reverses this sequence through fourths.
+EXAMPLE: C to G adds one sharp to the major-key signature; G to D adds the next.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-118
+TITLE: Transpose a tiny phrase
+QUESTION: Transpose G-A-B down a whole tone using F major spelling.
+A: E F-sharp G-sharp
+B: G-flat A-flat B-flat
+C: F G A-flat
+D: F G A
+ANSWER: D
+EXPLANATION: A transposition moves each note by the same interval while preserving the musical pattern. For these exercises, use the named major-scale spelling.
+EXAMPLE: Moving C-D-E up a whole tone produces D-E-F-sharp.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-119
+TITLE: Accents and articulation
+QUESTION: What does crescendo indicate?
+A: Gradually becoming slower by definition
+B: Raising every pitch by a semitone
+C: Gradually becoming louder
+D: Making every note shorter
+ANSWER: C
+EXPLANATION: Dynamics concern loudness; articulation concerns how notes begin, connect and end. Staccato generally indicates separation and legato connection, while an accent marks emphasis.
+EXAMPLE: A passage can be both soft and staccato, since loudness and connection are separate dimensions.
+SOURCE: https://www.musictheory.net/lessons
+---
+ID: music-120
+TITLE: Notes beyond five lines
+QUESTION: What is a ledger line used for?
+A: Notating a pitch outside the staff’s five lines
+B: Indicating only the music’s loudness
+C: Cancelling every accidental in a bar
+D: Doubling a note’s duration
+ANSWER: A
+EXPLANATION: Ledger lines extend the staff above or below its five lines. Middle C lies on one ledger line below the treble staff or above the bass staff.
+EXAMPLE: The same middle-C pitch can be written relative to either clef; the clef changes the reading reference.
 SOURCE: https://www.musictheory.net/lessons

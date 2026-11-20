@@ -1,6 +1,6 @@
 # Matt's Newsletter
 
-Una newsletter semanal en inglés hecha para Matthew: cuestionarios de neuropsicología, neurociencia, psicoterapia, irlandés A2/B1 y teoría musical básica, seguidos de noticias de Irlanda. Diseño en blanco y negro, sin imágenes remotas, con versión HTML y texto plano.
+Una newsletter semanal en inglés hecha para Matthew: cuestionarios de neuropsicología, casos diagnósticos de salud mental, neurociencia, psicoterapia, irlandés A2/B1 y teoría musical básica, seguidos de noticias de Irlanda. Diseño en blanco y negro, sin imágenes remotas, con versión HTML y texto plano.
 
 El proyecto adapta el enfoque del `newsletter.py` original: contenido editable en TXT, noticias RSS, envío SMTP por Gmail y archivo estático de ediciones. No necesita una API de IA ni servicios de pago para generar los ejercicios.
 
@@ -13,22 +13,25 @@ El proyecto adapta el enfoque del `newsletter.py` original: contenido editable e
 
 Descarga la carpeta y abre los HTML en un navegador. La vista de archivos de GitHub muestra el código HTML, no el correo renderizado. Las cuatro ediciones del historial de ejemplo están marcadas como DEMO y nunca se han enviado. No se presentan como un historial real del cliente.
 
-También puedes ver capturas directamente desde GitHub: [correo en escritorio](previews/email-preview.png), [correo en móvil](previews/mobile-preview.png) y [archivo de ediciones](previews/archive-preview.png). Son capturas de la parte inicial; los HTML contienen la edición completa.
+También puedes ver capturas directamente desde GitHub: [correo en escritorio](previews/email-preview.png), [correo en móvil](previews/mobile-preview.png), [archivo de ediciones](previews/archive-preview.png) y [soluciones con el enunciado completo](previews/answers-preview.png). Son capturas parciales; los HTML contienen la edición completa.
 
 ## Qué recibe Matt
 
 Cada semana, en este orden:
 
-1. **Neuropsychology case files**: tres casos ficticios con síntomas, mecanismo de lesión o datos clínicos, y opciones que relacionan el síndrome más probable con el área o circuito implicado.
-2. **Neuroscience**: tres preguntas sobre neurotransmisores, regiones, memoria, aprendizaje o métodos de estudio del cerebro.
-3. **Psychotherapy toolkit**: tres preguntas sobre métodos, historia y términos de CBT, DBT, psicoanálisis y otras escuelas.
-4. **A little Gaeilge**: tres ejercicios prácticos de irlandés A2/B1, con instrucciones en inglés y frases en irlandés.
-5. **Music theory, finally**: tres ejercicios de ritmo, lectura, intervalos, escalas y acordes. Se incluyen términos británicos/irlandeses y equivalentes estadounidenses cuando ayudan.
-6. **Ireland’s News**: hasta cinco noticias fechadas de los últimos siete días, con medio y enlace.
+1. **Neuropsychology case files**: tres preguntas sobre casos ficticios, con síntomas, redes cerebrales, diagnóstico probable y pruebas que ayudan a distinguirlos.
+2. **Mental health case files**: tres casos diagnósticos ficticios de depresión, ansiedad, pánico, fobias, PTSD, OCD, bipolaridad y otros cuadros. Cada caso indica **DSM-5-TR** o **ICD-11**; sus reglas no se mezclan.
+3. **Neuroscience**: tres preguntas sobre neurotransmisores, regiones, memoria, aprendizaje o métodos de estudio del cerebro.
+4. **Psychotherapy toolkit**: tres preguntas sobre métodos, historia y términos de CBT, DBT, psicoanálisis y otras escuelas.
+5. **A little Gaeilge**: tres ejercicios prácticos de irlandés A2/B1, con instrucciones en inglés y frases en irlandés.
+6. **Music theory, finally**: tres ejercicios de ritmo, lectura, intervalos, escalas y acordes, con términos británicos/irlandeses y sus equivalentes estadounidenses cuando ayudan.
+7. **Ireland’s News**: hasta cinco noticias fechadas de los últimos siete días, con medio y enlace.
 
-Después aparece la clave de respuestas: una explicación y un ejemplo resuelto o práctica adicional para cada pregunta. Las soluciones están separadas de los cuestionarios y visibles al final; no dependen de JavaScript, formularios o desplegables que algunos clientes de correo no admiten.
+Todas las preguntas tienen **cuatro opciones, A–D**, y una respuesta correcta. Al final, la clave de respuestas repite **el enunciado completo**, seguido de la opción correcta, explicación y ejemplo resuelto o práctica adicional. Matt puede revisar cada solución sin volver al cuestionario. Se han retirado los enlaces «Explore the topic» tanto del HTML como del texto plano para ahorrar espacio. Las referencias siguen disponibles en los TXT y en `CONTENT_SOURCES.md`.
 
-Hay **150 preguntas originales con explicación y 150 ejemplos/prácticas adicionales**, 30 por materia. Con tres preguntas por materia son **15 preguntas por edición y diez semanas sin repetir**. Al agotar el banco, se recuperan primero las preguntas utilizadas hace más tiempo. Puedes ampliar los TXT para alargar la rotación.
+Hay **720 preguntas con explicación y ejemplo/práctica adicional**, **120 por materia**. Las cinco categorías originales han pasado de 30 a 120 cada una: cuatro veces su tamaño anterior, más 120 preguntas nuevas de salud mental. Con tres por materia son **18 preguntas por edición y 40 semanas sin repetir**, aproximadamente nueve meses. Al agotar el banco, se recuperan primero las preguntas utilizadas hace más tiempo.
+
+La ampliación combina casos nuevos, preguntas de diagnóstico o discriminación clínica y ejercicios de aplicación. Algunos casos de neuropsicología se revisitan más adelante para preguntar por otra capacidad, prueba o distinción; no se consideran el mismo enunciado. Las preguntas antiguas conservan su `ID` y su respuesta correcta para que el historial siga reconociéndolas.
 
 Los casos son educativos y las localizaciones se expresan como regiones o redes plausibles. No son historias clínicas reales ni una herramienta de diagnóstico.
 
@@ -37,11 +40,12 @@ Los casos son educativos y las localizaciones se expresan como regiones o redes 
 ```text
 newsletter.py                  Generación, RSS, SMTP e historial
 content/
-  neuropsychology.txt           30 casos clínicos ficticios
-  neuroscience.txt              30 preguntas
-  psychotherapy.txt             30 preguntas
-  irish.txt                     30 ejercicios A2/B1
-  music.txt                     30 ejercicios básicos
+  neuropsychology.txt           120 preguntas sobre casos ficticios
+  mental_health.txt             120 casos diagnósticos DSM-5-TR / ICD-11
+  neuroscience.txt              120 preguntas
+  psychotherapy.txt             120 preguntas
+  irish.txt                     120 ejercicios A2/B1
+  music.txt                     120 ejercicios básicos
 config/news_sources.json        Fuentes RSS y prioridades editoriales
 state/history.json              Semanas enviadas y contenido utilizado
 docs/                           Archivo real para GitHub Pages
@@ -60,7 +64,7 @@ CONTENT_SOURCES.md              Referencias y criterios de contenido
 
 ## Ejecutar en tu ordenador
 
-Usa Python 3.12 o posterior y abre una terminal **dentro de `Newsletter Mat`**:
+Usa Python 3.12 o posterior y abre una terminal **dentro de `Newsletter-Matthew`**:
 
 ```powershell
 python -m venv .venv
@@ -96,7 +100,7 @@ python newsletter.py --preview --offline --questions 5
 
 ## Preparar el repositorio de GitHub
 
-Sube **el contenido de `Newsletter Mat` a la raíz de su propio repositorio**. Deben quedar `newsletter.py`, `requirements.txt` y `.github/workflows/` directamente en la raíz. Si subes esta carpeta como subdirectorio de otro proyecto, GitHub no descubrirá el workflow que está dentro.
+Sube **el contenido de `Newsletter-Matthew` a la raíz de su propio repositorio**. Deben quedar `newsletter.py`, `requirements.txt` y `.github/workflows/` directamente en la raíz. Si subes esta carpeta como subdirectorio de otro proyecto, GitHub no descubrirá el workflow que está dentro.
 
 1. Crea un repositorio para el proyecto y sube los archivos, incluida la carpeta oculta `.github`.
 2. En **Settings → Secrets and variables → Actions → Secrets**, añade estos tres secretos:
@@ -144,26 +148,27 @@ Para cambiar los medios o la prioridad de los temas, edita `config/news_sources.
 Cada TXT está en UTF-8. Los bloques se separan con una línea `---`. Mantén una línea por campo; los dos puntos dentro del contenido sí están permitidos.
 
 ```text
-ID: music-031
+ID: music-121
 TITLE: Three notes, one chord
 QUESTION: Which notes form a D major triad?
 A: D F A
 B: D F-sharp A
 C: D G A
+D: D F-sharp A-flat
 ANSWER: B
 EXPLANATION: D major contains a major third, F-sharp, and a perfect fifth, A.
 EXAMPLE: Compare D-F-sharp-A with D-F-A to hear major versus minor.
 SOURCE: https://www.musictheory.net/lessons
 ```
 
-Todos los campos son obligatorios. `ANSWER` debe ser `A`, `B` o `C`; `SOURCE` debe ser un enlace HTTP(S). Cada `ID` debe ser único en todo el proyecto. Conserva los identificadores de las preguntas existentes para que el historial siga reconociéndolas.
+Todos los campos son obligatorios, incluidas las cuatro opciones A–D, que deben ser distintas. `ANSWER` debe ser `A`, `B`, `C` o `D`; `SOURCE` debe ser un enlace HTTP(S). Cada `ID` debe ser único en todo el proyecto. Conserva los identificadores de las preguntas existentes para que el historial siga reconociéndolas.
 
 ```powershell
 python newsletter.py --check
 python -m unittest discover -s tests -v
 ```
 
-Las pruebas comprueban la rotación completa de diez semanas, fechas de noticias, duplicados, escape de HTML, privacidad de destinatarios, previsualización sin efectos y éxito/error de entrega con SMTP simulado. No envían correos reales. Una validación automática no sustituye la revisión editorial de los contenidos científicos y lingüísticos.
+Las pruebas comprueban la rotación completa de 40 semanas, las cuatro opciones, los enunciados repetidos en las soluciones, el tamaño del correo, fechas de noticias, duplicados, escape de HTML, privacidad de destinatarios, previsualización sin efectos y éxito/error de entrega con SMTP simulado. No envían correos reales. Una validación automática no sustituye la revisión editorial de los contenidos científicos y lingüísticos.
 
 ## Si falla un envío
 
@@ -179,4 +184,4 @@ Haz commit y push del estado reconciliado antes de volver a ejecutar Actions. Si
 
 ## Validación de esta entrega
 
-Se generaron el correo de muestra y cuatro ediciones de demostración, con capturas de escritorio, móvil y archivo. La vista móvil se comprobó a 390 píxeles, sin desbordamiento horizontal. Los 150 bloques pasan el validador y las 21 pruebas pasan con SMTP simulado. Las tres fuentes RSS se comprobaron mediante lectura, sin enviar correo. La entrega real con Gmail y la publicación en GitHub requieren configurar los secretos, el repositorio y Pages siguiendo los pasos anteriores.
+Se generaron el correo de muestra y cuatro ediciones de demostración, con capturas de escritorio, móvil, archivo y soluciones. La vista móvil se comprobó a 390 píxeles sin desbordamiento horizontal. Los 720 bloques pasan el validador y las 26 pruebas pasan con SMTP simulado, incluida la rotación completa de 40 semanas, las cuatro opciones, las soluciones con enunciado y el tamaño de las ediciones. Las tres fuentes RSS se comprobaron mediante lectura en la entrega inicial; esta ampliación reutiliza la muestra fechada para revisar el diseño sin enviar correo. La entrega real con Gmail y la publicación en GitHub requieren configurar los secretos, el repositorio y Pages siguiendo los pasos anteriores.

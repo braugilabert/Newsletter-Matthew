@@ -1,0 +1,1439 @@
+ID: mental_health-001
+TITLE: Three weeks unlike the usual self
+QUESTION: DSM-5-TR. Medical and substance-related explanations have been assessed and excluded. For three weeks, an adult has depressed mood, no enjoyment, early waking, low energy, poor concentration and marked guilt nearly every day, and is missing work. There is no history of mania or hypomania. Which diagnosis best fits this fictional case?
+A: Panic disorder
+B: Bipolar I disorder
+C: Major depressive disorder
+D: Persistent depressive disorder
+ANSWER: C
+EXPLANATION: A major depressive episode involves sustained depressed mood and/or loss of interest with a sufficient accompanying symptom pattern, impairment and relevant exclusions. A history of mania or hypomania changes the diagnostic differential.
+EXAMPLE: Distinguish a sustained impairing syndrome from a single sad day. A vignette supports a best-fit answer, not a complete clinical assessment.
+SOURCE: https://www.nimh.nih.gov/health/topics/depression
+---
+ID: mental_health-002
+TITLE: A low mood across years
+QUESTION: DSM-5-TR. Medical and substance-related explanations have been excluded. An adult has felt low most days for three years, with poor self-esteem, fatigue and hopelessness. There have been no symptom-free intervals longer than a month and no elevated mood episodes. Which diagnosis best fits this fictional case?
+A: Panic disorder
+B: Persistent depressive disorder
+C: Cyclothymic disorder
+D: Brief psychotic disorder
+ANSWER: B
+EXPLANATION: Persistent depressive disorder in adults involves depressed mood over at least two years with accompanying chronic symptoms and no extended symptom-free gaps. Chronicity distinguishes it from an isolated short episode.
+EXAMPLE: Construct a timeline: years of symptoms and length of symptom-free intervals can matter as much as symptom intensity.
+SOURCE: https://www.nimh.nih.gov/health/topics/depression
+---
+ID: mental_health-003
+TITLE: A sustained and disruptive high
+QUESTION: DSM-5-TR. For nine days, an adult has unusually elevated mood and increased energy, sleeps two hours without tiredness, speaks rapidly, shows racing thoughts and grandiose plans, and makes disastrous purchases requiring hospital care. Which diagnosis best fits this fictional case?
+A: Generalized anxiety disorder
+B: Persistent depressive disorder
+C: Bipolar I disorder
+D: Bipolar II disorder
+ANSWER: C
+EXPLANATION: A manic episode includes a distinct sustained mood and energy change with associated symptoms and marked impairment, hospitalisation or psychosis. One manic episode can establish bipolar I when other explanations are excluded.
+EXAMPLE: Reduced need for sleep means sleeping little without feeling tired, rather than wanting sleep but being unable to obtain it.
+SOURCE: https://www.nimh.nih.gov/health/topics/bipolar-disorder
+---
+ID: mental_health-004
+TITLE: A history beyond the lows
+QUESTION: DSM-5-TR. An adult has a documented major depressive episode and a previous five-day period of elevated mood, increased energy, little need for sleep, more talking, racing thoughts and increased projects. The change was clear but caused no marked impairment, psychosis or hospitalisation. There has never been mania. Which diagnosis best fits this fictional case?
+A: Major depressive disorder
+B: Bipolar II disorder
+C: Cyclothymic disorder
+D: Bipolar I disorder
+ANSWER: B
+EXPLANATION: Bipolar II disorder requires hypomanic and major depressive episodes without a manic episode. Hypomania is an observable sustained change without the marked impairment, hospitalisation or psychosis that would make the elevated episode manic.
+EXAMPLE: Always ask about past elevated periods when evaluating a depressive presentation; current low mood alone does not establish unipolar depression.
+SOURCE: https://www.nimh.nih.gov/health/topics/bipolar-disorder
+---
+ID: mental_health-005
+TITLE: Fluctuations below episode thresholds
+QUESTION: DSM-5-TR. Medical and substance-related explanations are excluded. For three years, an adult has frequent periods of mildly elevated energy and periods of depressive symptoms, present for more than half the time without gaps longer than two months. No period has met full hypomanic, manic or major depressive episode criteria, but functioning suffers. Which diagnosis best fits this fictional case?
+A: Major depressive disorder
+B: Bipolar I disorder
+C: Bipolar II disorder
+D: Cyclothymic disorder
+ANSWER: D
+EXPLANATION: Cyclothymic disorder in adults involves at least two years of numerous subthreshold hypomanic and depressive symptoms, present for much of the time, without long symptom-free intervals or a history meeting full mood-episode criteria.
+EXAMPLE: Subthreshold does not mean unimportant: impairment may occur even when no single period meets a full episode definition.
+SOURCE: https://www.nimh.nih.gov/health/topics/bipolar-disorder
+---
+ID: mental_health-006
+TITLE: Worry that spreads across life
+QUESTION: DSM-5-TR. Medical and substance-related explanations are excluded. For eight months, an adult worries excessively on most days about money, health and ordinary work tasks, struggles to control it, and has restlessness, muscle tension, fatigue and poor sleep with impairment. Which diagnosis best fits this fictional case?
+A: Obsessive-compulsive disorder
+B: Specific phobia
+C: Panic disorder
+D: Generalized anxiety disorder
+ANSWER: D
+EXPLANATION: Generalized anxiety disorder involves difficult-to-control excessive worry across several areas with associated symptoms and impairment. DSM-5-TR adult duration is at least six months; it is not restricted to one object or social scrutiny.
+EXAMPLE: Ask what the worry concerns, how controllable it feels and its duration, rather than treating worry as diagnostic by itself.
+SOURCE: https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad
+---
+ID: mental_health-007
+TITLE: Fear of the next unexpected episode
+QUESTION: DSM-5-TR. An adult has recurrent unexpected surges of intense fear with palpitations, shaking, breathlessness and dizziness, peaking within minutes. For two months they have worried persistently about another attack and changed daily activities to avoid one. Which diagnosis best fits this fictional case?
+A: Generalized anxiety disorder
+B: Panic disorder
+C: Specific phobia
+D: Bipolar II disorder
+ANSWER: B
+EXPLANATION: Panic disorder involves recurrent unexpected panic attacks plus at least a month of persistent concern or maladaptive behaviour change. A panic attack alone is not the same as panic disorder.
+EXAMPLE: Distinguish unexpected attacks from fear occurring only during a specific phobic or social situation.
+SOURCE: https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms
+---
+ID: mental_health-008
+TITLE: When escape feels difficult
+QUESTION: DSM-5-TR. For nine months, an adult avoids buses and crowded queues because escape or help might be difficult if they become dizzy or panicky. They need a companion, the fear is disproportionate and life is substantially restricted. Which diagnosis best fits this fictional case?
+A: Separation anxiety disorder
+B: Agoraphobia
+C: Social anxiety disorder
+D: Specific phobia of spiders
+ANSWER: B
+EXPLANATION: Agoraphobia concerns situations where escape or help may feel difficult if incapacitating or embarrassing symptoms occur. DSM-5-TR requires fear across at least two specified situation types and a persistent impairing pattern.
+EXAMPLE: A person may fear buses and queues because help feels unavailable, rather than fearing strangers judging their conversational skill.
+SOURCE: https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders
+---
+ID: mental_health-009
+TITLE: The feared judgement
+QUESTION: DSM-5-TR. For a year, an adult fears conversations and meetings because others may notice trembling and judge them negatively. These settings consistently provoke anxiety, are avoided or endured with distress, and disrupt work. Which diagnosis best fits this fictional case?
+A: Social anxiety disorder
+B: Illness anxiety disorder
+C: Agoraphobia
+D: Generalized anxiety disorder
+ANSWER: A
+EXPLANATION: Social anxiety disorder centres on possible negative evaluation in social or performance situations, with persistent disproportionate fear, avoidance or distressed endurance and impairment. Ordinary shyness alone is insufficient.
+EXAMPLE: Compare fear of being judged while speaking with fear of being unable to escape a building.
+SOURCE: https://www.nimh.nih.gov/health/publications/social-anxiety-disorder-more-than-just-shyness
+---
+ID: mental_health-010
+TITLE: One specific trigger
+QUESTION: DSM-5-TR. For two years, an adult has immediate intense fear around dogs, avoids streets where dogs may appear and cannot make routine visits. The fear is disproportionate and not about social evaluation or escape from panic. Which diagnosis best fits this fictional case?
+A: Specific phobia
+B: Social anxiety disorder
+C: Generalized anxiety disorder
+D: Obsessive-compulsive disorder
+ANSWER: A
+EXPLANATION: Specific phobia involves persistent disproportionate fear tied to a particular object or situation, with immediate anxiety, avoidance or distressed endurance and meaningful impairment. The trigger and functional impact matter.
+EXAMPLE: Disliking an animal differs from a fear pattern that repeatedly prevents necessary activities.
+SOURCE: https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders
+---
+ID: mental_health-011
+TITLE: Distance from an attachment figure
+QUESTION: DSM-5-TR. For eight months, an adult has excessive fear of separation from their partner, persistent worries that the partner will be harmed, reluctance to leave home and physical distress when apart, seriously limiting work despite no current danger. Which diagnosis best fits this fictional case?
+A: Separation anxiety disorder
+B: Agoraphobia
+C: Specific phobia
+D: Panic disorder
+ANSWER: A
+EXPLANATION: Adult separation anxiety disorder involves developmentally inappropriate excessive separation fears, associated symptoms and impairment, usually persisting at least six months. It is not diagnosed from affection or missing someone alone.
+EXAMPLE: Ask whether separation itself is the feared event, rather than transport, social scrutiny or a realistic current danger.
+SOURCE: https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders
+---
+ID: mental_health-012
+TITLE: Speech changes with the setting
+QUESTION: DSM-5-TR. A child speaks freely at home but consistently cannot speak at school for three months beyond the initial settling-in period. They know the school language, and the pattern interferes with learning and friendships. Which diagnosis best fits this fictional case?
+A: A language knowledge gap alone
+B: Autism spectrum disorder established solely from silence
+C: Schizophrenia
+D: Selective mutism
+ANSWER: D
+EXPLANATION: Selective mutism involves a consistent failure to speak in specific expected settings despite speech elsewhere, with interference and sufficient duration. Lack of language knowledge and other better explanations must be excluded.
+EXAMPLE: Check language familiarity, hearing, developmental history and setting differences before interpreting silence as a disorder.
+SOURCE: https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders
+---
+ID: mental_health-013
+TITLE: The event keeps returning
+QUESTION: DSM-5-TR. Three months after surviving a serious assault, an adult has involuntary trauma memories and nightmares, avoids reminders, feels detached and persistently self-blaming, and is hypervigilant, irritable and sleeping poorly, with substantial impairment. Which diagnosis best fits this fictional case?
+A: Generalized anxiety disorder
+B: Specific phobia
+C: Post-traumatic stress disorder
+D: Acute stress disorder
+ANSWER: C
+EXPLANATION: DSM-5-TR PTSD follows qualifying trauma and includes intrusion, avoidance, negative changes in cognition or mood, and arousal/reactivity symptoms lasting over a month with impairment. Trauma exposure alone does not establish PTSD.
+EXAMPLE: Build a symptom timeline and distinguish involuntary re-experiencing from simply choosing to remember an upsetting event.
+SOURCE: https://www.ptsd.va.gov/professional/treat/essentials/dsm5_ptsd.asp
+---
+ID: mental_health-014
+TITLE: The early aftermath
+QUESTION: DSM-5-TR. Ten days after a life-threatening incident, an adult has severe impairment and nine documented symptoms across intrusion, negative mood, dissociation, avoidance and arousal. The symptoms began after the event and alternative causes are excluded. Which diagnosis best fits this fictional case?
+A: Acute stress disorder
+B: Post-traumatic stress disorder
+C: Generalized anxiety disorder
+D: Persistent depressive disorder
+ANSWER: A
+EXPLANATION: DSM-5-TR acute stress disorder occurs from three days to one month after qualifying trauma and requires a sufficiently broad impairing symptom pattern. Distress immediately after trauma is not automatically a disorder.
+EXAMPLE: A complete symptom review is needed: timing alone cannot distinguish a diagnosable syndrome from an expected short-term response.
+SOURCE: https://www.ptsd.va.gov/professional/treat/essentials/acute_stress_disorder.asp
+---
+ID: mental_health-015
+TITLE: Trauma with broader lasting changes
+QUESTION: ICD-11. After prolonged severe trauma, an adult has months of vivid re-experiencing in the present, avoidance and a persistent sense of threat, plus enduring affect dysregulation, pervasive worthlessness and difficulty sustaining close relationships, with impairment. Which diagnosis best fits this fictional case?
+A: Complex post-traumatic stress disorder
+B: Specific phobia
+C: PTSD without disturbances in self-organisation
+D: Generalized anxiety disorder
+ANSWER: A
+EXPLANATION: ICD-11 complex PTSD includes the core PTSD pattern plus persistent problems regulating affect, a pervasive negative self-concept and relationship difficulties. DSM-5-TR does not list complex PTSD as a separate diagnosis.
+EXAMPLE: Keep the named classification in view: similar clinical features may be organised differently across diagnostic systems.
+SOURCE: https://www.who.int/publications-detail-redirect/9789240077263
+---
+ID: mental_health-016
+TITLE: A response to an identifiable change
+QUESTION: DSM-5-TR. Within a month of an unwanted relocation, an adult develops disproportionate distress and functional difficulty. Assessment finds no full depressive, anxiety or trauma-related syndrome, and no other better explanation. Which diagnosis best fits this fictional case?
+A: Major depressive disorder meeting full criteria
+B: Post-traumatic stress disorder
+C: Bipolar I disorder
+D: Adjustment disorder
+ANSWER: D
+EXPLANATION: Adjustment disorder involves an impairing or disproportionate response to an identifiable stressor, without a better-fitting disorder. In DSM-5-TR, onset is within three months; duration rules refer to the course of the stressor and its consequences.
+EXAMPLE: A stressor does not automatically make adjustment disorder correct: first check whether another full syndrome better explains the symptoms.
+SOURCE: https://www.psychiatry.org/psychiatrists/practice/dsm/updates-to-dsm/updates-to-dsm-5-tr-criteria-text/
+---
+ID: mental_health-017
+TITLE: Grief beyond the expected course
+QUESTION: DSM-5-TR, adult cases. Fourteen months after a close relative died, an adult has intense yearning nearly every day, identity disruption, disbelief, emotional numbness and inability to re-engage in life for over a month, with impairment well beyond cultural expectations. Which diagnosis best fits this fictional case?
+A: Expected grief solely on the basis of time
+B: Prolonged grief disorder
+C: Separation anxiety disorder
+D: Acute stress disorder
+ANSWER: B
+EXPLANATION: DSM-5-TR prolonged grief disorder in adults requires the death to have occurred at least 12 months earlier, persistent core grief and additional symptoms with impairment beyond cultural expectations. Duration alone never establishes it.
+EXAMPLE: Separate yearning focused on the deceased from pervasive loss of pleasure across all areas, while recognising that disorders can coexist.
+SOURCE: https://www.psychiatry.org/patients-families/prolonged-grief-disorder
+---
+ID: mental_health-018
+TITLE: The classification changes the time rule
+QUESTION: ICD-11, adult cases. Eight months after a close person’s death, an adult has pervasive yearning, persistent preoccupation, intense emotional pain and inability to re-engage in life, causing serious impairment and clearly exceeding cultural expectations. Which diagnosis best fits this fictional case?
+A: Specific phobia
+B: Acute stress disorder
+C: Prolonged grief disorder
+D: A DSM-5-TR adult diagnosis established solely by the eight-month duration
+ANSWER: C
+EXPLANATION: ICD-11 prolonged grief disorder uses a minimum of six months after bereavement and requires grief that clearly exceeds expected social, cultural or religious norms with impairment. DSM-5-TR uses 12 months for adults.
+EXAMPLE: A person eight months after a death can be evaluated differently under the two manuals; neither manual diagnoses a disorder from elapsed time alone.
+SOURCE: https://www.who.int/publications-detail-redirect/9789240077263
+---
+ID: mental_health-019
+TITLE: An unwanted thought and a ritual
+QUESTION: DSM-5-TR. An adult experiences unwanted contamination intrusions and washes repeatedly to neutralise fear, spending two hours a day and missing activities. They recognise the response is excessive but struggle to resist it. Which diagnosis best fits this fictional case?
+A: Obsessive-compulsive disorder
+B: Specific phobia
+C: Hoarding disorder
+D: Generalized anxiety disorder
+ANSWER: A
+EXPLANATION: OCD involves obsessions, compulsions or both that are time-consuming or impairing. Intrusive thoughts are not intentions; mental rituals can be compulsions even when no overt action is visible.
+EXAMPLE: Ask whether a repeated act is driven by a need to neutralise distress or prevent a feared event, rather than simply enjoying a routine.
+SOURCE: https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd
+---
+ID: mental_health-020
+TITLE: An appearance preoccupation
+QUESTION: DSM-5-TR. An adult spends hours preoccupied with a barely visible facial feature, repeatedly checks mirrors and compares their appearance, avoids work meetings and is markedly distressed. The concern is not about body fat in an eating disorder. Which diagnosis best fits this fictional case?
+A: Illness anxiety disorder
+B: Hoarding disorder
+C: Panic disorder
+D: Body dysmorphic disorder
+ANSWER: D
+EXPLANATION: Body dysmorphic disorder involves preoccupation with perceived appearance defects that are not observable or are slight to others, repetitive behaviours or mental acts, and impairment. Weight concerns within an eating disorder require a different differential.
+EXAMPLE: Repeated mirror checking, comparison and camouflage can be important clues when linked to the appearance preoccupation.
+SOURCE: https://www.nhs.uk/mental-health/conditions/body-dysmorphia/
+---
+ID: mental_health-021
+TITLE: Possessions crowd out daily life
+QUESTION: DSM-5-TR. An adult has years of difficulty discarding ordinary possessions because they feel they must save them and become very distressed at disposal. Clutter prevents using the kitchen and bedroom normally, with major functional problems. Which diagnosis best fits this fictional case?
+A: Obsessive-compulsive disorder defined only by collecting
+B: Panic disorder
+C: Major depressive disorder
+D: Hoarding disorder
+ANSWER: D
+EXPLANATION: Hoarding disorder involves persistent difficulty discarding possessions because of a perceived need to save them and distress about discarding, producing clutter that compromises living spaces and functioning.
+EXAMPLE: A collection kept organised and compatible with daily life differs from clutter preventing use of a room.
+SOURCE: https://www.psychiatry.org/patients-families/hoarding-disorder/what-is-hoarding-disorder
+---
+ID: mental_health-022
+TITLE: Pulling that is hard to stop
+QUESTION: DSM-5-TR. An adult repeatedly pulls scalp hair, causing visible loss, has made several unsuccessful attempts to stop and feels significant distress. Dermatological disease and appearance-related intentions do not better explain it. Which diagnosis best fits this fictional case?
+A: Excoriation disorder
+B: Body dysmorphic disorder
+C: Trichotillomania
+D: Hoarding disorder
+ANSWER: C
+EXPLANATION: Trichotillomania involves recurrent hair pulling resulting in hair loss, repeated attempts to reduce or stop, and distress or impairment, with relevant exclusions. It is not inferred from hair loss alone.
+EXAMPLE: Differentiate a behaviour pattern from an underlying dermatological cause of hair loss.
+SOURCE: https://www.psychiatry.org/patients-families/obsessive-compulsive-disorder/what-is-obsessive-compulsive-disorder
+---
+ID: mental_health-023
+TITLE: Skin picking with consequences
+QUESTION: DSM-5-TR. An adult repeatedly picks their skin until lesions form, has unsuccessfully tried to stop and avoids social activities because of distress. Medical causes and an appearance-focused disorder do not explain the behaviour. Which diagnosis best fits this fictional case?
+A: Excoriation disorder
+B: Hoarding disorder
+C: Trichotillomania
+D: Body dysmorphic disorder
+ANSWER: A
+EXPLANATION: Excoriation disorder involves recurrent skin picking that causes lesions, repeated attempts to stop, and distress or impairment, not better explained by a substance, medical condition or another disorder.
+EXAMPLE: A lesion alone is not enough: establish the recurrent behaviour, attempts to reduce it and functional impact.
+SOURCE: https://www.psychiatry.org/patients-families/obsessive-compulsive-disorder/what-is-obsessive-compulsive-disorder
+---
+ID: mental_health-024
+TITLE: Restriction driven by weight fears
+QUESTION: DSM-5-TR. An adult persistently restricts intake and is significantly underweight for their context, intensely fears weight gain and judges self-worth through weight and shape while minimising the seriousness of the low weight. Which diagnosis best fits this fictional case?
+A: Binge-eating disorder
+B: Anorexia nervosa
+C: Avoidant/restrictive food intake disorder
+D: Specific phobia
+ANSWER: B
+EXPLANATION: Anorexia nervosa involves restricted intake leading to significantly low weight, fear of weight gain or persistent behaviour preventing it, and disturbed weight/shape experience or recognition of seriousness. Weight alone is insufficient.
+EXAMPLE: Distinguish weight/shape-driven restriction from ARFID, where the avoidance is not driven by those concerns.
+SOURCE: https://www.nimh.nih.gov/health/topics/eating-disorders
+---
+ID: mental_health-025
+TITLE: Bingeing and compensating
+QUESTION: DSM-5-TR. For four months, an adult has weekly objectively large eating episodes with loss of control followed by self-induced vomiting. Weight and shape dominate self-evaluation, weight is not significantly low and the pattern does not occur exclusively during anorexia. Which diagnosis best fits this fictional case?
+A: Binge-eating disorder
+B: ARFID
+C: Anorexia nervosa
+D: Bulimia nervosa
+ANSWER: D
+EXPLANATION: Bulimia nervosa involves recurrent binge eating with loss of control and recurrent inappropriate compensatory behaviour, typically at least weekly for three months, with undue weight/shape influence and not exclusively during anorexia nervosa.
+EXAMPLE: Loss of control and recurrent compensation distinguish this pattern from simply eating a larger meal occasionally.
+SOURCE: https://www.nimh.nih.gov/health/topics/eating-disorders
+---
+ID: mental_health-026
+TITLE: Loss of control without compensation
+QUESTION: DSM-5-TR. For four months, an adult has weekly large loss-of-control binges, eats rapidly and when not hungry, continues until uncomfortably full and feels marked distress afterwards. There is no regular compensatory behaviour or exclusive anorexia/bulimia explanation. Which diagnosis best fits this fictional case?
+A: ARFID
+B: Anorexia nervosa
+C: Bulimia nervosa
+D: Binge-eating disorder
+ANSWER: D
+EXPLANATION: Binge-eating disorder includes recurrent binges with loss of control, associated behavioural features and marked distress, generally at least weekly for three months, without regular inappropriate compensatory behaviours.
+EXAMPLE: The presence or absence of regular compensation is an important distinction between bulimia and binge-eating disorder.
+SOURCE: https://www.nimh.nih.gov/health/topics/eating-disorders
+---
+ID: mental_health-027
+TITLE: Restriction without a shape goal
+QUESTION: DSM-5-TR. An adult avoids many foods because of intense sensory aversion, develops nutritional deficiency and major social interference, but has no fear of weight gain or body-image concern. Food access, culture and medical disease do not explain it. Which diagnosis best fits this fictional case?
+A: Bulimia nervosa
+B: Binge-eating disorder
+C: Anorexia nervosa
+D: Avoidant/restrictive food intake disorder
+ANSWER: D
+EXPLANATION: ARFID involves avoidant or restrictive intake with significant nutritional, weight or psychosocial consequences, without weight/shape concerns driving it. Food insecurity, cultural practices and medical explanations must be considered.
+EXAMPLE: Fear of choking, low interest in eating and sensory sensitivity can lead to similar restrictive consequences through different pathways.
+SOURCE: https://www.nimh.nih.gov/health/topics/eating-disorders
+---
+ID: mental_health-028
+TITLE: A long psychotic course
+QUESTION: DSM-5-TR. An adult has eight months of continuous disturbance, including six weeks of clear delusions, auditory hallucinations and disorganised speech, with major occupational decline. Mood, medical and substance explanations are excluded. Which diagnosis best fits this fictional case?
+A: Schizophrenia
+B: Delusional disorder
+C: Brief psychotic disorder
+D: Schizophreniform disorder
+ANSWER: A
+EXPLANATION: DSM-5-TR schizophrenia involves characteristic active psychotic symptoms and continuous disturbance for at least six months with functional decline and relevant exclusions. The timeline distinguishes it from shorter-duration diagnoses.
+EXAMPLE: Establish active symptoms, residual periods, mood-episode timing and possible medical or substance causes rather than using one unusual belief alone.
+SOURCE: https://www.nimh.nih.gov/health/topics/schizophrenia
+---
+ID: mental_health-029
+TITLE: Psychosis over several months
+QUESTION: DSM-5-TR. An adult has three months of delusions, hallucinations and disorganised speech, with no earlier continuous disturbance. Mood, medical and substance explanations are excluded, and the illness has not reached six months. Which diagnosis best fits this fictional case?
+A: Brief psychotic disorder
+B: Delusional disorder
+C: Schizophrenia
+D: Schizophreniform disorder
+ANSWER: D
+EXPLANATION: Schizophreniform disorder has the characteristic schizophrenia symptom pattern but a total duration of at least one month and less than six months. A longer course can change the diagnosis.
+EXAMPLE: The label is tied to the observed course so far; reassessment may be needed as the timeline develops.
+SOURCE: https://www.psychiatry.org/patients-families/schizophrenia/what-is-schizophrenia
+---
+ID: mental_health-030
+TITLE: A short episode with recovery
+QUESTION: DSM-5-TR. An adult develops delusions and disorganised speech for ten days, then fully returns to their previous functioning. There is no mood disorder, substance effect or medical cause and no previous continuous psychotic illness. Which diagnosis best fits this fictional case?
+A: Delusional disorder
+B: Schizophrenia
+C: Schizophreniform disorder
+D: Brief psychotic disorder
+ANSWER: D
+EXPLANATION: Brief psychotic disorder lasts at least one day but less than one month, with full return to the previous level of functioning and relevant exclusions. The complete course must be considered.
+EXAMPLE: A ten-day episode and an eight-month continuous illness should not receive the same duration-based diagnosis automatically.
+SOURCE: https://www.psychiatry.org/patients-families/schizophrenia/what-is-schizophrenia
+---
+ID: mental_health-031
+TITLE: One fixed belief dominates
+QUESTION: DSM-5-TR. For four months, an adult has a fixed false belief of being followed, despite contrary evidence. There are no prominent hallucinations, disorganised speech or negative symptoms, and functioning outside the belief’s effects is fairly preserved. Which diagnosis best fits this fictional case?
+A: Generalized anxiety disorder
+B: Obsessive-compulsive disorder
+C: Delusional disorder
+D: Schizophrenia
+ANSWER: C
+EXPLANATION: Delusional disorder involves one or more delusions for at least a month without the broader schizophrenia symptom pattern. Functioning outside the delusion’s impact can be relatively preserved.
+EXAMPLE: Assess the belief carefully in cultural context and investigate medical, mood and substance explanations before using a psychotic-disorder label.
+SOURCE: https://www.psychiatry.org/patients-families/schizophrenia/what-is-schizophrenia
+---
+ID: mental_health-032
+TITLE: Psychosis has its own timeline
+QUESTION: DSM-5-TR. During an eighteen-month illness, an adult has schizophrenia-pattern psychosis with full major depressive episodes occupying most of the course. A clearly documented three-week period of delusions and hallucinations occurs without a major mood episode, and other causes are excluded. Which diagnosis best fits this fictional case?
+A: Major depressive disorder with psychotic features only during depression
+B: Delusional disorder
+C: Brief psychotic disorder
+D: Schizoaffective disorder
+ANSWER: D
+EXPLANATION: DSM-5-TR schizoaffective disorder requires a schizophrenia-pattern illness with a major mood episode, at least two weeks of delusions or hallucinations without a major mood episode, and mood episodes present for most of the total illness.
+EXAMPLE: Map mood and psychosis on parallel timelines: psychosis only during mood episodes points towards a different diagnosis.
+SOURCE: https://www.psychiatry.org/patients-families/schizophrenia/what-is-schizophrenia
+---
+ID: mental_health-033
+TITLE: Fear of illness with few symptoms
+QUESTION: DSM-5-TR. For eight months, an adult has been preoccupied with having a serious illness despite minimal bodily symptoms and appropriate reassuring assessments, repeatedly checks their body and seeks tests, with major distress. Which diagnosis best fits this fictional case?
+A: Specific phobia
+B: Illness anxiety disorder
+C: Somatic symptom disorder dominated by severe physical symptoms
+D: Binge-eating disorder
+ANSWER: B
+EXPLANATION: Illness anxiety disorder centres on persistent preoccupation with having or acquiring serious illness despite absent or mild somatic symptoms, with high anxiety and excessive checking or care avoidance over at least six months.
+EXAMPLE: Distinguish the fear of disease from a pattern dominated by distressing bodily symptoms themselves.
+SOURCE: https://www.psychiatry.org/patients-families/somatic-symptom-disorder/what-is-somatic-symptom-disorder/
+---
+ID: mental_health-034
+TITLE: Symptoms and an excessive response
+QUESTION: DSM-5-TR. An adult has persistent distressing pain for eight months and devotes excessive time and energy to it, with disproportionate catastrophic thoughts and high health anxiety that greatly disrupt daily life. The pattern is not better explained by another disorder. Which diagnosis best fits this fictional case?
+A: Illness anxiety disorder with absent significant symptoms
+B: Somatic symptom disorder
+C: Factitious disorder inferred from pain alone
+D: Body dysmorphic disorder
+ANSWER: B
+EXPLANATION: Somatic symptom disorder involves distressing bodily symptoms plus excessive related thoughts, anxiety or time/energy, in a persistent pattern. Symptoms can have a recognised medical cause; unexplained symptoms are not required.
+EXAMPLE: Real physical illness and disproportionate symptom-related distress can coexist. Avoid equating this diagnosis with invented symptoms.
+SOURCE: https://www.psychiatry.org/patients-families/somatic-symptom-disorder/what-is-somatic-symptom-disorder/
+---
+ID: mental_health-035
+TITLE: Unreal feelings, intact reality testing
+QUESTION: DSM-5-TR. For months, an adult repeatedly feels detached from their body as if observing themselves, but knows this is an experience rather than literal separation. It is distressing and impairing, and medical, substance and other psychiatric causes are excluded. Which diagnosis best fits this fictional case?
+A: Depersonalization/derealization disorder
+B: Schizophrenia
+C: Delusional disorder
+D: Dissociative amnesia
+ANSWER: A
+EXPLANATION: Depersonalisation/derealisation disorder involves persistent or recurrent detachment from self or surroundings, intact reality testing and distress or impairment, without a better substance, medical or psychiatric explanation.
+EXAMPLE: Knowing the world only feels unreal differs from a fixed psychotic belief that the world has literally been replaced.
+SOURCE: https://www.psychiatry.org/patients-families/dissociative-disorders/dissociative-disorders
+---
+ID: mental_health-036
+TITLE: A gap in personal memory
+QUESTION: DSM-5-TR. After severe stress, an adult cannot recall important autobiographical information from a circumscribed period, beyond ordinary forgetting, with significant impairment. Neurological, substance, sleep and other psychiatric explanations have been assessed and excluded. Which diagnosis best fits this fictional case?
+A: Ordinary forgetting of a shopping item
+B: Schizophrenia
+C: Dissociative amnesia
+D: Depersonalization/derealization disorder alone
+ANSWER: C
+EXPLANATION: Dissociative amnesia concerns inability to recall important autobiographical information, usually related to trauma or stress, beyond ordinary forgetting, with distress or impairment and relevant exclusions.
+EXAMPLE: The diagnosis requires careful assessment; a memory gap alone does not establish dissociation or reveal what caused it.
+SOURCE: https://www.psychiatry.org/patients-families/dissociative-disorders/dissociative-disorders
+---
+ID: mental_health-037
+TITLE: A pattern beginning in childhood
+QUESTION: DSM-5-TR, adult cases. An adult has over a year of losing essentials, careless mistakes, poor sustained attention, disorganisation, forgetfulness and distractibility at both work and home. Similar symptoms were present before age 12 and cause impairment beyond mood, sleep or substance explanations. Which diagnosis best fits this fictional case?
+A: Generalized anxiety disorder explaining all symptoms
+B: A single major depressive episode explaining all symptoms
+C: Normal distraction established without considering impairment
+D: Attention-deficit/hyperactivity disorder
+ANSWER: D
+EXPLANATION: Adult ADHD requires a sufficient persistent symptom pattern, evidence of symptoms before age 12, occurrence in at least two settings and impairment, not better explained by another condition. Inattention alone is nonspecific.
+EXAMPLE: Use developmental history and multiple settings rather than diagnosing ADHD from current concentration problems during one stressful week.
+SOURCE: https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd
+---
+ID: mental_health-038
+TITLE: Two developmental domains
+QUESTION: DSM-5-TR. Since early development, a person has persistent difficulties with reciprocal interaction, nonverbal communication and relationships, alongside repetitive movements, strong sameness needs and sensory differences. The combined pattern causes significant functional impact and is not better explained otherwise. Which diagnosis best fits this fictional case?
+A: Schizophrenia
+B: Autism spectrum disorder
+C: ADHD established only from social difficulties
+D: Social anxiety disorder as the sole explanation
+ANSWER: B
+EXPLANATION: Autism spectrum disorder involves persistent social-communication/interaction differences together with restricted or repetitive patterns, arising in development and associated with clinically significant impact. A single preference or social difficulty is not enough.
+EXAMPLE: Assess developmental history, sensory experiences, flexibility and communication in context rather than relying on stereotypes about empathy or intelligence.
+SOURCE: https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd
+---
+ID: mental_health-039
+TITLE: Sleep opportunities but little sleep
+QUESTION: DSM-5-TR. For four months, an adult has difficulty falling asleep at least four nights weekly despite adequate opportunity, with daytime fatigue and impaired concentration. Sleep, circadian, medical, medication and other explanations do not better account for it. Which diagnosis best fits this fictional case?
+A: A normal choice to sleep too little
+B: Insomnia disorder
+C: Specific phobia
+D: Bipolar I disorder based solely on reduced sleep
+ANSWER: B
+EXPLANATION: DSM-5-TR insomnia disorder involves persistent difficulty initiating or maintaining sleep or early waking, at least three nights weekly for at least three months, despite adequate opportunity and with daytime impairment and relevant exclusions.
+EXAMPLE: Insomnia differs from choosing too little time in bed and from the reduced need for sleep seen in mania.
+SOURCE: https://www.nhlbi.nih.gov/health/insomnia
+---
+ID: mental_health-040
+TITLE: When gaming crowds out other life
+QUESTION: ICD-11. For eighteen months, an adult has impaired control over gaming, prioritises it over work and relationships, and continues despite repeated serious consequences. The persistent pattern causes substantial impairment beyond simply spending many hours on a hobby. Which diagnosis best fits this fictional case?
+A: Bipolar I disorder
+B: Obsessive-compulsive disorder
+C: A high-engagement hobby without impairment
+D: Gaming disorder
+ANSWER: D
+EXPLANATION: ICD-11 gaming disorder involves impaired control, increasing priority over other activities and persistence despite negative consequences, with significant impairment, normally evident for at least 12 months. Time spent gaming alone is insufficient.
+EXAMPLE: Compare an enthusiastic hobby compatible with life responsibilities with persistent loss of control and serious functional consequences.
+SOURCE: https://www.who.int/standards/classifications/frequently-asked-questions/gaming-disorder
+---
+ID: mental_health-041
+TITLE: Three weeks unlike the usual self
+QUESTION: DSM-5-TR. Medical and substance-related explanations have been assessed and excluded. For a month, a teacher has lost interest in usual activities, feels persistently low, sleeps poorly, has reduced appetite and energy, struggles to concentrate and feels worthless, with clear occupational impairment and no elevated episodes. Which diagnosis best fits this fictional case?
+A: Major depressive disorder
+B: Cyclothymic disorder
+C: Specific phobia
+D: Illness anxiety disorder
+ANSWER: A
+EXPLANATION: A major depressive episode involves sustained depressed mood and/or loss of interest with a sufficient accompanying symptom pattern, impairment and relevant exclusions. A history of mania or hypomania changes the diagnostic differential.
+EXAMPLE: Distinguish a sustained impairing syndrome from a single sad day. A vignette supports a best-fit answer, not a complete clinical assessment.
+SOURCE: https://www.nimh.nih.gov/health/topics/depression
+---
+ID: mental_health-042
+TITLE: A low mood across years
+QUESTION: DSM-5-TR. Medical and substance-related explanations have been excluded. For four years, an adult reports low mood more days than not, poor sleep, low energy and difficulty deciding things. The pattern impairs relationships and has never lifted for more than several weeks; there is no mania or hypomania. Which diagnosis best fits this fictional case?
+A: Bipolar I disorder
+B: Specific phobia
+C: Major depressive disorder limited to one three-week episode
+D: Persistent depressive disorder
+ANSWER: D
+EXPLANATION: Persistent depressive disorder in adults involves depressed mood over at least two years with accompanying chronic symptoms and no extended symptom-free gaps. Chronicity distinguishes it from an isolated short episode.
+EXAMPLE: Construct a timeline: years of symptoms and length of symptom-free intervals can matter as much as symptom intensity.
+SOURCE: https://www.nimh.nih.gov/health/topics/depression
+---
+ID: mental_health-043
+TITLE: A sustained and disruptive high
+QUESTION: DSM-5-TR. An adult develops a week of marked irritability with increased energy, pressured speech, racing thoughts, distractibility, minimal need for sleep and reckless activity that causes major occupational impairment. No drug or medical cause is found. Which diagnosis best fits this fictional case?
+A: Bipolar I disorder
+B: Cyclothymic disorder
+C: Social anxiety disorder
+D: Insomnia disorder alone
+ANSWER: A
+EXPLANATION: A manic episode includes a distinct sustained mood and energy change with associated symptoms and marked impairment, hospitalisation or psychosis. One manic episode can establish bipolar I when other explanations are excluded.
+EXAMPLE: Reduced need for sleep means sleeping little without feeling tired, rather than wanting sleep but being unable to obtain it.
+SOURCE: https://www.nimh.nih.gov/health/topics/bipolar-disorder
+---
+ID: mental_health-044
+TITLE: A history beyond the lows
+QUESTION: DSM-5-TR. An adult has recurrent full depressive episodes and one six-day period of elevated mood and energy with unusual talkativeness, reduced need for sleep, distractibility and increased activity. Others noticed the change, but it did not cause marked impairment; there is no manic history. Which diagnosis best fits this fictional case?
+A: Bipolar II disorder
+B: Persistent depressive disorder
+C: Bipolar I disorder
+D: Panic disorder
+ANSWER: A
+EXPLANATION: Bipolar II disorder requires hypomanic and major depressive episodes without a manic episode. Hypomania is an observable sustained change without the marked impairment, hospitalisation or psychosis that would make the elevated episode manic.
+EXAMPLE: Always ask about past elevated periods when evaluating a depressive presentation; current low mood alone does not establish unipolar depression.
+SOURCE: https://www.nimh.nih.gov/health/topics/bipolar-disorder
+---
+ID: mental_health-045
+TITLE: Fluctuations below episode thresholds
+QUESTION: DSM-5-TR. Medical and substance-related explanations are excluded. Over two and a half years, an adult repeatedly alternates between subthreshold elevated symptoms and subthreshold depressive symptoms. The pattern occupies most months, impairs relationships and includes no full mood episodes or long symptom-free gaps. Which diagnosis best fits this fictional case?
+A: Panic disorder
+B: Cyclothymic disorder
+C: Brief psychotic disorder
+D: Persistent depressive disorder
+ANSWER: B
+EXPLANATION: Cyclothymic disorder in adults involves at least two years of numerous subthreshold hypomanic and depressive symptoms, present for much of the time, without long symptom-free intervals or a history meeting full mood-episode criteria.
+EXAMPLE: Subthreshold does not mean unimportant: impairment may occur even when no single period meets a full episode definition.
+SOURCE: https://www.nimh.nih.gov/health/topics/bipolar-disorder
+---
+ID: mental_health-046
+TITLE: Worry that spreads across life
+QUESTION: DSM-5-TR. Medical and substance-related explanations are excluded. For a year, an adult has hard-to-control excessive worry about several everyday areas, with irritability, fatigue, poor concentration and tense muscles. The worry is not confined to panic, social judgement or a traumatic memory. Which diagnosis best fits this fictional case?
+A: Social anxiety disorder
+B: Generalized anxiety disorder
+C: Post-traumatic stress disorder
+D: Agoraphobia
+ANSWER: B
+EXPLANATION: Generalized anxiety disorder involves difficult-to-control excessive worry across several areas with associated symptoms and impairment. DSM-5-TR adult duration is at least six months; it is not restricted to one object or social scrutiny.
+EXAMPLE: Ask what the worry concerns, how controllable it feels and its duration, rather than treating worry as diagnostic by itself.
+SOURCE: https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad
+---
+ID: mental_health-047
+TITLE: Fear of the next unexpected episode
+QUESTION: DSM-5-TR. Several sudden, unexpected episodes of intense fear bring chest discomfort, sweating, trembling and a fear of dying. Medical causes are excluded, and for six weeks the person has been preoccupied with future attacks and avoiding exertion. Which diagnosis best fits this fictional case?
+A: Illness anxiety disorder without panic attacks
+B: Panic disorder
+C: Social anxiety disorder
+D: Adjustment disorder
+ANSWER: B
+EXPLANATION: Panic disorder involves recurrent unexpected panic attacks plus at least a month of persistent concern or maladaptive behaviour change. A panic attack alone is not the same as panic disorder.
+EXAMPLE: Distinguish unexpected attacks from fear occurring only during a specific phobic or social situation.
+SOURCE: https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms
+---
+ID: mental_health-048
+TITLE: When escape feels difficult
+QUESTION: DSM-5-TR. An adult has avoided large open spaces and travelling alone away from home for a year, fearing being unable to obtain help during incapacitating symptoms. The situations almost always provoke fear and cause major restriction. Which diagnosis best fits this fictional case?
+A: Obsessive-compulsive disorder
+B: Generalized anxiety disorder
+C: Body dysmorphic disorder
+D: Agoraphobia
+ANSWER: D
+EXPLANATION: Agoraphobia concerns situations where escape or help may feel difficult if incapacitating or embarrassing symptoms occur. DSM-5-TR requires fear across at least two specified situation types and a persistent impairing pattern.
+EXAMPLE: A person may fear buses and queues because help feels unavailable, rather than fearing strangers judging their conversational skill.
+SOURCE: https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders
+---
+ID: mental_health-049
+TITLE: The feared judgement
+QUESTION: DSM-5-TR. For nine months, a student avoids seminars and eating around peers because of intense fear of humiliation. The fear is disproportionate, reliably occurs under scrutiny and causes academic and social impairment. Which diagnosis best fits this fictional case?
+A: Social anxiety disorder
+B: Panic disorder
+C: Specific phobia of enclosed spaces
+D: Separation anxiety disorder
+ANSWER: A
+EXPLANATION: Social anxiety disorder centres on possible negative evaluation in social or performance situations, with persistent disproportionate fear, avoidance or distressed endurance and impairment. Ordinary shyness alone is insufficient.
+EXAMPLE: Compare fear of being judged while speaking with fear of being unable to escape a building.
+SOURCE: https://www.nimh.nih.gov/health/publications/social-anxiety-disorder-more-than-just-shyness
+---
+ID: mental_health-050
+TITLE: One specific trigger
+QUESTION: DSM-5-TR. For a year, an adult has marked immediate fear of needles, avoids necessary appointments and experiences significant impairment. The central fear concerns the procedure itself, not a belief that they already have a hidden illness. Which diagnosis best fits this fictional case?
+A: Agoraphobia
+B: Illness anxiety disorder
+C: Specific phobia
+D: Panic disorder
+ANSWER: C
+EXPLANATION: Specific phobia involves persistent disproportionate fear tied to a particular object or situation, with immediate anxiety, avoidance or distressed endurance and meaningful impairment. The trigger and functional impact matter.
+EXAMPLE: Disliking an animal differs from a fear pattern that repeatedly prevents necessary activities.
+SOURCE: https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders
+---
+ID: mental_health-051
+TITLE: Distance from an attachment figure
+QUESTION: DSM-5-TR. An adult spends a year excessively fearing harm to an attachment figure, refusing overnight travel, repeatedly resisting separation and having separation-themed nightmares, with major impairment beyond cultural expectations. Which diagnosis best fits this fictional case?
+A: Social anxiety disorder
+B: Separation anxiety disorder
+C: Generalized anxiety disorder
+D: Illness anxiety disorder
+ANSWER: B
+EXPLANATION: Adult separation anxiety disorder involves developmentally inappropriate excessive separation fears, associated symptoms and impairment, usually persisting at least six months. It is not diagnosed from affection or missing someone alone.
+EXAMPLE: Ask whether separation itself is the feared event, rather than transport, social scrutiny or a realistic current danger.
+SOURCE: https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders
+---
+ID: mental_health-052
+TITLE: Speech changes with the setting
+QUESTION: DSM-5-TR. A child converses normally with family but has been unable to speak in class or to teachers for a school term, despite understanding the language and wanting to answer. Hearing and language disorders do not explain it. Which diagnosis best fits this fictional case?
+A: Brief psychotic disorder
+B: Selective mutism
+C: A normal first day at school
+D: Expressive language disorder across all settings
+ANSWER: B
+EXPLANATION: Selective mutism involves a consistent failure to speak in specific expected settings despite speech elsewhere, with interference and sufficient duration. Lack of language knowledge and other better explanations must be excluded.
+EXAMPLE: Check language familiarity, hearing, developmental history and setting differences before interpreting silence as a disorder.
+SOURCE: https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders
+---
+ID: mental_health-053
+TITLE: The event keeps returning
+QUESTION: DSM-5-TR. Six months after a life-threatening crash, an adult has flashbacks, cue-triggered distress, avoidance, persistent guilt and loss of interest, plus exaggerated startle, poor concentration and sleep disturbance affecting work. Which diagnosis best fits this fictional case?
+A: Persistent depressive disorder
+B: Post-traumatic stress disorder
+C: Adjustment disorder
+D: Panic disorder
+ANSWER: B
+EXPLANATION: DSM-5-TR PTSD follows qualifying trauma and includes intrusion, avoidance, negative changes in cognition or mood, and arousal/reactivity symptoms lasting over a month with impairment. Trauma exposure alone does not establish PTSD.
+EXAMPLE: Build a symptom timeline and distinguish involuntary re-experiencing from simply choosing to remember an upsetting event.
+SOURCE: https://www.ptsd.va.gov/professional/treat/essentials/dsm5_ptsd.asp
+---
+ID: mental_health-054
+TITLE: The early aftermath
+QUESTION: DSM-5-TR. Two weeks after a violent assault, an adult has intrusive memories, nightmares, cue distress, inability to feel positive emotion, derealisation, memory gaps, internal and external avoidance, and hypervigilance, with marked impairment. Which diagnosis best fits this fictional case?
+A: Cyclothymic disorder
+B: Panic disorder
+C: Post-traumatic stress disorder
+D: Acute stress disorder
+ANSWER: D
+EXPLANATION: DSM-5-TR acute stress disorder occurs from three days to one month after qualifying trauma and requires a sufficiently broad impairing symptom pattern. Distress immediately after trauma is not automatically a disorder.
+EXAMPLE: A complete symptom review is needed: timing alone cannot distinguish a diagnosable syndrome from an expected short-term response.
+SOURCE: https://www.ptsd.va.gov/professional/treat/essentials/acute_stress_disorder.asp
+---
+ID: mental_health-055
+TITLE: Trauma with broader lasting changes
+QUESTION: ICD-11. An adult has persistent trauma flashbacks, avoidance and hypervigilance alongside profound shame, repeated difficulty regulating emotions and longstanding relational disconnection after sustained abuse. All components cause significant impairment. Which diagnosis best fits this fictional case?
+A: Panic disorder
+B: Illness anxiety disorder
+C: Adjustment disorder
+D: Complex post-traumatic stress disorder
+ANSWER: D
+EXPLANATION: ICD-11 complex PTSD includes the core PTSD pattern plus persistent problems regulating affect, a pervasive negative self-concept and relationship difficulties. DSM-5-TR does not list complex PTSD as a separate diagnosis.
+EXAMPLE: Keep the named classification in view: similar clinical features may be organised differently across diagnostic systems.
+SOURCE: https://www.who.int/publications-detail-redirect/9789240077263
+---
+ID: mental_health-056
+TITLE: A response to an identifiable change
+QUESTION: DSM-5-TR. Six weeks after losing a job, an adult develops significant distress and disrupted functioning beyond what would be expected in context. Symptoms do not meet another mental disorder and are not ordinary bereavement. Which diagnosis best fits this fictional case?
+A: Generalized anxiety disorder
+B: Adjustment disorder
+C: Persistent depressive disorder
+D: Panic disorder
+ANSWER: B
+EXPLANATION: Adjustment disorder involves an impairing or disproportionate response to an identifiable stressor, without a better-fitting disorder. In DSM-5-TR, onset is within three months; duration rules refer to the course of the stressor and its consequences.
+EXAMPLE: A stressor does not automatically make adjustment disorder correct: first check whether another full syndrome better explains the symptoms.
+SOURCE: https://www.psychiatry.org/psychiatrists/practice/dsm/updates-to-dsm/updates-to-dsm-5-tr-criteria-text/
+---
+ID: mental_health-057
+TITLE: Grief beyond the expected course
+QUESTION: DSM-5-TR, adult cases. Eighteen months after a partner died, an adult remains intensely preoccupied with the deceased, with profound loneliness, meaninglessness, identity disruption and difficulty accepting the death, nearly daily over recent months and with severe impairment beyond cultural norms. Which diagnosis best fits this fictional case?
+A: Bipolar II disorder
+B: Panic disorder
+C: Adjustment disorder as the only possible diagnosis after loss
+D: Prolonged grief disorder
+ANSWER: D
+EXPLANATION: DSM-5-TR prolonged grief disorder in adults requires the death to have occurred at least 12 months earlier, persistent core grief and additional symptoms with impairment beyond cultural expectations. Duration alone never establishes it.
+EXAMPLE: Separate yearning focused on the deceased from pervasive loss of pleasure across all areas, while recognising that disorders can coexist.
+SOURCE: https://www.psychiatry.org/patients-families/prolonged-grief-disorder
+---
+ID: mental_health-058
+TITLE: The classification changes the time rule
+QUESTION: ICD-11, adult cases. Ten months after bereavement, an adult has persistent intense longing, profound grief-related emotional pain and major functional impairment clearly beyond expected cultural and religious norms. The grief has remained pervasive rather than episodic. Which diagnosis best fits this fictional case?
+A: Generalized anxiety disorder
+B: Prolonged grief disorder
+C: Body dysmorphic disorder
+D: Bipolar I disorder
+ANSWER: B
+EXPLANATION: ICD-11 prolonged grief disorder uses a minimum of six months after bereavement and requires grief that clearly exceeds expected social, cultural or religious norms with impairment. DSM-5-TR uses 12 months for adults.
+EXAMPLE: A person eight months after a death can be evaluated differently under the two manuals; neither manual diagnoses a disorder from elapsed time alone.
+SOURCE: https://www.who.int/publications-detail-redirect/9789240077263
+---
+ID: mental_health-059
+TITLE: An unwanted thought and a ritual
+QUESTION: DSM-5-TR. An adult has intrusive unwanted doubts about accidentally harming others and performs lengthy mental reviewing and counting to obtain certainty. The rituals take several hours and disrupt work; the thoughts are distressing, not desired. Which diagnosis best fits this fictional case?
+A: Bipolar I disorder
+B: Obsessive-compulsive disorder
+C: Antisocial behaviour inferred from thoughts alone
+D: Panic disorder
+ANSWER: B
+EXPLANATION: OCD involves obsessions, compulsions or both that are time-consuming or impairing. Intrusive thoughts are not intentions; mental rituals can be compulsions even when no overt action is visible.
+EXAMPLE: Ask whether a repeated act is driven by a need to neutralise distress or prevent a feared event, rather than simply enjoying a routine.
+SOURCE: https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd
+---
+ID: mental_health-060
+TITLE: An appearance preoccupation
+QUESTION: DSM-5-TR. An adult is convinced a slight skin feature makes them unacceptable, repeatedly seeks reassurance and camouflages it, and stops socialising. The perceived defect is minimal to others and the pattern is impairing. Which diagnosis best fits this fictional case?
+A: Generalized anxiety disorder
+B: Social anxiety disorder without an appearance preoccupation
+C: Body dysmorphic disorder
+D: Excoriation disorder
+ANSWER: C
+EXPLANATION: Body dysmorphic disorder involves preoccupation with perceived appearance defects that are not observable or are slight to others, repetitive behaviours or mental acts, and impairment. Weight concerns within an eating disorder require a different differential.
+EXAMPLE: Repeated mirror checking, comparison and camouflage can be important clues when linked to the appearance preoccupation.
+SOURCE: https://www.nhs.uk/mental-health/conditions/body-dysmorphia/
+---
+ID: mental_health-061
+TITLE: Possessions crowd out daily life
+QUESTION: DSM-5-TR. An adult cannot discard newspapers and packaging because of a perceived need to keep them. Attempts cause distress, and accumulated clutter blocks normal use of several rooms; no neurological or other disorder better explains it. Which diagnosis best fits this fictional case?
+A: Hoarding disorder
+B: Body dysmorphic disorder
+C: Specific phobia
+D: A non-impairing hobby collection
+ANSWER: A
+EXPLANATION: Hoarding disorder involves persistent difficulty discarding possessions because of a perceived need to save them and distress about discarding, producing clutter that compromises living spaces and functioning.
+EXAMPLE: A collection kept organised and compatible with daily life differs from clutter preventing use of a room.
+SOURCE: https://www.psychiatry.org/patients-families/hoarding-disorder/what-is-hoarding-disorder
+---
+ID: mental_health-062
+TITLE: Pulling that is hard to stop
+QUESTION: DSM-5-TR. A student repeatedly pulls eyebrow hairs, producing bald patches, unsuccessfully tries to reduce the behaviour and avoids peers because of shame. Medical and alternative psychiatric explanations are excluded. Which diagnosis best fits this fictional case?
+A: Trichotillomania
+B: Illness anxiety disorder
+C: Anorexia nervosa
+D: Panic disorder
+ANSWER: A
+EXPLANATION: Trichotillomania involves recurrent hair pulling resulting in hair loss, repeated attempts to reduce or stop, and distress or impairment, with relevant exclusions. It is not inferred from hair loss alone.
+EXAMPLE: Differentiate a behaviour pattern from an underlying dermatological cause of hair loss.
+SOURCE: https://www.psychiatry.org/patients-families/obsessive-compulsive-disorder/what-is-obsessive-compulsive-disorder
+---
+ID: mental_health-063
+TITLE: Skin picking with consequences
+QUESTION: DSM-5-TR. A student recurrently picks at otherwise minor skin irregularities, creating wounds, repeatedly fails to reduce it and misses classes because of shame and discomfort. Substance and dermatological explanations are excluded. Which diagnosis best fits this fictional case?
+A: Illness anxiety disorder
+B: Specific phobia
+C: Excoriation disorder
+D: Anorexia nervosa
+ANSWER: C
+EXPLANATION: Excoriation disorder involves recurrent skin picking that causes lesions, repeated attempts to stop, and distress or impairment, not better explained by a substance, medical condition or another disorder.
+EXAMPLE: A lesion alone is not enough: establish the recurrent behaviour, attempts to reduce it and functional impact.
+SOURCE: https://www.psychiatry.org/patients-families/obsessive-compulsive-disorder/what-is-obsessive-compulsive-disorder
+---
+ID: mental_health-064
+TITLE: Restriction driven by weight fears
+QUESTION: DSM-5-TR. A young adult has significantly low body weight after sustained restriction, repeatedly acts to prevent weight gain and experiences a distorted sense of being too large despite the medical consequences. Which diagnosis best fits this fictional case?
+A: ARFID without weight concerns
+B: Bulimia nervosa at normal weight
+C: Illness anxiety disorder
+D: Anorexia nervosa
+ANSWER: D
+EXPLANATION: Anorexia nervosa involves restricted intake leading to significantly low weight, fear of weight gain or persistent behaviour preventing it, and disturbed weight/shape experience or recognition of seriousness. Weight alone is insufficient.
+EXAMPLE: Distinguish weight/shape-driven restriction from ARFID, where the avoidance is not driven by those concerns.
+SOURCE: https://www.nimh.nih.gov/health/topics/eating-disorders
+---
+ID: mental_health-065
+TITLE: Bingeing and compensating
+QUESTION: DSM-5-TR. An adult with no significantly low weight has recurrent loss-of-control binges and compensatory fasting more than once a week for five months, with self-worth strongly tied to weight and shape. Which diagnosis best fits this fictional case?
+A: Bulimia nervosa
+B: Illness anxiety disorder
+C: Avoidant/restrictive food intake disorder
+D: Binge-eating disorder
+ANSWER: A
+EXPLANATION: Bulimia nervosa involves recurrent binge eating with loss of control and recurrent inappropriate compensatory behaviour, typically at least weekly for three months, with undue weight/shape influence and not exclusively during anorexia nervosa.
+EXAMPLE: Loss of control and recurrent compensation distinguish this pattern from simply eating a larger meal occasionally.
+SOURCE: https://www.nimh.nih.gov/health/topics/eating-disorders
+---
+ID: mental_health-066
+TITLE: Loss of control without compensation
+QUESTION: DSM-5-TR. An adult has recurrent large loss-of-control eating episodes twice weekly for six months, eating alone from embarrassment, rapidly and beyond comfortable fullness, with marked distress and no regular vomiting, fasting or other compensation. Which diagnosis best fits this fictional case?
+A: Binge-eating disorder
+B: Specific phobia
+C: Bulimia nervosa
+D: Avoidant/restrictive food intake disorder
+ANSWER: A
+EXPLANATION: Binge-eating disorder includes recurrent binges with loss of control, associated behavioural features and marked distress, generally at least weekly for three months, without regular inappropriate compensatory behaviours.
+EXAMPLE: The presence or absence of regular compensation is an important distinction between bulimia and binge-eating disorder.
+SOURCE: https://www.nimh.nih.gov/health/topics/eating-disorders
+---
+ID: mental_health-067
+TITLE: Restriction without a shape goal
+QUESTION: DSM-5-TR. After a choking scare, an adult increasingly avoids eating and loses substantial weight, requiring nutritional support. The avoidance is driven by feared choking, not weight or shape, and is not better explained by a swallowing disease. Which diagnosis best fits this fictional case?
+A: Anorexia nervosa
+B: Avoidant/restrictive food intake disorder
+C: Hoarding disorder
+D: Body dysmorphic disorder
+ANSWER: B
+EXPLANATION: ARFID involves avoidant or restrictive intake with significant nutritional, weight or psychosocial consequences, without weight/shape concerns driving it. Food insecurity, cultural practices and medical explanations must be considered.
+EXAMPLE: Fear of choking, low interest in eating and sensory sensitivity can lead to similar restrictive consequences through different pathways.
+SOURCE: https://www.nimh.nih.gov/health/topics/eating-disorders
+---
+ID: mental_health-068
+TITLE: A long psychotic course
+QUESTION: DSM-5-TR. For a year, an adult has persistent impairment and psychotic disturbance, with several months of delusions, hallucinations and reduced organised activity. Major mood episodes do not explain the course and other causes are ruled out. Which diagnosis best fits this fictional case?
+A: Bipolar I disorder with psychosis only during mania
+B: Specific phobia
+C: Schizophrenia
+D: Brief psychotic disorder
+ANSWER: C
+EXPLANATION: DSM-5-TR schizophrenia involves characteristic active psychotic symptoms and continuous disturbance for at least six months with functional decline and relevant exclusions. The timeline distinguishes it from shorter-duration diagnoses.
+EXAMPLE: Establish active symptoms, residual periods, mood-episode timing and possible medical or substance causes rather than using one unusual belief alone.
+SOURCE: https://www.nimh.nih.gov/health/topics/schizophrenia
+---
+ID: mental_health-069
+TITLE: Psychosis over several months
+QUESTION: DSM-5-TR. For two months, an adult has sustained hallucinations, delusions and marked disorganisation. A careful history finds no prior prodrome or residual illness and no better mood, medical or substance explanation. Which diagnosis best fits this fictional case?
+A: Schizophrenia
+B: Generalized anxiety disorder
+C: Brief psychotic disorder
+D: Schizophreniform disorder
+ANSWER: D
+EXPLANATION: Schizophreniform disorder has the characteristic schizophrenia symptom pattern but a total duration of at least one month and less than six months. A longer course can change the diagnosis.
+EXAMPLE: The label is tied to the observed course so far; reassessment may be needed as the timeline develops.
+SOURCE: https://www.psychiatry.org/patients-families/schizophrenia/what-is-schizophrenia
+---
+ID: mental_health-070
+TITLE: A short episode with recovery
+QUESTION: DSM-5-TR. For twelve days, an adult has hallucinations and marked disorganisation, followed by full recovery within three weeks. Assessment excludes substances, medical disease and a mood episode explaining the psychosis. Which diagnosis best fits this fictional case?
+A: Bipolar I disorder
+B: Brief psychotic disorder
+C: Schizophreniform disorder
+D: Schizophrenia
+ANSWER: B
+EXPLANATION: Brief psychotic disorder lasts at least one day but less than one month, with full return to the previous level of functioning and relevant exclusions. The complete course must be considered.
+EXAMPLE: A ten-day episode and an eight-month continuous illness should not receive the same duration-based diagnosis automatically.
+SOURCE: https://www.psychiatry.org/patients-families/schizophrenia/what-is-schizophrenia
+---
+ID: mental_health-071
+TITLE: One fixed belief dominates
+QUESTION: DSM-5-TR. An adult maintains a fixed false jealous belief for three months, with otherwise relatively organised functioning. A full schizophrenia syndrome has never occurred, and mood, medical and substance causes are excluded. Which diagnosis best fits this fictional case?
+A: Delusional disorder
+B: Schizophreniform disorder
+C: Social anxiety disorder
+D: Panic disorder
+ANSWER: A
+EXPLANATION: Delusional disorder involves one or more delusions for at least a month without the broader schizophrenia symptom pattern. Functioning outside the delusion’s impact can be relatively preserved.
+EXAMPLE: Assess the belief carefully in cultural context and investigate medical, mood and substance explanations before using a psychotic-disorder label.
+SOURCE: https://www.psychiatry.org/patients-families/schizophrenia/what-is-schizophrenia
+---
+ID: mental_health-072
+TITLE: Psychosis has its own timeline
+QUESTION: DSM-5-TR. An adult has an uninterrupted illness with mania and a full schizophrenia-pattern syndrome. Mood episodes occupy most of the active and residual course, but delusions persist for three weeks when no major mood episode is present. Which diagnosis best fits this fictional case?
+A: Schizoaffective disorder
+B: Bipolar I disorder with psychosis only during mania
+C: Schizophrenia with mood episodes occupying only a minority of illness
+D: Panic disorder
+ANSWER: A
+EXPLANATION: DSM-5-TR schizoaffective disorder requires a schizophrenia-pattern illness with a major mood episode, at least two weeks of delusions or hallucinations without a major mood episode, and mood episodes present for most of the total illness.
+EXAMPLE: Map mood and psychosis on parallel timelines: psychosis only during mood episodes points towards a different diagnosis.
+SOURCE: https://www.psychiatry.org/patients-families/schizophrenia/what-is-schizophrenia
+---
+ID: mental_health-073
+TITLE: Fear of illness with few symptoms
+QUESTION: DSM-5-TR. For a year, an adult has severe fear of acquiring a serious disease, few actual somatic symptoms and persistent health-related checking. Medical assessment and other mental disorders do not explain the preoccupation. Which diagnosis best fits this fictional case?
+A: Body dysmorphic disorder
+B: Panic disorder
+C: Somatic symptom disorder centred on disabling pain
+D: Illness anxiety disorder
+ANSWER: D
+EXPLANATION: Illness anxiety disorder centres on persistent preoccupation with having or acquiring serious illness despite absent or mild somatic symptoms, with high anxiety and excessive checking or care avoidance over at least six months.
+EXAMPLE: Distinguish the fear of disease from a pattern dominated by distressing bodily symptoms themselves.
+SOURCE: https://www.psychiatry.org/patients-families/somatic-symptom-disorder/what-is-somatic-symptom-disorder/
+---
+ID: mental_health-074
+TITLE: Symptoms and an excessive response
+QUESTION: DSM-5-TR. An adult with a genuine medical condition has distressing bodily symptoms and, for a year, a persistently disproportionate preoccupation, high symptom-related anxiety and excessive time spent monitoring, with additional functional impairment. Which diagnosis best fits this fictional case?
+A: Hoarding disorder
+B: Somatic symptom disorder
+C: Panic disorder
+D: A rule that a medical explanation excludes this diagnosis
+ANSWER: B
+EXPLANATION: Somatic symptom disorder involves distressing bodily symptoms plus excessive related thoughts, anxiety or time/energy, in a persistent pattern. Symptoms can have a recognised medical cause; unexplained symptoms are not required.
+EXAMPLE: Real physical illness and disproportionate symptom-related distress can coexist. Avoid equating this diagnosis with invented symptoms.
+SOURCE: https://www.psychiatry.org/patients-families/somatic-symptom-disorder/what-is-somatic-symptom-disorder/
+---
+ID: mental_health-075
+TITLE: Unreal feelings, intact reality testing
+QUESTION: DSM-5-TR. An adult persistently feels that familiar surroundings look dreamlike and unreal, recognises that reality itself has not changed and experiences major distress. Substance effects, neurological disease and other disorders do not better explain it. Which diagnosis best fits this fictional case?
+A: Depersonalization/derealization disorder
+B: Brief psychotic disorder
+C: Hoarding disorder
+D: Dissociative amnesia
+ANSWER: A
+EXPLANATION: Depersonalisation/derealisation disorder involves persistent or recurrent detachment from self or surroundings, intact reality testing and distress or impairment, without a better substance, medical or psychiatric explanation.
+EXAMPLE: Knowing the world only feels unreal differs from a fixed psychotic belief that the world has literally been replaced.
+SOURCE: https://www.psychiatry.org/patients-families/dissociative-disorders/dissociative-disorders
+---
+ID: mental_health-076
+TITLE: A gap in personal memory
+QUESTION: DSM-5-TR. An adult has a distressing gap for important personal events surrounding a traumatic period, disproportionate to ordinary forgetting, while other memory abilities are relatively preserved. A careful assessment excludes a neurological or substance cause and other better explanations. Which diagnosis best fits this fictional case?
+A: A hippocampal injury established without examination
+B: Body dysmorphic disorder
+C: Panic disorder
+D: Dissociative amnesia
+ANSWER: D
+EXPLANATION: Dissociative amnesia concerns inability to recall important autobiographical information, usually related to trauma or stress, beyond ordinary forgetting, with distress or impairment and relevant exclusions.
+EXAMPLE: The diagnosis requires careful assessment; a memory gap alone does not establish dissociation or reveal what caused it.
+SOURCE: https://www.psychiatry.org/patients-families/dissociative-disorders/dissociative-disorders
+---
+ID: mental_health-077
+TITLE: A pattern beginning in childhood
+QUESTION: DSM-5-TR, adult cases. An adult has lifelong difficulty sustaining attention, following through, organising, keeping track of items, remembering tasks and resisting distraction. Symptoms began in primary school, persist across work and home and impair functioning; alternatives are excluded. Which diagnosis best fits this fictional case?
+A: Bipolar I disorder
+B: Brief psychotic disorder
+C: Acute stress disorder
+D: Attention-deficit/hyperactivity disorder
+ANSWER: D
+EXPLANATION: Adult ADHD requires a sufficient persistent symptom pattern, evidence of symptoms before age 12, occurrence in at least two settings and impairment, not better explained by another condition. Inattention alone is nonspecific.
+EXAMPLE: Use developmental history and multiple settings rather than diagnosing ADHD from current concentration problems during one stressful week.
+SOURCE: https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd
+---
+ID: mental_health-078
+TITLE: Two developmental domains
+QUESTION: DSM-5-TR. A developmental history shows longstanding social reciprocity, nonverbal-communication and relationship difficulties, plus highly restricted interests, inflexible routines and repetitive behaviour, with clinically meaningful effects across settings. Which diagnosis best fits this fictional case?
+A: Autism spectrum disorder
+B: Generalized anxiety disorder alone
+C: Brief psychotic disorder
+D: Selective mutism alone
+ANSWER: A
+EXPLANATION: Autism spectrum disorder involves persistent social-communication/interaction differences together with restricted or repetitive patterns, arising in development and associated with clinically significant impact. A single preference or social difficulty is not enough.
+EXAMPLE: Assess developmental history, sensory experiences, flexibility and communication in context rather than relying on stereotypes about empathy or intelligence.
+SOURCE: https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd
+---
+ID: mental_health-079
+TITLE: Sleep opportunities but little sleep
+QUESTION: DSM-5-TR. An adult repeatedly wakes for long periods at night at least three times weekly for six months, despite sufficient time and suitable conditions for sleep, with substantial daytime impairment and no better alternative explanation. Which diagnosis best fits this fictional case?
+A: Circadian rhythm disorder established without a timing pattern
+B: Insomnia disorder
+C: Panic disorder
+D: Reduced need for sleep during a manic episode
+ANSWER: B
+EXPLANATION: DSM-5-TR insomnia disorder involves persistent difficulty initiating or maintaining sleep or early waking, at least three nights weekly for at least three months, despite adequate opportunity and with daytime impairment and relevant exclusions.
+EXAMPLE: Insomnia differs from choosing too little time in bed and from the reduced need for sleep seen in mania.
+SOURCE: https://www.nhlbi.nih.gov/health/insomnia
+---
+ID: mental_health-080
+TITLE: When gaming crowds out other life
+QUESTION: ICD-11. For a year, a student repeatedly fails to control gaming, gives it increasing priority over study and social life and continues despite failing courses and damaging relationships. The overall pattern produces significant functional impairment. Which diagnosis best fits this fictional case?
+A: Specific phobia
+B: Social anxiety disorder
+C: Ordinary leisure use defined solely by hours
+D: Gaming disorder
+ANSWER: D
+EXPLANATION: ICD-11 gaming disorder involves impaired control, increasing priority over other activities and persistence despite negative consequences, with significant impairment, normally evident for at least 12 months. Time spent gaming alone is insufficient.
+EXAMPLE: Compare an enthusiastic hobby compatible with life responsibilities with persistent loss of control and serious functional consequences.
+SOURCE: https://www.who.int/standards/classifications/frequently-asked-questions/gaming-disorder
+---
+ID: mental_health-081
+TITLE: Three weeks unlike the usual self
+QUESTION: DSM-5-TR. Medical and substance-related explanations have been assessed and excluded. For five weeks, a previously well adult has pervasive low mood and anhedonia, slowed movement, disrupted sleep, low energy and excessive self-blame, with major decline in daily functioning and no manic or hypomanic history. Which diagnosis best fits this fictional case?
+A: Bipolar II disorder
+B: Major depressive disorder
+C: Agoraphobia
+D: Adjustment disorder
+ANSWER: B
+EXPLANATION: A major depressive episode involves sustained depressed mood and/or loss of interest with a sufficient accompanying symptom pattern, impairment and relevant exclusions. A history of mania or hypomania changes the diagnostic differential.
+EXAMPLE: Distinguish a sustained impairing syndrome from a single sad day. A vignette supports a best-fit answer, not a complete clinical assessment.
+SOURCE: https://www.nimh.nih.gov/health/topics/depression
+---
+ID: mental_health-082
+TITLE: A low mood across years
+QUESTION: DSM-5-TR. Medical and substance-related explanations have been excluded. For over two years, an adult has persistently depressed mood, low appetite, low self-esteem and poor concentration, with no gap exceeding two months and no elevated episodes. Work and social life are affected. Which diagnosis best fits this fictional case?
+A: Cyclothymic disorder
+B: Social anxiety disorder
+C: Acute stress disorder
+D: Persistent depressive disorder
+ANSWER: D
+EXPLANATION: Persistent depressive disorder in adults involves depressed mood over at least two years with accompanying chronic symptoms and no extended symptom-free gaps. Chronicity distinguishes it from an isolated short episode.
+EXAMPLE: Construct a timeline: years of symptoms and length of symptom-free intervals can matter as much as symptom intensity.
+SOURCE: https://www.nimh.nih.gov/health/topics/depression
+---
+ID: mental_health-083
+TITLE: A sustained and disruptive high
+QUESTION: DSM-5-TR. For ten days, a previously stable adult has expansive mood, unusually high energy, almost no need for sleep, excessive talk, grandiosity and dangerous overactivity with severe disruption of everyday functioning. Which diagnosis best fits this fictional case?
+A: Bipolar II disorder
+B: Bipolar I disorder
+C: Specific phobia
+D: Major depressive disorder
+ANSWER: B
+EXPLANATION: A manic episode includes a distinct sustained mood and energy change with associated symptoms and marked impairment, hospitalisation or psychosis. One manic episode can establish bipolar I when other explanations are excluded.
+EXAMPLE: Reduced need for sleep means sleeping little without feeling tired, rather than wanting sleep but being unable to obtain it.
+SOURCE: https://www.nimh.nih.gov/health/topics/bipolar-disorder
+---
+ID: mental_health-084
+TITLE: A history beyond the lows
+QUESTION: DSM-5-TR. An adult has full major depressive episodes plus a past four-day spell of unusually upbeat mood, extra energy, little sleep without fatigue, rapid speech and several new projects, without psychosis or marked impairment. Medical and substance explanations are excluded and no manic episode has occurred. Which diagnosis best fits this fictional case?
+A: Generalized anxiety disorder
+B: Bipolar I disorder
+C: Adjustment disorder
+D: Bipolar II disorder
+ANSWER: D
+EXPLANATION: Bipolar II disorder requires hypomanic and major depressive episodes without a manic episode. Hypomania is an observable sustained change without the marked impairment, hospitalisation or psychosis that would make the elevated episode manic.
+EXAMPLE: Always ask about past elevated periods when evaluating a depressive presentation; current low mood alone does not establish unipolar depression.
+SOURCE: https://www.nimh.nih.gov/health/topics/bipolar-disorder
+---
+ID: mental_health-085
+TITLE: Fluctuations below episode thresholds
+QUESTION: DSM-5-TR. Medical and substance-related explanations are excluded. An adult reports four years of frequent subthreshold upward and downward mood shifts, present at least half the time, with no symptom-free interval beyond two months. A careful history finds no full hypomanic, manic or major depressive episodes. Which diagnosis best fits this fictional case?
+A: Cyclothymic disorder
+B: Bipolar I disorder
+C: Adjustment disorder
+D: Bipolar II disorder
+ANSWER: A
+EXPLANATION: Cyclothymic disorder in adults involves at least two years of numerous subthreshold hypomanic and depressive symptoms, present for much of the time, without long symptom-free intervals or a history meeting full mood-episode criteria.
+EXAMPLE: Subthreshold does not mean unimportant: impairment may occur even when no single period meets a full episode definition.
+SOURCE: https://www.nimh.nih.gov/health/topics/bipolar-disorder
+---
+ID: mental_health-086
+TITLE: Worry that spreads across life
+QUESTION: DSM-5-TR. Medical and substance-related explanations are excluded. For ten months, an adult spends most days worrying excessively about family, chores and finances, cannot readily stop, sleeps badly, feels restless and tired, and struggles to concentrate at work. Which diagnosis best fits this fictional case?
+A: Specific phobia
+B: Illness anxiety disorder
+C: Bipolar I disorder
+D: Generalized anxiety disorder
+ANSWER: D
+EXPLANATION: Generalized anxiety disorder involves difficult-to-control excessive worry across several areas with associated symptoms and impairment. DSM-5-TR adult duration is at least six months; it is not restricted to one object or social scrutiny.
+EXAMPLE: Ask what the worry concerns, how controllable it feels and its duration, rather than treating worry as diagnostic by itself.
+SOURCE: https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad
+---
+ID: mental_health-087
+TITLE: Fear of the next unexpected episode
+QUESTION: DSM-5-TR. An adult repeatedly experiences abrupt unexpected terror with rapid heartbeat, shortness of breath, tingling and derealisation. For over a month they fear recurrence and substantially restrict activities; attacks are not limited to one cue. Which diagnosis best fits this fictional case?
+A: Panic disorder
+B: Persistent depressive disorder
+C: Post-traumatic stress disorder
+D: Specific phobia
+ANSWER: A
+EXPLANATION: Panic disorder involves recurrent unexpected panic attacks plus at least a month of persistent concern or maladaptive behaviour change. A panic attack alone is not the same as panic disorder.
+EXAMPLE: Distinguish unexpected attacks from fear occurring only during a specific phobic or social situation.
+SOURCE: https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms
+---
+ID: mental_health-088
+TITLE: When escape feels difficult
+QUESTION: DSM-5-TR. For eight months, an adult fears public transport and enclosed shopping centres because leaving quickly or obtaining help may be difficult if symptoms strike. They avoid both settings or endure intense fear with clear impairment. Which diagnosis best fits this fictional case?
+A: Social anxiety disorder
+B: Agoraphobia
+C: Panic attacks without persistent avoidance
+D: Specific phobia of needles
+ANSWER: B
+EXPLANATION: Agoraphobia concerns situations where escape or help may feel difficult if incapacitating or embarrassing symptoms occur. DSM-5-TR requires fear across at least two specified situation types and a persistent impairing pattern.
+EXAMPLE: A person may fear buses and queues because help feels unavailable, rather than fearing strangers judging their conversational skill.
+SOURCE: https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders
+---
+ID: mental_health-089
+TITLE: The feared judgement
+QUESTION: DSM-5-TR. An adult persistently avoids giving presentations for eight months because they expect visible anxiety and negative judgement. Fear is intense and disproportionate and the avoidance jeopardises work; the main concern is evaluation rather than escape. Which diagnosis best fits this fictional case?
+A: Persistent depressive disorder
+B: Social anxiety disorder
+C: Agoraphobia
+D: Obsessive-compulsive disorder
+ANSWER: B
+EXPLANATION: Social anxiety disorder centres on possible negative evaluation in social or performance situations, with persistent disproportionate fear, avoidance or distressed endurance and impairment. Ordinary shyness alone is insufficient.
+EXAMPLE: Compare fear of being judged while speaking with fear of being unable to escape a building.
+SOURCE: https://www.nimh.nih.gov/health/publications/social-anxiety-disorder-more-than-just-shyness
+---
+ID: mental_health-090
+TITLE: One specific trigger
+QUESTION: DSM-5-TR. For ten months, an adult has intense disproportionate fear whenever faced with heights, avoids bridges needed for travel and experiences major disruption. Anxiety is consistently linked to that trigger rather than unexpected attacks. Which diagnosis best fits this fictional case?
+A: Separation anxiety disorder
+B: Specific phobia
+C: Generalized anxiety disorder
+D: Panic disorder
+ANSWER: B
+EXPLANATION: Specific phobia involves persistent disproportionate fear tied to a particular object or situation, with immediate anxiety, avoidance or distressed endurance and meaningful impairment. The trigger and functional impact matter.
+EXAMPLE: Disliking an animal differs from a fear pattern that repeatedly prevents necessary activities.
+SOURCE: https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders
+---
+ID: mental_health-091
+TITLE: Distance from an attachment figure
+QUESTION: DSM-5-TR. For nine months, an adult avoids sleeping away from an attachment figure, becomes intensely distressed anticipating separation and repeatedly worries an accident will prevent reunion. The excessive pattern disrupts ordinary independence. Which diagnosis best fits this fictional case?
+A: Separation anxiety disorder
+B: Specific phobia of darkness
+C: Obsessive-compulsive disorder
+D: Adjustment disorder
+ANSWER: A
+EXPLANATION: Adult separation anxiety disorder involves developmentally inappropriate excessive separation fears, associated symptoms and impairment, usually persisting at least six months. It is not diagnosed from affection or missing someone alone.
+EXAMPLE: Ask whether separation itself is the feared event, rather than transport, social scrutiny or a realistic current danger.
+SOURCE: https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders
+---
+ID: mental_health-092
+TITLE: Speech changes with the setting
+QUESTION: DSM-5-TR. For four months, a child talks comfortably at home but consistently remains unable to speak in nursery settings where speech is expected. The problem persists beyond the first month, impairs participation and is not explained by unfamiliarity with the language. Which diagnosis best fits this fictional case?
+A: Major depressive disorder
+B: Specific phobia of animals
+C: A hearing impairment explaining all settings
+D: Selective mutism
+ANSWER: D
+EXPLANATION: Selective mutism involves a consistent failure to speak in specific expected settings despite speech elsewhere, with interference and sufficient duration. Lack of language knowledge and other better explanations must be excluded.
+EXAMPLE: Check language familiarity, hearing, developmental history and setting differences before interpreting silence as a disorder.
+SOURCE: https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders
+---
+ID: mental_health-093
+TITLE: The event keeps returning
+QUESTION: DSM-5-TR. For two months after witnessing a violent death, an adult experiences intrusive images and nightmares, avoids conversations and locations, has persistent negative beliefs and emotional detachment, and shows hypervigilance, irritability and sleep disruption with impairment. Which diagnosis best fits this fictional case?
+A: Acute stress disorder
+B: Illness anxiety disorder
+C: Post-traumatic stress disorder
+D: Social anxiety disorder
+ANSWER: C
+EXPLANATION: DSM-5-TR PTSD follows qualifying trauma and includes intrusion, avoidance, negative changes in cognition or mood, and arousal/reactivity symptoms lasting over a month with impairment. Trauma exposure alone does not establish PTSD.
+EXAMPLE: Build a symptom timeline and distinguish involuntary re-experiencing from simply choosing to remember an upsetting event.
+SOURCE: https://www.ptsd.va.gov/professional/treat/essentials/dsm5_ptsd.asp
+---
+ID: mental_health-094
+TITLE: The early aftermath
+QUESTION: DSM-5-TR. For three weeks after a serious accident, an adult has a documented qualifying pattern of at least nine acute stress symptoms including intrusions, dissociation, avoidance and arousal, with impaired daily functioning. No symptoms predated the accident. Which diagnosis best fits this fictional case?
+A: Persistent depressive disorder
+B: Specific phobia alone
+C: Post-traumatic stress disorder
+D: Acute stress disorder
+ANSWER: D
+EXPLANATION: DSM-5-TR acute stress disorder occurs from three days to one month after qualifying trauma and requires a sufficiently broad impairing symptom pattern. Distress immediately after trauma is not automatically a disorder.
+EXAMPLE: A complete symptom review is needed: timing alone cannot distinguish a diagnosable syndrome from an expected short-term response.
+SOURCE: https://www.ptsd.va.gov/professional/treat/essentials/acute_stress_disorder.asp
+---
+ID: mental_health-095
+TITLE: Trauma with broader lasting changes
+QUESTION: ICD-11. Following prolonged coercive trauma, an adult meets core PTSD requirements and additionally has enduring problems with affect regulation, a globally diminished self-view and difficulty feeling close to others, affecting multiple life areas. Which diagnosis best fits this fictional case?
+A: Acute stress disorder
+B: PTSD without disturbances in self-organisation
+C: Social anxiety disorder
+D: Complex post-traumatic stress disorder
+ANSWER: D
+EXPLANATION: ICD-11 complex PTSD includes the core PTSD pattern plus persistent problems regulating affect, a pervasive negative self-concept and relationship difficulties. DSM-5-TR does not list complex PTSD as a separate diagnosis.
+EXAMPLE: Keep the named classification in view: similar clinical features may be organised differently across diagnostic systems.
+SOURCE: https://www.who.int/publications-detail-redirect/9789240077263
+---
+ID: mental_health-096
+TITLE: A response to an identifiable change
+QUESTION: DSM-5-TR. Two months after a major relationship breakdown, an adult has impairing emotional and behavioural symptoms linked to that stressor, but assessment rules out a full alternative syndrome and considers cultural context. Which diagnosis best fits this fictional case?
+A: Acute stress disorder without qualifying trauma
+B: Adjustment disorder
+C: Schizophrenia
+D: Cyclothymic disorder
+ANSWER: B
+EXPLANATION: Adjustment disorder involves an impairing or disproportionate response to an identifiable stressor, without a better-fitting disorder. In DSM-5-TR, onset is within three months; duration rules refer to the course of the stressor and its consequences.
+EXAMPLE: A stressor does not automatically make adjustment disorder correct: first check whether another full syndrome better explains the symptoms.
+SOURCE: https://www.psychiatry.org/psychiatrists/practice/dsm/updates-to-dsm/updates-to-dsm-5-tr-criteria-text/
+---
+ID: mental_health-097
+TITLE: Grief beyond the expected course
+QUESTION: DSM-5-TR, adult cases. Two years after a death, an adult has near-daily longing, avoidance of the reality of the loss, emotional pain, difficulty reintegrating and a sense that life is meaningless. The persistent pattern is impairing and exceeds cultural and religious expectations. Which diagnosis best fits this fictional case?
+A: Ordinary bereavement established from duration alone
+B: Generalized anxiety disorder
+C: Prolonged grief disorder
+D: Illness anxiety disorder
+ANSWER: C
+EXPLANATION: DSM-5-TR prolonged grief disorder in adults requires the death to have occurred at least 12 months earlier, persistent core grief and additional symptoms with impairment beyond cultural expectations. Duration alone never establishes it.
+EXAMPLE: Separate yearning focused on the deceased from pervasive loss of pleasure across all areas, while recognising that disorders can coexist.
+SOURCE: https://www.psychiatry.org/patients-families/prolonged-grief-disorder
+---
+ID: mental_health-098
+TITLE: The classification changes the time rule
+QUESTION: ICD-11, adult cases. Nine months after a close relative’s death, an adult has sustained preoccupation with the deceased, persistent yearning and disabling grief-related distress, well beyond cultural expectations. The question explicitly uses the ICD-11 framework. Which diagnosis best fits this fictional case?
+A: Prolonged grief disorder
+B: A universal rule that grief cannot be diagnosed before 12 months
+C: Panic disorder
+D: Schizophreniform disorder
+ANSWER: A
+EXPLANATION: ICD-11 prolonged grief disorder uses a minimum of six months after bereavement and requires grief that clearly exceeds expected social, cultural or religious norms with impairment. DSM-5-TR uses 12 months for adults.
+EXAMPLE: A person eight months after a death can be evaluated differently under the two manuals; neither manual diagnoses a disorder from elapsed time alone.
+SOURCE: https://www.who.int/publications-detail-redirect/9789240077263
+---
+ID: mental_health-099
+TITLE: An unwanted thought and a ritual
+QUESTION: DSM-5-TR. An adult repeatedly checks locks to neutralise intrusive doubts despite knowing they already checked. The sequence takes ninety minutes nightly and causes marked distress and lost sleep. Which diagnosis best fits this fictional case?
+A: Illness anxiety disorder
+B: Obsessive-compulsive disorder
+C: Body dysmorphic disorder
+D: A harmless preference for tidiness without impairment
+ANSWER: B
+EXPLANATION: OCD involves obsessions, compulsions or both that are time-consuming or impairing. Intrusive thoughts are not intentions; mental rituals can be compulsions even when no overt action is visible.
+EXAMPLE: Ask whether a repeated act is driven by a need to neutralise distress or prevent a feared event, rather than simply enjoying a routine.
+SOURCE: https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd
+---
+ID: mental_health-100
+TITLE: An appearance preoccupation
+QUESTION: DSM-5-TR. An adult repeatedly compares a barely noticeable nose asymmetry with others, checks photographs for hours and avoids leaving home because of the perceived flaw. There is no weight-based eating disorder explanation. Which diagnosis best fits this fictional case?
+A: Body dysmorphic disorder
+B: Trichotillomania
+C: Anorexia nervosa
+D: Illness anxiety disorder
+ANSWER: A
+EXPLANATION: Body dysmorphic disorder involves preoccupation with perceived appearance defects that are not observable or are slight to others, repetitive behaviours or mental acts, and impairment. Weight concerns within an eating disorder require a different differential.
+EXAMPLE: Repeated mirror checking, comparison and camouflage can be important clues when linked to the appearance preoccupation.
+SOURCE: https://www.nhs.uk/mental-health/conditions/body-dysmorphia/
+---
+ID: mental_health-101
+TITLE: Possessions crowd out daily life
+QUESTION: DSM-5-TR. For years, an adult persistently saves low-value objects and experiences intense distress when discarding is proposed. Living areas are unusable except after intervention by others, with significant social and practical impairment. Which diagnosis best fits this fictional case?
+A: Trichotillomania
+B: Hoarding disorder
+C: Generalized anxiety disorder
+D: Illness anxiety disorder
+ANSWER: B
+EXPLANATION: Hoarding disorder involves persistent difficulty discarding possessions because of a perceived need to save them and distress about discarding, producing clutter that compromises living spaces and functioning.
+EXAMPLE: A collection kept organised and compatible with daily life differs from clutter preventing use of a room.
+SOURCE: https://www.psychiatry.org/patients-families/hoarding-disorder/what-is-hoarding-disorder
+---
+ID: mental_health-102
+TITLE: Pulling that is hard to stop
+QUESTION: DSM-5-TR. An adult recurrently pulls hair while reading and during tension, has clear hair loss, has repeatedly tried to stop and experiences meaningful impairment. It is not merely grooming or a response to a skin condition. Which diagnosis best fits this fictional case?
+A: Delusional disorder
+B: Specific phobia
+C: Excoriation disorder
+D: Trichotillomania
+ANSWER: D
+EXPLANATION: Trichotillomania involves recurrent hair pulling resulting in hair loss, repeated attempts to reduce or stop, and distress or impairment, with relevant exclusions. It is not inferred from hair loss alone.
+EXAMPLE: Differentiate a behaviour pattern from an underlying dermatological cause of hair loss.
+SOURCE: https://www.psychiatry.org/patients-families/obsessive-compulsive-disorder/what-is-obsessive-compulsive-disorder
+---
+ID: mental_health-103
+TITLE: Skin picking with consequences
+QUESTION: DSM-5-TR. An adult has months of recurrent skin picking causing visible damage, repeated attempts to stop and significant distress, without a medical cause, substance effect or delusional explanation. Which diagnosis best fits this fictional case?
+A: Trichotillomania
+B: Delusional disorder
+C: Excoriation disorder
+D: Panic disorder
+ANSWER: C
+EXPLANATION: Excoriation disorder involves recurrent skin picking that causes lesions, repeated attempts to stop, and distress or impairment, not better explained by a substance, medical condition or another disorder.
+EXAMPLE: A lesion alone is not enough: establish the recurrent behaviour, attempts to reduce it and functional impact.
+SOURCE: https://www.psychiatry.org/patients-families/obsessive-compulsive-disorder/what-is-obsessive-compulsive-disorder
+---
+ID: mental_health-104
+TITLE: Restriction driven by weight fears
+QUESTION: DSM-5-TR. An adult restricts food to avoid gaining weight, becomes significantly underweight and remains intensely afraid of increasing intake, with body-image disturbance and poor recognition of the seriousness. Which diagnosis best fits this fictional case?
+A: Binge-eating disorder
+B: Avoidant/restrictive food intake disorder
+C: Anorexia nervosa
+D: Hoarding disorder
+ANSWER: C
+EXPLANATION: Anorexia nervosa involves restricted intake leading to significantly low weight, fear of weight gain or persistent behaviour preventing it, and disturbed weight/shape experience or recognition of seriousness. Weight alone is insufficient.
+EXAMPLE: Distinguish weight/shape-driven restriction from ARFID, where the avoidance is not driven by those concerns.
+SOURCE: https://www.nimh.nih.gov/health/topics/eating-disorders
+---
+ID: mental_health-105
+TITLE: Bingeing and compensating
+QUESTION: DSM-5-TR. For three months, an adult has at least weekly large loss-of-control binges followed by misuse of laxatives to compensate, with weight/shape-based self-evaluation and no anorexia nervosa explanation. Which diagnosis best fits this fictional case?
+A: Specific phobia
+B: Hoarding disorder
+C: Binge-eating disorder
+D: Bulimia nervosa
+ANSWER: D
+EXPLANATION: Bulimia nervosa involves recurrent binge eating with loss of control and recurrent inappropriate compensatory behaviour, typically at least weekly for three months, with undue weight/shape influence and not exclusively during anorexia nervosa.
+EXAMPLE: Loss of control and recurrent compensation distinguish this pattern from simply eating a larger meal occasionally.
+SOURCE: https://www.nimh.nih.gov/health/topics/eating-disorders
+---
+ID: mental_health-106
+TITLE: Loss of control without compensation
+QUESTION: DSM-5-TR. For five months, an adult has at least weekly objectively large binges with loss of control, eating quickly, despite not being hungry and until painfully full. They are very distressed and do not regularly compensate. Which diagnosis best fits this fictional case?
+A: Binge-eating disorder
+B: Illness anxiety disorder
+C: Bulimia nervosa
+D: Anorexia nervosa
+ANSWER: A
+EXPLANATION: Binge-eating disorder includes recurrent binges with loss of control, associated behavioural features and marked distress, generally at least weekly for three months, without regular inappropriate compensatory behaviours.
+EXAMPLE: The presence or absence of regular compensation is an important distinction between bulimia and binge-eating disorder.
+SOURCE: https://www.nimh.nih.gov/health/topics/eating-disorders
+---
+ID: mental_health-107
+TITLE: Restriction without a shape goal
+QUESTION: DSM-5-TR. A young adult has persistently low interest in eating, fails to meet nutritional needs and develops weight loss and major psychosocial interference, without weight/shape-driven restriction, food shortage or a better medical explanation. Which diagnosis best fits this fictional case?
+A: Anorexia nervosa
+B: Bulimia nervosa
+C: Avoidant/restrictive food intake disorder
+D: Illness anxiety disorder
+ANSWER: C
+EXPLANATION: ARFID involves avoidant or restrictive intake with significant nutritional, weight or psychosocial consequences, without weight/shape concerns driving it. Food insecurity, cultural practices and medical explanations must be considered.
+EXAMPLE: Fear of choking, low interest in eating and sensory sensitivity can lead to similar restrictive consequences through different pathways.
+SOURCE: https://www.nimh.nih.gov/health/topics/eating-disorders
+---
+ID: mental_health-108
+TITLE: A long psychotic course
+QUESTION: DSM-5-TR. An adult shows nine months of continuous illness, including two months of delusions and disorganised speech, alongside functional deterioration and residual negative symptoms. There is no better mood, substance or medical explanation. Which diagnosis best fits this fictional case?
+A: Schizophreniform disorder
+B: Schizophrenia
+C: Brief psychotic disorder
+D: Panic disorder
+ANSWER: B
+EXPLANATION: DSM-5-TR schizophrenia involves characteristic active psychotic symptoms and continuous disturbance for at least six months with functional decline and relevant exclusions. The timeline distinguishes it from shorter-duration diagnoses.
+EXAMPLE: Establish active symptoms, residual periods, mood-episode timing and possible medical or substance causes rather than using one unusual belief alone.
+SOURCE: https://www.nimh.nih.gov/health/topics/schizophrenia
+---
+ID: mental_health-109
+TITLE: Psychosis over several months
+QUESTION: DSM-5-TR. An adult has four months of continuous psychotic symptoms meeting the schizophrenia-type symptom pattern, but no earlier disturbance, no major mood explanation and no substance or medical cause. Which diagnosis best fits this fictional case?
+A: Brief psychotic disorder
+B: Schizophreniform disorder
+C: Schizophrenia
+D: Social anxiety disorder
+ANSWER: B
+EXPLANATION: Schizophreniform disorder has the characteristic schizophrenia symptom pattern but a total duration of at least one month and less than six months. A longer course can change the diagnosis.
+EXAMPLE: The label is tied to the observed course so far; reassessment may be needed as the timeline develops.
+SOURCE: https://www.psychiatry.org/patients-families/schizophrenia/what-is-schizophrenia
+---
+ID: mental_health-110
+TITLE: A short episode with recovery
+QUESTION: DSM-5-TR. An adult has a five-day period of clear delusions and hallucinations, then returns fully to baseline well before one month, with other causes and earlier psychotic disturbance excluded. Which diagnosis best fits this fictional case?
+A: Brief psychotic disorder
+B: Schizophreniform disorder
+C: Schizophrenia
+D: Persistent depressive disorder
+ANSWER: A
+EXPLANATION: Brief psychotic disorder lasts at least one day but less than one month, with full return to the previous level of functioning and relevant exclusions. The complete course must be considered.
+EXAMPLE: A ten-day episode and an eight-month continuous illness should not receive the same duration-based diagnosis automatically.
+SOURCE: https://www.psychiatry.org/patients-families/schizophrenia/what-is-schizophrenia
+---
+ID: mental_health-111
+TITLE: One fixed belief dominates
+QUESTION: DSM-5-TR. For two months, an adult has one persistent delusional belief causing a circumscribed life disruption, without significant hallucinations, disorganisation or other schizophrenia symptoms. The belief is not culturally shared and other causes are ruled out. Which diagnosis best fits this fictional case?
+A: Illness anxiety disorder
+B: Body dysmorphic disorder
+C: Delusional disorder
+D: Schizophrenia
+ANSWER: C
+EXPLANATION: Delusional disorder involves one or more delusions for at least a month without the broader schizophrenia symptom pattern. Functioning outside the delusion’s impact can be relatively preserved.
+EXAMPLE: Assess the belief carefully in cultural context and investigate medical, mood and substance explanations before using a psychotic-disorder label.
+SOURCE: https://www.psychiatry.org/patients-families/schizophrenia/what-is-schizophrenia
+---
+ID: mental_health-112
+TITLE: Psychosis has its own timeline
+QUESTION: DSM-5-TR. An adult has a year-long illness with schizophrenia-pattern psychosis and depressive episodes lasting most of the course, plus a confirmed month of hallucinations without major depression or mania. Medical and substance causes are excluded. Which diagnosis best fits this fictional case?
+A: Major depressive disorder with psychosis confined to depressive episodes
+B: Schizoaffective disorder
+C: Schizophreniform disorder
+D: Generalized anxiety disorder
+ANSWER: B
+EXPLANATION: DSM-5-TR schizoaffective disorder requires a schizophrenia-pattern illness with a major mood episode, at least two weeks of delusions or hallucinations without a major mood episode, and mood episodes present for most of the total illness.
+EXAMPLE: Map mood and psychosis on parallel timelines: psychosis only during mood episodes points towards a different diagnosis.
+SOURCE: https://www.psychiatry.org/patients-families/schizophrenia/what-is-schizophrenia
+---
+ID: mental_health-113
+TITLE: Fear of illness with few symptoms
+QUESTION: DSM-5-TR. For nine months, an adult remains preoccupied with hidden cancer despite absent significant symptoms and appropriate evaluation. They avoid routine appointments through fear of confirmation, and the anxiety substantially disrupts life. Which diagnosis best fits this fictional case?
+A: Hoarding disorder
+B: Delusional disorder established without assessing insight
+C: Specific phobia of needles
+D: Illness anxiety disorder
+ANSWER: D
+EXPLANATION: Illness anxiety disorder centres on persistent preoccupation with having or acquiring serious illness despite absent or mild somatic symptoms, with high anxiety and excessive checking or care avoidance over at least six months.
+EXAMPLE: Distinguish the fear of disease from a pattern dominated by distressing bodily symptoms themselves.
+SOURCE: https://www.psychiatry.org/patients-families/somatic-symptom-disorder/what-is-somatic-symptom-disorder/
+---
+ID: mental_health-114
+TITLE: Symptoms and an excessive response
+QUESTION: DSM-5-TR. For ten months, an adult has distressing physical symptoms accompanied by excessive catastrophic interpretations and persistent symptom-related checking that consumes much of the day. Assessment does not suggest intentional production. Which diagnosis best fits this fictional case?
+A: Factitious disorder established from distress alone
+B: Illness anxiety disorder with no significant symptoms
+C: Somatic symptom disorder
+D: Specific phobia
+ANSWER: C
+EXPLANATION: Somatic symptom disorder involves distressing bodily symptoms plus excessive related thoughts, anxiety or time/energy, in a persistent pattern. Symptoms can have a recognised medical cause; unexplained symptoms are not required.
+EXAMPLE: Real physical illness and disproportionate symptom-related distress can coexist. Avoid equating this diagnosis with invented symptoms.
+SOURCE: https://www.psychiatry.org/patients-families/somatic-symptom-disorder/what-is-somatic-symptom-disorder/
+---
+ID: mental_health-115
+TITLE: Unreal feelings, intact reality testing
+QUESTION: DSM-5-TR. For several months, an adult has recurrent episodes of feeling emotionally and bodily detached and perceiving the environment as unreal, while reality testing remains intact. The episodes impair work and are not confined to panic or trauma episodes. Which diagnosis best fits this fictional case?
+A: Schizophrenia
+B: Bipolar I disorder
+C: Depersonalization/derealization disorder
+D: Delusional disorder
+ANSWER: C
+EXPLANATION: Depersonalisation/derealisation disorder involves persistent or recurrent detachment from self or surroundings, intact reality testing and distress or impairment, without a better substance, medical or psychiatric explanation.
+EXAMPLE: Knowing the world only feels unreal differs from a fixed psychotic belief that the world has literally been replaced.
+SOURCE: https://www.psychiatry.org/patients-families/dissociative-disorders/dissociative-disorders
+---
+ID: mental_health-116
+TITLE: A gap in personal memory
+QUESTION: DSM-5-TR. Following overwhelming stress, an adult shows a substantial inability to retrieve important personal memories, causing functional difficulty. It is not ordinary forgetfulness, and medical, medication, substance and other mental-disorder explanations are excluded. Which diagnosis best fits this fictional case?
+A: Depersonalization/derealization disorder without memory loss
+B: Delusional disorder
+C: Dissociative amnesia
+D: Hoarding disorder
+ANSWER: C
+EXPLANATION: Dissociative amnesia concerns inability to recall important autobiographical information, usually related to trauma or stress, beyond ordinary forgetting, with distress or impairment and relevant exclusions.
+EXAMPLE: The diagnosis requires careful assessment; a memory gap alone does not establish dissociation or reveal what caused it.
+SOURCE: https://www.psychiatry.org/patients-families/dissociative-disorders/dissociative-disorders
+---
+ID: mental_health-117
+TITLE: A pattern beginning in childhood
+QUESTION: DSM-5-TR, adult cases. An adult has persistent careless errors, unfinished tasks, poor organisation, avoidance of sustained effort, misplaced items and forgetfulness for more than six months. Records support childhood onset, two settings are affected and other explanations do not fit. Which diagnosis best fits this fictional case?
+A: Attention-deficit/hyperactivity disorder
+B: Panic disorder
+C: Hoarding disorder
+D: A temporary stress reaction lasting one week
+ANSWER: A
+EXPLANATION: Adult ADHD requires a sufficient persistent symptom pattern, evidence of symptoms before age 12, occurrence in at least two settings and impairment, not better explained by another condition. Inattention alone is nonspecific.
+EXAMPLE: Use developmental history and multiple settings rather than diagnosing ADHD from current concentration problems during one stressful week.
+SOURCE: https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd
+---
+ID: mental_health-118
+TITLE: Two developmental domains
+QUESTION: DSM-5-TR. An adult assessment identifies childhood-onset social-communication and relationship differences together with repetitive speech, strong distress at change and unusual sensory responses. The combined pattern impairs daily functioning and other explanations are evaluated. Which diagnosis best fits this fictional case?
+A: Autism spectrum disorder
+B: Panic disorder
+C: A personality diagnosis inferred from one preference
+D: Body dysmorphic disorder
+ANSWER: A
+EXPLANATION: Autism spectrum disorder involves persistent social-communication/interaction differences together with restricted or repetitive patterns, arising in development and associated with clinically significant impact. A single preference or social difficulty is not enough.
+EXAMPLE: Assess developmental history, sensory experiences, flexibility and communication in context rather than relying on stereotypes about empathy or intelligence.
+SOURCE: https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd
+---
+ID: mental_health-119
+TITLE: Sleep opportunities but little sleep
+QUESTION: DSM-5-TR. For five months, an adult wakes too early and cannot return to sleep at least four nights a week despite adequate opportunity. They are distressed and function poorly by day, with competing explanations assessed and excluded. Which diagnosis best fits this fictional case?
+A: Insomnia disorder
+B: Brief psychotic disorder
+C: Social anxiety disorder
+D: Insufficient sleep entirely by choice
+ANSWER: A
+EXPLANATION: DSM-5-TR insomnia disorder involves persistent difficulty initiating or maintaining sleep or early waking, at least three nights weekly for at least three months, despite adequate opportunity and with daytime impairment and relevant exclusions.
+EXAMPLE: Insomnia differs from choosing too little time in bed and from the reduced need for sleep seen in mania.
+SOURCE: https://www.nhlbi.nih.gov/health/insomnia
+---
+ID: mental_health-120
+TITLE: When gaming crowds out other life
+QUESTION: ICD-11. Over sixteen months, an adult’s gaming becomes difficult to control, takes priority over essential activities and persists despite serious occupational and relationship consequences, with marked impairment. Other conditions do not better explain the pattern. Which diagnosis best fits this fictional case?
+A: A temporary busy gaming weekend
+B: Gaming disorder
+C: Hoarding disorder
+D: Panic disorder
+ANSWER: B
+EXPLANATION: ICD-11 gaming disorder involves impaired control, increasing priority over other activities and persistence despite negative consequences, with significant impairment, normally evident for at least 12 months. Time spent gaming alone is insufficient.
+EXAMPLE: Compare an enthusiastic hobby compatible with life responsibilities with persistent loss of control and serious functional consequences.
+SOURCE: https://www.who.int/standards/classifications/frequently-asked-questions/gaming-disorder
