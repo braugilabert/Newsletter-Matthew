@@ -1,10 +1,10 @@
 ID: psychotherapy-001
 TITLE: CBT's central link
 QUESTION: Which relationship is central to a standard CBT formulation?
-A: Thoughts must always be positive to be useful
+A: Changing thought content is the necessary first step before behaviour can alter emotion
 B: Thoughts, emotions and behaviours influence one another in context
-C: Only childhood dreams influence present behaviour
-D: Only genetic factors matter in every therapy session
+C: Distress is maintained chiefly by distorted thoughts rather than reciprocal behavioural and contextual processes
+D: Behaviour changes emotion directly, while interpretations are treated as secondary consequences
 ANSWER: B
 EXPLANATION: CBT examines patterns that maintain distress and tests more helpful alternatives. The aim is balanced and workable thinking, not forced positivity.
 EXAMPLE: Situation: no reply to a message. Thought: 'They dislike me.' Alternative: 'They may be busy.' Behaviour: wait rather than send repeated messages.
@@ -14,9 +14,9 @@ ID: psychotherapy-002
 TITLE: Where cognitive therapy began
 QUESTION: Who is particularly associated with developing cognitive therapy in the 1960s?
 A: Aaron T. Beck
-B: Marsha Linehan as the founder of psychoanalysis
-C: Ivan Pavlov as its sole founder in the 1860s
-D: Carl Rogers in the 1920s as its sole founder
+B: Albert Ellis
+C: Donald Meichenbaum
+D: Joseph Wolpe
 ANSWER: A
 EXPLANATION: Beck developed cognitive therapy, initially through work on depression. Modern CBT also draws on behavioural traditions and other contributors.
 EXAMPLE: Keep the historical pairings distinct: Beck -> cognitive therapy; Linehan -> DBT; Freud -> psychoanalysis.
@@ -25,10 +25,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-003
 TITLE: DBT's original developer
 QUESTION: Who developed dialectical behaviour therapy with colleagues?
-A: Aaron Beck as its sole developer
+A: Aaron T. Beck
 B: Marsha Linehan
-C: Carl Jung
-D: Sigmund Freud
+C: Steven C. Hayes
+D: Alan E. Kazdin
 ANSWER: B
 EXPLANATION: DBT grew from behavioural work with people experiencing severe emotion dysregulation and suicidal behaviour, combining acceptance and change strategies.
 EXAMPLE: Remember the balance with a fictional phrase: 'Your feelings make sense, and we can practise a different response.'
@@ -37,10 +37,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-004
 TITLE: The dialectic
 QUESTION: Which statement best expresses the acceptance-change balance in DBT?
-A: Acceptance means no change is ever needed
+A: Accepting the emotion means postponing change work until distress has substantially subsided
 B: I can accept my current experience while working to change harmful patterns
-C: Change requires rejecting every current feeling
-D: Accepting a feeling means endorsing every action it produces
+C: Change strategies are prioritised first, while validation is reserved for setbacks
+D: Acceptance concerns present behaviour, whereas change work is limited to the interpretation of it
 ANSWER: B
 EXPLANATION: Dialectical thinking makes room for apparently opposing truths. Validation does not mean endorsing every behaviour.
 EXAMPLE: A therapist can validate disappointment while helping a client choose a more effective way to communicate it.
@@ -49,10 +49,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-005
 TITLE: The four skills groups
 QUESTION: Which list gives the standard DBT skills modules?
-A: Dream analysis, hypnosis, free association and phrenology
-B: Only relaxation and positive affirmations
+A: Mindfulness, behavioural activation, exposure and cognitive restructuring
+B: Distress tolerance, motivational interviewing, relapse prevention and problem solving
 C: Mindfulness, distress tolerance, emotion regulation and interpersonal effectiveness
-D: Only psychoeducation and interpretation of dreams
+D: Emotion regulation, cognitive defusion, values clarification and committed action
 ANSWER: C
 EXPLANATION: These four modules teach practical skills, while comprehensive DBT includes additional treatment components beyond a skills class.
 EXAMPLE: Sort an example: noticing an urge without immediately acting fits mindfulness; making a clear request fits interpersonal effectiveness.
@@ -61,10 +61,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-006
 TITLE: An automatic thought
 QUESTION: In CBT, what is an automatic thought?
-A: A reflex that never has any verbal or visual content
-B: A guaranteed objective fact
+A: A relatively enduring general belief about oneself
+B: A conditional rule linking performance to acceptance
 C: A quickly arising interpretation of a situation
-D: A mental event that never changes with context
+D: A deliberate reappraisal generated after evaluating evidence
 ANSWER: C
 EXPLANATION: Automatic thoughts can be words or images and are often taken for granted. Identifying one allows it to be examined.
 EXAMPLE: 'I stumbled over a word, so everyone thinks I am incompetent' is an interpretation to examine, not a conclusion to accept automatically.
@@ -73,10 +73,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-007
 TITLE: Testing a prediction
 QUESTION: A client predicts that asking a question will lead to ridicule. With a therapist, they plan a manageable test and compare the result with the prediction. What is this?
-A: Classical dream interpretation
+A: Cognitive restructuring through a thought record without an in-session or real-world test
 B: A behavioural experiment
-C: Free association
-D: A projective personality test
+C: Activity scheduling designed primarily to increase reinforcement
+D: Graded exposure undertaken without specifying the prediction being tested
 ANSWER: B
 EXPLANATION: A behavioural experiment gathers evidence about a specific prediction. It is more than simply telling the client to stop worrying.
 EXAMPLE: Prediction: 'Everyone will laugh.' Observable outcome: how people actually respond to one ordinary question.
@@ -85,10 +85,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-008
 TITLE: Getting moving again
 QUESTION: Which example best illustrates behavioural activation?
-A: Waiting until motivation is perfect before doing anything
+A: Testing the accuracy of a feared social prediction
 B: Scheduling a small meaningful activity and reviewing its effect
-C: Analysing every dream symbol before leaving the house
-D: Replacing every meaningful activity with rest indefinitely
+C: Teaching a coping routine before exposure to a feared cue
+D: Recording automatic thoughts before deciding whether any activity is worthwhile
 ANSWER: B
 EXPLANATION: Behavioural activation addresses withdrawal and reduced reinforcement through planned engagement. Activities are selected collaboratively and adjusted to circumstances.
 EXAMPLE: A small plan might be a ten-minute walk on Tuesday, followed by a brief note about mood and sense of achievement.
@@ -97,10 +97,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-009
 TITLE: Looking for evidence
 QUESTION: Which question best represents collaborative cognitive reappraisal?
-A: How can we prove you must feel happy?
+A: How could you replace that thought with a more encouraging interpretation?
 B: What evidence supports this thought, and what evidence complicates it?
-C: Why should you never question your first impression?
-D: How can we ignore all evidence against the thought?
+C: Which action would best express your values even if the thought remains?
+D: What earlier relationship might this expectation be repeating?
 ANSWER: B
 EXPLANATION: Cognitive reappraisal examines accuracy and usefulness. It does not assume distress is irrational or that real difficulties can be wished away.
 EXAMPLE: 'I failed one exam' is specific evidence. 'I will fail everything forever' is a much broader prediction.
@@ -109,10 +109,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-010
 TITLE: Socratic curiosity
 QUESTION: What is guided discovery in CBT?
-A: Telling a client exactly what to believe
-B: Interpreting every statement through a fixed dream dictionary
+A: Reflecting back the person's meaning without systematically testing alternative interpretations
+B: Offering a plausible formulation and asking whether the person agrees
 C: Using collaborative questions to help someone examine meanings and alternatives
-D: Reading a script without considering the client’s answer
+D: Assigning a behavioural task before jointly exploring the prediction behind it
 ANSWER: C
 EXPLANATION: Guided discovery supports exploration rather than a debate the therapist must win. Questions should be responsive to the person's experience.
 EXAMPLE: 'What would you say to a friend in the same position?' can help someone generate a different perspective.
@@ -122,9 +122,9 @@ ID: psychotherapy-011
 TITLE: The all-or-nothing trap
 QUESTION: Which statement is an example of all-or-nothing thinking?
 A: If I do not get full marks, the whole effort was worthless
-B: I missed two questions and can review those topics
-C: This task is difficult and I can ask for help
-D: I did well on some parts and need practice on others
+B: They noticed one mistake, so they probably think I am incompetent
+C: Because I feel embarrassed, the performance must have gone badly
+D: My good answers do not count because those questions were easy
 ANSWER: A
 EXPLANATION: All-or-nothing thinking reduces a continuum to two extremes. Identifying it can open up more nuanced evaluation.
 EXAMPLE: A score of 12 out of 15 includes successful learning and areas to practise; it does not need to be labelled total success or total failure.
@@ -134,9 +134,9 @@ ID: psychotherapy-012
 TITLE: Exposure's purpose
 QUESTION: Which is the best general description of therapeutic exposure?
 A: Planned contact with feared but sufficiently safe situations to support new learning
-B: Forcing someone into genuine danger
-C: A guarantee that anxiety vanishes immediately
-D: Avoiding all reminders forever to ensure new learning
+B: Repeated practice designed to remove anxious sensations before contact with the feared cue
+C: Changing the feared thought through evidence review without encountering the relevant situation
+D: Entering feared situations while preserving every protective strategy throughout the learning task
 ANSWER: A
 EXPLANATION: Exposure is collaborative and tailored to a formulation. Learning can occur even when some anxiety remains; safety and consent matter.
 EXAMPLE: In a fictional graded plan, someone might begin by looking at a lift before later practising a short ride with agreed support.
@@ -146,9 +146,9 @@ ID: psychotherapy-013
 TITLE: ERP's letters
 QUESTION: In the treatment of OCD, what does ERP stand for?
 A: Exposure and response prevention
-B: External reinforcement programming
-C: Emotion replacement protocol
-D: Exposure and reassurance provision
+B: Exposure and reassurance provision
+C: Emotional processing and relapse prevention
+D: Exposure and reaction postponement
 ANSWER: A
 EXPLANATION: ERP combines exposure to relevant triggers with reducing compulsive responses. It is a specific clinical method that should be tailored professionally.
 EXAMPLE: A conceptual example is encountering uncertainty while practising not performing the usual ritual; it is not a request to improvise treatment.
@@ -157,10 +157,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-014
 TITLE: Negative reinforcement
 QUESTION: A behaviour increases because it removes an unpleasant experience. What is the learning term?
-A: Extinction by definition
+A: Positive reinforcement
 B: Negative reinforcement
-C: Positive punishment
-D: Positive reinforcement
+C: Negative punishment
+D: Positive punishment
 ANSWER: B
 EXPLANATION: Negative means something is removed; reinforcement means the behaviour becomes more likely. It does not mean the behaviour is morally bad.
 EXAMPLE: Fastening a seat belt stops an annoying alarm, making fastening more likely. That illustrates negative reinforcement.
@@ -169,10 +169,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-015
 TITLE: Positive reinforcement
 QUESTION: A behaviour becomes more frequent after a rewarding consequence is added. What is this?
-A: Repression
+A: Negative reinforcement
 B: Positive reinforcement
-C: Negative punishment
-D: Negative reinforcement
+C: Positive punishment
+D: Negative punishment
 ANSWER: B
 EXPLANATION: Positive means something is added, and reinforcement means behaviour increases. Whether a consequence reinforces must be judged by its effect.
 EXAMPLE: If praise follows practice and practice becomes more frequent, the praise has functioned as a reinforcer in that situation.
@@ -182,9 +182,9 @@ ID: psychotherapy-016
 TITLE: Psychoanalysis and its origins
 QUESTION: Which historical figure is most closely associated with the founding of psychoanalysis?
 A: Sigmund Freud
-B: Carl Rogers as the founder of psychoanalysis
-C: Marsha Linehan
-D: Albert Ellis
+B: Pierre Janet
+C: Carl Jung
+D: Alfred Adler
 ANSWER: A
 EXPLANATION: Freud developed psychoanalysis in the late nineteenth and early twentieth centuries. Later psychodynamic schools revised and expanded many of its ideas.
 EXAMPLE: Do not merge all therapies into one lineage: person-centred therapy is associated with Rogers, while psychoanalysis is historically linked to Freud.
@@ -193,10 +193,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-017
 TITLE: Free association
 QUESTION: What does free association ask a person to do?
-A: Choose only words with positive meanings
+A: Describe the most emotionally important memory in chronological order
 B: Say what comes to mind with as little deliberate censorship as possible
-C: Complete a standard multiple-choice intelligence test
-D: Speak only after selecting from four fixed answers
+C: Use a selected image as the starting point for a therapist-directed narrative
+D: Monitor each emerging thought and evaluate the evidence for it
 ANSWER: B
 EXPLANATION: Free association is associated with psychoanalytic methods for exploring patterns, meanings and unconscious processes.
 EXAMPLE: A conversation may move from a recent disagreement to an earlier memory; the therapist explores possible connections rather than using a fixed answer key.
@@ -205,10 +205,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-018
 TITLE: Transference
 QUESTION: In psychodynamic terminology, what is transference?
-A: A literal transfer of memories between two brains
-B: A therapist prescribing a different medication
+A: The therapist's emotional reactions elicited during the session
+B: A client's conscious imitation of a therapist's way of speaking
 C: Patterns of feeling and expectation from other relationships emerging in the therapeutic relationship
-D: A type of brain scan used to assess memory
+D: A therapist's tentative explanation linking current symptoms to earlier experience
 ANSWER: C
 EXPLANATION: Transference refers to how relational expectations can shape experience with the therapist. Its interpretation depends on the clinical context.
 EXAMPLE: A client expects a therapist to be critical in the same way an earlier authority figure was; that expectation can become material for exploration.
@@ -217,10 +217,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-019
 TITLE: Countertransference
 QUESTION: What does countertransference broadly refer to in contemporary psychodynamic usage?
-A: Only the client's dreams
+A: The client's expectations of the therapist shaped by earlier relationships
 B: The therapist's emotional responses and relational reactions to the client
-C: The cancellation policy for appointments
-D: Only a medication’s effects on the client’s memory
+C: The therapist's explicit account of an unconscious relational pattern
+D: A client's shift from one recurrent relationship pattern to another
 ANSWER: B
 EXPLANATION: The term has evolved and can include responses informed by both the therapist's history and the therapeutic interaction. Reflection and supervision help examine these responses.
 EXAMPLE: A therapist noticing an unusually strong urge to rescue a client might reflect on that reaction in supervision.
@@ -230,9 +230,9 @@ ID: psychotherapy-020
 TITLE: Defence mechanisms
 QUESTION: Which description best fits a psychological defence mechanism?
 A: A process that helps manage distressing feelings or conflicts, often outside awareness
-B: A named brain artery
-C: A deliberate lie in every case
-D: An artery supplying the frontal cortex
+B: A consciously selected coping strategy evaluated through its immediate practical results
+C: A learned belief whose truth is tested by collecting external evidence
+D: An automatic physiological response that does not regulate psychological conflict
 ANSWER: A
 EXPLANATION: Defences are theoretical descriptions of ways people manage internal conflict and emotion. They are not automatically intentional or pathological.
 EXAMPLE: Intellectualisation might involve discussing an upsetting event in abstract terms while keeping its emotional impact at a distance.
@@ -242,9 +242,9 @@ ID: psychotherapy-021
 TITLE: Person-centred therapy
 QUESTION: Which trio is especially associated with Carl Rogers?
 A: Empathy, congruence and unconditional positive regard
-B: Punishment, diagnosis and dream decoding
-C: Exposure, medication titration and surgery
-D: Unconditional agreement with every behaviour
+B: Accurate interpretation, therapeutic neutrality and free association
+C: Empathy, collaborative empiricism and guided discovery
+D: Congruence, cognitive restructuring and behavioural rehearsal
 ANSWER: A
 EXPLANATION: Rogers emphasised the quality of the therapeutic relationship and the client's capacity for growth. These conditions are central to the person-centred tradition.
 EXAMPLE: Congruence concerns the therapist being genuine; empathy concerns understanding the client's experience rather than assuming it matches one's own.
@@ -254,9 +254,9 @@ ID: psychotherapy-022
 TITLE: REBT's origin
 QUESTION: Who is most closely associated with rational emotive behaviour therapy?
 A: Albert Ellis
-B: Sigmund Freud as its sole developer
-C: B. F. Skinner as its sole developer
-D: Carl Rogers
+B: Aaron T. Beck
+C: Donald Meichenbaum
+D: Joseph Wolpe
 ANSWER: A
 EXPLANATION: Ellis developed REBT, a cognitive-behavioural approach that examines beliefs and their consequences. It is related to, but not identical with, Beck's cognitive therapy.
 EXAMPLE: Historical pairing practice: Ellis -> REBT. Beck -> cognitive therapy. Both contributed to the broader cognitive-behavioural family.
@@ -266,9 +266,9 @@ ID: psychotherapy-023
 TITLE: The ABC framework
 QUESTION: In a common REBT model, what do A, B and C stand for?
 A: Activating event, beliefs and consequences
-B: Attention, brainstem and cortex
-C: Acceptance, boredom and certainty
-D: Antecedent, brain injury and cortical damage
+B: Antecedent, behaviour and consequence
+C: Automatic thought, behaviour and coping response
+D: Activating event, behaviour and cognitive appraisal
 ANSWER: A
 EXPLANATION: The model distinguishes an event from beliefs about it and emotional or behavioural consequences. The framework does not imply that circumstances are irrelevant.
 EXAMPLE: A: a delayed reply. B: 'They must always answer immediately.' C: anger and repeated checking. Separating these makes the formulation clearer.
@@ -277,10 +277,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-024
 TITLE: ACT's flexibility
 QUESTION: Which goal is central to acceptance and commitment therapy?
-A: Eliminating every unwanted thought before acting
-B: Proving that all thoughts are literally true
+A: More accurate thought content as the primary measure of progress
+B: Reduced symptom intensity as a prerequisite for valued activity
 C: Psychological flexibility and action guided by values
-D: Avoiding every activity that brings discomfort
+D: Replacement of aversive internal events with more adaptive internal experiences
 ANSWER: C
 EXPLANATION: ACT focuses on how people relate to internal experiences and on meaningful action. Acceptance does not mean approving of harmful circumstances.
 EXAMPLE: A person can notice anxiety and still take a small step towards a valued activity, rather than waiting for complete emotional comfort.
@@ -289,10 +289,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-025
 TITLE: Defusion
 QUESTION: Which phrase best illustrates cognitive defusion in ACT?
-A: I must prove I will never fail at anything
+A: What evidence demonstrates that failure is unlikely?
 B: I am noticing the thought that I will fail
-C: This thought is a command I must obey
-D: I can never have an unwanted thought again
+C: I can replace this thought with a more realistic prediction
+D: What does expecting failure say about my underlying core belief?
 ANSWER: B
 EXPLANATION: Defusion changes the relationship to a thought rather than automatically arguing with its content. A thought can be noticed as an event in the mind.
 EXAMPLE: Compare 'I am useless' with 'I am having the thought that I am useless.' The second wording creates some psychological distance.
@@ -302,9 +302,9 @@ ID: psychotherapy-026
 TITLE: Values and goals
 QUESTION: Which distinction fits ACT terminology?
 A: A value is an ongoing direction; a goal is a specific achievable outcome
-B: A value is always completed once and never revisited
-C: Goals are feelings and values are test scores
-D: Values are always rankings imposed by the therapist
+B: A value describes a preferred feeling; a goal describes the action that produces it
+C: Values are broad targets that are completed through a sequence of smaller goals
+D: Values identify obligations to others; goals identify personally chosen outcomes
 ANSWER: A
 EXPLANATION: Values guide patterns of action over time, while goals can mark concrete steps. The same goal can serve different values for different people.
 EXAMPLE: Value: learning. Goal: practise three music questions this week. Completing the goal does not finish the value of learning.
@@ -313,10 +313,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-027
 TITLE: Motivational interviewing
 QUESTION: Which stance is characteristic of motivational interviewing?
-A: Assuming the therapist's reasons must replace the person's reasons
+A: Providing a persuasive account of benefits before asking the person to set a target
 B: Collaborative exploration of ambivalence and the person's own reasons for change
-C: Confrontation until the person agrees with the therapist
-D: Persuading through shame regardless of the person’s goals
+C: Resolving ambivalence by identifying the objectively healthiest option
+D: Comparing arguments for and against change until the therapist can recommend a decision
 ANSWER: B
 EXPLANATION: Motivational interviewing emphasises partnership, acceptance, compassion and evocation. It is not a technique for manipulating consent.
 EXAMPLE: 'What do you like about your current pattern, and what concerns you about it?' makes room for both sides of ambivalence.
@@ -326,9 +326,9 @@ ID: psychotherapy-028
 TITLE: OARS
 QUESTION: Which set describes the common motivational interviewing acronym OARS?
 A: Open questions, affirmations, reflective listening and summaries
-B: Observation, avoidance, repression and sedation
-C: Objectives, anger, rewards and silence
-D: Only offering advice, rewards and solutions
+B: Open questions, advice, reflection and solution generation
+C: Observation, affirmations, reassurance and summaries
+D: Open questions, affirmations, rational challenge and scaling
 ANSWER: A
 EXPLANATION: OARS names core conversational skills. Using them well requires attention to the person's meaning and autonomy.
 EXAMPLE: An open question invites elaboration: 'What would improving sleep make possible for you?' differs from a yes/no question.
@@ -337,10 +337,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-029
 TITLE: Interpersonal psychotherapy
 QUESTION: Which area is a recognised focus in interpersonal psychotherapy?
-A: Only training visual reaction speed
-B: Only interpretation of ancient symbols
+A: The accuracy of automatic appraisals maintaining symptoms
+B: Unconscious meanings expressed principally through the therapy relationship
 C: Current interpersonal difficulties such as role transitions or disputes
-D: Exclusively changing unconscious dream symbols
+D: Avoidance of feared situations and response-prevention tasks
 ANSWER: C
 EXPLANATION: IPT links symptoms with interpersonal context and commonly works on grief, role disputes, role transitions and interpersonal difficulties.
 EXAMPLE: Moving to a new city can change roles and support networks. An IPT formulation may explore those interpersonal changes.
@@ -349,10 +349,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-030
 TITLE: The alliance
 QUESTION: What does the therapeutic alliance commonly include?
-A: Agreement that the therapist must always be right
-B: Friendship outside therapy as a requirement
+A: A shared formulation, symptom improvement and between-session practice
+B: Empathic understanding, congruence and unconditional positive regard as the whole alliance model
 C: Agreement on goals and tasks, plus a collaborative bond
-D: Agreement that every session must produce immediate happiness
+D: Agreement on the diagnosis, treatment length and professional boundaries
 ANSWER: C
 EXPLANATION: The alliance concerns working together within a professional relationship. Goals, tasks and bond offer a useful framework for discussing it.
 EXAMPLE: If homework feels irrelevant, discussing the task and its purpose can repair collaboration rather than assuming the client lacks motivation.
@@ -361,9 +361,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-031
 TITLE: A formulation you can revise
 QUESTION: What is a case formulation in CBT best understood as?
-A: A diagnosis inferred from handwriting
-B: A permanent statement of someone’s moral character
-C: A list of instructions unrelated to context
+A: A diagnostic category translated directly into a standard treatment protocol
+B: A chronological case history without hypotheses about maintaining processes
+C: An explanation based on the therapist's preferred theory before collaborative testing
 D: A collaborative, revisable explanation of relevant patterns
 ANSWER: D
 EXPLANATION: A formulation is a collaborative working account linking difficulties, context and maintaining processes. It is a hypothesis to refine, not a fixed judgement about someone’s character.
@@ -373,10 +373,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-032
 TITLE: The short-term relief loop
 QUESTION: Someone cancels feared meetings and immediately feels relief, making cancellation more likely. What process fits?
-A: Classical transference interpretation
+A: Negative punishment of anxiety
 B: Negative reinforcement of avoidance
-C: Positive punishment of avoidance
-D: Free association
+C: Positive reinforcement of avoidance
+D: Extinction of the feared association
 ANSWER: B
 EXPLANATION: Avoidance can be maintained when immediate relief negatively reinforces it. Long-term costs and the behaviour’s function matter more than whether it looks passive or active.
 EXAMPLE: Cancelling a feared conversation may reduce anxiety immediately while preserving the expectation that the conversation cannot be managed.
@@ -385,10 +385,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-033
 TITLE: A safety strategy under the microscope
 QUESTION: In an anxiety formulation, what is a safety behaviour?
-A: Any pleasant activity
+A: An activity selected because it is physically low risk regardless of its function
 B: An action intended to prevent a feared outcome or manage perceived threat
-C: Any instance of taking prescribed medication by definition
-D: Any behaviour that looks physically safe
+C: Any routine that reduces symptoms over the long term
+D: A response performed after anxiety has ended to consolidate learning
 ANSWER: B
 EXPLANATION: Safety behaviours are actions used to prevent a feared outcome or reduce perceived threat. Their effects depend on function and context; some can interfere with testing feared predictions.
 EXAMPLE: A person may attribute a successful conversation entirely to rehearsing every sentence, leaving the belief that spontaneity is dangerous untested.
@@ -397,10 +397,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-034
 TITLE: A hierarchy with a purpose
 QUESTION: What is an exposure hierarchy?
-A: A list of genuinely dangerous situations
-B: A guarantee that each step creates no anxiety
+A: A ranking of feared situations based solely on the intensity they produced once
+B: A fixed progression whose steps remain unchanged regardless of new learning
 C: An agreed sequence of relevant tasks that vary in difficulty
-D: A ranking of clients by how brave they are
+D: A sequence organised mainly by the therapist's preferred technique rather than the person's feared predictions
 ANSWER: C
 EXPLANATION: A graded exposure hierarchy organises sufficiently safe tasks by difficulty and learning goals. It is negotiated and adaptable rather than a compulsory ladder that must be completed perfectly.
 EXAMPLE: Learning that a feared prediction does not always occur may matter even when some anxiety remains.
@@ -409,10 +409,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-035
 TITLE: The thought record
 QUESTION: Which entry belongs under situation rather than interpretation?
-A: This silence proves I am incompetent
+A: My colleague is probably avoiding a difficult conversation
 B: My colleague has not replied for two hours
-C: Nobody will ever respect me
-D: My colleague certainly dislikes me
+C: The silence suggests I have done something wrong
+D: My colleague had enough time to respond and chose not to
 ANSWER: B
 EXPLANATION: A thought record distinguishes a situation from interpretations, emotions and actions. It supports balanced appraisal rather than insisting that a positive replacement thought must be believed.
 EXAMPLE: Situation: a delayed reply. Interpretation: I have offended them. Alternative: several explanations remain possible.
@@ -421,10 +421,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-036
 TITLE: A belief beneath the moment
 QUESTION: Which is a conditional assumption?
-A: I currently feel tired
+A: I am unacceptable to other people
 B: If I show uncertainty, others will reject me
-C: I missed the bus at eight
-D: The meeting begins on Tuesday
+C: They will reject my next question
+D: I showed uncertainty during yesterday's conversation
 ANSWER: B
 EXPLANATION: CBT distinguishes automatic thoughts, conditional assumptions and broader core beliefs. These levels inform a formulation but should not be inferred as rigid truths from one remark.
 EXAMPLE: Automatic thought: I will mess up. Assumption: If I make a mistake, people will reject me. Core belief: I am inadequate.
@@ -433,10 +433,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-037
 TITLE: After the first setback
 QUESTION: Which is a relapse-prevention task?
-A: Promise symptoms can never return
+A: Repeat the original treatment sequence whenever a symptom returns, without identifying early changes
 B: Identify early warning signs and an agreed response plan
-C: Hide all earlier coping strategies
-D: Treat any difficult day as complete failure
+C: Treat the absence of symptoms at discharge as the main maintenance strategy
+D: Create a list of techniques without linking them to warning signs or contexts
 ANSWER: B
 EXPLANATION: Relapse prevention identifies warning signs, helpful skills and a plan for setbacks. A recurrence of difficulty does not erase earlier learning or necessarily mean treatment failed.
 EXAMPLE: A plan might specify an early sign, one small action and when to seek further support.
@@ -446,9 +446,9 @@ ID: psychotherapy-038
 TITLE: Following a chain
 QUESTION: What is the purpose of a behavioural chain analysis?
 A: Understand the sequence and context around a target behaviour
-B: Identify one universal cause for every problem
-C: Interpret every behaviour through dream symbols
-D: Decide who deserves blame
+B: Classify the behaviour primarily by its diagnostic category
+C: Identify the earliest childhood event that accounts for the behaviour's meaning
+D: Compare the person's thoughts with a standard list of cognitive distortions without mapping consequences
 ANSWER: A
 EXPLANATION: DBT chain analysis examines vulnerabilities, prompting events, links, target behaviour and consequences. Missing links are explored to identify possible places for change.
 EXAMPLE: A chain may include poor sleep, an argument, an interpretation, a bodily reaction, an urge and an action.
@@ -457,10 +457,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-039
 TITLE: Validation without agreement
 QUESTION: Which statement is validating without endorsing harmful action?
-A: Every action you took must have been right
-B: You should never have felt that
+A: Your interpretation is understandable, so it is the most accurate account
+B: Let us first correct the interpretation so we can validate the resulting emotion
 C: It makes sense that you felt hurt; let us look at what happened next
-D: Your experience is irrelevant
+D: The response was understandable, which means it was the most effective available action
 ANSWER: C
 EXPLANATION: Validation communicates that an experience is understandable in its context. It does not require agreeing with every interpretation or endorsing every resulting action.
 EXAMPLE: I can understand why you felt dismissed can be followed by exploring a more effective response.
@@ -469,10 +469,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-040
 TITLE: Riding out a difficult moment
 QUESTION: Which goal best fits distress tolerance?
-A: Never feeling distress again
-B: Solving every life problem immediately
+A: Resolving the underlying interpersonal problem during the peak of distress
+B: Reducing emotional arousal as the required endpoint of every crisis response
 C: Getting through a difficult moment without adding avoidable harm
-D: Proving all emotions are irrational
+D: Reappraising the accuracy of the thought as the defining crisis-survival task
 ANSWER: C
 EXPLANATION: DBT distress-tolerance skills aim to help a person get through acute distress without making the situation worse. They are not a complete solution to the underlying long-term problem.
 EXAMPLE: A short pause before acting can be useful even though the original disagreement still needs to be addressed later.
@@ -481,10 +481,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-041
 TITLE: An emotion and its message
 QUESTION: Which statement about emotions is most balanced?
-A: They must be suppressed before any action
-B: They have no function in human behaviour
+A: They indicate whether an action is effective once their intensity becomes high enough
+B: Their immediate action tendency is usually the best guide until facts are available
 C: They can provide useful information without proving an interpretation is accurate
-D: They are always factual descriptions of external events
+D: Their role is chiefly to be replaced with a more comfortable state before problem solving
 ANSWER: C
 EXPLANATION: Emotion-regulation work involves recognising emotions, their functions and the circumstances influencing them. Emotions supply information without serving as infallible instructions.
 EXAMPLE: Fear can signal a possible threat, but the level of danger still needs to be evaluated.
@@ -494,9 +494,9 @@ ID: psychotherapy-042
 TITLE: A clear request
 QUESTION: Which set of priorities fits interpersonal effectiveness?
 A: Objectives, relationship and self-respect
-B: Only winning the argument
-C: Only making the other person feel guilty
-D: Only avoiding disagreement
+B: Symptom reduction, belief accuracy and exposure completion
+C: Acceptance, cognitive defusion and self-as-context
+D: Insight, emotional catharsis and interpretation
 ANSWER: A
 EXPLANATION: DBT interpersonal-effectiveness work balances objectives, relationships and self-respect. It examines how to ask, decline and negotiate in context rather than always prioritising pleasing others.
 EXAMPLE: A clear request can name the situation, state what is wanted and leave room for a reply or negotiation.
@@ -505,9 +505,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-043
 TITLE: Mindfulness as a skill
 QUESTION: Which description fits mindfulness practice?
-A: Guaranteeing instant relaxation
-B: Analysing every thought as a hidden symbol
-C: Preventing all thoughts from appearing
+A: Sustaining attention by suppressing distracting thoughts as they arise
+B: Monitoring experience primarily to reduce arousal during the exercise
+C: Analysing the accuracy of each thought before returning to the task
 D: Noticing present experience and returning attention when it wanders
 ANSWER: D
 EXPLANATION: Mindfulness involves attending to present experience with an observing, nonjudgemental stance. It is not a requirement to empty the mind or feel relaxed on demand.
@@ -517,9 +517,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-044
 TITLE: Choosing a valued direction
 QUESTION: Which is expressed as an ongoing value rather than a completed goal?
-A: Attend one concert on Saturday
-B: Finish chapter four tonight
-C: Send one email before noon
+A: Read one chapter by Friday
+B: Feel confident when learning something new
+C: Obtain a certificate at the end of the course
 D: Being a curious and engaged learner
 ANSWER: D
 EXPLANATION: ACT uses values to guide ongoing action, while committed action translates that direction into workable steps. Values are chosen directions rather than a competition for the most admirable label.
@@ -529,10 +529,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-045
 TITLE: Making room without surrendering
 QUESTION: Which distinction separates accepting an internal feeling from approving an external situation?
-A: Acceptance is the same as hopelessness
+A: Acceptance is mainly a way to make unpleasant feelings stop quickly
 B: Accepting an internal feeling does not require approving harmful circumstances
-C: Acceptance requires believing every thought
-D: Acceptance means never trying to change anything
+C: Acceptance requires reducing distress before addressing the external problem
+D: Acceptance means treating the current interpretation as the most accurate one available
 ANSWER: B
 EXPLANATION: Acceptance in ACT concerns willingness to experience internal events when doing so supports meaningful action. It is distinct from approving of external harm or abandoning problem solving.
 EXAMPLE: A person can allow anxious sensations while also taking practical steps to change an unfair situation.
@@ -541,10 +541,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-046
 TITLE: An observing perspective
 QUESTION: Which phrase most clearly adopts an observing perspective?
-A: This thought contains my whole identity
+A: This feeling proves that the situation is unsafe
 B: I am noticing a painful feeling right now
-C: I am nothing except this feeling
-D: A feeling is a command I must obey
+C: I need to replace this feeling before I can respond
+D: I should work out whether this feeling is justified before noticing it
 ANSWER: B
 EXPLANATION: Self-as-context in ACT concerns a perspective from which experiences are noticed, rather than identifying entirely with their content. It is not a claim that a person has no stable history or responsibilities.
 EXAMPLE: I notice sadness is different from defining the whole self as nothing but sadness.
@@ -554,9 +554,9 @@ ID: psychotherapy-047
 TITLE: Listening for change talk
 QUESTION: Which is an example of change talk?
 A: I would like to cut down because I miss having energy
-B: It is entirely everyone else’s problem
-C: I see no reason to change anything
-D: You cannot tell me what to do
+B: I could cut down, but I do not think it would be worth the disruption
+C: People say I should cut down, although I am not convinced
+D: I cut down last year because my partner insisted, and I do not want to repeat that
 ANSWER: A
 EXPLANATION: Motivational interviewing distinguishes statements supporting change from those supporting the current pattern, while respecting autonomy. Reflective listening aims to understand rather than covertly persuade.
 EXAMPLE: I want more energy to play with my child expresses a personally meaningful reason for change.
@@ -566,9 +566,9 @@ ID: psychotherapy-048
 TITLE: A reflection instead of advice
 QUESTION: Which response is a reflection?
 A: You feel pulled between wanting change and fearing the disruption
-B: You are definitely wrong about that
-C: Here are ten instructions before you explain
-D: Why do you not simply do what I suggest?
+B: You should compare the benefits and make a firm commitment today
+C: You want change, so the remaining issue is choosing the right technique
+D: You are afraid of disruption, so maintaining things as they are seems best
 ANSWER: A
 EXPLANATION: Reflective listening checks and develops understanding of the person’s meaning. A reflection is not simply repeating words mechanically or immediately offering a solution.
 EXAMPLE: It sounds as though you want the benefit of change but fear losing something important reflects ambivalence.
@@ -577,9 +577,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-049
 TITLE: The relationship as information
 QUESTION: Which question fits exploration of a recurring relational pattern?
-A: Can we assume every person secretly dislikes you?
-B: Why should your account be ignored?
-C: Which fixed dream dictionary gives the answer?
+A: What evidence would establish whether this thought is accurate?
+B: What prediction could we test in the next interaction?
+C: What valued action would you choose if the expectation remained?
 D: Does this expectation of criticism feel familiar in other relationships?
 ANSWER: D
 EXPLANATION: Psychodynamic work can examine recurring relationship patterns, including those arising in therapy. Interpretations are hypotheses to explore and should remain sensitive to the person’s experience.
@@ -589,10 +589,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-050
 TITLE: Noticing a therapist’s reaction
 QUESTION: What is an appropriate use of noticing a strong therapist reaction?
-A: Assume it proves the client’s hidden motive
+A: Treat it as confirmation of the client's interpersonal pattern before seeking other evidence
 B: Reflect on it and consider supervision
-C: Make the client responsible for the therapist’s needs
-D: Act on it immediately without reflection
+C: Disclose the reaction immediately so the client can regulate the therapist's response
+D: Use the reaction to choose an intervention before considering personal and contextual influences
 ANSWER: B
 EXPLANATION: Countertransference awareness involves reflecting on the therapist’s responses and their possible sources. Supervision helps separate personal reactions, relational processes and the client’s needs.
 EXAMPLE: An unusually strong urge to rescue someone may be a useful topic for supervision rather than an automatic instruction to act.
@@ -601,10 +601,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-051
 TITLE: Defences in context
 QUESTION: Which example best illustrates intellectualisation?
-A: A knee-jerk response
+A: Attributing an unwanted impulse to another person
 B: Discussing an upsetting event only in detached abstract terms
-C: Forgetting the time of an appointment
-D: Reading a bus timetable
+C: Redirecting an impulse into a socially valued activity
+D: Expressing an attitude opposite to an unacceptable feeling
 ANSWER: B
 EXPLANATION: Defence concepts describe ways of managing internal conflict or distress, often outside awareness. Their usefulness and cost depend on context; identifying one is not a moral judgement.
 EXAMPLE: Humour may help a person approach a painful issue, while at other times joking may prevent any engagement with it.
@@ -613,9 +613,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-052
 TITLE: Person-centred understanding
 QUESTION: Which response better conveys empathy?
-A: You should feel the way I would
-B: I know exactly how you feel without asking
-C: The important thing is to agree with me
+A: That would upset me too, so I know exactly what it means for you
+B: It sounds painful, but the first task is correcting your interpretation
+C: That sounds like the same experience you described before, so we can use the same explanation
 D: It sounds painful; have I understood what this meant to you?
 ANSWER: D
 EXPLANATION: Person-centred therapy emphasises empathic understanding, congruence and unconditional positive regard. Respect for the person is distinct from approving every behaviour or abandoning professional boundaries.
@@ -625,10 +625,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-053
 TITLE: Working with a role change
 QUESTION: A client struggles after retirement and loss of a familiar social role. Which IPT focus is especially relevant?
-A: Only visual memory training
-B: Only exposure to a feared animal
+A: Role dispute
+B: Interpersonal deficits or sensitivities
 C: Role transition
-D: Only dream symbolism
+D: Grief
 ANSWER: C
 EXPLANATION: Interpersonal psychotherapy can focus on transitions in roles and relationships. It links symptoms to interpersonal context and supports practical adaptation, rather than assuming every difficulty is an isolated thought error.
 EXAMPLE: Retirement may involve changes in identity, routine, status and social contact as well as practical scheduling.
@@ -638,9 +638,9 @@ ID: psychotherapy-054
 TITLE: A disagreement that returns
 QUESTION: Which scenario best fits an IPT role dispute?
 A: Repeated conflict with a partner about incompatible expectations
-B: Only a motor tic
-C: Only a fear of heights unrelated to relationships
-D: Only difficulty identifying a colour
+B: Difficulty adapting to a new job role without a disagreement with another person
+C: Persistent social isolation without a specific role disagreement
+D: Bereavement-related difficulty after a death
 ANSWER: A
 EXPLANATION: IPT role disputes concern significant interpersonal disagreements, often involving differing expectations. Clarifying communication and relationship expectations can guide the work.
 EXAMPLE: Two people may agree about an event but disagree about what each person was expected to do.
@@ -649,9 +649,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-055
 TITLE: Relationships in a system
 QUESTION: What does a circular interactional account emphasise?
-A: One universal guilty person in every family
-B: The absence of context
-C: The idea that every participant has equal power
+A: A linear chain in which one person's belief is the principal independent cause
+B: A shared diagnostic label explaining each member's behaviour
+C: The historical origin of one person's symptoms without examining current responses
 D: Reciprocal patterns that can maintain a difficulty
 ANSWER: D
 EXPLANATION: Systemic approaches examine interaction patterns, context and feedback loops. Circular accounts explore mutual influences without implying that responsibility or power is always equal.
@@ -661,10 +661,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-056
 TITLE: An exception to the problem
 QUESTION: What is an exception question designed to explore?
-A: What every dream symbol means
-B: Why the person is to blame
+A: The underlying developmental cause of the problem
+B: The full evidence for and against a particular automatic thought
 C: When the problem is less present and what is different then
-D: Which diagnosis can be assigned from one sentence
+D: The diagnostic criteria that distinguish the main complaint
 ANSWER: C
 EXPLANATION: Solution-focused work explores goals, exceptions, strengths and small changes. It does not require denying real suffering or pretending resources are unlimited.
 EXAMPLE: A time when the problem was less intense may reveal useful actions, supports or circumstances.
@@ -673,10 +673,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-057
 TITLE: Stories and distance
 QUESTION: What is externalisation in narrative therapy?
-A: Transferring memories into another brain
-B: Blaming every difficulty on strangers
+A: Challenging the factual accuracy of the person's problem description
+B: Finding the earliest cause that explains the person's identity
 C: Discussing a problem as something influencing the person rather than their entire identity
-D: Denying that a problem has any effects
+D: Replacing a negative self-description with a positive global label
 ANSWER: C
 EXPLANATION: Narrative approaches can separate a person from a problem-saturated description and explore alternative stories. Externalising language should fit the person rather than become a formula imposed on them.
 EXAMPLE: Anxiety has been pushing you away from music creates a different conversation from defining the whole person as an anxious failure.
@@ -685,10 +685,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-058
 TITLE: Evidence and its limits
 QUESTION: Which combination best describes evidence-based practice?
-A: Only the therapist’s preferred school
-B: Only a social-media testimonial
+A: The best available trial result used without considering fit or preference
+B: Clinical experience used to override research that conflicts with the therapist's model
 C: Research evidence, clinical expertise and individual values and context
-D: Only the newest published study
+D: The client's preferred explanation treated as sufficient evidence of treatment effectiveness
 ANSWER: C
 EXPLANATION: Evidence-based practice integrates research, clinical expertise and the person’s characteristics, culture and preferences. Evidence supports decisions without guaranteeing a particular individual’s outcome.
 EXAMPLE: A treatment shown helpful on average still needs adaptation, monitoring and shared decisions.
@@ -697,10 +697,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-059
 TITLE: Goals that can be reviewed
 QUESTION: Which goal is more specific and reviewable?
-A: Never feel any discomfort again
-B: Improve everything somehow
+A: Become less anxious in social situations soon
+B: Feel confident before attempting the next social step
 C: Practise one agreed social step twice this week and discuss the result
-D: Become a completely different person
+D: Develop a more positive personality through practice
 ANSWER: C
 EXPLANATION: Collaborative goals translate broad hopes into observable, meaningful targets. Goals can be revised when circumstances, preferences or understanding change.
 EXAMPLE: Feel better can become rejoin one valued activity each week while still discussing the person’s wider hopes.
@@ -709,10 +709,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-060
 TITLE: Repairing a difficult moment
 QUESTION: Which situation may indicate an alliance rupture?
-A: A client expresses any emotion whatsoever
-B: Every successful session ending on time
+A: The client reports distress while collaborating on an agreed difficult task
+B: The client questions a formulation and feels the discussion was helpful
 C: A client feels unheard and withdraws from agreed work
-D: Every difference in eye colour
+D: The client prefers a different technique but remains engaged in discussing goals
 ANSWER: C
 EXPLANATION: An alliance rupture is a strain in collaboration or connection. Noticing it, inviting feedback and discussing goals or misunderstandings can support repair.
 EXAMPLE: A person who quietly stops contributing may be expressing a strain just as much as someone who openly disagrees.
@@ -721,10 +721,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-061
 TITLE: A formulation you can revise
 QUESTION: New information contradicts a formulation. What is the most appropriate response?
-A: Stop asking about context
+A: Retain the original account until a full course of the associated intervention is completed
 B: Revise the hypothesis collaboratively
-C: Assume the client must be wrong
-D: Ignore the information to protect the theory
+C: Treat the new information as a separate issue without revisiting the maintaining hypotheses
+D: Change techniques immediately without examining which part of the hypothesis was contradicted
 ANSWER: B
 EXPLANATION: A formulation is a collaborative working account linking difficulties, context and maintaining processes. It is a hypothesis to refine, not a fixed judgement about someone’s character.
 EXAMPLE: Map a trigger, interpretation, emotion, action and short-term consequence, then ask which links are supported by the person’s experience.
@@ -733,9 +733,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-062
 TITLE: The short-term relief loop
 QUESTION: Why examine consequences immediately after a behaviour?
-A: Consequences never affect behaviour
-B: Immediate relief proves the behaviour is beneficial overall
-C: Only long-term consequences can ever influence learning
+A: They establish the behaviour's historical origin rather than its present function
+B: They show whether a behaviour is socially acceptable independently of its effects
+C: They determine whether a thought is objectively true rather than why an action repeats
 D: They may help explain why the behaviour continues
 ANSWER: D
 EXPLANATION: Avoidance can be maintained when immediate relief negatively reinforces it. Long-term costs and the behaviour’s function matter more than whether it looks passive or active.
@@ -745,10 +745,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-063
 TITLE: A safety strategy under the microscope
 QUESTION: Why might a safety behaviour maintain anxiety in some cases?
-A: It necessarily causes every anxiety disorder
+A: The strategy strengthens confidence by reducing anxiety, which establishes that the feared prediction is false
 B: Success may be attributed to the strategy rather than testing the feared belief
-C: It permanently eliminates all uncertainty
-D: It always produces objective danger
+C: The strategy removes the need to compare predicted and observed outcomes
+D: The strategy is protective because it is performed frequently, irrespective of what the person attributes success to
 ANSWER: B
 EXPLANATION: Safety behaviours are actions used to prevent a feared outcome or reduce perceived threat. Their effects depend on function and context; some can interfere with testing feared predictions.
 EXAMPLE: A person may attribute a successful conversation entirely to rehearsing every sentence, leaving the belief that spontaneity is dangerous untested.
@@ -757,9 +757,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-064
 TITLE: A hierarchy with a purpose
 QUESTION: A planned task is too difficult to attempt. What response best fits collaboration?
-A: Abandon every future behavioural task
-B: Treat distress as proof of unwillingness
-C: Force completion regardless of consent
+A: Keep the task unchanged so reducing its difficulty cannot reinforce avoidance
+B: Replace the task with reassurance while preserving the original learning prediction
+C: Change the hierarchy according to anxiety ratings alone without reviewing the feared outcome
 D: Review the learning goal and adjust the step
 ANSWER: D
 EXPLANATION: A graded exposure hierarchy organises sufficiently safe tasks by difficulty and learning goals. It is negotiated and adaptable rather than a compulsory ladder that must be completed perfectly.
@@ -769,10 +769,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-065
 TITLE: The thought record
 QUESTION: What is the purpose of identifying alternative interpretations?
-A: To avoid all emotional discussion
+A: To identify the interpretation producing the lowest anxiety as the correct one
 B: To examine plausible explanations alongside the initial interpretation
-C: To erase the situation from memory
-D: To insist that the happiest explanation is always true
+C: To replace an unpleasant prediction before collecting information about it
+D: To choose the therapist's preferred explanation for subsequent practice
 ANSWER: B
 EXPLANATION: A thought record distinguishes a situation from interpretations, emotions and actions. It supports balanced appraisal rather than insisting that a positive replacement thought must be believed.
 EXAMPLE: Situation: a delayed reply. Interpretation: I have offended them. Alternative: several explanations remain possible.
@@ -781,10 +781,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-066
 TITLE: A belief beneath the moment
 QUESTION: Which statement most resembles a global core belief?
-A: This bus is ten minutes late
-B: The appointment is at three
+A: If I disagree, people will stop liking me
+B: They will not enjoy the conversation tomorrow
 C: I am fundamentally unlovable
-D: I have two messages to answer
+D: I was not invited to yesterday's event
 ANSWER: C
 EXPLANATION: CBT distinguishes automatic thoughts, conditional assumptions and broader core beliefs. These levels inform a formulation but should not be inferred as rigid truths from one remark.
 EXAMPLE: Automatic thought: I will mess up. Assumption: If I make a mistake, people will reject me. Core belief: I am inadequate.
@@ -793,9 +793,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-067
 TITLE: After the first setback
 QUESTION: Which interpretation of a setback is most workable?
-A: It means no future change is possible
-B: It proves every previous improvement was imaginary
-C: It should never be discussed
+A: It shows the person has returned to the pretreatment state
+B: It indicates the treatment model should be changed before reviewing context
+C: It is best managed by repeating every original task in the original order
 D: It can provide information about triggers and which skills need support
 ANSWER: D
 EXPLANATION: Relapse prevention identifies warning signs, helpful skills and a plan for setbacks. A recurrence of difficulty does not erase earlier learning or necessarily mean treatment failed.
@@ -805,10 +805,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-068
 TITLE: Following a chain
 QUESTION: What is a vulnerability factor in this analysis?
-A: A moral weakness established by diagnosis
+A: The specific event immediately preceding the target behaviour
 B: A background condition such as sleep loss that increases susceptibility
-C: The same thing as the final consequence
-D: A synonym for the therapist’s opinion
+C: The first observable consequence after the action
+D: The long-term goal used to judge the action's effectiveness
 ANSWER: B
 EXPLANATION: DBT chain analysis examines vulnerabilities, prompting events, links, target behaviour and consequences. Missing links are explored to identify possible places for change.
 EXAMPLE: A chain may include poor sleep, an argument, an interpretation, a bodily reaction, an urge and an action.
@@ -817,9 +817,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-069
 TITLE: Validation without agreement
 QUESTION: What is a common mistake about validation?
-A: Acknowledging understandable distress
-B: Listening carefully to a person’s account
-C: Linking emotion to context
+A: Linking the emotion to the context in which it arose
+B: Recognising a person's experience without agreeing with its interpretation
+C: Acknowledging that an understandable response can still be ineffective
 D: Assuming it requires agreement with every belief or behaviour
 ANSWER: D
 EXPLANATION: Validation communicates that an experience is understandable in its context. It does not require agreeing with every interpretation or endorsing every resulting action.
@@ -830,9 +830,9 @@ ID: psychotherapy-070
 TITLE: Riding out a difficult moment
 QUESTION: Which is a key distinction?
 A: Crisis-survival skills and long-term problem solving serve different purposes
-B: Any distraction is always the best long-term strategy
-C: A calming action automatically solves the source of distress
-D: Emotional intensity proves a decision is correct
+B: Crisis-survival skills primarily resolve the maintaining interpersonal pattern
+C: Long-term problem solving works mainly by suppressing acute emotion
+D: Both are defined by reducing arousal before any other outcome is considered
 ANSWER: A
 EXPLANATION: DBT distress-tolerance skills aim to help a person get through acute distress without making the situation worse. They are not a complete solution to the underlying long-term problem.
 EXAMPLE: A short pause before acting can be useful even though the original disagreement still needs to be addressed later.
@@ -842,9 +842,9 @@ ID: psychotherapy-071
 TITLE: An emotion and its message
 QUESTION: Why identify sleep, illness and substance effects in emotion-regulation work?
 A: Physical conditions can influence emotional vulnerability
-B: These factors explain every emotion by themselves
-C: Context has no effect on emotion
-D: Only verbal thoughts influence feelings
+B: They matter primarily because they change the factual accuracy of the person's beliefs
+C: They identify which emotion the person ought to experience
+D: They substitute for examining interpretations and consequences when vulnerability is high
 ANSWER: A
 EXPLANATION: Emotion-regulation work involves recognising emotions, their functions and the circumstances influencing them. Emotions supply information without serving as infallible instructions.
 EXAMPLE: Fear can signal a possible threat, but the level of danger still needs to be evaluated.
@@ -853,10 +853,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-072
 TITLE: A clear request
 QUESTION: Which request is more behaviourally specific?
-A: You never care about anything
+A: Could you be more considerate about the rota?
 B: Could we agree a time to discuss the rota tomorrow?
-C: Everything needs to change somehow
-D: You must become a better person
+C: Why do you never think about the rota the way I do?
+D: Could you stop making the rota so difficult for everyone?
 ANSWER: B
 EXPLANATION: DBT interpersonal-effectiveness work balances objectives, relationships and self-respect. It examines how to ask, decline and negotiate in context rather than always prioritising pleasing others.
 EXAMPLE: A clear request can name the situation, state what is wanted and leave room for a reply or negotiation.
@@ -865,10 +865,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-073
 TITLE: Mindfulness as a skill
 QUESTION: Attention wanders during a brief exercise. What response fits the skill?
-A: Judge the thought as a moral failure
-B: Force the mind to contain no sensations
+A: Analyse why each distraction arose before returning to the exercise
+B: Extend the practice until attention remains uninterrupted
 C: Notice the wandering and return gently
-D: Conclude that mindfulness is impossible
+D: Replace each distracting thought with a calming phrase before proceeding
 ANSWER: C
 EXPLANATION: Mindfulness involves attending to present experience with an observing, nonjudgemental stance. It is not a requirement to empty the mind or feel relaxed on demand.
 EXAMPLE: Noticing that attention wandered and gently returning is part of practice rather than evidence that practice failed.
@@ -877,10 +877,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-074
 TITLE: Choosing a valued direction
 QUESTION: What is committed action in ACT?
-A: Following every intrusive thought literally
+A: Completing a valued task only after the relevant thought has been disproved
 B: Taking flexible, practical steps in a valued direction
-C: Waiting until all discomfort disappears
-D: Proving that every outcome can be controlled
+C: Selecting the activity that currently produces the least discomfort
+D: Using symptom reduction as the main criterion for choosing each next action
 ANSWER: B
 EXPLANATION: ACT uses values to guide ongoing action, while committed action translates that direction into workable steps. Values are chosen directions rather than a competition for the most admirable label.
 EXAMPLE: A value of being a caring friend might guide one small action, such as checking in with someone.
@@ -890,9 +890,9 @@ ID: psychotherapy-075
 TITLE: Making room without surrendering
 QUESTION: Which example illustrates willingness?
 A: Noticing nervousness while making a meaningful, manageable request
-B: Avoiding every activity that evokes discomfort
-C: Pretending a feeling never occurred
-D: Demanding that every feeling disappear first
+B: Postponing the request until nervousness is substantially reduced
+C: Distracting from nervousness so the feeling is not experienced during the request
+D: Repeating reassuring predictions until uncertainty feels tolerable
 ANSWER: A
 EXPLANATION: Acceptance in ACT concerns willingness to experience internal events when doing so supports meaningful action. It is distinct from approving of external harm or abandoning problem solving.
 EXAMPLE: A person can allow anxious sensations while also taking practical steps to change an unfair situation.
@@ -901,10 +901,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-076
 TITLE: An observing perspective
 QUESTION: What distinction does self-as-context highlight?
-A: A dream versus an IQ score
-B: The therapist’s thoughts versus objective truth
+A: A positive self-description versus a negative self-description
+B: The most accurate thought versus a distorted interpretation
 C: The perspective noticing an experience versus the changing experience itself
-D: The left eye versus the right eye
+D: A person's preferred future identity versus their current performance
 ANSWER: C
 EXPLANATION: Self-as-context in ACT concerns a perspective from which experiences are noticed, rather than identifying entirely with their content. It is not a claim that a person has no stable history or responsibilities.
 EXAMPLE: I notice sadness is different from defining the whole self as nothing but sadness.
@@ -913,10 +913,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-077
 TITLE: Listening for change talk
 QUESTION: Which response supports autonomy?
-A: Your reasons do not matter
-B: You must choose my preferred option
+A: Once we identify the best option, I will ask you to follow that recommendation
+B: Your choices are open, but my role is to persuade you towards the healthiest one
 C: The decision is yours; would it help to explore your options?
-D: Agreement is the only acceptable answer
+D: We can leave the decision until you are certain you will not feel ambivalent
 ANSWER: C
 EXPLANATION: Motivational interviewing distinguishes statements supporting change from those supporting the current pattern, while respecting autonomy. Reflective listening aims to understand rather than covertly persuade.
 EXAMPLE: I want more energy to play with my child expresses a personally meaningful reason for change.
@@ -925,10 +925,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-078
 TITLE: A reflection instead of advice
 QUESTION: Why use a summary in motivational interviewing?
-A: Guarantee the person will agree
-B: Replace the person’s view with the therapist’s argument
+A: Select the most change-oriented statements and omit reasons for maintaining the current pattern
+B: Rephrase the person's account as a recommendation for the therapist's preferred goal
 C: Gather the person’s meanings and check whether they have been understood
-D: Avoid mentioning ambivalence
+D: Determine which side of the ambivalence is factually correct
 ANSWER: C
 EXPLANATION: Reflective listening checks and develops understanding of the person’s meaning. A reflection is not simply repeating words mechanically or immediately offering a solution.
 EXAMPLE: It sounds as though you want the benefit of change but fear losing something important reflects ambivalence.
@@ -937,9 +937,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-079
 TITLE: The relationship as information
 QUESTION: How should an interpretation generally be treated?
-A: As an unquestionable truth
-B: As proof of the client’s motives
-C: As a replacement for listening
+A: As the main explanation until the client supplies evidence that disproves it
+B: As a means of resolving uncertainty without further exploration
+C: As a description of unconscious motives that the therapist can verify from agreement alone
 D: As a tentative account to examine together
 ANSWER: D
 EXPLANATION: Psychodynamic work can examine recurring relationship patterns, including those arising in therapy. Interpretations are hypotheses to explore and should remain sensitive to the person’s experience.
@@ -949,10 +949,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-080
 TITLE: Noticing a therapist’s reaction
 QUESTION: Why can supervision be valuable?
-A: It replaces the client’s consent
+A: It establishes which of the therapist's feelings directly reveals the client's motives
 B: It helps examine blind spots and alternative formulations
-C: It removes all professional boundaries
-D: It guarantees that every interpretation is correct
+C: It selects a technique without needing to examine relational context
+D: It confirms the preferred formulation before gathering alternative accounts
 ANSWER: B
 EXPLANATION: Countertransference awareness involves reflecting on the therapist’s responses and their possible sources. Supervision helps separate personal reactions, relational processes and the client’s needs.
 EXAMPLE: An unusually strong urge to rescue someone may be a useful topic for supervision rather than an automatic instruction to act.
@@ -961,10 +961,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-081
 TITLE: Defences in context
 QUESTION: Which statement about defences is most balanced?
-A: Every defence is always harmful
+A: A defence is adaptive when it reduces distress immediately, regardless of later costs
 B: A process can be protective in one setting and limiting in another
-C: One behaviour proves a lifelong personality pattern
-D: Every defence is deliberate dishonesty
+C: A defence is maladaptive whenever it operates outside awareness
+D: A defence's function remains constant across different relationships and circumstances
 ANSWER: B
 EXPLANATION: Defence concepts describe ways of managing internal conflict or distress, often outside awareness. Their usefulness and cost depend on context; identifying one is not a moral judgement.
 EXAMPLE: Humour may help a person approach a painful issue, while at other times joking may prevent any engagement with it.
@@ -973,10 +973,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-082
 TITLE: Person-centred understanding
 QUESTION: What does congruence broadly refer to?
-A: Agreeing with every statement
+A: Complete emotional disclosure whenever a therapist has a reaction
 B: Genuineness within the therapeutic relationship
-C: Using the same technique with every person
-D: Avoiding all discussion of feelings
+C: Consistent agreement between the therapist's advice and the client's choices
+D: Using personal authenticity to replace professional role boundaries
 ANSWER: B
 EXPLANATION: Person-centred therapy emphasises empathic understanding, congruence and unconditional positive regard. Respect for the person is distinct from approving every behaviour or abandoning professional boundaries.
 EXAMPLE: An empathic response checks the person’s lived meaning instead of assuming the therapist would feel exactly the same.
@@ -986,9 +986,9 @@ ID: psychotherapy-083
 TITLE: Working with a role change
 QUESTION: Which question best explores an interpersonal role transition?
 A: What has changed in your relationships and expectations since the move?
-B: Why must every current role stay unchanged?
-C: Can we ignore your support network?
-D: Which colour describes your brain?
+B: Which belief about your competence can we test in the next session?
+C: What earlier relationship is being repeated in your feelings towards me?
+D: Which feared prediction should we expose you to during the move?
 ANSWER: A
 EXPLANATION: Interpersonal psychotherapy can focus on transitions in roles and relationships. It links symptoms to interpersonal context and supports practical adaptation, rather than assuming every difficulty is an isolated thought error.
 EXAMPLE: Retirement may involve changes in identity, routine, status and social contact as well as practical scheduling.
@@ -998,9 +998,9 @@ ID: psychotherapy-084
 TITLE: A disagreement that returns
 QUESTION: What is useful to clarify in a recurring dispute?
 A: Each person’s expectations and patterns of communication
-B: Which dream symbol must explain everything
-C: Which person is universally bad
-D: Whether all disagreement can be abolished
+B: Which party's account best establishes the other's enduring personality pattern
+C: Which automatic thought should be changed before discussing expectations
+D: Which childhood event explains the disagreement independently of current communication
 ANSWER: A
 EXPLANATION: IPT role disputes concern significant interpersonal disagreements, often involving differing expectations. Clarifying communication and relationship expectations can guide the work.
 EXAMPLE: Two people may agree about an event but disagree about what each person was expected to do.
@@ -1010,9 +1010,9 @@ ID: psychotherapy-085
 TITLE: Relationships in a system
 QUESTION: Which question is more systemic?
 A: When one person withdraws, what tends to happen next between you?
-B: Can we ignore the response of everyone else?
-C: Which individual must be blamed for everything?
-D: What single gene explains every argument?
+B: What belief caused your partner to withdraw before you responded?
+C: Which person's behaviour should be treated as the independent origin of the cycle?
+D: How can one member change while the others' responses are held irrelevant?
 ANSWER: A
 EXPLANATION: Systemic approaches examine interaction patterns, context and feedback loops. Circular accounts explore mutual influences without implying that responsibility or power is always equal.
 EXAMPLE: One person’s withdrawal and another’s escalating pursuit may reinforce each other, while still requiring attention to safety and unequal power.
@@ -1021,10 +1021,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-086
 TITLE: An exception to the problem
 QUESTION: Which question fits a scaling conversation?
-A: What score proves you are a good person?
-B: Which number guarantees recovery?
+A: How many symptoms must disappear before you count the week as successful?
+B: What numerical score would show that your interpretation is correct?
 C: On a scale from zero to ten, where are you now and what would one small step look like?
-D: Why must everyone choose ten?
+D: Which rating corresponds to the diagnosis we should assign today?
 ANSWER: C
 EXPLANATION: Solution-focused work explores goals, exceptions, strengths and small changes. It does not require denying real suffering or pretending resources are unlimited.
 EXAMPLE: A time when the problem was less intense may reveal useful actions, supports or circumstances.
@@ -1033,10 +1033,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-087
 TITLE: Stories and distance
 QUESTION: Which question explores an alternative story?
-A: Which single label explains your whole life?
-B: Why are you nothing except your diagnosis?
+A: What evidence disproves your thought about the problem?
+B: Which early experience originally caused your problem identity?
 C: When have your actions shown something beyond the problem’s description?
-D: Can we ignore every exception?
+D: How could we replace the problem story with a more positive description chosen in advance?
 ANSWER: C
 EXPLANATION: Narrative approaches can separate a person from a problem-saturated description and explore alternative stories. Externalising language should fit the person rather than become a formula imposed on them.
 EXAMPLE: Anxiety has been pushing you away from music creates a different conversation from defining the whole person as an anxious failure.
@@ -1045,10 +1045,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-088
 TITLE: Evidence and its limits
 QUESTION: Why monitor progress during a therapy course?
-A: To replace all discussion with scores
-B: To prove every treatment works equally for everyone
+A: To document improvement after the full protocol before considering any adjustment
+B: To confirm the preferred model by comparing the person with its typical success story
 C: To assess whether the current approach is useful and needs adjustment
-D: To avoid asking about adverse effects
+D: To use questionnaire scores instead of discussing function, fit and possible adverse effects
 ANSWER: C
 EXPLANATION: Evidence-based practice integrates research, clinical expertise and the person’s characteristics, culture and preferences. Evidence supports decisions without guaranteeing a particular individual’s outcome.
 EXAMPLE: A treatment shown helpful on average still needs adaptation, monitoring and shared decisions.
@@ -1058,9 +1058,9 @@ ID: psychotherapy-089
 TITLE: Goals that can be reviewed
 QUESTION: Why ask what a goal would make possible?
 A: To connect the target with personal meaning and priorities
-B: To avoid concrete behaviour
-C: To ensure the therapist’s values replace the person’s
-D: To guarantee every outcome
+B: To select goals principally by their ease of measurement
+C: To identify the therapist's preferred reason for pursuing the target
+D: To replace broad values with a list of completed outcomes
 ANSWER: A
 EXPLANATION: Collaborative goals translate broad hopes into observable, meaningful targets. Goals can be revised when circumstances, preferences or understanding change.
 EXAMPLE: Feel better can become rejoin one valued activity each week while still discussing the person’s wider hopes.
@@ -1069,10 +1069,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-090
 TITLE: Repairing a difficult moment
 QUESTION: Which response supports repair?
-A: Insist that disagreement proves pathology
+A: Continue the agreed task to avoid reinforcing withdrawal before inviting feedback
 B: Invite the person’s view of what felt unhelpful and reconsider the work together
-C: Require agreement before listening
-D: Ignore the shift in participation
+C: Explain why the formulation remains correct before discussing the experience of the session
+D: Attribute the disagreement to transference before considering whether the task was a poor fit
 ANSWER: B
 EXPLANATION: An alliance rupture is a strain in collaboration or connection. Noticing it, inviting feedback and discussing goals or misunderstandings can support repair.
 EXAMPLE: A person who quietly stops contributing may be expressing a strain just as much as someone who openly disagrees.
@@ -1081,9 +1081,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-091
 TITLE: A formulation you can revise
 QUESTION: Which distinction best separates a diagnosis from an individual case formulation?
-A: A formulation is identical for everyone with a diagnosis
-B: Formulation never considers strengths
-C: A diagnosis alone specifies every maintaining factor
+A: A diagnosis explains the individual maintaining cycle; a formulation supplies the category
+B: A formulation is the standard protocol linked to the diagnosis
+C: A diagnosis and formulation differ mainly in how long their descriptions are
 D: A diagnosis names a category; a formulation explains an individual’s patterns and context
 ANSWER: D
 EXPLANATION: A formulation is a collaborative working account linking difficulties, context and maintaining processes. It is a hypothesis to refine, not a fixed judgement about someone’s character.
@@ -1093,10 +1093,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-092
 TITLE: The short-term relief loop
 QUESTION: What question best examines function?
-A: Is the action labelled good or bad by everyone?
-B: Can we ignore the setting where it occurs?
+A: How accurate is the interpretation that occurred just before the action?
+B: Which diagnostic label is most closely associated with the action?
 C: What does this action help you escape or obtain in that moment?
-D: Which dream symbol does it resemble?
+D: Which early relationship best explains the action's symbolic meaning?
 ANSWER: C
 EXPLANATION: Avoidance can be maintained when immediate relief negatively reinforces it. Long-term costs and the behaviour’s function matter more than whether it looks passive or active.
 EXAMPLE: Cancelling a feared conversation may reduce anxiety immediately while preserving the expectation that the conversation cannot be managed.
@@ -1105,10 +1105,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-093
 TITLE: A safety strategy under the microscope
 QUESTION: What should guide deciding whether to change a safety strategy?
-A: A rule that every precaution is pathological
+A: Whether the behaviour lowers anxiety during the session
 B: Its function, actual risks and a collaborative formulation
-C: Whether the therapist dislikes the behaviour
-D: A preference for the most frightening exercise
+C: Whether the behaviour appears on a standard list of safety behaviours
+D: Whether the therapist would personally use the same strategy
 ANSWER: B
 EXPLANATION: Safety behaviours are actions used to prevent a feared outcome or reduce perceived threat. Their effects depend on function and context; some can interfere with testing feared predictions.
 EXAMPLE: A person may attribute a successful conversation entirely to rehearsing every sentence, leaving the belief that spontaneity is dangerous untested.
@@ -1117,10 +1117,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-094
 TITLE: A hierarchy with a purpose
 QUESTION: Which outcome can count as useful exposure learning?
-A: Being promised that nothing unpleasant can ever happen
+A: Completing the task without considering the prediction it was intended to test
 B: Discovering that a feared prediction was inaccurate despite residual anxiety
-C: Completing a task without noticing any prediction
-D: Feeling no bodily sensation whatsoever in every trial
+C: Achieving a large anxiety reduction while attributing safety entirely to a protective strategy
+D: Receiving reassurance that a feared outcome is impossible
 ANSWER: B
 EXPLANATION: A graded exposure hierarchy organises sufficiently safe tasks by difficulty and learning goals. It is negotiated and adaptable rather than a compulsory ladder that must be completed perfectly.
 EXAMPLE: Learning that a feared prediction does not always occur may matter even when some anxiety remains.
@@ -1129,10 +1129,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-095
 TITLE: The thought record
 QUESTION: Which replacement thought is most balanced?
-A: My first interpretation must be correct
-B: Everyone always likes everything I do
+A: They are probably busy, so there is no need to consider any other explanation
+B: A delayed reply is strong evidence that something is wrong between us
 C: I do not know why there is no reply yet; several explanations are possible
-D: I can guarantee no rejection will ever happen
+D: A good relationship would normally produce an immediate reply
 ANSWER: C
 EXPLANATION: A thought record distinguishes a situation from interpretations, emotions and actions. It supports balanced appraisal rather than insisting that a positive replacement thought must be believed.
 EXAMPLE: Situation: a delayed reply. Interpretation: I have offended them. Alternative: several explanations remain possible.
@@ -1141,10 +1141,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-096
 TITLE: A belief beneath the moment
 QUESTION: What is the best use of these distinctions?
-A: Assign a hidden belief with certainty after one sentence
+A: Identify the deepest belief once and use it as the explanation for later events
 B: Explore how levels of meaning connect in a collaborative formulation
-C: Replace all behaviour analysis with labels
-D: Ignore the person’s own interpretation
+C: Treat every conditional rule as a core belief without examining its wording
+D: Prioritise a belief's level in the model over evidence that it maintains the current problem
 ANSWER: B
 EXPLANATION: CBT distinguishes automatic thoughts, conditional assumptions and broader core beliefs. These levels inform a formulation but should not be inferred as rigid truths from one remark.
 EXAMPLE: Automatic thought: I will mess up. Assumption: If I make a mistake, people will reject me. Core belief: I am inadequate.
@@ -1154,9 +1154,9 @@ ID: psychotherapy-097
 TITLE: After the first setback
 QUESTION: Why rehearse coping skills before a difficult period?
 A: Accessing a familiar plan may be easier under stress
-B: Plans replace every need for flexibility
-C: Practice is useful only after a crisis
-D: Rehearsal guarantees a person will feel no emotion
+B: Rehearsing a strategy ensures the same response will fit every future context
+C: Familiar plans remove the need to notice early warning signs
+D: Planning mainly improves the accuracy of the original thought record
 ANSWER: A
 EXPLANATION: Relapse prevention identifies warning signs, helpful skills and a plan for setbacks. A recurrence of difficulty does not erase earlier learning or necessarily mean treatment failed.
 EXAMPLE: A plan might specify an early sign, one small action and when to seek further support.
@@ -1165,10 +1165,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-098
 TITLE: Following a chain
 QUESTION: Why identify several links rather than only the final action?
-A: Only the last action can ever be influenced
+A: The earliest link is necessarily the sole useful intervention point
 B: Different links offer different opportunities for skill use and change
-C: A long description proves treatment success
-D: The preceding context is always irrelevant
+C: Consequences are the main target, so preceding links add little practical information
+D: The final action determines the diagnosis independently of earlier vulnerabilities
 ANSWER: B
 EXPLANATION: DBT chain analysis examines vulnerabilities, prompting events, links, target behaviour and consequences. Missing links are explored to identify possible places for change.
 EXAMPLE: A chain may include poor sleep, an argument, an interpretation, a bodily reaction, an urge and an action.
@@ -1177,10 +1177,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-099
 TITLE: Validation without agreement
 QUESTION: Why combine validation with change work?
-A: Change requires dismissing all feelings
-B: Acceptance and change can never coexist
+A: Validation makes change work less necessary because the reaction is understandable
+B: Change work should precede validation to avoid reinforcing the emotion
 C: Understanding current experience can coexist with practising different responses
-D: Validation removes every need for accountability
+D: Validation is used after effective behaviour rather than during distress
 ANSWER: C
 EXPLANATION: Validation communicates that an experience is understandable in its context. It does not require agreeing with every interpretation or endorsing every resulting action.
 EXAMPLE: I can understand why you felt dismissed can be followed by exploring a more effective response.
@@ -1189,9 +1189,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-100
 TITLE: Riding out a difficult moment
 QUESTION: Why review consequences after the immediate crisis has eased?
-A: A crisis removes the need for reflection
-B: A calmer state guarantees no problem remains
-C: The original context can never be discussed again
+A: Short-term relief establishes that the underlying pattern is resolved
+B: A crisis-survival response should become the default strategy for every later situation
+C: Long-term planning is unnecessary when the immediate urge has passed
 D: Longer-term changes may still be needed
 ANSWER: D
 EXPLANATION: DBT distress-tolerance skills aim to help a person get through acute distress without making the situation worse. They are not a complete solution to the underlying long-term problem.
@@ -1201,10 +1201,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-101
 TITLE: An emotion and its message
 QUESTION: What does checking the facts seek to do?
-A: Invalidate every feeling
+A: Use the intensity of an emotion to identify the most likely interpretation
 B: Compare an emotional interpretation with available evidence
-C: Stop all emotional experience
-D: Prove the therapist’s opinion must be right
+C: Find an alternative thought that produces less emotion regardless of accuracy
+D: Replace the emotion before considering the evidence about the situation
 ANSWER: B
 EXPLANATION: Emotion-regulation work involves recognising emotions, their functions and the circumstances influencing them. Emotions supply information without serving as infallible instructions.
 EXAMPLE: Fear can signal a possible threat, but the level of danger still needs to be evaluated.
@@ -1214,9 +1214,9 @@ ID: psychotherapy-102
 TITLE: A clear request
 QUESTION: Which statement about assertiveness is most accurate?
 A: A respectful request can still receive a refusal
-B: Assertiveness guarantees agreement
-C: Assertiveness requires humiliating the other person
-D: Assertiveness means never compromising
+B: A skilfully worded request should reliably obtain agreement
+C: A refusal indicates the request was not sufficiently assertive
+D: Preserving self-respect means avoiding compromise during negotiation
 ANSWER: A
 EXPLANATION: DBT interpersonal-effectiveness work balances objectives, relationships and self-respect. It examines how to ask, decline and negotiate in context rather than always prioritising pleasing others.
 EXAMPLE: A clear request can name the situation, state what is wanted and leave room for a reply or negotiation.
@@ -1225,9 +1225,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-103
 TITLE: Mindfulness as a skill
 QUESTION: Which distinction is correct?
-A: Mindfulness requires abandoning meaningful action
-B: Mindfulness always produces relaxation immediately
-C: Mindfulness means agreeing with every thought
+A: Mindfulness is successful when attention produces a reliably calm state
+B: Relaxation is required before a person can observe difficult thoughts mindfully
+C: Nonjudgemental observation is a technique for establishing that a thought is inaccurate
 D: Mindfulness and relaxation can overlap but are not identical goals
 ANSWER: D
 EXPLANATION: Mindfulness involves attending to present experience with an observing, nonjudgemental stance. It is not a requirement to empty the mind or feel relaxed on demand.
@@ -1237,9 +1237,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-104
 TITLE: Choosing a valued direction
 QUESTION: Which small action best serves a stated value of learning music?
-A: Compare yourself harshly with every expert
-B: Wait indefinitely for perfect motivation
-C: Decide that only a flawless performance counts
+A: Wait until motivation is high enough for a full practice session
+B: Read about how other learners practise without making an agreed action plan
+C: Set a goal of feeling musical confidence before practising the rhythm
 D: Practise one rhythm for two minutes today
 ANSWER: D
 EXPLANATION: ACT uses values to guide ongoing action, while committed action translates that direction into workable steps. Values are chosen directions rather than a competition for the most admirable label.
@@ -1249,9 +1249,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-105
 TITLE: Making room without surrendering
 QUESTION: Why assess whether a control strategy is workable?
-A: Action has no relationship to values
-B: Every unpleasant thought must be acted on
-C: All control strategies are always harmful
+A: The workability of a strategy is established by immediate symptom reduction
+B: Eliminating discomfort is the normal first requirement of valued action
+C: A thought's unpleasantness determines whether it should control behaviour
 D: Efforts to eliminate internal experiences can sometimes narrow valued action
 ANSWER: D
 EXPLANATION: Acceptance in ACT concerns willingness to experience internal events when doing so supports meaningful action. It is distinct from approving of external harm or abandoning problem solving.
@@ -1261,9 +1261,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-106
 TITLE: An observing perspective
 QUESTION: Which interpretation should be avoided?
-A: Allowing several experiences to be present
-B: Recognising that feelings can change
-C: Noticing thoughts without obeying them
+A: Recognising that the contents of experience can change over time
+B: Noticing a self-critical thought without treating it as a complete identity
+C: Distinguishing a perspective on experience from a particular experience
 D: Assuming an observing perspective means experiences are unreal or unimportant
 ANSWER: D
 EXPLANATION: Self-as-context in ACT concerns a perspective from which experiences are noticed, rather than identifying entirely with their content. It is not a claim that a person has no stable history or responsibilities.
@@ -1273,10 +1273,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-107
 TITLE: Listening for change talk
 QUESTION: What is sustain talk?
-A: A sign that listening should stop
+A: Speech expressing a personally meaningful reason for change
 B: Speech expressing reasons to maintain the current pattern
-C: A synonym for deception
-D: Proof that the person is incapable of change
+C: Speech expressing confidence in a possible change
+D: Speech expressing a specific commitment to a new action
 ANSWER: B
 EXPLANATION: Motivational interviewing distinguishes statements supporting change from those supporting the current pattern, while respecting autonomy. Reflective listening aims to understand rather than covertly persuade.
 EXAMPLE: I want more energy to play with my child expresses a personally meaningful reason for change.
@@ -1286,9 +1286,9 @@ ID: psychotherapy-108
 TITLE: A reflection instead of advice
 QUESTION: What distinguishes a useful affirmation from empty praise?
 A: It recognises a specific strength, effort or value
-B: It requires agreement with the therapist
-C: It labels the person superior to everyone else
-D: It promises an outcome that cannot be known
+B: It evaluates how well the person's action meets the therapist's preferred standard
+C: It works primarily by assuring the person that change will succeed
+D: It confirms the person's preferred account without examining their effort or values
 ANSWER: A
 EXPLANATION: Reflective listening checks and develops understanding of the person’s meaning. A reflection is not simply repeating words mechanically or immediately offering a solution.
 EXAMPLE: It sounds as though you want the benefit of change but fear losing something important reflects ambivalence.
@@ -1297,10 +1297,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-109
 TITLE: The relationship as information
 QUESTION: Which distinction matters when exploring transference?
-A: The current relationship has no real features
-B: Past experience determines every future interaction without variation
+A: An expectation in therapy is best understood entirely through the client's earlier relationships
+B: A current relational observation is accurate only if it matches the therapist's intended behaviour
 C: An expectation can be shaped by earlier relationships without fully describing the current therapist
-D: Everything the client notices is necessarily imagined
+D: A transference account makes current misunderstandings unnecessary to investigate
 ANSWER: C
 EXPLANATION: Psychodynamic work can examine recurring relationship patterns, including those arising in therapy. Interpretations are hypotheses to explore and should remain sensitive to the person’s experience.
 EXAMPLE: A recurring expectation of criticism may be explored across current and earlier relationships without assuming every interaction has the same meaning.
@@ -1309,10 +1309,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-110
 TITLE: Noticing a therapist’s reaction
 QUESTION: Which distinction is important?
-A: Reflection is unnecessary when a reaction feels convincing
+A: A strong reaction indicates that the therapist has identified the central unconscious pattern
 B: A therapist’s feeling is information to consider, not proof about the client
-C: Every therapist reaction is caused only by the client
-D: A strong feeling justifies any intervention
+C: A therapist's reaction is more reliable than the client's account when their interpretations differ
+D: The most effective response is the one that immediately reduces the therapist's discomfort
 ANSWER: B
 EXPLANATION: Countertransference awareness involves reflecting on the therapist’s responses and their possible sources. Supervision helps separate personal reactions, relational processes and the client’s needs.
 EXAMPLE: An unusually strong urge to rescue someone may be a useful topic for supervision rather than an automatic instruction to act.
@@ -1322,9 +1322,9 @@ ID: psychotherapy-111
 TITLE: Defences in context
 QUESTION: What is important before applying a defence label?
 A: Consider context, alternative explanations and the person’s experience
-B: Treat disagreement as proof of the label
-C: Assume the first label is certain
-D: Ignore how the behaviour functions
+B: Apply the theoretical label that best matches the outward appearance of the behaviour
+C: Use the person's disagreement as further evidence for the inferred mechanism
+D: Assume that the same defence has the same effect in every context
 ANSWER: A
 EXPLANATION: Defence concepts describe ways of managing internal conflict or distress, often outside awareness. Their usefulness and cost depend on context; identifying one is not a moral judgement.
 EXAMPLE: Humour may help a person approach a painful issue, while at other times joking may prevent any engagement with it.
@@ -1333,10 +1333,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-112
 TITLE: Person-centred understanding
 QUESTION: Which distinction fits unconditional positive regard?
-A: Every action must be praised
-B: The therapist must become a personal friend
+A: Positive regard involves endorsing the person's preferred explanation of events
+B: Positive regard is offered after the person makes a constructive behavioural choice
 C: Respecting the person’s worth does not require endorsing every action
-D: Professional boundaries should disappear
+D: Respect for the person requires minimising disagreement about consequences
 ANSWER: C
 EXPLANATION: Person-centred therapy emphasises empathic understanding, congruence and unconditional positive regard. Respect for the person is distinct from approving every behaviour or abandoning professional boundaries.
 EXAMPLE: An empathic response checks the person’s lived meaning instead of assuming the therapist would feel exactly the same.
@@ -1345,9 +1345,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-113
 TITLE: Working with a role change
 QUESTION: Which task may fit the formulation?
-A: Assume any distress means a permanent personality defect
-B: Insist only biological factors can matter
-C: Avoid discussing relationships
+A: Identify a feared prediction and make exposure the main task regardless of the role change
+B: Interpret the loss chiefly through the relationship with the therapist
+C: Replace the person's old role with a target selected without discussing what was lost
 D: Identify losses, new demands and sources of interpersonal support
 ANSWER: D
 EXPLANATION: Interpersonal psychotherapy can focus on transitions in roles and relationships. It links symptoms to interpersonal context and supports practical adaptation, rather than assuming every difficulty is an isolated thought error.
@@ -1357,9 +1357,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-114
 TITLE: A disagreement that returns
 QUESTION: Why distinguish a negotiable dispute from an ending relationship?
-A: All disputes require the identical intervention
-B: The distinction has no bearing on goals
-C: A therapist should decide the outcome alone
+A: A role dispute and a role transition require the same interpersonal task because both involve change
+B: Deciding whether the relationship should continue is principally the therapist's task
+C: Classifying the disagreement removes the need to discuss different expectations
 D: The practical tasks and choices may differ
 ANSWER: D
 EXPLANATION: IPT role disputes concern significant interpersonal disagreements, often involving differing expectations. Clarifying communication and relationship expectations can guide the work.
@@ -1369,9 +1369,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-115
 TITLE: Relationships in a system
 QUESTION: Which caveat matters in relational formulations?
-A: Context and safety are irrelevant
-B: Every participant can always leave safely
-C: All relationship patterns are perfectly symmetrical
+A: Identifying a cycle shows that participants contributed equally to its origin
+B: Circular descriptions imply that power differences are secondary to communication
+C: Mutual influence means each participant has the same practical freedom to change the pattern
 D: Reciprocal influence does not imply equal responsibility or equal power
 ANSWER: D
 EXPLANATION: Systemic approaches examine interaction patterns, context and feedback loops. Circular accounts explore mutual influences without implying that responsibility or power is always equal.
@@ -1382,9 +1382,9 @@ ID: psychotherapy-116
 TITLE: An exception to the problem
 QUESTION: What is a realistic use of identifying strengths?
 A: Find resources that may support a small agreed next step
-B: Conclude that the person has no real difficulties
-C: Promise that resources guarantee success
-D: Replace all discussion of circumstances with praise
+B: Use strengths to establish that the current problem no longer needs attention
+C: Infer a general ability from one successful exception without checking its context
+D: Choose the most measurable resource even if it does not fit the person's priorities
 ANSWER: A
 EXPLANATION: Solution-focused work explores goals, exceptions, strengths and small changes. It does not require denying real suffering or pretending resources are unlimited.
 EXAMPLE: A time when the problem was less intense may reveal useful actions, supports or circumstances.
@@ -1394,9 +1394,9 @@ ID: psychotherapy-117
 TITLE: Stories and distance
 QUESTION: Which principle is important?
 A: The person’s meanings and preferred descriptions guide the conversation
-B: The therapist must impose a dramatic metaphor
-C: Every story is equally useful regardless of consequences
-D: Externalising language removes all personal agency
+B: The therapist's most helpful metaphor should remain unchanged when it does not resonate
+C: A preferred story is selected chiefly by its positivity rather than its fit with experience
+D: Externalising the problem removes the need to discuss agency and consequences
 ANSWER: A
 EXPLANATION: Narrative approaches can separate a person from a problem-saturated description and explore alternative stories. Externalising language should fit the person rather than become a formula imposed on them.
 EXAMPLE: Anxiety has been pushing you away from music creates a different conversation from defining the whole person as an anxious failure.
@@ -1406,9 +1406,9 @@ ID: psychotherapy-118
 TITLE: Evidence and its limits
 QUESTION: Which statement about treatment evidence is careful?
 A: Average benefit does not guarantee benefit for every individual
-B: One successful case proves universal effectiveness
-C: An established therapy never needs adaptation
-D: A null finding proves no one can benefit
+B: A well-supported average effect makes progress monitoring less necessary
+C: A positive trial establishes the same treatment as the best option for every similar diagnosis
+D: A single improvement is sufficient to confirm the mechanism proposed by the treatment
 ANSWER: A
 EXPLANATION: Evidence-based practice integrates research, clinical expertise and the person’s characteristics, culture and preferences. Evidence supports decisions without guaranteeing a particular individual’s outcome.
 EXAMPLE: A treatment shown helpful on average still needs adaptation, monitoring and shared decisions.
@@ -1417,9 +1417,9 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-119
 TITLE: Goals that can be reviewed
 QUESTION: A goal no longer matches the person’s priorities. What fits collaboration?
-A: Keep it unchanged because it was written first
-B: Stop asking what matters
-C: Assume changing priorities proves resistance
+A: Keep the original target as the main goal and treat changed priorities as a separate issue
+B: Use the goal with the strongest trial evidence regardless of its current personal meaning
+C: Revise the measurement while retaining the original target without discussion
 D: Review and revise it together
 ANSWER: D
 EXPLANATION: Collaborative goals translate broad hopes into observable, meaningful targets. Goals can be revised when circumstances, preferences or understanding change.
@@ -1429,10 +1429,10 @@ SOURCE: https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment
 ID: psychotherapy-120
 TITLE: Repairing a difficult moment
 QUESTION: Why review tasks as well as the emotional bond?
-A: Tasks have no relationship to alliance
-B: A warm relationship guarantees every task is appropriate
+A: The bond can compensate for disagreement about tasks so those differences need not be explored
+B: Agreement on goals is sufficient even if the person does not understand the purpose of tasks
 C: Collaboration depends partly on whether the work and its purpose make sense to the person
-D: Goals should never be discussed after the first meeting
+D: Alliance is primarily the client's satisfaction with the therapist rather than their shared work
 ANSWER: C
 EXPLANATION: An alliance rupture is a strain in collaboration or connection. Noticing it, inviting feedback and discussing goals or misunderstandings can support repair.
 EXAMPLE: A person who quietly stops contributing may be expressing a strain just as much as someone who openly disagrees.

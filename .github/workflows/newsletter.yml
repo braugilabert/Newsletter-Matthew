@@ -2,8 +2,8 @@ name: Matt's weekly newsletter
 
 on:
   schedule:
-    # Once a week, Monday 08:17 in Ireland, including daylight saving time.
-    - cron: '17 8 * * 1'
+    # Once a week, Wednesday 08:17 in Ireland / 09:17 in Madrid.
+    - cron: '17 8 * * 3'
       timezone: Europe/Dublin
   workflow_dispatch:
     inputs:

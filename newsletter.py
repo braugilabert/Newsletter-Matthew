@@ -30,6 +30,7 @@ from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent
 NAME = "Matt's Newsletter"
+NEWS_TITLE = "España: cinco noticias de la semana"
 SECTIONS = (
     ("neuropsychology", "Neuropsychology case files", "Symptoms, brain regions and the most likely syndrome."),
     ("mental_health", "Mental health case files", "Fictional diagnostic cases: DSM-5-TR and ICD-11."),
@@ -116,8 +117,10 @@ def plain_text(value):
 
 
 def normal_title(value):
-    return set(re.findall(r"[a-z0-9]+", unicodedata.normalize("NFKD", value.lower()))) - {
-        "the", "and", "for", "with", "from", "that", "this", "says", "after", "over", "into", "are"}
+    plain = ''.join(c for c in unicodedata.normalize("NFKD", value.lower()) if not unicodedata.combining(c))
+    return set(re.findall(r"[a-z0-9]+", plain)) - {
+        "the", "and", "for", "with", "from", "that", "this", "says", "after", "over", "into", "are",
+        "el", "la", "los", "las", "un", "una", "de", "del", "en", "y", "a", "por", "para", "con", "que", "se", "al", "su"}
 
 
 def story_key(item):
@@ -141,7 +144,10 @@ def fetch_feed(source, now, days):
     request = urllib.request.Request(source["url"], headers={"User-Agent": "MattsNewsletter/1.0 RSS reader"})
     with urllib.request.urlopen(request, timeout=15) as response:
         body = response.read(2_000_001)
-    if len(body) > 2_000_000 or b"<!DOCTYPE" in body.upper() or b"<!ENTITY" in body.upper():
+    # Embedded article HTML can contain a harmless doctype inside a CDATA value.
+    # Actual XML DTD/entity declarations outside CDATA remain unsupported.
+    declaration_text = re.sub(br"<!\[CDATA\[.*?\]\]>", b"", body, flags=re.S).upper()
+    if len(body) > 2_000_000 or b"<!DOCTYPE" in declaration_text or b"<!ENTITY" in declaration_text:
         raise ValueError("Unsupported or oversized RSS XML")
     root = ET.fromstring(body)
     entries = root.findall(".//item") + root.findall("{http://www.w3.org/2005/Atom}entry")
@@ -172,13 +178,17 @@ def fetch_feed(source, now, days):
         except (ValueError, TypeError):
             continue
         if title:
+            if source.get("include_url") and not re.search(source["include_url"], link):
+                continue
+            if source.get("exclude_url") and re.search(source["exclude_url"], link):
+                continue
             items.append({"title": title, "url": link, "source": source["name"],
-                          "published": published.isoformat(), "kind": source.get("kind", "Reporting")})
+                          "published": published.isoformat(), "kind": source.get("kind", "Información")})
     return items
 
 
 def rank_news(items, config, history, now):
-    """Rank social priorities and cross-source coverage; cap each outlet at two."""
+    """Prioritise cross-source coverage, then public-interest topics and recency."""
     previous, seen, groups = history.get("news", {}), set(), []
     for item in items:
         published = datetime.fromisoformat(item["published"])
@@ -205,24 +215,35 @@ def rank_news(items, config, history, now):
         coverage = len({n["source"] for n in group})
         if config.get("require_priority_match", False) and not priority:
             continue
-        item["score"] = priority + 3 * coverage
+        item["coverage"] = coverage
+        item["score"] = priority + config.get("coverage_weight", 3) * coverage
         ranked.append(item)
     result, outlets = [], Counter()
-    for item in sorted(ranked, key=lambda n: (n["score"], n["published"]), reverse=True):
+    ranked.sort(key=lambda n: (n["score"], n["published"]), reverse=True)
+    for item in ranked:
         if outlets[item["source"]] < 2:
             result.append(item)
             outlets[item["source"]] += 1
         if len(result) >= config["max_stories"]:
             break
+    if config.get("relax_source_limit", False) and len(result) < config["max_stories"]:
+        selected_keys = {story_key(item) for item in result}
+        for item in ranked:
+            if story_key(item) not in selected_keys:
+                result.append(item)
+                selected_keys.add(story_key(item))
+            if len(result) >= config["max_stories"]:
+                break
+        result.sort(key=lambda n: (n["score"], n["published"]), reverse=True)
     return result
 
 
 def collect_news(now, history, offline=False, fixture=None):
     config = news_config()
     if fixture:
-        return rank_news(read_json(fixture, []), config, history, now), "Preview uses a dated, source-linked news snapshot; it is not a live feed fetch."
+        return rank_news(read_json(fixture, []), config, history, now), "Previsualización con una muestra fechada de noticias enlazadas a sus fuentes; no es una consulta en directo."
     if offline:
-        return [], "Offline preview: live Irish news will be fetched when the weekly edition runs."
+        return [], "Previsualización sin conexión: las noticias de España se consultarán al generar la edición semanal."
     def fetch(source):
         try:
             return fetch_feed(source, now, config["days_back"]), None
@@ -237,12 +258,14 @@ def collect_news(now, history, offline=False, fixture=None):
                 failures.append(failed)
     note = ""
     if len(failures) == len(config["sources"]):
-        note = "Irish news could not be retrieved this week. No old headlines have been substituted."
+        note = "No se han podido consultar las noticias de España esta semana. No se han sustituido por titulares antiguos."
     elif failures:
-        note = "Some news feeds were unavailable. This selection covers the sources that could be checked."
+        note = "Algunas fuentes no estaban disponibles. La selección se basa en los medios que se han podido consultar."
     stories = rank_news(items, config, history, now)
     if not stories and not note:
-        note = "No fresh, previously unshared stories with a verified publication date were available in the last seven days."
+        note = "No se han encontrado noticias nuevas con fecha verificable de los últimos siete días."
+    elif 0 < len(stories) < config["max_stories"]:
+        note += (" " if note else "") + f"Se han verificado {len(stories)} noticias nuevas; no se añaden titulares sin verificar para completar cinco."
     return stories, note
 
 
@@ -254,12 +277,17 @@ def english_date(day):
     return f"{day.day} {calendar.month_name[day.month]} {day.year}"
 
 
+def spanish_date(day):
+    months = ("", "enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre")
+    return f"{day.day} de {months[day.month]} de {day.year}"
+
+
 def link(url, label):
     return f'<a href="{esc(url)}" style="color:#000000;text-decoration:underline">{esc(label)}</a>'
 
 
-def panel(number, title, subtitle, body):
-    return (f'<tr><td style="padding:0 24px 28px"><table role="presentation" width="100%" '
+def panel(number, title, subtitle, body, language="en"):
+    return (f'<tr><td lang="{esc(language)}" style="padding:0 24px 28px"><table role="presentation" width="100%" '
             'cellpadding="0" cellspacing="0" style="border:2px solid #000000;border-collapse:collapse">'
             '<tr><td style="padding:18px;background:#000000;color:#ffffff">'
             f'<div style="font:12px Arial,sans-serif;letter-spacing:2px">{esc(number)}</div>'
@@ -285,7 +313,7 @@ def render_email(day, selected, stories, news_note, web_url="", archive_url="", 
     eid, total = edition_id(day), sum(len(selected[k]) for k, *_ in SECTIONS)
     news_number = f"{len(SECTIONS) + 1:02d}"
     overview = ' &nbsp; '.join(f'{i:02d} {esc(title)}' for i, (_, title, _) in enumerate(SECTIONS, 1))
-    overview += f' &nbsp; {news_number} Ireland’s News'
+    overview += f' &nbsp; <span lang="es">{news_number} {NEWS_TITLE}</span>'
     banner = ('<p style="border:2px solid #000000;padding:12px;font-size:13px">'
               'PREVIEW / DEMO — sample edition, never sent. Archive dates demonstrate the design.</p>') if demo else ""
     nav = " · ".join(link(url, label) for url, label in [(web_url, "Read online"), (archive_url, "Past editions")] if url)
@@ -326,21 +354,20 @@ def render_email(day, selected, stories, news_note, web_url="", archive_url="", 
             answers.append((label, q))
         rows.append(panel(f"{number:02d}", title, subtitle, "".join(body)))
         answer_sections.append(panel(f"KEY {number:02d}", title, "Answers, explanations and one more small step.", ''.join(key_body)))
-    news_body = ('<p style="font-size:13px">A social justice lens: housing, workers’ rights, public services, equality and climate. '
-                 'Editorial priorities guide the selection; headlines and dates come from the linked sources.</p>')
-    text.append(f"\n{news_number}. Ireland’s News — social justice editorial priorities")
+    news_body = ('<p style="font-size:13px">Cinco asuntos de actualidad nacional, seleccionados por su cobertura en distintos medios, '
+                 'interés público y fecha de publicación. Titulares originales, medio y enlace; la selección automática no es exhaustiva.</p>')
+    text.append(f"\n{news_number}. {NEWS_TITLE}")
     if news_note:
         news_body += f'<p style="border:1px solid #000000;padding:12px">{esc(news_note)}</p>'
         text.append(news_note)
     for story in stories:
-        published = datetime.fromisoformat(story["published"]).date()
+        published = datetime.fromisoformat(story["published"]).astimezone(ZoneInfo("Europe/Madrid")).date()
         news_body += ('<div style="padding:10px 0;border-bottom:1px solid #000000">'
-                      f'<p style="font:12px Arial,sans-serif">{esc(story["source"])} · {english_date(published)}'
-                      f' · {esc(story.get("kind", "Reporting"))}</p><h3 style="font:700 21px/1.3 Georgia,serif">'
+                      f'<p style="font:12px Arial,sans-serif">{esc(story["source"])} · {spanish_date(published)}'
+                      f' · {esc(story.get("kind", "Información"))}</p><h3 style="font:700 21px/1.3 Georgia,serif">'
                       f'{link(story["url"], story["title"])}</h3></div>')
-        text.append(f'{story["title"]}\n{story["source"]} | {english_date(published)}\n{story["url"]}')
-    news_body += '<p><strong>Think about it:</strong> Who is affected, whose voice is missing, and what evidence would help assess the policy?</p>'
-    rows.append(panel(news_number, "Ireland’s News", "The past seven days, with people at the centre.", news_body))
+        text.append(f'{story["title"]}\n{story["source"]} | {spanish_date(published)}\n{story["url"]}')
+    rows.append(panel(news_number, NEWS_TITLE, "Actualidad de España de los últimos siete días, en español.", news_body, language="es"))
     rows.append('<tr><td style="padding:12px 24px 28px"><p style="border:2px solid #000000;padding:18px">'
                 f'<strong>Pencils down?</strong> Your score: ____ / {total}. Read on for the answers, explanations and practice ideas.</p></td></tr>')
     rows.extend(answer_sections)
@@ -376,7 +403,7 @@ def archive_page(entries, demo=False):
                  f'{esc(entry["id"])} · {english_date(date.fromisoformat(entry["date"]))}'
                  f'{" · DEMO" if entry.get("demo") else ""}</p><h3 style="font:700 25px Georgia,serif">'
                  f'{link(entry["file"], entry["title"])}</h3><p>{entry["questions"]} questions · '
-                 f'{entry.get("subjects", 5)} subjects · Ireland’s News</p></article>')
+                 f'{entry.get("subjects", 5)} subjects · {esc(entry.get("news_title", "Ireland’s News"))}</p></article>')
     return page(f"Past editions · {NAME}", body + '</td></tr>')
 
 
@@ -391,6 +418,7 @@ def publish(folder, day, selected, rendered, demo=False):
     entries.append({"id": eid, "date": day.isoformat(), "title": selected["neuropsychology"][0]["TITLE"],
                     "questions": sum(len(selected[k]) for k, *_ in SECTIONS),
                     "subjects": len(SECTIONS),
+                    "news_title": NEWS_TITLE,
                     "file": f"editions/{eid}.html", "demo": demo})
     write_json(folder / "editions.json", entries)
     (folder / "index.html").write_text(archive_page(entries, demo), encoding="utf-8")
@@ -462,7 +490,7 @@ def main(argv=None):
         for offset in (3, 2, 1, 0):
             sample_day = day - timedelta(weeks=offset)
             chosen = select_questions(banks, demo_history, args.questions)
-            snapshot_note = note if offset == 0 else "Archive layout sample: no historical news has been reconstructed."
+            snapshot_note = note if offset == 0 else "Ejemplo del archivo: no se han reconstruido noticias de semanas anteriores."
             rendered = render_email(sample_day, chosen, stories if offset == 0 else [], snapshot_note,
                                     archive_url="../index.html", demo=True)
             publish(ROOT / "previews" / "archive", sample_day, chosen, rendered, demo=True)

@@ -1,42 +1,47 @@
 [
   {
-    "title": "Credit unions seek answers on scale of data breach as IT provider says flaw is fixed",
-    "url": "https://www.thejournal.ie/credit-union-wellington-it-robert-troy-7231923-Nov2026/",
-    "source": "The Journal",
-    "published": "2026-11-19T20:25:38+00:00",
-    "kind": "Reporting / analysis — see article",
-    "score": 10
+    "title": "Irene Montero exige salir de la OTAN y destinar el gasto militar a sanidad y educación: \"Militares yanquis go home\"",
+    "url": "https://www.europapress.es/nacional/noticia-irene-montero-exige-salir-otan-destinar-gasto-militar-sanidad-educacion-militares-yanquis-go-home-20261120210111.html",
+    "source": "Europa Press — Nacional",
+    "published": "2026-11-20T20:01:11+00:00",
+    "kind": "Información",
+    "coverage": 1,
+    "score": 18
   },
   {
-    "title": "Parents Council raises concern over school transport fees",
-    "url": "https://www.rte.ie/news/politics/2026/1120/1599942-school-fees-politics/",
-    "source": "RTÉ — Ireland",
-    "published": "2026-11-20T01:52:54+00:00",
-    "kind": "Reporting",
-    "score": 9
+    "title": "Sánchez anuncia la prórroga del impuesto a la banca en 2027 para recaudar 1.400 millones que destinará a vivienda",
+    "url": "https://www.europapress.es/nacional/noticia-sanchez-anuncia-prorroga-impuesto-banca-2027-recaudar-1400-millones-destinara-vivienda-20261121093959.html",
+    "source": "Europa Press — Nacional",
+    "published": "2026-11-21T08:39:59+00:00",
+    "kind": "Información",
+    "coverage": 1,
+    "score": 15
   },
   {
-    "title": "Housing shortage can trap women in abusive homes - report",
-    "url": "https://www.rte.ie/news/2026/1119/1599841-womens-council-report/",
-    "source": "RTÉ — Ireland",
-    "published": "2026-11-19T12:24:33+00:00",
-    "kind": "Reporting",
-    "score": 8
+    "title": "Amnistía Internacional contabiliza 61 casos de \"uso excesivo de la fuerza\" policial durante la huelga general",
+    "url": "https://www.eldiario.es/politica/amnistia-internacional-contabiliza-61-casos-excesivo-fuerza-policial-durante-huelga-general_1_13676557.html",
+    "source": "elDiario.es — Política",
+    "published": "2026-11-19T23:00:50+00:00",
+    "kind": "Información / análisis; consultar el artículo",
+    "coverage": 1,
+    "score": 15
   },
   {
-    "title": "The very public civil war in the health service",
-    "url": "https://www.thejournal.ie/hse-podcast-civil-war-analysis-7231786-Nov2026/",
-    "source": "The Journal",
-    "published": "2026-11-20T10:15:57+00:00",
-    "kind": "Reporting / analysis — see article",
-    "score": 6
+    "title": "El mapa más detallado de las elecciones generales desde el 2000: los votos a cada partido, calle a calle",
+    "url": "https://www.eldiario.es/politica/mapa-detallado-elecciones-generales-2000-votos-partido-calle-calle_1_13671872.html",
+    "source": "elDiario.es — Política",
+    "published": "2026-11-20T21:08:27+00:00",
+    "kind": "Información / análisis; consultar el artículo",
+    "coverage": 1,
+    "score": 14
   },
   {
-    "title": "Taoiseach Micheál Martin to meet CUH chief Jennifer Kearney next week",
-    "url": "https://www.irishexaminer.com/news/arid-41940087.html",
-    "source": "Irish Examiner — Ireland",
-    "published": "2026-11-19T18:09:00+00:00",
-    "kind": "Reporting",
-    "score": 4
+    "title": "Sánchez vuelve al ataque para dejar atrás el debate mientras Feijóo intenta explotarlo al máximo",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/sanchez-vuelve-al-ataque-para-dejar-atras-el-debate-mientras-feijoo-intenta-explotarlo-al-maximo.html",
+    "source": "EL PAÍS — España",
+    "published": "2026-11-21T04:45:01+00:00",
+    "kind": "Información / análisis; consultar el artículo",
+    "coverage": 1,
+    "score": 12
   }
 ]

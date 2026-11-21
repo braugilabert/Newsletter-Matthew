@@ -1,6 +1,6 @@
 # Matt's Newsletter
 
-Una newsletter semanal en inglés hecha para Matthew: cuestionarios de neuropsicología, casos diagnósticos de salud mental, neurociencia, psicoterapia, irlandés A2/B1 y teoría musical básica, seguidos de noticias de Irlanda. Diseño en blanco y negro, sin imágenes remotas, con versión HTML y texto plano.
+Una newsletter semanal hecha para Matthew: cuestionarios en inglés de neuropsicología, casos diagnósticos de salud mental, neurociencia, psicoterapia, irlandés A2/B1 y teoría musical básica, seguidos de cinco noticias de España en español. Diseño en blanco y negro, sin imágenes remotas, con versión HTML y texto plano.
 
 El proyecto adapta el enfoque del `newsletter.py` original: contenido editable en TXT, noticias RSS, envío SMTP por Gmail y archivo estático de ediciones. No necesita una API de IA ni servicios de pago para generar los ejercicios.
 
@@ -15,23 +15,27 @@ Descarga la carpeta y abre los HTML en un navegador. La vista de archivos de Git
 
 También puedes ver capturas directamente desde GitHub: [correo en escritorio](previews/email-preview.png), [correo en móvil](previews/mobile-preview.png), [archivo de ediciones](previews/archive-preview.png) y [soluciones con el enunciado completo](previews/answers-preview.png). Son capturas parciales; los HTML contienen la edición completa.
 
+La revisión de dificultad y noticias se puede comprobar también en las capturas de [Neurociencia](previews/neuroscience-preview.png) y [las cinco noticias de España](previews/news-preview.png).
+
 ## Qué recibe Matt
 
 Cada semana, en este orden:
 
 1. **Neuropsychology case files**: tres preguntas sobre casos ficticios, con síntomas, redes cerebrales, diagnóstico probable y pruebas que ayudan a distinguirlos.
 2. **Mental health case files**: tres casos diagnósticos ficticios de depresión, ansiedad, pánico, fobias, PTSD, OCD, bipolaridad y otros cuadros. Cada caso indica **DSM-5-TR** o **ICD-11**; sus reglas no se mezclan.
-3. **Neuroscience**: tres preguntas sobre neurotransmisores, regiones, memoria, aprendizaje o métodos de estudio del cerebro.
+3. **Neuroscience**: tres problemas de aplicación sobre neurotransmisores, receptores, circuitos, plasticidad, memoria e interpretación de experimentos. Es la sección de mayor refuerzo de dificultad: requiere distinguir mecanismos, interpretar observaciones y reconocer los límites de una conclusión.
 4. **Psychotherapy toolkit**: tres preguntas sobre métodos, historia y términos de CBT, DBT, psicoanálisis y otras escuelas.
 5. **A little Gaeilge**: tres ejercicios prácticos de irlandés A2/B1, con instrucciones en inglés y frases en irlandés.
 6. **Music theory, finally**: tres ejercicios de ritmo, lectura, intervalos, escalas y acordes, con términos británicos/irlandeses y sus equivalentes estadounidenses cuando ayudan.
-7. **Ireland’s News**: hasta cinco noticias fechadas de los últimos siete días, con medio y enlace.
+7. **España: cinco noticias de la semana**: cinco titulares de actualidad nacional de los últimos siete días, en español, con medio, fecha y enlace. Si no hay cinco noticias nuevas verificadas disponibles, se indica la limitación.
 
 Todas las preguntas tienen **cuatro opciones, A–D**, y una respuesta correcta. Al final, la clave de respuestas repite **el enunciado completo**, seguido de la opción correcta, explicación y ejemplo resuelto o práctica adicional. Matt puede revisar cada solución sin volver al cuestionario. Se han retirado los enlaces «Explore the topic» tanto del HTML como del texto plano para ahorrar espacio. Las referencias siguen disponibles en los TXT y en `CONTENT_SOURCES.md`.
 
 Hay **720 preguntas con explicación y ejemplo/práctica adicional**, **120 por materia**. Las cinco categorías originales han pasado de 30 a 120 cada una: cuatro veces su tamaño anterior, más 120 preguntas nuevas de salud mental. Con tres por materia son **18 preguntas por edición y 40 semanas sin repetir**, aproximadamente nueve meses. Al agotar el banco, se recuperan primero las preguntas utilizadas hace más tiempo.
 
-La ampliación combina casos nuevos, preguntas de diagnóstico o discriminación clínica y ejercicios de aplicación. Algunos casos de neuropsicología se revisitan más adelante para preguntar por otra capacidad, prueba o distinción; no se consideran el mismo enunciado. Las preguntas antiguas conservan su `ID` y su respuesta correcta para que el historial siga reconociéndolas.
+La batería combina casos, preguntas de discriminación clínica y ejercicios de aplicación. Se han revisado los distractores de las seis materias para usar alternativas del mismo campo y errores plausibles. Cuando un diagnóstico cercano lo exigía, se han añadido datos a la viñeta para mantener una respuesta mejor sustentada que las demás. El irlandés sigue en A2/B1 y la música en nivel básico.
+
+Neurociencia tiene además enunciados más exigentes: errores de predicción de recompensa, inhibición por derivación, expresión de plasticidad, interpretación de BOLD y EEG, diseños de control y causalidad. Las soluciones conservan el enunciado completo y explican la distinción relevante. Los `ID` y las posiciones de las claves A–D se mantienen para que el historial siga reconociendo las preguntas; algunos contenidos correctos de Neurociencia se han actualizado al reformular el problema.
 
 Los casos son educativos y las localizaciones se expresan como regiones o redes plausibles. No son historias clínicas reales ni una herramienta de diagnóstico.
 
@@ -82,10 +86,10 @@ Para probar sin conexión:
 python newsletter.py --demo --offline
 ```
 
-Para reconstruir la demostración entregada, con noticias fechadas al 20 de noviembre de 2026:
+Para reconstruir la demostración entregada, con una muestra de noticias españolas consultada el 21 de noviembre de 2026:
 
 ```powershell
-python newsletter.py --demo --date 2026-11-20 --news-fixture previews/news_snapshot.json
+python newsletter.py --demo --date 2026-11-21 --news-fixture previews/news_snapshot.json
 ```
 
 La muestra de noticias solo se admite en previsualizaciones y se identifica dentro del correo. Las fechas de las ediciones anteriores sirven para demostrar el archivo: no se reconstruyen noticias de esas semanas. Un `--demo` utiliza su propia rotación temporal, independiente del cliente.
@@ -123,25 +127,27 @@ Gmail requiere una contraseña de aplicación en una cuenta que admita esta func
 
 ## Horario y funcionamiento semanal
 
-El envío se programa los **lunes a las 08:17 de Irlanda**, con `timezone: Europe/Dublin`, que adapta el horario de verano. En Madrid corresponde a las **09:17**. Se eligió este horario como valor inicial; puedes editar el cron del workflow.
+El envío se programa los **miércoles a las 08:17 de Irlanda**, con `timezone: Europe/Dublin`, que adapta el horario de verano. En Madrid corresponde a las **09:17**. El cron es `17 8 * * 3`. Sube el workflow actualizado al repositorio para que GitHub Actions adopte este horario.
 
 GitHub ejecuta los horarios desde la rama predeterminada y puede retrasarlos. En repositorios públicos sin actividad también puede desactivar ejecuciones programadas. Consulta la [documentación oficial de horarios de Actions](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#onschedule) y los [eventos programados](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule).
 
-Cada semana se identifica por año y semana ISO, por ejemplo `2026-W47`. Un segundo `send` en esa misma semana termina sin repetir el correo. Esto también aplica al primer envío manual: si se envía un viernes, el siguiente lunes ya pertenece a otra semana y puede enviarse otra edición. El bloqueo evita duplicados dentro de una semana ISO; no impone 168 horas entre dos envíos manuales.
+Cada semana se identifica por año y semana ISO, por ejemplo `2026-W47`. Un segundo `send` en esa misma semana termina sin repetir el correo. Si haces un envío manual antes del miércoles de la misma semana, ese miércoles no se enviará otra edición. El bloqueo evita duplicados dentro de una semana ISO; no impone 168 horas entre dos envíos manuales.
 
 El workflow guarda `state/` y `docs/` con un commit y publica solamente `docs/` en Pages. El archivo web y el correo contienen las mismas preguntas, respuestas y noticias; los enlaces de navegación se adaptan a cada formato. No borres el estado entre ejecuciones: es lo que permite recordar lo enviado.
 
 El archivo de Pages es público cuando tu configuración de GitHub Pages lo publica como tal. No incluye direcciones ni contraseñas. Los destinatarios se pasan al sobre SMTP y no se muestran en `To`; el remitente aparece en ese encabezado. Matt puede solicitar la baja respondiendo al remitente; la eliminación de su dirección es manual.
 
-## Noticias de Irlanda y criterio editorial
+## Noticias de España y criterio editorial
 
-Se consultan los RSS de RTÉ Irlanda, The Journal e Irish Examiner Irlanda. Se priorizan vivienda, alquileres, salarios, sindicatos, pobreza, sanidad, educación, igualdad y clima. La orientación social y de izquierdas se refleja en los asuntos seleccionados y se declara en la sección.
+Se consultan los RSS nacionales de **EL PAÍS — España**, **elDiario.es — Política** y **Europa Press — Nacional**. El bloque completo va en español, incluidas las fechas y los avisos de disponibilidad. Las seis materias de aprendizaje continúan en inglés.
 
-El programa usa titulares originales enlazados, fecha y medio. No inventa resúmenes ni convierte opiniones en hechos: cuando la fuente puede mezclar información y análisis se indica que hay que consultar el artículo. Agrupa titulares similares, limita cada medio a dos noticias, descarta artículos sin fecha verificable o con fecha futura y recuerda los enlaces compartidos. Con `require_priority_match: true`, exige que el titular coincida con algún tema configurado: no rellena huecos con deporte o entretenimiento ajeno a esos temas. El agrupamiento automático es aproximado: titulares muy diferentes sobre el mismo hecho podrían aparecer separados.
+Se seleccionan cinco asuntos por cobertura en distintos medios, interés público y fecha. La cobertura compartida tiene más peso que las coincidencias temáticas; estas añaden prioridad a vivienda, trabajo, servicios públicos, elecciones y otros asuntos nacionales. Se prefieren como máximo dos artículos de cada medio; si faltan fuentes, se permite completar los cinco con otros artículos nacionales verificados. Los RSS se filtran por su sección de España o Nacional y se excluyen los directos de elDiario para reducir actualizaciones repetidas.
+
+El programa usa titulares originales, fecha y enlace, sin inventar resúmenes. Distingue las fuentes que pueden incluir análisis y descarta artículos sin fecha verificable, futuros o ya compartidos. Agrupa titulares parecidos, aunque titulares muy distintos sobre un mismo hecho pueden escapar a la agrupación. «Principales» es una selección automatizada dentro de las fuentes y artículos disponibles de los últimos siete días, no una clasificación editorial exhaustiva de toda la prensa española.
 
 Si falla alguna fuente, el correo lo indica. Si fallan todas o no hay noticias recientes disponibles, mantiene los ejercicios e informa de la ausencia de noticias; no recicla titulares antiguos para rellenar. La muestra fechada de `previews/news_snapshot.json` nunca se usa como sustituto automático en producción.
 
-Para cambiar los medios o la prioridad de los temas, edita `config/news_sources.json`. Los valores de `priority_terms` aumentan la prioridad de las coincidencias en titulares; no atribuyen una ideología al lector ni al medio.
+Para cambiar los medios o la prioridad de los temas, edita `config/news_sources.json`. `coverage_weight` pondera la cobertura compartida, `priority_terms` añade interés temático y `relax_source_limit` permite completar cinco si hay menos medios disponibles. No se usan noticias de Irlanda como sustituto ni se traducen titulares ingleses automáticamente.
 
 ## Editar y ampliar los ejercicios
 
@@ -184,4 +190,4 @@ Haz commit y push del estado reconciliado antes de volver a ejecutar Actions. Si
 
 ## Validación de esta entrega
 
-Se generaron el correo de muestra y cuatro ediciones de demostración, con capturas de escritorio, móvil, archivo y soluciones. La vista móvil se comprobó a 390 píxeles sin desbordamiento horizontal. Los 720 bloques pasan el validador y las 26 pruebas pasan con SMTP simulado, incluida la rotación completa de 40 semanas, las cuatro opciones, las soluciones con enunciado y el tamaño de las ediciones. Las tres fuentes RSS se comprobaron mediante lectura en la entrega inicial; esta ampliación reutiliza la muestra fechada para revisar el diseño sin enviar correo. La entrega real con Gmail y la publicación en GitHub requieren configurar los secretos, el repositorio y Pages siguiendo los pasos anteriores.
+Se generaron el correo de muestra y cuatro ediciones de demostración, con capturas de escritorio, móvil, archivo y soluciones. Los 720 bloques pasan el validador y las 32 pruebas pasan con SMTP simulado, incluida la rotación de 40 semanas, las cuatro opciones, las soluciones con enunciado, el tamaño del correo y la sección española de noticias. Se comprobaron los tres RSS españoles y se guardó una muestra de cinco titulares reales. No se han enviado correos ni reiniciado el historial real. La entrega con Gmail y la publicación en GitHub requieren subir los cambios y configurar el repositorio siguiendo los pasos anteriores.

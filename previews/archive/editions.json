@@ -1,37 +1,41 @@
 [
   {
     "id": "2026-W44",
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "title": "Words that will not come",
     "questions": 18,
     "subjects": 6,
+    "news_title": "España: cinco noticias de la semana",
     "file": "editions/2026-W44.html",
     "demo": true
   },
   {
     "id": "2026-W45",
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "title": "The repetition gap",
     "questions": 18,
     "subjects": 6,
+    "news_title": "España: cinco noticias de la semana",
     "file": "editions/2026-W45.html",
     "demo": true
   },
   {
     "id": "2026-W46",
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "title": "New days that disappear",
     "questions": 18,
     "subjects": 6,
+    "news_title": "España: cinco noticias de la semana",
     "file": "editions/2026-W46.html",
     "demo": true
   },
   {
     "id": "2026-W47",
-    "date": "2026-11-20",
+    "date": "2026-11-21",
     "title": "The tool-use puzzle",
     "questions": 18,
     "subjects": 6,
+    "news_title": "España: cinco noticias de la semana",
     "file": "editions/2026-W47.html",
     "demo": true
   }

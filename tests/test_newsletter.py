@@ -75,7 +75,7 @@ class ContentTests(unittest.TestCase):
         self.assertNotIn('<script>', body)
         self.assertIn('&lt;script&gt;', body)
         self.assertIn('lang="en"', body)
-        self.assertLess(body.index('Ireland’s News</h2>'), body.index('KEY 01'))
+        self.assertLess(body.index(app.NEWS_TITLE + '</h2>'), body.index('KEY 01'))
         self.assertLess(len(body.encode()), 100_000)  # Stay below common Gmail clipping size.
         self.assertIn('ANSWER KEY', plain)
         self.assertEqual(selected, original)
@@ -119,7 +119,7 @@ class ContentTests(unittest.TestCase):
         selected = app.select_questions(app.load_banks(), {}, 3)
         body, plain = app.render_email(date(2026, 11, 20), selected, [], '')
         self.assertIn('02. Mental health case files', plain)
-        self.assertIn('07. Ireland’s News', plain)
+        self.assertIn('07. ' + app.NEWS_TITLE, plain)
         for q in app.load_banks()['mental_health']:
             self.assertTrue(q['QUESTION'].startswith(('DSM-5-TR', 'ICD-11')), q['ID'])
         self.assertIn('18 questions', body)
@@ -156,7 +156,7 @@ class NewsTests(unittest.TestCase):
         self.assertEqual(len(app.rank_news([one, two], self.config, {}, self.now)), 1)
 
     def test_unrelated_sport_does_not_fill_news_and_rent_does_not_match_parents(self):
-        config = dict(self.config, priority_terms={'rent': 4})
+        config = dict(self.config, priority_terms={'rent': 4}, require_priority_match=True)
         irrelevant = self.item('Parents discuss an international football result')
         relevant = self.item('Rent increases across the country', url='https://example.org/rents')
         ranked = app.rank_news([irrelevant, relevant], config, {}, self.now)
@@ -171,7 +171,16 @@ class NewsTests(unittest.TestCase):
     def test_maximum_two_per_source(self):
         items = [self.item(title, url=f'https://example.org/{i}') for i, title in enumerate([
             'Housing construction programme', 'Hospital emergency capacity', 'Workers union pay dispute', 'Climate carbon policy'])]
-        self.assertEqual(len(app.rank_news(items, self.config, {}, self.now)), 2)
+        config = dict(self.config, relax_source_limit=False)
+        self.assertEqual(len(app.rank_news(items, config, {}, self.now)), 2)
+
+    def test_five_verified_stories_when_one_feed_is_unavailable(self):
+        items = [self.item(title, source='Outlet A' if i < 3 else 'Outlet B', url=f'https://example.org/{i}')
+                 for i, title in enumerate(['Vivienda y alquileres', 'Tribunal revisa un caso', 'Sanidad y hospitales',
+                                            'Elecciones y programas', 'Educacion y escuelas'])]
+        ranked = app.rank_news(items, dict(self.config, relax_source_limit=True), {}, self.now)
+        self.assertEqual(len(ranked), 5)
+        self.assertEqual(len({app.story_key(item) for item in ranked}), 5)
 
     def test_feed_dates_and_markup_are_checked(self):
         xml = b'''<rss><channel><item><title>&lt;b&gt;Housing update&lt;/b&gt;</title>
@@ -189,11 +198,59 @@ class NewsTests(unittest.TestCase):
         with patch.object(app, 'fetch_feed', side_effect=OSError('unavailable')):
             items, note = app.collect_news(self.now, {})
         self.assertEqual(items, [])
-        self.assertIn('could not be retrieved', note)
+        self.assertIn('No se han podido consultar', note)
+
+    def test_spanish_headlines_group_across_accents_and_common_articles(self):
+        self.assertEqual(app.normal_title('El alquiler y la educación'), app.normal_title('Alquiler educacion'))
+
+    def test_cross_source_coverage_outweighs_an_unrelated_single_source_story(self):
+        shared = self.item('El Congreso aprueba nuevas medidas sobre vivienda', source='Outlet A')
+        second = self.item('Congreso aprueba nuevas medidas sobre vivienda', source='Outlet B', url='https://other.example/measure')
+        one_source = self.item('Emergencia en una localidad', source='Outlet C', url='https://third.example/event')
+        ranked = app.rank_news([one_source, shared, second], self.config, {}, self.now)
+        self.assertEqual(ranked[0]['coverage'], 2)
+
+    def test_feed_section_filter_rejects_articles_outside_spain_section(self):
+        xml = b'''<rss><channel>
+        <item><title>National event</title><link>https://example.org/espana/event</link><pubDate>Thu, 19 Nov 2026 10:00:00 GMT</pubDate></item>
+        <item><title>Foreign event</title><link>https://example.org/internacional/event</link><pubDate>Thu, 19 Nov 2026 10:00:00 GMT</pubDate></item>
+        </channel></rss>'''
+        response = MagicMock()
+        response.__enter__.return_value.read.return_value = xml
+        with patch.object(app.urllib.request, 'urlopen', return_value=response):
+            items = app.fetch_feed({'url': 'https://example.org/rss', 'name': 'Test',
+                                    'include_url': '/espana/'}, self.now, 7)
+        self.assertEqual([item['title'] for item in items], ['National event'])
+
+    def test_news_block_is_spanish_but_learning_sections_remain_english(self):
+        selected = app.select_questions(app.load_banks(), {}, 3)
+        story = self.item('El Congreso debate medidas de vivienda', source='Medio español')
+        body, plain = app.render_email(self.now.date(), selected, [story], '')
+        self.assertIn('lang="es"', body)
+        self.assertIn('19 de noviembre de 2026', body)
+        self.assertIn('Actualidad de España', body)
+        self.assertIn('Neuroscience', plain)
+        self.assertNotIn('Ireland’s News', body)
+        self.assertNotIn('social justice editorial priorities', plain)
 
     def test_unsafe_schemes_are_rejected(self):
         with self.assertRaises(ValueError):
             app.safe_url('javascript:alert(1)')
+
+    def test_embedded_html_doctype_is_allowed_but_real_xml_dtd_is_rejected(self):
+        rss = b'''<rss><channel><item><title>Vivienda</title><link>https://example.org/article</link>
+        <pubDate>Thu, 19 Nov 2026 10:00:00 GMT</pubDate>
+        <description><![CDATA[<!doctype html><p>Embedded article</p>]]></description>
+        </item></channel></rss>'''
+        response = MagicMock()
+        response.__enter__.return_value.read.return_value = rss
+        source = {'url': 'https://example.org/rss', 'name': 'Test'}
+        with patch.object(app.urllib.request, 'urlopen', return_value=response):
+            self.assertEqual(len(app.fetch_feed(source, self.now, 7)), 1)
+        response.__enter__.return_value.read.return_value = b'<!DOCTYPE rss [<!ENTITY test "x">]>' + rss
+        with patch.object(app.urllib.request, 'urlopen', return_value=response):
+            with self.assertRaisesRegex(ValueError, 'Unsupported'):
+                app.fetch_feed(source, self.now, 7)
 
 
 class DeliveryTests(unittest.TestCase):

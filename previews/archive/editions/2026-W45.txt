@@ -1,6 +1,6 @@
 PREVIEW / DEMO — sample edition, never sent.
 
-Matt's Newsletter | 2026-W45 | 6 November 2026
+Matt's Newsletter | 2026-W45 | 7 November 2026
 
 Try the questions before the answer key.
 
@@ -13,33 +13,33 @@ A patient with a small dominant temporoparietal stroke speaks fairly fluently an
 
 A. Conduction aphasia; dorsal language pathways
 
-B. Visual agnosia; occipitotemporal visual pathways
+B. Wernicke-type aphasia; dominant posterior temporal network
 
-C. Global aphasia; extensive dominant language-network injury
+C. Transcortical sensory aphasia; posterior watershed network
 
-D. Hemispatial neglect; right frontoparietal attention network
+D. Anomic aphasia; dominant lexical retrieval network
 
 1.2. An island of repetition
 Following a left frontal watershed infarct that spares the core perisylvian language network, spontaneous speech is sparse, comprehension is relatively good, and repetition is preserved. Which pairing fits best?
 
-A. Wernicke-type aphasia; posterior temporal regions
+A. Broca-type aphasia; dominant frontal language network
 
-B. Conduction aphasia; dorsal language connections
+B. Mixed transcortical aphasia; surrounding language-network connections
 
 C. Transcortical motor aphasia; frontal regions around the language network
 
-D. Cortical blindness; bilateral occipital cortex
+D. Conduction aphasia; dominant dorsal language pathways
 
 1.3. More than word finding
 A large left middle cerebral artery infarct causes very limited speech, poor comprehension and poor repetition. Right-sided weakness is also present. Which pairing is most likely?
 
-A. Prosopagnosia; right ventral visual network
+A. Mixed transcortical aphasia; watershed isolation of language networks
 
-B. Anomic aphasia; isolated naming difficulty
+B. Wernicke-type aphasia; dominant posterior language network
 
 C. Global aphasia; extensive dominant perisylvian network injury
 
-D. Ideomotor apraxia; dominant parietofrontal networks
+D. Severe Broca-type aphasia; dominant frontal language network
 
 
 02. Mental health case files
@@ -48,33 +48,33 @@ Fictional diagnostic cases: DSM-5-TR and ICD-11.
 2.1. A history beyond the lows
 DSM-5-TR. An adult has a documented major depressive episode and a previous five-day period of elevated mood, increased energy, little need for sleep, more talking, racing thoughts and increased projects. The change was clear but caused no marked impairment, psychosis or hospitalisation. There has never been mania. Which diagnosis best fits this fictional case?
 
-A. Major depressive disorder
+A. Bipolar I disorder
 
 B. Bipolar II disorder
 
 C. Cyclothymic disorder
 
-D. Bipolar I disorder
+D. Major depressive disorder with mixed features
 
 2.2. Fluctuations below episode thresholds
 DSM-5-TR. Medical and substance-related explanations are excluded. For three years, an adult has frequent periods of mildly elevated energy and periods of depressive symptoms, present for more than half the time without gaps longer than two months. No period has met full hypomanic, manic or major depressive episode criteria, but functioning suffers. Which diagnosis best fits this fictional case?
 
-A. Major depressive disorder
+A. Bipolar II disorder
 
-B. Bipolar I disorder
+B. Persistent depressive disorder
 
-C. Bipolar II disorder
+C. Bipolar I disorder
 
 D. Cyclothymic disorder
 
 2.3. Worry that spreads across life
 DSM-5-TR. Medical and substance-related explanations are excluded. For eight months, an adult worries excessively on most days about money, health and ordinary work tasks, struggles to control it, and has restlessness, muscle tension, fatigue and poor sleep with impairment. Which diagnosis best fits this fictional case?
 
-A. Obsessive-compulsive disorder
+A. Panic disorder
 
-B. Specific phobia
+B. Illness anxiety disorder
 
-C. Panic disorder
+C. Obsessive-compulsive disorder
 
 D. Generalized anxiety disorder
 
@@ -82,38 +82,38 @@ D. Generalized anxiety disorder
 03. Neuroscience
 Neurotransmitters, circuits and how the brain works.
 
-3.1. The inhibitory workhorse
-Which neurotransmitter mediates much of the fast inhibitory signalling in the adult brain?
+3.1. Depolarising does not settle the question
+A neuron rests at -70 mV, its spike threshold is -50 mV, and a GABA-A conductance reverses near -65 mV. Opening it slightly depolarises the cell but reduces the effect of a simultaneous excitatory input. Which description fits?
 
-A. GABA
+A. Depolarising but potentially inhibitory through shunting of excitation
 
-B. Glutamate
+B. Excitatory because the voltage moves towards threshold even when the concurrent EPSP is shunted
 
-C. Dopamine
+C. Inhibitory specifically because chloride conductance must hyperpolarise the membrane
 
-D. Melatonin
+D. Initially excitatory and then inhibitory solely because receptor activation becomes metabotropic
 
-3.2. The excitatory workhorse
-Which transmitter mediates much of the fast excitatory signalling in the central nervous system?
+3.2. Where is a strengthened synapse expressed?
+After a plasticity-inducing protocol, a glutamatergic synapse has a larger AMPA-mediated postsynaptic response, while tests of presynaptic release are unchanged. Which account is most directly supported?
 
-A. Glutamate
+A. Postsynaptic expression through increased AMPA-mediated responsiveness
 
-B. Oxytocin
+B. Presynaptic expression through a higher release probability
 
-C. Melatonin
+C. Postsynaptic weakening offset by a larger presynaptic release pool
 
-D. Acetylcholine
+D. A change in intrinsic spike threshold rather than the measured synaptic responsiveness
 
-3.3. Acetylcholine has more than one job
-Which pairing is most accurate?
+3.3. One transmitter, different targets
+The same transmitter activates skeletal neuromuscular junctions and modulates cortical attention, with different receptor families contributing at different sites. Which account best identifies the common system?
 
-A. Only visual colour perception
+A. Noradrenaline acting through adrenergic receptors at both skeletal end plates and cortical targets
 
-B. Only production of cerebrospinal fluid
+B. Dopamine acting at nicotinic receptors in muscle and D2 receptors in cortex
 
-C. Neuromuscular transmission and contributions to attention and memory
+C. Acetylcholine acting through distinct peripheral and central receptor systems
 
-D. Only the transport of oxygen in red blood cells
+D. Glutamate acting as the primary skeletal end-plate transmitter and cortical modulator
 
 
 04. Psychotherapy toolkit
@@ -122,35 +122,35 @@ Methods, origins and the language of therapy.
 4.1. The dialectic
 Which statement best expresses the acceptance-change balance in DBT?
 
-A. Acceptance means no change is ever needed
+A. Accepting the emotion means postponing change work until distress has substantially subsided
 
 B. I can accept my current experience while working to change harmful patterns
 
-C. Change requires rejecting every current feeling
+C. Change strategies are prioritised first, while validation is reserved for setbacks
 
-D. Accepting a feeling means endorsing every action it produces
+D. Acceptance concerns present behaviour, whereas change work is limited to the interpretation of it
 
 4.2. The four skills groups
 Which list gives the standard DBT skills modules?
 
-A. Dream analysis, hypnosis, free association and phrenology
+A. Mindfulness, behavioural activation, exposure and cognitive restructuring
 
-B. Only relaxation and positive affirmations
+B. Distress tolerance, motivational interviewing, relapse prevention and problem solving
 
 C. Mindfulness, distress tolerance, emotion regulation and interpersonal effectiveness
 
-D. Only psychoeducation and interpretation of dreams
+D. Emotion regulation, cognitive defusion, values clarification and committed action
 
 4.3. An automatic thought
 In CBT, what is an automatic thought?
 
-A. A reflex that never has any verbal or visual content
+A. A relatively enduring general belief about oneself
 
-B. A guaranteed objective fact
+B. A conditional rule linking performance to acceptance
 
 C. A quickly arising interpretation of a situation
 
-D. A mental event that never changes with context
+D. A deliberate reappraisal generated after evaluating evidence
 
 
 05. A little Gaeilge
@@ -159,35 +159,35 @@ Practical Irish at A2/B1, one small step at a time.
 5.1. The negative of tá
 Complete: ___ mé tuirseach. Meaning: I am not tired.
 
-A. An
+A. Ní raibh
 
 B. Níl
 
-C. Ní
+C. Ní bheidh
 
-D. Bhí
+D. Ní bhíonn
 
 5.2. Where is the bus?
 Which question means 'Where is the bus?'
 
-A. Cé hé an bus?
+A. Cá raibh an bus?
 
-B. Conas atá an bus?
+B. Cá mbeidh an bus?
 
 C. Cá bhfuil an bus?
 
-D. Cad is ainm don bhus?
+D. Cathain a bheidh an bus ann?
 
 5.3. Saying your name
 Which sentence means 'My name is Matthew'?
 
-A. Is maith liom Matthew.
+A. Matthew is ainm duit.
 
-B. Tá Matthew agam.
+B. Matthew is ainm dó.
 
 C. Matthew is ainm dom.
 
-D. Is Matthew orm.
+D. Cad is ainm duit?
 
 
 06. Music theory, finally
@@ -196,13 +196,13 @@ A few minutes of practice count. Start here.
 6.1. Quavers in a bar
 How many quavers (eighth notes) fill a 4/4 bar containing only quavers?
 
-A. Six
+A. Four
 
 B. Eight
 
-C. Four
+C. Six
 
-D. Twelve
+D. Sixteen
 
 6.2. A dot changes duration
 In 4/4, how many crotchet beats does a dotted minim (dotted half note) last?
@@ -213,23 +213,23 @@ B. Four
 
 C. Three
 
-D. One
+D. Six
 
 6.3. Sharps and flats
 In standard Western notation, what does a sharp normally do to a note?
 
-A. Raises it by one octave
+A. Raises it by one whole tone
 
 B. Raises it by one semitone
 
-C. Always makes it louder
+C. Lowers it by one semitone
 
-D. Lowers it by one semitone
+D. Raises it by one octave
 
 
-07. Ireland’s News — social justice editorial priorities
+07. España: cinco noticias de la semana
 
-Archive layout sample: no historical news has been reconstructed.
+Ejemplo del archivo: no se han reconstruido noticias de semanas anteriores.
 
 
 ANSWER KEY AND WORKED EXAMPLES
@@ -270,23 +270,23 @@ Answer: D. Generalized anxiety disorder
 Generalized anxiety disorder involves difficult-to-control excessive worry across several areas with associated symptoms and impairment. DSM-5-TR adult duration is at least six months; it is not restricted to one object or social scrutiny.
 Worked example / practice: Ask what the worry concerns, how controllable it feels and its duration, rather than treating worry as diagnostic by itself.
 
-3.1. The inhibitory workhorse
-Which neurotransmitter mediates much of the fast inhibitory signalling in the adult brain?
-Answer: A. GABA
-GABA is a major inhibitory transmitter in the mature central nervous system. Effects depend on receptor type and ionic conditions.
-Worked example / practice: Excitation and inhibition work together: inhibiting one neuron can even disinhibit a downstream neuron.
+3.1. Depolarising does not settle the question
+A neuron rests at -70 mV, its spike threshold is -50 mV, and a GABA-A conductance reverses near -65 mV. Opening it slightly depolarises the cell but reduces the effect of a simultaneous excitatory input. Which description fits?
+Answer: A. Depolarising but potentially inhibitory through shunting of excitation
+Excitatory versus inhibitory describes the effect on firing probability, not simply the direction of the voltage change. A conductance with reversal below threshold can reduce the impact of concurrent excitation by shunting it.
+Worked example / practice: Ask separately where the conductance drives voltage and how the added conductance changes a concurrent EPSP.
 
-3.2. The excitatory workhorse
-Which transmitter mediates much of the fast excitatory signalling in the central nervous system?
-Answer: A. Glutamate
-Glutamate acts at several receptor families, including AMPA and NMDA receptors, and is central to excitatory transmission.
-Worked example / practice: AMPA and NMDA are receptor names, while glutamate is a transmitter that can activate them.
+3.2. Where is a strengthened synapse expressed?
+After a plasticity-inducing protocol, a glutamatergic synapse has a larger AMPA-mediated postsynaptic response, while tests of presynaptic release are unchanged. Which account is most directly supported?
+Answer: A. Postsynaptic expression through increased AMPA-mediated responsiveness
+With presynaptic release held unchanged, increased postsynaptic responsiveness is the most direct account. A larger response does not by itself establish whether receptor number, conductance or another postsynaptic factor changed.
+Worked example / practice: Do not infer more transmitter release merely because the recorded postsynaptic current became larger.
 
-3.3. Acetylcholine has more than one job
-Which pairing is most accurate?
-Answer: C. Neuromuscular transmission and contributions to attention and memory
-Acetylcholine acts at skeletal neuromuscular junctions and in central circuits involved in cognition and arousal.
-Worked example / practice: The same transmitter can work in the peripheral nervous system and in brain circuits; location changes its role.
+3.3. One transmitter, different targets
+The same transmitter activates skeletal neuromuscular junctions and modulates cortical attention, with different receptor families contributing at different sites. Which account best identifies the common system?
+Answer: C. Acetylcholine acting through distinct peripheral and central receptor systems
+Acetylcholine acts at nicotinic receptors at skeletal neuromuscular junctions and through nicotinic and muscarinic systems in the brain. A shared transmitter does not imply an identical effect at each target.
+Worked example / practice: Distinguish transmitter identity from receptor subtype and circuit function when comparing two tissues.
 
 4.1. The dialectic
 Which statement best expresses the acceptance-change balance in DBT?

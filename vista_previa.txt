@@ -1,6 +1,6 @@
 PREVIEW / DEMO — sample edition, never sent.
 
-Matt's Newsletter | 2026-W47 | 20 November 2026
+Matt's Newsletter | 2026-W47 | 21 November 2026
 
 Try the questions before the answer key.
 
@@ -9,37 +9,37 @@ Try the questions before the answer key.
 Symptoms, brain regions and the most likely syndrome.
 
 1.1. The tool-use puzzle
-After a dominant parietal stroke, a patient understands the instruction and has adequate strength but cannot correctly pantomime brushing their teeth. Which pairing fits?
+After a dominant parietal stroke, a patient understands the instruction and has adequate strength but cannot correctly pantomime brushing their teeth. They recognise the toothbrush, explain its use and can organise a familiar multistep sequence. Which pairing fits?
 
-A. Primary muscle weakness; peripheral motor unit
+A. Apraxia of speech; dominant premotor network
 
 B. Ideomotor apraxia; dominant parietofrontal praxis network
 
-C. Cerebellar ataxia; cerebellar motor coordination network
+C. Conceptual apraxia; action-knowledge network
 
-D. Auditory verbal agnosia; bilateral superior temporal pathways
+D. Optic ataxia; dorsal visual network
 
 1.2. Four clues together
 A patient with a left angular-gyrus-region infarct has difficulty calculating, writing, identifying fingers and distinguishing left from right. Which pairing is most likely?
 
-A. Korsakoff syndrome; diencephalic memory circuits
+A. Dominant parietal constructional impairment without the classic four-feature cluster
 
-B. Balint syndrome; bilateral parieto-occipital regions
+B. Balint syndrome; bilateral parieto-occipital network
 
 C. Gerstmann syndrome; dominant inferior parietal region
 
-D. Prosopagnosia; ventral face-recognition pathways
+D. Dominant posterior aphasia with secondary calculation difficulty
 
 1.3. A changed social filter
 After orbitofrontal contusions in a road collision, a previously considerate person makes tactless remarks and risky choices despite intact basic language. Which pairing fits best?
 
-A. Primary visual loss; occipital cortex
+A. Dysexecutive syndrome dominated by dorsolateral planning impairment
 
 B. Disinhibition; orbitofrontal and ventromedial prefrontal networks
 
-C. Wernicke-type aphasia; posterior temporal cortex
+C. Abulia dominated by medial frontal initiation failure
 
-D. Anterograde amnesia; hippocampal networks
+D. Affective aprosodia dominated by right frontotemporal processing
 
 
 02. Mental health case files
@@ -50,9 +50,9 @@ DSM-5-TR. For two years, an adult has immediate intense fear around dogs, avoids
 
 A. Specific phobia
 
-B. Social anxiety disorder
+B. Agoraphobia
 
-C. Generalized anxiety disorder
+C. Social anxiety disorder
 
 D. Obsessive-compulsive disorder
 
@@ -61,20 +61,20 @@ DSM-5-TR. For eight months, an adult has excessive fear of separation from their
 
 A. Separation anxiety disorder
 
-B. Agoraphobia
+B. Generalized anxiety disorder
 
-C. Specific phobia
+C. Agoraphobia
 
-D. Panic disorder
+D. Post-traumatic stress disorder
 
 2.3. Speech changes with the setting
 DSM-5-TR. A child speaks freely at home but consistently cannot speak at school for three months beyond the initial settling-in period. They know the school language, and the pattern interferes with learning and friendships. Which diagnosis best fits this fictional case?
 
-A. A language knowledge gap alone
+A. Social anxiety disorder
 
-B. Autism spectrum disorder established solely from silence
+B. Language disorder across settings
 
-C. Schizophrenia
+C. Autism spectrum disorder
 
 D. Selective mutism
 
@@ -83,37 +83,37 @@ D. Selective mutism
 Neurotransmitters, circuits and how the brain works.
 
 3.1. Thalamic relay
-Which sensory pathway reaches primary cortex without a first-order thalamic relay before its initial cortical destination?
+A tracer study follows a sensory pathway to its initial cortical destination before any first-order thalamic relay. Which modality most clearly fits this exception to the usual introductory sensory-relay pattern?
 
-A. Vision
+A. Audition
 
-B. Somatosensation
+B. Vision
 
 C. Olfaction
 
-D. Audition
+D. Somatosensation
 
 3.2. Keeping time inside
-Which hypothalamic structure is a central circadian pacemaker?
+A lesion disrupts light-based synchronisation of the central circadian pacemaker while leaving basic retinal detection intact. Which hypothalamic target is the most direct candidate?
 
-A. Substantia nigra
+A. Paraventricular nucleus
 
 B. Suprachiasmatic nucleus
 
-C. Angular gyrus
+C. Lateral hypothalamic area
 
-D. Primary somatosensory cortex
+D. Ventromedial hypothalamic nucleus
 
 3.3. Myelin's contribution
-Why does myelin generally increase conduction speed along an axon?
+Two otherwise comparable axons differ in myelination. In the myelinated axon, active spike regeneration is concentrated at nodes rather than distributed continuously along each internode. Which account explains faster conduction?
 
-A. It turns an axon into a blood vessel
+A. It increases internodal capacitance so depolarisation is stored longer between nodes
 
 B. It supports rapid saltatory conduction between nodes
 
-C. It makes every synapse release more dopamine
+C. It lowers internodal membrane resistance so more current leaves the axon between nodes
 
-D. It eliminates the need for all action potentials
+D. It acts mainly by accelerating refractory recovery at each nodal membrane
 
 
 04. Psychotherapy toolkit
@@ -122,35 +122,35 @@ Methods, origins and the language of therapy.
 4.1. Socratic curiosity
 What is guided discovery in CBT?
 
-A. Telling a client exactly what to believe
+A. Reflecting back the person's meaning without systematically testing alternative interpretations
 
-B. Interpreting every statement through a fixed dream dictionary
+B. Offering a plausible formulation and asking whether the person agrees
 
 C. Using collaborative questions to help someone examine meanings and alternatives
 
-D. Reading a script without considering the client’s answer
+D. Assigning a behavioural task before jointly exploring the prediction behind it
 
 4.2. The all-or-nothing trap
 Which statement is an example of all-or-nothing thinking?
 
 A. If I do not get full marks, the whole effort was worthless
 
-B. I missed two questions and can review those topics
+B. They noticed one mistake, so they probably think I am incompetent
 
-C. This task is difficult and I can ask for help
+C. Because I feel embarrassed, the performance must have gone badly
 
-D. I did well on some parts and need practice on others
+D. My good answers do not count because those questions were easy
 
 4.3. Exposure's purpose
 Which is the best general description of therapeutic exposure?
 
 A. Planned contact with feared but sufficiently safe situations to support new learning
 
-B. Forcing someone into genuine danger
+B. Repeated practice designed to remove anxious sensations before contact with the feared cue
 
-C. A guarantee that anxiety vanishes immediately
+C. Changing the feared thought through evidence review without encountering the relevant situation
 
-D. Avoiding all reminders forever to ensure new learning
+D. Entering feared situations while preserving every protective strategy throughout the learning task
 
 
 05. A little Gaeilge
@@ -161,22 +161,22 @@ Which word means 'yesterday'?
 
 A. inné
 
-B. amárach
+B. inniu
 
-C. inniu
+C. amárach
 
-D. anocht
+D. aréir
 
 5.2. Past tense of bí
 Complete: ___ mé sa bhaile inné. Meaning: I was at home yesterday.
 
-A. Beidh
+A. Tá
 
-B. Tá
+B. Beidh
 
 C. Bhí
 
-D. Is
+D. Bheadh
 
 5.3. Future tense of bí
 Complete: ___ mé ann amárach. Meaning: I will be there tomorrow.
@@ -185,9 +185,9 @@ A. Bhí
 
 B. Beidh
 
-C. Níl
+C. Bheadh
 
-D. Bíonn
+D. Bím
 
 
 06. Music theory, finally
@@ -202,60 +202,60 @@ B. E G B D F
 
 C. G B D F A
 
-D. A C E G
+D. F A C E G
 
 6.2. A minor triad
 Which notes form an A minor triad?
 
 A. A C E
 
-B. A D E
+B. A C-sharp E
 
-C. A C-sharp E
+C. A C E-flat
 
-D. A C E-flat
+D. A B E
 
 6.3. First inversion
 Which voicing is a C major triad in first inversion, with the lowest note written first?
 
 A. E G C
 
-B. C E G
+B. G C E
 
-C. G C E
+C. C G E
 
-D. C G E
+D. C E G
 
 
-07. Ireland’s News — social justice editorial priorities
+07. España: cinco noticias de la semana
 
-Preview uses a dated, source-linked news snapshot; it is not a live feed fetch.
+Previsualización con una muestra fechada de noticias enlazadas a sus fuentes; no es una consulta en directo.
 
-Credit unions seek answers on scale of data breach as IT provider says flaw is fixed
-The Journal | 19 November 2026
-https://www.thejournal.ie/credit-union-wellington-it-robert-troy-7231923-Nov2026/
+Irene Montero exige salir de la OTAN y destinar el gasto militar a sanidad y educación: "Militares yanquis go home"
+Europa Press — Nacional | 20 de noviembre de 2026
+https://www.europapress.es/nacional/noticia-irene-montero-exige-salir-otan-destinar-gasto-militar-sanidad-educacion-militares-yanquis-go-home-20261120210111.html
 
-Parents Council raises concern over school transport fees
-RTÉ — Ireland | 20 November 2026
-https://www.rte.ie/news/politics/2026/1120/1599942-school-fees-politics/
+Sánchez anuncia la prórroga del impuesto a la banca en 2027 para recaudar 1.400 millones que destinará a vivienda
+Europa Press — Nacional | 21 de noviembre de 2026
+https://www.europapress.es/nacional/noticia-sanchez-anuncia-prorroga-impuesto-banca-2027-recaudar-1400-millones-destinara-vivienda-20261121093959.html
 
-Housing shortage can trap women in abusive homes - report
-RTÉ — Ireland | 19 November 2026
-https://www.rte.ie/news/2026/1119/1599841-womens-council-report/
+Amnistía Internacional contabiliza 61 casos de "uso excesivo de la fuerza" policial durante la huelga general
+elDiario.es — Política | 20 de noviembre de 2026
+https://www.eldiario.es/politica/amnistia-internacional-contabiliza-61-casos-excesivo-fuerza-policial-durante-huelga-general_1_13676557.html
 
-The very public civil war in the health service
-The Journal | 20 November 2026
-https://www.thejournal.ie/hse-podcast-civil-war-analysis-7231786-Nov2026/
+El mapa más detallado de las elecciones generales desde el 2000: los votos a cada partido, calle a calle
+elDiario.es — Política | 20 de noviembre de 2026
+https://www.eldiario.es/politica/mapa-detallado-elecciones-generales-2000-votos-partido-calle-calle_1_13671872.html
 
-Taoiseach Micheál Martin to meet CUH chief Jennifer Kearney next week
-Irish Examiner — Ireland | 19 November 2026
-https://www.irishexaminer.com/news/arid-41940087.html
+Sánchez vuelve al ataque para dejar atrás el debate mientras Feijóo intenta explotarlo al máximo
+EL PAÍS — España | 21 de noviembre de 2026
+https://elpais.com/espana/elecciones-generales/2026-11-21/sanchez-vuelve-al-ataque-para-dejar-atras-el-debate-mientras-feijoo-intenta-explotarlo-al-maximo.html
 
 
 ANSWER KEY AND WORKED EXAMPLES
 
 1.1. The tool-use puzzle
-After a dominant parietal stroke, a patient understands the instruction and has adequate strength but cannot correctly pantomime brushing their teeth. Which pairing fits?
+After a dominant parietal stroke, a patient understands the instruction and has adequate strength but cannot correctly pantomime brushing their teeth. They recognise the toothbrush, explain its use and can organise a familiar multistep sequence. Which pairing fits?
 Answer: B. Ideomotor apraxia; dominant parietofrontal praxis network
 Apraxia concerns learned purposeful actions that cannot be explained simply by weakness, sensory loss or misunderstanding. Praxis relies on a distributed network.
 Worked example / practice: Ask for a familiar gesture, then check comprehension and strength. Those control checks matter before interpreting a gesture error.
@@ -291,19 +291,19 @@ Selective mutism involves a consistent failure to speak in specific expected set
 Worked example / practice: Check language familiarity, hearing, developmental history and setting differences before interpreting silence as a disorder.
 
 3.1. Thalamic relay
-Which sensory pathway reaches primary cortex without a first-order thalamic relay before its initial cortical destination?
+A tracer study follows a sensory pathway to its initial cortical destination before any first-order thalamic relay. Which modality most clearly fits this exception to the usual introductory sensory-relay pattern?
 Answer: C. Olfaction
 Initial olfactory cortical processing is unusual in bypassing a first-order thalamic relay. Later olfactory processing can still involve thalamic circuits.
 Worked example / practice: Vision uses the lateral geniculate nucleus on a major route to primary visual cortex; olfaction follows a different initial route.
 
 3.2. Keeping time inside
-Which hypothalamic structure is a central circadian pacemaker?
+A lesion disrupts light-based synchronisation of the central circadian pacemaker while leaving basic retinal detection intact. Which hypothalamic target is the most direct candidate?
 Answer: B. Suprachiasmatic nucleus
 The suprachiasmatic nucleus helps coordinate circadian rhythms and receives information related to environmental light.
 Worked example / practice: A regular light-dark cycle can help synchronise the clock. The clock is more than simply a conscious decision to feel sleepy.
 
 3.3. Myelin's contribution
-Why does myelin generally increase conduction speed along an axon?
+Two otherwise comparable axons differ in myelination. In the myelinated axon, active spike regeneration is concentrated at nodes rather than distributed continuously along each internode. Which account explains faster conduction?
 Answer: B. It supports rapid saltatory conduction between nodes
 Myelin alters electrical properties of the axon and supports regeneration of action potentials at nodes of Ranvier.
 Worked example / practice: Picture the nodes as sites where the signal is actively regenerated, not as literal gaps that the signal magically jumps across.

@@ -6,6 +6,8 @@ All quiz vignettes, distractors, explanations and worked examples were written f
 
 - [OpenStax: Introduction to Behavioral Neuroscience](https://openstax.org/details/books/introduction-behavioral-neuroscience): broad background for neural systems, methods, cognition and neurotransmission.
 - [OpenStax: neurotransmitters made from amino acids](https://openstax.org/books/introduction-behavioral-neuroscience/pages/3-2-neurotransmitters-made-from-amino-acids): transmitter functions depend on pathways and receptors.
+- [OpenStax: neural signalling](https://openstax.org/books/introduction-behavioral-neuroscience/pages/2-4-mechanisms-of-neural-signaling) and [bioelectricity](https://openstax.org/books/introduction-behavioral-neuroscience/pages/2-3-principles-of-bioelectricity): conductances, ion gradients, propagation and synapses.
+- [OpenStax: reward circuitry](https://openstax.org/books/introduction-behavioral-neuroscience/pages/14-3-neural-circuitry-of-drug-reward): reward prediction errors and the limits of a pleasure-only dopamine account.
 - [NIDCD: Aphasia](https://www.nidcd.nih.gov/health/aphasia): language syndromes, causes and limitations of simple localisation.
 - [NCBI Bookshelf: Agnosia](https://www.ncbi.nlm.nih.gov/books/NBK493156/): recognition impairments and related clinical terminology.
 
@@ -52,12 +54,18 @@ Instructions are in English. Tasks use short practical sentences at approximatel
 
 Pitch-distance questions state equal temperament where useful. Rhythmic questions specify the time signature and beat unit. Irish/British terminology is paired with American terminology where needed, for example crotchet / quarter note.
 
-## Ireland’s News
+## Spain: weekly news in Spanish
 
-- [RTÉ Ireland](https://www.rte.ie/news/ireland/).
-- [The Journal](https://www.thejournal.ie/).
-- [Irish Examiner Ireland](https://www.irishexaminer.com/news/).
+- [EL PAÍS: Spain](https://elpais.com/espana/) and its [official RSS directory](https://elpais.com/info/rss/).
+- [elDiario.es: politics](https://www.eldiario.es/politica/).
+- [Europa Press: national news](https://www.europapress.es/nacional/).
 
-The social justice editorial lens is explicit. Source headlines remain attributed and linked. Selection is automated from recent dated feeds; it does not claim an exhaustive or uniquely objective ranking of Ireland's most important events.
+Five recent national stories are selected using cross-outlet coverage, public-interest terms and publication date. Headlines, dates, source labels and availability notes are in Spanish. Learning sections remain in English. This is an automated selection from the available feeds within the past seven days, not an exhaustive editorial ranking of all events in Spain.
 
-The reproducible preview snapshot was fetched from the three live RSS feeds on 20 November 2026. It contains original source headlines, direct article links and publication timestamps. Exact records are in `previews/news_snapshot.json`. The snapshot is only a preview input: live sends always fetch fresh RSS. The example archive does not invent older weeks of news.
+The preview snapshot was fetched from the Spanish RSS feeds on 21 November 2026. It contains five source-linked headlines with publication timestamps. Exact records are in `previews/news_snapshot.json`. The snapshot is only a preview input: live sends fetch fresh RSS. The example archive does not reconstruct older weeks of news.
+
+## Difficulty revision
+
+All six banks retain 120 questions, stable IDs and four answer positions. Distractors now emphasise nearby concepts, differential diagnoses, related grammatical forms and common musical errors. Neuropsychology vignettes include additional discriminating findings where needed. Irish remains approximately A2/B1 and music remains introductory.
+
+Neuroscience has a more substantial revision: applied experimental scenarios replace simple recall prompts, with attention to prediction errors, receptor/circuit context, shunting inhibition, synaptic mechanisms, method selection, confounds and limits on causal inference. Some correct answer content was updated to match the revised question. Classification names in mental-health cases retain the stated DSM-5-TR or ICD-11 framework.

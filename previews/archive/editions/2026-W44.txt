@@ -1,6 +1,6 @@
 PREVIEW / DEMO — sample edition, never sent.
 
-Matt's Newsletter | 2026-W44 | 30 October 2026
+Matt's Newsletter | 2026-W44 | 31 October 2026
 
 Try the questions before the answer key.
 
@@ -9,37 +9,37 @@ Try the questions before the answer key.
 Symptoms, brain regions and the most likely syndrome.
 
 1.1. Words that will not come
-After a left middle cerebral artery stroke affecting the inferior frontal language network, a right-handed teacher speaks in short, effortful phrases. Simple comprehension is relatively preserved, and the right arm is weak. Which syndrome and network fit best?
+After a left middle cerebral artery stroke affecting the inferior frontal language network, a right-handed teacher speaks in short, effortful phrases. Simple comprehension is relatively preserved, and the right arm is weak. Phrase repetition is also impaired. Which syndrome and network fit best?
 
-A. Wernicke-type aphasia; posterior temporal language network
+A. Transcortical motor aphasia; dominant frontal initiation network
 
-B. Hemispatial neglect; right attention network
+B. Conduction aphasia; dominant dorsal language pathways
 
 C. Broca-type aphasia; dominant frontal language network
 
-D. Pure word deafness; bilateral auditory-language networks
+D. Apraxia of speech without aphasia; dominant premotor speech network
 
 1.2. Fluent but hard to follow
-Following a left posterior temporal stroke, a patient speaks easily but uses invented words and does not understand simple spoken instructions. Hearing is intact. Which pairing is most likely?
+Following a left posterior temporal stroke, a patient speaks easily but uses invented words and does not understand simple spoken instructions. Hearing is intact. Repeating an unfamiliar phrase is impaired as well as understanding it. Which pairing is most likely?
 
 A. Wernicke-type aphasia; dominant posterior temporal language network
 
-B. Cerebellar ataxia; cerebellar hemisphere
+B. Transcortical sensory aphasia; posterior watershed language connections
 
-C. Broca-type aphasia; dominant inferior frontal network
+C. Conduction aphasia; dominant dorsal language pathways
 
-D. Gerstmann syndrome; dominant inferior parietal region
+D. Anomic aphasia; dominant lexical retrieval network
 
 1.3. Half a plate
 After a right parietal stroke, a patient eats food only from the right half of the plate and ignores people on the left. Basic visual fields are intact on examination. Which pairing fits?
 
-A. Left homonymous hemianopia; right primary visual cortex
+A. Left homonymous hemianopia; right post-chiasmal visual pathway
 
-B. Broca-type aphasia; left inferior frontal network
+B. Left visual extinction without persistent neglect; right attention network
 
 C. Left hemispatial neglect; right frontoparietal attention network
 
-D. Anterograde amnesia; bilateral hippocampal systems
+D. Visual object agnosia; bilateral ventral visual pathways
 
 
 02. Mental health case files
@@ -48,72 +48,72 @@ Fictional diagnostic cases: DSM-5-TR and ICD-11.
 2.1. Three weeks unlike the usual self
 DSM-5-TR. Medical and substance-related explanations have been assessed and excluded. For three weeks, an adult has depressed mood, no enjoyment, early waking, low energy, poor concentration and marked guilt nearly every day, and is missing work. There is no history of mania or hypomania. Which diagnosis best fits this fictional case?
 
-A. Panic disorder
+A. Persistent depressive disorder
 
-B. Bipolar I disorder
+B. Bipolar II disorder
 
 C. Major depressive disorder
 
-D. Persistent depressive disorder
+D. Adjustment disorder with depressed mood
 
 2.2. A low mood across years
 DSM-5-TR. Medical and substance-related explanations have been excluded. An adult has felt low most days for three years, with poor self-esteem, fatigue and hopelessness. There have been no symptom-free intervals longer than a month and no elevated mood episodes. Which diagnosis best fits this fictional case?
 
-A. Panic disorder
+A. Major depressive disorder limited to a recent episode
 
 B. Persistent depressive disorder
 
 C. Cyclothymic disorder
 
-D. Brief psychotic disorder
+D. Adjustment disorder with depressed mood
 
 2.3. A sustained and disruptive high
 DSM-5-TR. For nine days, an adult has unusually elevated mood and increased energy, sleeps two hours without tiredness, speaks rapidly, shows racing thoughts and grandiose plans, and makes disastrous purchases requiring hospital care. Which diagnosis best fits this fictional case?
 
-A. Generalized anxiety disorder
+A. Bipolar II disorder
 
-B. Persistent depressive disorder
+B. Cyclothymic disorder
 
 C. Bipolar I disorder
 
-D. Bipolar II disorder
+D. Major depressive disorder with mixed features
 
 
 03. Neuroscience
 Neurotransmitters, circuits and how the brain works.
 
-3.1. Dopamine beyond pleasure
-Which description best captures dopamine's roles in the brain?
+3.1. Dopamine and an unexpected outcome
+In a classic reward-learning experiment, a phasic dopamine response shifts from an unexpected reward to the cue predicting it. When the predicted reward is omitted, activity briefly falls at its expected delivery time. Which interpretation best fits this pattern?
 
-A. The sole neurotransmitter used for vision
+A. The predicted value of the reward itself, independent of the outcome
 
-B. A chemical that produces only pleasure
+B. An unsigned surprise signal that should increase after either omission or delivery
 
-C. Movement, motivation, learning and reward-related signalling
+C. A signed reward prediction error rather than a direct readout of pleasure
 
-D. It exclusively carries signals between the two eyes
+D. A sensory response to reward consumption that is merely delayed by the cue
 
-3.2. Serotonin without the slogan
-Which statement is most accurate about serotonin?
+3.2. A transporter is not a mood meter
+A drug rapidly blocks serotonin reuptake, but its longer-term behavioural effects vary across people and emerge over time. Which explanation best avoids an unjustified one-chemical account of mood?
 
-A. It operates only in the spinal cord
+A. Transporter occupancy should predict mood once drug concentration reaches a stable level
 
-B. It is a direct happiness meter
+B. The delayed effect identifies serotonin deficiency as the initial cause of the symptoms
 
-C. It contributes to several processes, including mood, sleep and appetite
+C. Receptor, circuit and adaptation differences limit a simple serotonin-level explanation
 
-D. Its only role is producing skeletal muscle contraction
+D. Differences between people mainly reflect how quickly serotonin concentration rises
 
-3.3. Oxytocin in context
-Which statement about oxytocin is most accurate?
+3.3. A social effect that changes with context
+In a hypothetical study, oxytocin changes responses to social cues differently depending on familiarity and perceived threat. Which account is most consistent with that result?
 
-A. It is the brain's primary excitatory transmitter
+A. A generally prosocial effect whose direction is independent of social context
 
-B. It has reproductive roles and context-dependent effects on social behaviour
+B. A context-sensitive influence on social processing rather than uniform prosociality
 
-C. It universally makes everyone trust everyone else
+C. A fixed increase in reward value that predicts the same response to familiar and unfamiliar cues
 
-D. It controls every social interaction independently of context
+D. A specifically anxiolytic effect that should reduce responses to every threatening cue
 
 
 04. Psychotherapy toolkit
@@ -122,35 +122,35 @@ Methods, origins and the language of therapy.
 4.1. CBT's central link
 Which relationship is central to a standard CBT formulation?
 
-A. Thoughts must always be positive to be useful
+A. Changing thought content is the necessary first step before behaviour can alter emotion
 
 B. Thoughts, emotions and behaviours influence one another in context
 
-C. Only childhood dreams influence present behaviour
+C. Distress is maintained chiefly by distorted thoughts rather than reciprocal behavioural and contextual processes
 
-D. Only genetic factors matter in every therapy session
+D. Behaviour changes emotion directly, while interpretations are treated as secondary consequences
 
 4.2. Where cognitive therapy began
 Who is particularly associated with developing cognitive therapy in the 1960s?
 
 A. Aaron T. Beck
 
-B. Marsha Linehan as the founder of psychoanalysis
+B. Albert Ellis
 
-C. Ivan Pavlov as its sole founder in the 1860s
+C. Donald Meichenbaum
 
-D. Carl Rogers in the 1920s as its sole founder
+D. Joseph Wolpe
 
 4.3. DBT's original developer
 Who developed dialectical behaviour therapy with colleagues?
 
-A. Aaron Beck as its sole developer
+A. Aaron T. Beck
 
 B. Marsha Linehan
 
-C. Carl Jung
+C. Steven C. Hayes
 
-D. Sigmund Freud
+D. Alan E. Kazdin
 
 
 05. A little Gaeilge
@@ -159,35 +159,35 @@ Practical Irish at A2/B1, one small step at a time.
 5.1. How are you?
 Choose the ordinary Irish question meaning 'How are you?'
 
-A. Cé hé sin?
+A. Conas a bhí tú?
 
-B. Cá bhfuil tú?
+B. Conas atá sí?
 
 C. Conas atá tú?
 
-D. Cad is ainm duit?
+D. Conas a bheidh tú?
 
 5.2. I have a book
 Complete: Tá leabhar ___. Meaning: I have a book.
 
-A. liom
+A. agat
 
-B. orm
+B. aige
 
 C. agam
 
-D. duit
+D. liom
 
 5.3. I like music
 Choose the sentence meaning 'I like music.'
 
-A. Is ceol orm.
+A. Is maith leat ceol.
 
 B. Is maith liom ceol.
 
-C. Tá maith agam ceol.
+C. Ba mhaith liom ceol.
 
-D. Tá ceol agam.
+D. Ní maith liom ceol.
 
 
 06. Music theory, finally
@@ -198,50 +198,50 @@ In 4/4, with the crotchet (quarter note) as one beat, how long is a minim (half 
 
 A. Two beats
 
-B. Half a beat
+B. One beat
 
-C. Four beats
+C. Three beats
 
-D. Three beats
+D. Four beats
 
 6.2. The major-scale recipe
 Which interval pattern builds a major scale from its tonic?
 
 A. Tone, tone, semitone, tone, tone, tone, semitone
 
-B. Seven consecutive semitones
+B. Tone, semitone, tone, tone, semitone, tone, tone
 
-C. Tone, semitone, tone, tone, semitone, tone, tone
+C. Tone, semitone, tone, tone, tone, semitone, tone
 
-D. Semitone, semitone, tone, tone, tone, tone, tone
+D. Tone, tone, semitone, tone, tone, semitone, tone
 
 6.3. Build a C major triad
 Which notes form a root-position C major triad?
 
-A. C F G
+A. C E-flat G
 
 B. C E G
 
-C. C E-flat G
+C. C E G-sharp
 
-D. C E G-flat
+D. C F G
 
 
-07. Ireland’s News — social justice editorial priorities
+07. España: cinco noticias de la semana
 
-Archive layout sample: no historical news has been reconstructed.
+Ejemplo del archivo: no se han reconstruido noticias de semanas anteriores.
 
 
 ANSWER KEY AND WORKED EXAMPLES
 
 1.1. Words that will not come
-After a left middle cerebral artery stroke affecting the inferior frontal language network, a right-handed teacher speaks in short, effortful phrases. Simple comprehension is relatively preserved, and the right arm is weak. Which syndrome and network fit best?
+After a left middle cerebral artery stroke affecting the inferior frontal language network, a right-handed teacher speaks in short, effortful phrases. Simple comprehension is relatively preserved, and the right arm is weak. Phrase repetition is also impaired. Which syndrome and network fit best?
 Answer: C. Broca-type aphasia; dominant frontal language network
 Effortful, agrammatic language with relatively preserved simple comprehension suggests a nonfluent aphasia. Broca-type presentations often involve a wider frontal network than one small cortical area.
 Worked example / practice: Compare: fluent speech with poor comprehension points towards a posterior language-network syndrome. Try describing the contrast in one sentence.
 
 1.2. Fluent but hard to follow
-Following a left posterior temporal stroke, a patient speaks easily but uses invented words and does not understand simple spoken instructions. Hearing is intact. Which pairing is most likely?
+Following a left posterior temporal stroke, a patient speaks easily but uses invented words and does not understand simple spoken instructions. Hearing is intact. Repeating an unfamiliar phrase is impaired as well as understanding it. Which pairing is most likely?
 Answer: A. Wernicke-type aphasia; dominant posterior temporal language network
 Fluency does not guarantee meaningful language. Impaired comprehension plus fluent, disorganised speech fits a Wernicke-type pattern, with variable involvement of nearby language regions.
 Worked example / practice: A person says a long sentence but cannot follow 'close your eyes': test language comprehension rather than assuming a hearing problem.
@@ -270,23 +270,23 @@ Answer: C. Bipolar I disorder
 A manic episode includes a distinct sustained mood and energy change with associated symptoms and marked impairment, hospitalisation or psychosis. One manic episode can establish bipolar I when other explanations are excluded.
 Worked example / practice: Reduced need for sleep means sleeping little without feeling tired, rather than wanting sleep but being unable to obtain it.
 
-3.1. Dopamine beyond pleasure
-Which description best captures dopamine's roles in the brain?
-Answer: C. Movement, motivation, learning and reward-related signalling
-Dopamine has several pathways and receptor types. Its functions cannot be reduced to a single emotion.
-Worked example / practice: A reward arriving unexpectedly can change dopamine-cell firing in some circuits. Separately, nigrostriatal dopamine supports movement.
+3.1. Dopamine and an unexpected outcome
+In a classic reward-learning experiment, a phasic dopamine response shifts from an unexpected reward to the cue predicting it. When the predicted reward is omitted, activity briefly falls at its expected delivery time. Which interpretation best fits this pattern?
+Answer: C. A signed reward prediction error rather than a direct readout of pleasure
+In the classic prediction-error account, better-than-expected outcomes produce a positive error, while an omitted expected reward produces a negative error. Learned prediction shifts the response towards the cue; this is not a universal description of every dopamine neuron.
+Worked example / practice: If a cue reliably predicts coffee, the relevant learning signal may move towards the cue; unexpectedly missing the coffee can generate a negative error.
 
-3.2. Serotonin without the slogan
-Which statement is most accurate about serotonin?
-Answer: C. It contributes to several processes, including mood, sleep and appetite
-Serotonin acts through multiple receptor types in different circuits. A simple 'more serotonin means more happiness' rule is misleading.
-Worked example / practice: Try listing three systems that use serotonin. Mood regulation, sleep-related processes and appetite provide a starting set.
+3.2. A transporter is not a mood meter
+A drug rapidly blocks serotonin reuptake, but its longer-term behavioural effects vary across people and emerge over time. Which explanation best avoids an unjustified one-chemical account of mood?
+Answer: C. Receptor, circuit and adaptation differences limit a simple serotonin-level explanation
+Transporter blockade is one pharmacological action; mood-related outcomes involve multiple receptors, circuits, adaptation and contextual factors. Neither an acute transmitter change nor delayed improvement establishes a simple deficiency model.
+Worked example / practice: Separate the immediate molecular action from the later clinical outcome: they are related levels of explanation, not interchangeable measurements.
 
-3.3. Oxytocin in context
-Which statement about oxytocin is most accurate?
-Answer: B. It has reproductive roles and context-dependent effects on social behaviour
-Oxytocin participates in childbirth and milk ejection and influences some social processes. Social effects depend on the person, task and context.
-Worked example / practice: Replace the label 'love hormone' with a fuller sentence: reproductive physiology plus context-sensitive social signalling.
+3.3. A social effect that changes with context
+In a hypothetical study, oxytocin changes responses to social cues differently depending on familiarity and perceived threat. Which account is most consistent with that result?
+Answer: B. A context-sensitive influence on social processing rather than uniform prosociality
+An effect that differs by social context does not support a universal increase in trust or a single fixed behavioural outcome. Oxytocin also has established reproductive physiological roles.
+Worked example / practice: Compare responses to familiar and unfamiliar people rather than pooling them into one trust score.
 
 4.1. CBT's central link
 Which relationship is central to a standard CBT formulation?

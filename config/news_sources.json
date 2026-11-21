@@ -1,21 +1,22 @@
 {
   "days_back": 7,
   "max_stories": 5,
-  "require_priority_match": true,
+  "coverage_weight": 12,
+  "require_priority_match": false,
+  "relax_source_limit": true,
   "sources": [
-    {"name": "RTÉ — Ireland", "url": "https://www.rte.ie/feeds/rss/?index=/news/ireland/", "kind": "Reporting"},
-    {"name": "The Journal", "url": "https://www.thejournal.ie/feed/", "kind": "Reporting / analysis — see article"},
-    {"name": "Irish Examiner — Ireland", "url": "https://www.irishexaminer.com/feed/35-ireland_news.xml", "kind": "Reporting"}
+    {"name": "EL PAÍS — España", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada", "kind": "Información / análisis; consultar el artículo", "include_url": "^https://elpais\\.com/espana/"},
+    {"name": "elDiario.es — Política", "url": "https://www.eldiario.es/rss/section/1000/", "kind": "Información / análisis; consultar el artículo", "include_url": "^https://www\\.eldiario\\.es/politica/", "exclude_url": "_6_[0-9]+\\.html"},
+    {"name": "Europa Press — Nacional", "url": "https://www.europapress.es/rss/rss.aspx?ch=00066", "kind": "Información", "include_url": "^https://www\\.europapress\\.es/nacional/"}
   ],
   "priority_terms": {
-    "housing": 5, "homeless": 5, "rent": 4, "tenant": 4,
-    "worker": 4, "union": 4, "strike": 4, "pay deal": 4,
-    "poverty": 4, "inequality": 4, "disability": 4,
-    "health": 3, "hospital": 3, "education": 3, "school": 3,
-    "public service": 4, "cost of living": 4, "social": 2,
-    "climate": 3, "rights": 3, "discrimination": 4,
-    "election": 2, "budget": 3, "dáil": 2, "government": 1,
-    "taoiseach": 1, "data breach": 3, "transport": 3,
-    "asylum": 3, "refugee": 3, "child": 2
+    "vivienda": 3, "alquiler": 3, "desahucio": 3,
+    "trabajador": 3, "sindicato": 2, "huelga": 3,
+    "sanidad": 3, "educacion": 3, "educación": 3,
+    "igualdad": 3, "pobreza": 3, "derechos": 2,
+    "elecciones": 2, "gobierno": 1, "congreso": 2,
+    "tribunal": 2, "presupuesto": 2, "impuestos": 2,
+    "inundaciones": 3, "emergencia": 3, "clima": 2,
+    "corrupcion": 2, "corrupción": 2, "economia": 2, "economía": 2
   }
 }
