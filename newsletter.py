@@ -325,7 +325,7 @@ def render_email(day, selected, stories, news_note, web_url="", archive_url="", 
             f' · {total} questions · one good week of learning</p><p>{nav}</p>'
             '<p>Hi Matt,</p><p>A few brain teasers, a little Gaeilge and a reason to pick up your instrument. '
             'Try the questions first; the answer key and worked examples are at the end. After you finish all, have a beer. '
-            'Keep a note of your answers and give yourself one point per question.</p>'
+            'Or two, my friend.</p>'
             f'<p style="font-size:13px">{overview}</p></td></tr>']
     answers, answer_sections = [], []
     text = [f"{NAME} | {eid} | {english_date(day)}", "Try the questions before the answer key."]
