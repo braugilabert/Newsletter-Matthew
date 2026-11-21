@@ -1,1439 +1,1439 @@
 ID: irish-001
-TITLE: How are you?
-QUESTION: Choose the ordinary Irish question meaning 'How are you?'
-A: Conas a bhí tú?
-B: Conas atá sí?
-C: Conas atá tú?
-D: Conas a bheidh tú?
+TITLE: The journey that actually happened
+QUESTION: Read: Bhí mé chun an traein a thógáil, ach cuireadh ar ceal í. Thug mo dheirfiúr síob dom, mar ní raibh bus ar bith ag dul ag an am sin. How did the speaker actually travel?
+A: They took a later train
+B: They caught the bus
+C: Their sister gave them a lift
+D: They walked to the destination
 ANSWER: C
-EXPLANATION: Conas asks how. Cá asks where. Cé asks who. Conas atá tú? is a common standard form, with regional alternatives in everyday speech.
-EXAMPLE: Mini-dialogue: Conas atá tú? Tá mé go maith, go raibh maith agat. Meaning: How are you? I am well, thank you.
+EXPLANATION: Separate an earlier plan from the action taken after ach (but). A transport mentioned first is not necessarily the one actually used; the final completed action resolves the question.
+EXAMPLE: Bhí mé chun siúl, ach thóg mé an bus = I was going to walk, but I took the bus.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-002
-TITLE: I have a book
-QUESTION: Complete: Tá leabhar ___. Meaning: I have a book.
-A: agat
-B: aige
-C: agam
-D: liom
+TITLE: A usual pattern rather than one occasion
+QUESTION: Choose the completion that explicitly expresses a regular habit: ___ sa leabharlann gach tráthnóna tar éis na hoibre, ach tá mé sa bhaile inniu.
+A: Bhí mé
+B: Beidh mé
+C: Bím
+D: Bheinn
 ANSWER: C
-EXPLANATION: Irish commonly expresses possession using tá plus ag. Agam means at me; tá leabhar agam literally frames a book as being at me.
-EXAMPLE: Try the same pattern: Tá peann agam. Meaning: I have a pen. Tá cat agam means I have a cat.
+EXPLANATION: Bíonn and its personal forms express a habitual state or repeated pattern. Tá describes a current state; bhí and beidh place it in the past and future. Use the requested time meaning, not just a familiar form.
+EXAMPLE: Bím gnóthach ar an Luan, ach tá mé saor inniu = I am usually busy on Mondays, but I am free today.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-003
-TITLE: I like music
-QUESTION: Choose the sentence meaning 'I like music.'
-A: Is maith leat ceol.
-B: Is maith liom ceol.
-C: Ba mhaith liom ceol.
-D: Ní maith liom ceol.
+TITLE: A revised meeting time
+QUESTION: Read: Bhí an cruinniú le tosú ag 6.00, ach beidh sé uair an chloig níos déanaí. Ná bí ann ag a sé; feicfidh mé thú ag an am nua. When is the revised start?
+A: 5.00
+B: 7.00
+C: 6.00
+D: 8.00
 ANSWER: B
-EXPLANATION: Is maith liom is a common way to express liking something. Liom is the combined form of le plus mé.
-EXAMPLE: Pattern swap: Is maith liom tae = I like tea. Is maith liom an leabhar = I like the book.
+EXPLANATION: Track the revised time rather than retaining the first time mentioned. Ní ... ach can contrast a rejected arrangement with the replacement, while níos déanaí means later.
+EXAMPLE: Ní ag a sé ach ag a seacht = not at six but at seven.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-004
-TITLE: The negative of tá
-QUESTION: Complete: ___ mé tuirseach. Meaning: I am not tired.
-A: Ní raibh
-B: Níl
-C: Ní bheidh
-D: Ní bhíonn
+TITLE: The past in questions and negatives
+QUESTION: Complete the ordinary past question in this exchange: A: An ___ tú ag an gcruinniú aréir? B: Ní raibh, bhí mé ag obair.
+A: bhfuil
+B: raibh
+C: mbeidh
+D: mbeadh
 ANSWER: B
-EXPLANATION: The present negative form of bí is níl. A simple ní before tá is not the standard construction.
-EXAMPLE: Positive: Tá mé tuirseach. Negative: Níl mé tuirseach. Meaning: I am tired / I am not tired.
+EXPLANATION: Past forms of bí depend on the construction: bhí is affirmative, an raibh asks a question and ní raibh negates it. Do not substitute the present dependent form bhfuil when the ordinary past is intended.
+EXAMPLE: An raibh tú ann? Ní raibh. = Were you there? No, I was not.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-005
-TITLE: Where is the bus?
-QUESTION: Which question means 'Where is the bus?'
-A: Cá raibh an bus?
-B: Cá mbeidh an bus?
-C: Cá bhfuil an bus?
-D: Cathain a bheidh an bus ann?
+TITLE: Done already, or still to do?
+QUESTION: Read: Cheannaigh mé an leabhar cheana féin, ach níor thosaigh mé á léamh fós. Tosóidh mé anocht má bhíonn am agam. Which statement is supported?
+A: The book has already been finished
+B: The speaker still needs to buy the book tonight
+C: The book has been bought but reading has not started
+D: The speaker started it earlier but has not finished it
 ANSWER: C
-EXPLANATION: Cá bhfuil is a common where-is construction. An bus means the bus.
-EXAMPLE: Useful travel question: Cá bhfuil an stáisiún? Meaning: Where is the station?
+EXPLANATION: Cheana féin marks something already done; fós with a negative often means not yet. A future form states a plan and does not report completion.
+EXAMPLE: Cheannaigh mé é cheana féin, ach níor léigh mé é fós = I already bought it, but have not read it yet.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-006
-TITLE: Saying your name
-QUESTION: Which sentence means 'My name is Matthew'?
-A: Matthew is ainm duit.
-B: Matthew is ainm dó.
-C: Matthew is ainm dom.
-D: Cad is ainm duit?
+TITLE: A completed action and its negative
+QUESTION: Complete the explicit report 'She did not buy the book yesterday': Níor ___ sí an leabhar inné, cé go raibh airgead aici.
+A: cheannóidh
+B: cheannaíonn
+C: cheannaigh
+D: cheannódh
 ANSWER: C
-EXPLANATION: X is ainm dom is a standard naming pattern. Dom is the combined form of do plus mé.
-EXAMPLE: Swap the name: Aoife is ainm dom. To ask someone's name: Cad is ainm duit?
+EXPLANATION: A negative past report is not a future prediction or a present habit. With regular verbs, níor normally precedes a lenited past form, as in níor cheannaigh.
+EXAMPLE: Cheannaigh mé é inné contrasts with níor cheannaigh mé é inné.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-007
-TITLE: An ordinary greeting
-QUESTION: What is the usual reply to Dia duit when greeting one person?
-A: Dia is Muire daoibh.
-B: Dia is Muire duit.
-C: Go raibh maith agat.
-D: Slán leat.
+TITLE: A change at the clinic
+QUESTION: Read: Ní bheidh an dochtúir ar fáil amárach. Tá coinne nua curtha in áirithe duit don Aoine. Cuir glaoch orainn mura n-oireann sé sin duit. What should the patient do if Friday is unsuitable?
+A: Attend tomorrow’s original appointment
+B: Phone the clinic to discuss the replacement
+C: Assume the Friday appointment is cancelled
+D: Wait for the doctor to visit their home
 ANSWER: B
-EXPLANATION: Dia is Muire duit is the traditional response to Dia duit. Other greetings and local forms are also used.
-EXAMPLE: Two-person dialogue: A: Dia duit. B: Dia is Muire duit. A simple friendly greeting exchange.
+EXPLANATION: Identify whether the message cancels, postpones or confirms an appointment. A practical reason for a change does not itself tell you the replacement date.
+EXAMPLE: Ní féidir liom teacht inniu; an mbeadh Dé Máirt oiriúnach? asks about Tuesday rather than confirming attendance today.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-008
-TITLE: Counting objects simply
-QUESTION: Which standalone number is 'three'?
-A: a trí
-B: a dó
-C: a ceathair
-D: a sé
+TITLE: A future decision, not a past report
+QUESTION: Complete the firm future decision: Ní ___ mé ticéad amárach; tá ceann agam cheana féin. Choose 'will buy' in the required negative construction.
+A: cheannóidh
+B: cheannaíonn
+C: cheannaigh
+D: cheannódh
 ANSWER: A
-EXPLANATION: A trí is three in the basic counting series. Counting people and counting objects introduce additional patterns.
-EXAMPLE: Count aloud: a haon, a dó, a trí, a ceathair, a cúig. This is practice with the abstract counting series.
+EXPLANATION: Ní followed by a future verb expresses a negative future statement. Similar-looking present, past and conditional forms change the time or certainty of the statement.
+EXAMPLE: Ní cheannóidh mé é = I will not buy it; ní cheannóinn é = I would not buy it.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-009
-TITLE: Tea, please
-QUESTION: Choose the polite phrase meaning 'a cup of tea, please'.
-A: Cupán tae, le do thoil.
-B: Cupán caife, le do thoil.
-C: Dhá chupán tae, le do thoil.
-D: Cupán tae, go raibh maith agat.
+TITLE: The condition for joining
+QUESTION: Read: Tá an cheardlann saor in aisce, ach caithfidh tú clárú roimh Dé hAoine. Ní bheidh cead ag daoine gan chlárú freastal uirthi. What must a participant do?
+A: Register before Friday despite the workshop being free
+B: Pay at the door instead of registering
+C: Wait until Friday to see whether registration is needed
+D: Attend without registering because there is no charge
 ANSWER: A
-EXPLANATION: Le do thoil means please when speaking to one person. Le bhur dtoil is the plural form.
-EXAMPLE: At a café: Ba mhaith liom cupán tae, le do thoil. Meaning: I would like a cup of tea, please.
+EXPLANATION: A place may depend on registration or payment even if the event is free. Identify the stated condition rather than assuming that free entry means no advance action.
+EXAMPLE: Tá sé saor in aisce, ach caithfidh tú clárú = it is free, but you must register.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-010
-TITLE: Yesterday versus tomorrow
-QUESTION: Which word means 'yesterday'?
-A: inné
-B: inniu
-C: amárach
-D: aréir
+TITLE: An irregular verb in the right frame
+QUESTION: Complete the past question matching the reply: A: An ___ tú Máire inné? B: Chonaic, ag an stáisiún.
+A: bhfaca
+B: chonaic
+C: bhfeiceann
+D: bhfeicfidh
 ANSWER: A
-EXPLANATION: Inné means yesterday, inniu means today and amárach means tomorrow. These time words help interpret a short text.
-EXAMPLE: Mini-sequence: inné -> inniu -> amárach. Yesterday -> today -> tomorrow.
+EXPLANATION: Some irregular verbs have different independent and dependent past forms. Chonaic contrasts with an bhfaca; chuaigh contrasts with an ndeachaigh. The question particle is part of the grammatical context.
+EXAMPLE: Chonaic mé í, but an bhfaca tú í? = I saw her, but did you see her?
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-011
-TITLE: Past tense of bí
-QUESTION: Complete: ___ mé sa bhaile inné. Meaning: I was at home yesterday.
-A: Tá
-B: Beidh
-C: Bhí
-D: Bheadh
+TITLE: Choosing a place to live
+QUESTION: Read: Tá an chéad árasán níos saoire, ach tá sé i bhfad ón obair. Tá an dara ceann gar don oifig, agus sin an ceann a roghnaigh mé. What determined the choice?
+A: The first flat’s lower rent
+B: The second flat being the larger one
+C: The second flat’s proximity to work
+D: The first flat being available sooner
 ANSWER: C
-EXPLANATION: Bhí is the affirmative past form of bí. The time word inné reinforces the past meaning.
-EXAMPLE: Compare: Tá mé sa bhaile = I am at home. Bhí mé sa bhaile = I was at home.
+EXPLANATION: Compare the reasons given for a housing decision rather than choosing the first attractive feature. Cé go introduces a concession: although something is true, another factor determines the decision.
+EXAMPLE: Cé go bhfuil sé níos mó, tá sé rófhada ón obair = although it is bigger, it is too far from work.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-012
-TITLE: Future tense of bí
-QUESTION: Complete: ___ mé ann amárach. Meaning: I will be there tomorrow.
-A: Bhí
-B: Beidh
-C: Bheadh
-D: Bím
+TITLE: Possession changes hands
+QUESTION: Read: Bhí na heochracha againne, ach thugamar do na comharsana iad ar maidin. Tá siad acu anois. Who has the keys now?
+A: The speaker’s group
+B: The neighbours
+C: Both groups each have the same keys
+D: The message does not identify the current holder
 ANSWER: B
-EXPLANATION: Beidh is the affirmative future form of bí. Ann here means there.
-EXAMPLE: Time swap: Bhí mé ann inné. Beidh mé ann amárach. I was there yesterday. I will be there tomorrow.
+EXPLANATION: Againn, agaibh and acu express possession by us, you plural and them. Follow any transfer or contrast in the message rather than selecting the first person mentioned.
+EXAMPLE: Bhí na ticéid againn, ach tá siad agaibh anois = We had the tickets, but you plural have them now.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-013
-TITLE: Weather talk
-QUESTION: Which sentence means 'It is raining'?
-A: Tá sé ag cur báistí.
-B: Bhí sé ag cur báistí.
-C: Beidh sé ag cur báistí.
-D: Níl sé ag cur báistí.
+TITLE: A shop’s return conditions
+QUESTION: Read: Is féidir earraí a thabhairt ar ais laistigh de cheithre lá dhéag má tá an admháil agat. Gan admháil, ní dhéanaimid ach malartú. What is offered without a receipt?
+A: An exchange rather than a refund
+B: A refund within fourteen days
+C: No return of any kind
+D: A refund only after fourteen days
 ANSWER: A
-EXPLANATION: Ag cur báistí is the ordinary expression for raining. Tá sé supplies the present weather construction.
-EXAMPLE: Compare weather phrases: Tá sé fuar = It is cold. Tá sé te = It is warm/hot.
+EXPLANATION: Conditions such as a receipt, time limit or original state determine what the shop offers. Distinguish a refund from an exchange and a general rule from an exception.
+EXAMPLE: Malartú means an exchange; aisíoc refers to a refund.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-014
-TITLE: Hunger in Irish
-QUESTION: Choose the ordinary Irish expression for 'I am hungry.'
-A: Tá tart orm.
-B: Tá ocras ort.
-C: Tá ocras orm.
-D: Bhí ocras orm.
+TITLE: Conditions expressed with ar
+QUESTION: Read: Tá imní ar Mháire faoin scrúdú, ach níl imní orm féin. Who is explicitly worried?
+A: The speaker, rather than Máire
+B: Both Máire and the speaker
+C: Máire, rather than the speaker
+D: Neither Máire nor the speaker
 ANSWER: C
-EXPLANATION: Irish expresses several feelings or conditions with a noun plus ar. Orm is the combined form of ar plus mé.
-EXAMPLE: Pattern pair: Tá ocras orm = I am hungry. Tá tart orm = I am thirsty.
+EXPLANATION: Irish commonly expresses hunger, thirst and worry using a noun plus ar. Track who experiences the condition: orm is me, ort is you, air is him and uirthi is her.
+EXAMPLE: Tá imní orm faoi Mháire expresses my worry about Máire, not necessarily Máire’s own feeling.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-015
-TITLE: My book
-QUESTION: Which is the standard spelling of 'my book'?
-A: do leabhar
-B: a leabhar
-C: mo leabhar
-D: ár leabhar
+TITLE: Weather and a revised activity
+QUESTION: Read: Má bhíonn sé tirim ar maidin, rachaimid ag siúl. Mura mbíonn, buailfimid le chéile sa chaifé. Which plan depends on dry weather?
+A: Meeting in the café regardless
+B: Both plans taking place together
+C: The walk
+D: Cancelling all contact for the day
 ANSWER: C
-EXPLANATION: Mo means my. It does not change initial l in leabhar. Do leabhar means your book, while mo fhear means my husband/man.
-EXAMPLE: Compare a noun that does change: cat -> mo chat. Lenition depends on the initial consonant and the grammatical context.
+EXPLANATION: Distinguish the condition for an activity from a confirmed cancellation. Má introduces an open condition; otherwise and a fallback arrangement keep the outcome conditional.
+EXAMPLE: Má bhíonn sé tirim, rachaimid amach = if it is dry, we will go out.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-016
-TITLE: Lenition after mo
-QUESTION: Complete 'my cat': mo ___.
-A: chat
-B: cat
-C: gcat
-D: chait
+TITLE: Who prefers which option?
+QUESTION: Read: Is fearr le Seán tae ná caife, ach is fearr liomsa caife. Which statement preserves both preferences?
+A: Seán prefers tea, while the speaker prefers coffee
+B: Seán and the speaker both prefer tea
+C: Seán prefers coffee, while the speaker prefers tea
+D: Both people prefer coffee
 ANSWER: A
-EXPLANATION: Mo commonly triggers lenition where the consonant permits it: cat becomes chat. The added h marks the change in writing.
-EXAMPLE: Another example: peann -> mo pheann, meaning my pen. Not every initial consonant changes.
+EXPLANATION: Is fearr le expresses preference; the pronoun identifies whose preference is meant. Liom is me, leat is you, leis is him and léi is her. Preserve both the person and the comparison.
+EXAMPLE: Is fearr léi tae ná caife = She prefers tea to coffee.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-017
-TITLE: An bhfuil questions
-QUESTION: Choose an affirmative short answer to An bhfuil tú réidh? (Are you ready?)
-A: Bhí.
-B: Beidh.
-C: Tá.
-D: Níl.
+TITLE: Before, after and enough time
+QUESTION: Read: Fágann an bus ag 8.10 agus sroicheann sé an baile ag 8.50. Tosaíonn an obair ag 9.00, ach tá fiche nóiméad siúil ón stad go dtí an oifig. What is the problem with this bus?
+A: It arrives twenty minutes after work starts
+B: It leaves after the speaker should already be at work
+C: It leaves too little time to walk to work by nine
+D: It arrives exactly when work starts with no walk needed
 ANSWER: C
-EXPLANATION: Irish commonly answers a question by repeating the relevant verb form. Tá answers this present bí question affirmatively; níl answers it negatively.
-EXAMPLE: Mini-dialogue: An bhfuil tú réidh? Tá. Are you ready? Yes. Use the verb, rather than searching for a universal word for yes.
+EXPLANATION: Work out the order of events and any time interval. Mentioning one service does not establish it is the service that can meet the stated deadline.
+EXAMPLE: Roimh means before; tar éis means after. Relate both times to the required arrival.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-018
-TITLE: The day after Monday
-QUESTION: Which day comes immediately after Dé Luain?
-A: Dé Máirt
-B: Dé Céadaoin
-C: Déardaoin
-D: Dé hAoine
+TITLE: Wanting something and needing something
+QUESTION: Read: Ba mhaith liom carr nua, ach níl sé de dhíth orm. Tá rothar maith agam cheana féin. Which claim is made?
+A: A new car is wanted but not needed
+B: A new car is needed but not wanted
+C: A new bicycle has already been bought instead
+D: The speaker has neither a car nor a bicycle
 ANSWER: A
-EXPLANATION: Dé Luain is Monday and Dé Máirt is Tuesday in phrases naming the day on which something happens.
-EXAMPLE: Practice pair: Dé Luain = on Monday; Dé Máirt = on Tuesday. Say what day you plan to practise music.
+EXPLANATION: Ba mhaith liom expresses a wish or polite request. Tá ... de dhíth orm and teastaíonn ... uaim express a need. A contrast can make one item wanted but another necessary.
+EXAMPLE: Ba mhaith liom caife, ach tá uisce de dhíth orm = I would like coffee, but I need water.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-019
-TITLE: Understanding a short message
-QUESTION: Read: Beidh mé sa leabharlann amárach. Where will the speaker be tomorrow?
-A: In the bookshop
-B: At school
-C: In the library
-D: In a lecture hall
+TITLE: A library deadline
+QUESTION: Read: Bhí an leabhar le tabhairt ar ais inniu. Chuir mé síneadh seachtaine leis ar líne, mar ní raibh éinne eile á iarraidh. When is it now due?
+A: Today despite the renewal
+B: A week ago
+C: In a week
+D: After another reader has borrowed it
 ANSWER: C
-EXPLANATION: Sa leabharlann means in the library. Beidh marks the future, and amárach means tomorrow.
-EXAMPLE: Change the place: Beidh mé sa bhaile amárach = I will be at home tomorrow.
+EXPLANATION: A renewed loan changes a return deadline; an unavailable renewal does not. Track whether the message reports an action already completed or requests one.
+EXAMPLE: D’iarr mé síneadh means I requested an extension, not that the extension was granted.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-020
-TITLE: Can you help?
-QUESTION: Which question means 'Can you help me?'
-A: An féidir leat cabhrú liom?
-B: An féidir liom cabhrú leat?
-C: Ar chabhraigh tú liom?
-D: An bhfuil tú ag cabhrú liom?
+TITLE: Match the question to the reply
+QUESTION: Which question best fits the reply Tá mé ag foghlaim Gaeilge le trí bliana?
+A: Cá fhad atá tú ag foghlaim Gaeilge?
+B: Cé chomh minic a fhoghlaimíonn tú Gaeilge?
+C: Cathain a bheidh an chéad rang eile?
+D: Cé mhéad rang a bheidh agat amárach?
 ANSWER: A
-EXPLANATION: An féidir leat asks can you; cabhrú liom means help me. An maith leat asks about liking, which changes the question.
-EXAMPLE: A polite request: An féidir leat cabhrú liom, le do thoil? Meaning: Can you help me, please?
+EXPLANATION: Distinguish duration, frequency, quantity and the time of an event. Cá fhad asks how long; cé chomh minic asks how often; cé mhéad asks how much/many; cathain asks when.
+EXAMPLE: Le trí bliana answers a duration question, not a question about a specific calendar date.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-021
-TITLE: Shopping vocabulary
-QUESTION: What does siopa mean?
-A: Market
-B: Workshop
-C: Shop
-D: Office
+TITLE: Work plans and availability
+QUESTION: Read: Ba bhreá liom teacht chuig an agallamh ar an Luan, ach beidh mé as baile. Beidh mé ar fáil lá ar bith eile an tseachtain sin. What is being requested implicitly?
+A: Cancellation of the application
+B: An interview only on Monday
+C: An interview on a day other than Monday
+D: An interview after the following week
 ANSWER: C
-EXPLANATION: Siopa means shop. Scoil means school, and ospidéal means hospital.
-EXAMPLE: Sentence practice: Tá mé ag dul go dtí an siopa. Meaning: I am going to the shop.
+EXPLANATION: Read who is available, when and why. A stated work obligation can explain a refusal without implying lack of interest in the proposed activity.
+EXAMPLE: Ba bhreá liom teacht, ach tá mé ag obair = I would love to come, but I am working.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-022
-TITLE: I would like
-QUESTION: Choose the sentence meaning 'I would like a coffee.'
-A: Ba mhaith liom caife.
-B: Is maith liom caife.
-C: Ba mhaith leat caife.
-D: Níor mhaith liom caife.
+TITLE: A dependent form after go
+QUESTION: Complete the future meaning 'I hope you will be ready tomorrow': Tá súil agam go ___ tú réidh amárach.
+A: mbeidh
+B: bhfuil
+C: raibh
+D: mbeadh
 ANSWER: A
-EXPLANATION: Ba mhaith liom expresses I would like. It is a useful polite phrase for ordering or stating a preference.
-EXAMPLE: Pattern swap: Ba mhaith liom uisce = I would like water. Ba mhaith liom ticéad = I would like a ticket.
+EXPLANATION: The form of bí after go depends on time and mood: go bhfuil is present, go raibh is past, go mbeidh is future and go mbeadh is conditional. Use the explicitly requested meaning.
+EXAMPLE: Tá súil agam go mbeidh tú ann amárach = I hope you will be there tomorrow.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-023
-TITLE: Reading for detail
-QUESTION: Read: Tá deirfiúr amháin agus beirt deartháireacha agam. How many brothers does the speaker have?
-A: Three
-B: One
-C: Two
-D: Four
+TITLE: A meal and a preference
+QUESTION: Read: Ní ithim feoil, ach ithim iasc. D’ordaigh mé anraith glasraí ar aon nós mar ní raibh ocras mór orm. Why was vegetable soup chosen on this occasion?
+A: The speaker never eats fish
+B: Fish was the meal actually ordered
+C: The speaker was not very hungry
+D: The speaker wanted the largest meal available
 ANSWER: C
-EXPLANATION: Beirt deartháireacha means two brothers. Deirfiúr amháin means one sister. Beirt is used in counting people.
-EXAMPLE: Break the sentence into chunks: Tá ... agam = I have ...; deirfiúr amháin = one sister; beirt deartháireacha = two brothers.
+EXPLANATION: Identify the reason for a food choice and distinguish preference from inability or restriction. The meal mentioned first may be an option that was rejected.
+EXAMPLE: Ní ithim feoil, ach ithim iasc = I do not eat meat, but I eat fish.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-024
-TITLE: Every day
-QUESTION: What does gach lá mean?
-A: Every day
-B: All day
-C: Today
-D: Every other day
+TITLE: Reported information and its time
+QUESTION: Máire was busy last night but is free now. Complete the past report: Dúirt sí go ___ sí gnóthach aréir.
+A: raibh
+B: bhfuil
+C: mbeidh
+D: mbeadh
 ANSWER: A
-EXPLANATION: Gach means each/every and lá means day. The phrase is useful for describing routines.
-EXAMPLE: Routine example: Léim gach lá. Meaning: I read every day. An ordinary present-tense verb can describe a repeated action.
+EXPLANATION: A reported statement still needs a time reference. Dúirt reports what was said; the clause after go states the reported content, which may be past, current or future.
+EXAMPLE: Dúirt sí go raibh sí gnóthach aréir reports that she was busy last night.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-025
-TITLE: Habitual bí
-QUESTION: Which sentence most naturally states 'I am usually busy on Mondays'?
-A: Bím gnóthach ar an Luan.
-B: Bhí mé gnóthach ar an Luan.
-C: Beidh mé gnóthach ar an Luan.
-D: Tá mé gnóthach anois.
+TITLE: Who is doing which task?
+QUESTION: Read: Bhí Seán chun Mam a bhailiú, ach tá sé ag obair go déanach. Rachaidh Aoife ina áit, agus fanfaidh mé sa bhaile leis na páistí. Who will collect Mam?
+A: Aoife
+B: Seán
+C: The speaker
+D: One of the children
 ANSWER: A
-EXPLANATION: Bím is a first-person habitual present form of bí. The other choices describe a particular past or future time.
-EXAMPLE: Compare: Tá mé gnóthach anois = I am busy now. Bím gnóthach ar an Luan = I am usually busy on Mondays.
+EXPLANATION: Follow names and object pronouns across sentences. A person who makes an arrangement is not automatically the person carrying out the later task.
+EXAMPLE: Rachaidh Aoife, ach fanfaidh Seán = Aoife will go, but Seán will stay.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-026
-TITLE: Because
-QUESTION: Which word means 'because'?
-A: ach
-B: mar
-C: nuair
-D: cé go
+TITLE: A hypothetical situation
+QUESTION: Read: Dá mbeadh níos mó ama agam, dhéanfainn cúrsa eile. Which statement is supported?
+A: The speaker has already enrolled in another course
+B: Another course is a hypothetical possibility dependent on more time
+C: The speaker definitely has enough time now
+D: The other course was completed in the past
 ANSWER: B
-EXPLANATION: Mar can introduce a reason. Ach means but, and agus means and.
-EXAMPLE: Short reason: Tá mé tuirseach mar tá sé déanach. Meaning: I am tired because it is late.
+EXPLANATION: Dá mbeadh introduces a hypothetical state, often paired with a conditional response such as rachainn (I would go). A stated hypothetical is not confirmation of a real future plan.
+EXAMPLE: Dá mbeadh am agam, rachainn leat = If I had time, I would go with you.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-027
-TITLE: An invitation
-QUESTION: Read: Ar mhaith leat dul chuig ceolchoirm? What is being offered?
-A: Playing at a concert
-B: Going to a concert
-C: Attending a music lesson
-D: Listening to a recording
+TITLE: Following a route
+QUESTION: Read: Téigh thar an mbanc agus cas ar dheis. Tá an siopa ar chlé ansin, in aice leis an oifig phoist. When should the person turn right?
+A: Before reaching the bank
+B: After passing the bank
+C: After passing the post office
+D: At the shop before passing the bank
 ANSWER: B
-EXPLANATION: Ar mhaith leat asks would you like; dul means to go, and ceolchoirm means concert.
-EXAMPLE: Reply pattern: Ba mhaith. Meaning: I would. A fuller answer can repeat the proposed activity.
+EXPLANATION: Use the sequence and location cues rather than picking a landmark merely because it is mentioned. Ar chlé is left; ar dheis is right; os comhair is in front of or opposite, according to context.
+EXAMPLE: Cas ar dheis tar éis an bhainc = turn right after the bank.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-028
-TITLE: Comparing sizes
-QUESTION: Which word means 'bigger' in a comparison?
-A: níos lú
-B: níos mó
-C: níos fearr
-D: níos faide
+TITLE: An offer, a preference or a habit?
+QUESTION: A host is offering tea now, rather than asking about a general preference. Which question most directly fits?
+A: An maith leat tae de ghnáth?
+B: Ar mhaith leat cupán tae?
+C: Ar ól tú tae ar maidin?
+D: An bhfuil tae sa chistin?
 ANSWER: B
-EXPLANATION: Níos mó means bigger/more. Níos lú means smaller/less. An-bheag means very small.
-EXAMPLE: Comparison: Tá an teach seo níos mó ná an teach sin. Meaning: This house is bigger than that house.
+EXPLANATION: Ar mhaith leat is a would-you-like offer. An maith leat asks about liking. Conditional polite language and ordinary questions about preferences are not interchangeable in every context.
+EXAMPLE: An maith leat tae? asks whether you like tea; ar mhaith leat tae? offers tea.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-029
-TITLE: Present activity
-QUESTION: Which sentence means 'I am learning Irish'?
-A: Bhí mé ag foghlaim Gaeilge.
-B: Tá mé ag múineadh Gaeilge.
-C: Tá mé ag foghlaim Gaeilge.
-D: Tá sí ag foghlaim Gaeilge.
+TITLE: A routine and an exception
+QUESTION: Read: De ghnáth déanaim siopadóireacht ar an Satharn, ach beidh mé ag taisteal an deireadh seachtaine seo. Déanfaidh mé í ar an Aoine ina áit. What is planned for this week?
+A: Shopping on both Friday and Saturday
+B: No shopping because Saturday is always a travel day
+C: Shopping on Friday instead of the usual Saturday
+D: A permanent change to shopping every Friday
 ANSWER: C
-EXPLANATION: Tá mé plus ag and a verbal noun describes an ongoing activity. Foghlaim means learning here.
-EXAMPLE: Change the subject: Tá sé ag foghlaim Gaeilge = He is learning Irish. Keep the activity phrase and change the person.
+EXPLANATION: De ghnáth states a usual pattern; an tseachtain seo or inniu can introduce an exception. Do not turn a one-off change into a permanent routine.
+EXAMPLE: De ghnáth siúlaim, ach inniu thóg mé an bus separates the routine from today’s event.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-030
-TITLE: Please say it again
-QUESTION: Which phrase asks someone to say something again?
-A: Abair arís é, le do thoil.
-B: Abair níos moille é, le do thoil.
-C: Scríobh é, le do thoil.
-D: Abair níos airde é, le do thoil.
+TITLE: Getting events in the right order
+QUESTION: Read: Ghlaoigh mé ar Aoife sular fhág mé an teach. Which event came first?
+A: Calling Aoife
+B: Leaving the house
+C: Both happened at the same moment
+D: The sentence says Aoife called after leaving
 ANSWER: A
-EXPLANATION: Abair is an imperative of abair, meaning say. Arís means again. The phrase is a useful conversational repair strategy.
-EXAMPLE: Another useful request: Labhair níos moille, le do thoil. Meaning: Speak more slowly, please. Use Teanglann audio for pronunciation rather than English approximations.
+EXPLANATION: Sula/sular means before, while tar éis means after. Reconstruct the event order rather than following the order in which the clauses happen to be written.
+EXAMPLE: Sular imigh mé, ghlaoigh mé uirthi = Before I left, I called her; the call happened first.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-031
-TITLE: Who has it?
-QUESTION: Complete 'You have a ticket': Tá ticéad ___.
-A: agam
-B: agat
-C: aici
-D: leat
+TITLE: Choosing how to study
+QUESTION: Read: B’fhearr liom rang sa seomra ranga, ach oibrím go déanach ar an Máirt. Roghnaigh mé an cúrsa ar líne mar is féidir liom staidéar a dhéanamh ag am ar bith. Why was the online course chosen?
+A: It was the speaker’s preferred classroom format
+B: It fits the speaker’s work schedule
+C: It requires attendance on Tuesday evening
+D: It involves no study outside class
 ANSWER: B
-EXPLANATION: Irish possession commonly uses tá with ag. The person changes the prepositional pronoun: agam = at me, agat = at you, aige = at him, aici = at her.
-EXAMPLE: Tá rothar agam means I have a bicycle. Change agam to aici for she has a bicycle.
+EXPLANATION: Look for a choice based on practical constraints or learning preferences. Mentioning two course formats does not mean the person has chosen both.
+EXAMPLE: Roghnaigh mé an cúrsa ar líne mar ... = I chose the online course because ...
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-032
-TITLE: How someone feels
-QUESTION: Complete 'You are hungry': Tá ocras ___.
-A: ort
-B: orm
-C: duit
-D: agat
+TITLE: Only, rather than not at all
+QUESTION: Read: Ní raibh ach deich nóiméad againn sular fhág an bus. How much time did they have?
+A: Only ten minutes
+B: No time at all
+C: More than ten minutes
+D: Ten minutes after the bus left
 ANSWER: A
-EXPLANATION: Several Irish conditions use a noun plus ar: tá tart orm = I am thirsty. Orm, ort, air and uirthi change the person experiencing the condition.
-EXAMPLE: Tá fuacht orm means I feel cold. Tá fuacht ort means you feel cold.
+EXPLANATION: A negative construction with ach can mean only or nothing but. Do not interpret ní ... ach as ordinary negation followed by an unrelated but-clause.
+EXAMPLE: Ní raibh ach beirt ann = There were only two people there, not that nobody was there.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-033
-TITLE: Different people like different things
-QUESTION: Complete 'You like books': Is maith ___ leabhair.
-A: liom
-B: duit
-C: agat
-D: leat
+TITLE: An invitation and a polite answer
+QUESTION: Read: Ba bhreá liom teacht anocht, ach tá coinne eile agam. An bhfeilfeadh an Satharn duit ina áit? What is the speaker doing?
+A: Accepting tonight and Saturday
+B: Declining every future meeting
+C: Asking to meet earlier tonight
+D: Declining tonight while suggesting Saturday
 ANSWER: D
-EXPLANATION: Is maith le expresses liking; the prepositional pronoun identifies the person: liom, leat, leis, léi. The phrase is not an ordinary possession construction.
-EXAMPLE: Is maith léi ceol means she likes music; is maith leis ceol means he likes music.
+EXPLANATION: A positive expression of interest followed by ach may still decline the proposed arrangement. An alternative time can show willingness without acceptance of the original invitation.
+EXAMPLE: Ba bhreá liom é, ach ní féidir liom amárach = I would love to, but I cannot tomorrow.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-034
-TITLE: A name for each person
-QUESTION: Complete 'Her name is Aoife': Aoife is ainm ___.
-A: dó
-B: duit
-C: dom
-D: di
+TITLE: A description attached to the right person
+QUESTION: Read: Tá an fear atá ina chónaí in aice liom ag bogadh go Gaillimh. Who is moving?
+A: The speaker
+B: A man already living in Galway who was not the neighbour
+C: Everyone in the neighbourhood
+D: The man who lives next to the speaker
 ANSWER: D
-EXPLANATION: In the naming pattern X is ainm do, the forms dom, duit and dó mean to me, to you and to him. Keep the person consistent with the intended meaning.
-EXAMPLE: Cad is ainm duit? asks your name; Matthew is ainm dom gives the speaker’s name.
+EXPLANATION: A relative clause supplies information about the noun it follows. Track which person is described and distinguish that description from a later action involving somebody else.
+EXAMPLE: An bhean atá ina cónaí in aice liom = the woman who lives next to me.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-035
-TITLE: Not liking and wanting politely
-QUESTION: Choose 'I do not like the rain.'
-A: Níor mhaith liom an bháisteach.
-B: Ní maith leat an bháisteach.
-C: Is maith liom an bháisteach.
-D: Ní maith liom an bháisteach.
+TITLE: Looking for something lost
+QUESTION: Read: D’fhéach mé sa mhála agus sa charr, ach níl na heochracha aimsithe agam fós. Seiceálfaidh mé an oifig anois. Which place has not yet been checked?
+A: The bag
+B: The car
+C: Both the bag and the car
+D: The office
 ANSWER: D
-EXPLANATION: Ní maith liom means I do not like. Ba mhaith liom means I would like. Their different verb forms change the meaning even when the following noun is the same.
-EXAMPLE: Ní maith liom caife says I do not like coffee. Ba mhaith liom tae asks for or expresses a wish for tea.
+EXPLANATION: Track the difference between a place already searched and a place proposed for the next search. Fós can indicate that the search remains unresolved.
+EXAMPLE: D’fhéach mé sa charr, ach ní bhfuair mé é = I looked in the car, but did not find it.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-036
-TITLE: Identity and location
-QUESTION: Which sentence means 'I am a teacher'?
-A: Is múinteoir tú.
-B: Bhí mé i mo mhúinteoir.
-C: Is múinteoir mé.
-D: Tá múinteoir agam.
+TITLE: An ongoing duration
+QUESTION: Read: Tá mé ag foghlaim Gaeilge le dhá bhliain agus tá mé fós sa rang céanna. Which timeline fits?
+A: Learning ended two years ago
+B: Learning will begin in two years
+C: Learning began two years ago and continues now
+D: The speaker studied for two years but has now stopped
 ANSWER: C
-EXPLANATION: Irish distinguishes copular identity/classification patterns from ordinary tá descriptions and locations. Is múinteoir mé means I am a teacher; tá mé sa scoil means I am in the school.
-EXAMPLE: Compare a role with a location: Is ceoltóir mé. Tá mé sa bhaile.
+EXPLANATION: A present activity with le and a duration commonly indicates that it began earlier and continues now. A completed past period or a future plan has a different time interpretation.
+EXAMPLE: Tá mé ag obair anseo le dhá bhliain = I have been working here for two years.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-037
-TITLE: Talking about yesterday
-QUESTION: Complete 'I was not at home yesterday': ___ mé sa bhaile inné.
-A: Ní raibh
-B: Níl
-C: Ní bheidh
-D: Ní bheadh
+TITLE: Changing a volunteer rota
+QUESTION: Read: Bhí mise ar an rota don Aoine agus bhí Áine ann don Satharn. Mhalartaíomar na laethanta mar tá bainis agam ar an Aoine. When will the speaker now volunteer?
+A: Saturday
+B: Friday
+C: Both Friday and Saturday
+D: Neither day
 ANSWER: A
-EXPLANATION: Bhí is the affirmative past of bí; ní raibh is negative and an raibh introduces a question. Raibh is used in the dependent past forms here.
-EXAMPLE: An raibh tú sa bhaile? Bhí. Were you at home? Yes.
+EXPLANATION: Work out both the original responsibility and the agreed swap. A request is not the same as a completed agreement unless the reply confirms it.
+EXAMPLE: Oibreoidh mé Dé Máirt ina áit = I will work Tuesday instead.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-038
-TITLE: Tomorrow in the negative
-QUESTION: Complete 'She will not be here tomorrow': ___ sí anseo amárach.
-A: Ní raibh
-B: Níl
-C: Ní bheadh
-D: Ní bheidh
+TITLE: The comparison must match the facts
+QUESTION: Ticket A costs €18 and ticket B costs €25. Which Irish statement matches those facts?
+A: Tá ticéad A níos daoire ná ticéad B.
+B: Tá an praghas céanna ar an dá thicéad.
+C: Tá ticéad B níos saoire ná ticéad A.
+D: Tá ticéad A níos saoire ná ticéad B.
 ANSWER: D
-EXPLANATION: Future bí uses beidh, ní bheidh and an mbeidh in these ordinary affirmative, negative and question patterns. The initial mutation marks the grammatical context.
-EXAMPLE: Beidh mé ann = I will be there. Ní bheidh mé ann = I will not be there.
+EXPLANATION: Níos saoire is cheaper; níos daoire is more expensive. In a comparison with ná, reversing the subjects reverses which thing is cheaper or larger.
+EXAMPLE: Tá A níos saoire ná B expresses A costing less than B, not the other way round.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-039
-TITLE: Would be, not will be
-QUESTION: Choose 'It would be nice.'
-A: Beidh sé deas.
-B: Bhí sé deas.
-C: Bheadh sé deas.
-D: Bíonn sé deas.
+TITLE: A message about taking a break
+QUESTION: Read: Tá mé tuirseach agus níor chodail mé go maith. Ní rachaidh mé chuig an seisiún anocht, ach beidh mé ar ais an tseachtain seo chugainn. What is the speaker’s plan?
+A: Stop attending permanently
+B: Attend tonight but not next week
+C: Miss tonight and return next week
+D: Return only after the course ends
 ANSWER: C
-EXPLANATION: Bheadh is a conditional form of bí, while beidh is future. Ní bheadh is the negative conditional. The distinction matters in hypothetical statements.
-EXAMPLE: Bheadh sé deas means it would be nice. Beidh sé deas means it will be nice.
+EXPLANATION: Read the reason for a temporary change and whether the person is stopping completely or reducing an activity. Time expressions limit the claim being made.
+EXAMPLE: An tseachtain seo amháin = this week only; it does not describe a permanent decision.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-040
-TITLE: A daily routine
-QUESTION: Choose 'I write every day.'
-A: Scríobhaim gach lá.
-B: Scríobh mé gach lá.
-C: Scríobhfaidh mé gach lá.
-D: Ní scríobhaim gach lá.
+TITLE: A reason and a concession
+QUESTION: Read: Cé go raibh mé tuirseach, chríochnaigh mé an obair. Which relation is expressed?
+A: The work was completed despite tiredness
+B: Tiredness was the reason the work was left unfinished
+C: The work was finished before the speaker ever became tired
+D: The work will be finished only if tiredness ends
 ANSWER: A
-EXPLANATION: The ordinary present tense often describes repeated actions. Léim means I read, scríobhaim means I write and ithim means I eat.
-EXAMPLE: Léim leabhar gach seachtain means I read a book every week.
+EXPLANATION: Mar and toisc introduce reasons; cé go introduces a concession. The relationship between clauses matters: although does not mean because, and a reason does not automatically describe the action taken.
+EXAMPLE: Cé go raibh sé tuirseach, chuaigh sé amach = Although he was tired, he went out.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-041
-TITLE: A completed ordinary action
-QUESTION: Choose 'I bought a ticket yesterday.'
-A: Ceannóidh mé ticéad amárach.
-B: Cheannaigh sí ticéad inné.
-C: Níor cheannaigh mé ticéad inné.
-D: Cheannaigh mé ticéad inné.
+TITLE: The journey that actually happened
+QUESTION: Read: De ghnáth téim ar an mbus, ach bhí sé lán inniu. Ní raibh an aimsir go dona, mar sin shiúil mé chun na hoibre. What happened today rather than on a usual day?
+A: The speaker took the usual bus
+B: The speaker stayed at home because of rain
+C: The speaker drove because the bus was full
+D: The speaker walked to work
 ANSWER: D
-EXPLANATION: Many regular Irish past-tense verbs show lenition, and verbs beginning with a vowel can take d’. These examples are affirmative past statements.
-EXAMPLE: Cheannaigh mé leabhar = I bought a book. D’ól mé uisce = I drank water.
+EXPLANATION: Separate an earlier plan from the action taken after ach (but). A transport mentioned first is not necessarily the one actually used; the final completed action resolves the question.
+EXAMPLE: Bhí mé chun siúl, ach thóg mé an bus = I was going to walk, but I took the bus.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-042
-TITLE: Planning an action
-QUESTION: Choose 'I will read tonight.'
-A: Léifidh mé anocht.
-B: Léigh mé aréir.
-C: Léann mé gach oíche.
-D: Léifidh tú anocht.
+TITLE: A usual pattern rather than one occasion
+QUESTION: Choose the habitual form for a café’s usual pattern, not a single opening: ___ an caifé ar oscailt go luath gach maidin.
+A: Bíonn
+B: Tá
+C: Bhí
+D: Beidh
 ANSWER: A
-EXPLANATION: Léifidh, ólfaidh and ceannóidh are future forms of read, drink and buy. The exact ending depends on the verb’s conjugation and spelling.
-EXAMPLE: Léifidh mé an leabhar amárach means I will read the book tomorrow.
+EXPLANATION: Bíonn and its personal forms express a habitual state or repeated pattern. Tá describes a current state; bhí and beidh place it in the past and future. Use the requested time meaning, not just a familiar form.
+EXAMPLE: Bím gnóthach ar an Luan, ach tá mé saor inniu = I am usually busy on Mondays, but I am free today.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-043
-TITLE: Three irregular past forms
-QUESTION: Complete 'I went to Cork': ___ mé go Corcaigh.
-A: Rachaidh
-B: Chuaigh sé
-C: Chuaigh
-D: Ní dheachaigh
+TITLE: A revised meeting time
+QUESTION: Read: Ní bheidh an ceacht ar an Aoine mar a bhí beartaithe. Beidh sé ar an Déardaoin, ag an am céanna. What changed?
+A: The day stayed Friday; the time changed
+B: Both the day and the time moved later
+C: The day moved to Thursday; the time stayed the same
+D: The lesson was cancelled without a replacement
 ANSWER: C
-EXPLANATION: Chuaigh, chonaic and rinne are affirmative past forms of téigh, feic and déan. Irregular forms need to be learned as patterns rather than guessed from regular endings.
-EXAMPLE: Chuaigh mé abhaile = I went home. Rinne mé obair = I did work.
+EXPLANATION: Track the revised time rather than retaining the first time mentioned. Ní ... ach can contrast a rejected arrangement with the replacement, while níos déanaí means later.
+EXAMPLE: Ní ag a sé ach ag a seacht = not at six but at seven.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-044
-TITLE: Three irregular future forms
-QUESTION: Complete 'I will go to Galway': ___ mé go Gaillimh.
-A: Chuaigh
-B: Rachaidh
-C: Téim
-D: Rachadh
+TITLE: The past in questions and negatives
+QUESTION: Choose the completion meaning 'I was not ready at that time': ___ mé réidh nuair a tháinig sí, ach bhí mé réidh faoi dheireadh.
+A: Níl
+B: Ní raibh
+C: Ní bheidh
+D: Ní bheadh
 ANSWER: B
-EXPLANATION: Rachaidh, feicfidh and déanfaidh are future forms of go, see and do/make. They contrast with chuaigh, chonaic and rinne in the affirmative past.
-EXAMPLE: Rachaidh mé abhaile means I will go home; chuaigh mé abhaile means I went home.
+EXPLANATION: Past forms of bí depend on the construction: bhí is affirmative, an raibh asks a question and ní raibh negates it. Do not substitute the present dependent form bhfuil when the ordinary past is intended.
+EXAMPLE: An raibh tú ann? Ní raibh. = Were you there? No, I was not.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-045
-TITLE: What is happening now?
-QUESTION: Choose 'She is reading now.'
-A: Bhí sí ag léamh inné.
-B: Tá sé ag léamh anois.
-C: Tá sí ag léamh anois.
-D: Tá sí ag scríobh anois.
+TITLE: Done already, or still to do?
+QUESTION: Read: Scríobh mé an ríomhphost ar maidin, ach níor sheol mé é fós. Ba mhaith liom an dáta a sheiceáil ar dtús. What remains to be done?
+A: Write the email for the first time
+B: Check whether the email was received yesterday
+C: Send the email after checking the date
+D: Reply to an email already sent by someone else
 ANSWER: C
-EXPLANATION: Tá plus ag and a verbal noun expresses many ongoing activities. Ag léamh is reading, ag siúl is walking and ag obair is working.
-EXAMPLE: Tá mé ag siúl anois means I am walking now. The verbal noun stays the same when the subject changes.
+EXPLANATION: Cheana féin marks something already done; fós with a negative often means not yet. A future form states a plan and does not report completion.
+EXAMPLE: Cheannaigh mé é cheana féin, ach níor léigh mé é fós = I already bought it, but have not read it yet.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-046
-TITLE: An activity in progress yesterday
-QUESTION: Choose 'I was singing yesterday.'
-A: Tá mé ag canadh anois.
-B: Bhí sí ag canadh inné.
-C: Bhí mé ag canadh inné.
-D: Bhí mé ag éisteacht inné.
+TITLE: A completed action and its negative
+QUESTION: Choose the meaning of Níor dhún mé an doras, mar bhí Seán fós amuigh.
+A: I will not close the door because Seán is outside
+B: I do not usually close the door when Seán is outside
+C: I did not close the door because Seán was still outside
+D: I would not close the door if Seán were outside
 ANSWER: C
-EXPLANATION: Bhí plus the activity phrase places an ongoing activity in the past; beidh places it in the future. Tá describes the present.
-EXAMPLE: Bhí mé ag obair inné = I was working yesterday. Beidh mé ag obair amárach = I will be working tomorrow.
+EXPLANATION: A negative past report is not a future prediction or a present habit. With regular verbs, níor normally precedes a lenited past form, as in níor cheannaigh.
+EXAMPLE: Cheannaigh mé é inné contrasts with níor cheannaigh mé é inné.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-047
-TITLE: Listening, speaking, waiting
-QUESTION: Complete 'I am listening to music': Tá mé ag éisteacht ___ ceol.
-A: ar
-B: le
-C: do
-D: faoi
+TITLE: A change at the clinic
+QUESTION: Read: Tá do choinne ag 10.00 fós. Iarraimid ort teacht cúig nóiméad déag roimhe sin chun foirm a líonadh. What time should the patient arrive?
+A: 10.00
+B: 9.45
+C: 10.15
+D: 9.15
 ANSWER: B
-EXPLANATION: Irish verbal-noun phrases often select a particular preposition. Éist le means listen to, labhair le means speak to, and fan le can mean wait for.
-EXAMPLE: Tá mé ag éisteacht le ceol means I am listening to music.
+EXPLANATION: Identify whether the message cancels, postpones or confirms an appointment. A practical reason for a change does not itself tell you the replacement date.
+EXAMPLE: Ní féidir liom teacht inniu; an mbeadh Dé Máirt oiriúnach? asks about Tuesday rather than confirming attendance today.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-048
-TITLE: Choosing a question word
-QUESTION: Which question means 'Who is that?'
-A: Cé hé sin?
-B: Cé hí sin?
-C: Cé hé seo?
-D: Cad é sin?
+TITLE: A future decision, not a past report
+QUESTION: Choose 'He will not close the shop tomorrow', rather than a habit or hypothetical statement.
+A: Ní dhúnfaidh sé an siopa amárach.
+B: Ní dhúnann sé an siopa de ghnáth.
+C: Níor dhún sé an siopa inné.
+D: Ní dhúnfadh sé an siopa dá mbeadh sé gnóthach.
 ANSWER: A
-EXPLANATION: Cé asks who, cad asks what, cathain asks when and cén fáth asks why. The rest of the sentence must also match the intended question.
-EXAMPLE: Cathain a bheidh tú ann? means when will you be there?
+EXPLANATION: Ní followed by a future verb expresses a negative future statement. Similar-looking present, past and conditional forms change the time or certainty of the statement.
+EXAMPLE: Ní cheannóidh mé é = I will not buy it; ní cheannóinn é = I would not buy it.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-049
-TITLE: Evenings and weeks
-QUESTION: What does aréir mean?
-A: Tonight
-B: Yesterday morning
-C: The night before last
-D: Last night
+TITLE: The condition for joining
+QUESTION: Read: Tá cúig áit fágtha ar an gcúrsa. Coinneoimid áit duit má íocann tú an éarlais faoin Luan. What secures the place?
+A: Simply asking how many places remain
+B: Arriving on Monday without paying
+C: Paying the entire fee after the course ends
+D: Paying the deposit by Monday
 ANSWER: D
-EXPLANATION: Anocht means tonight, aréir means last night and an tseachtain seo chugainn means next week. Time expressions are useful clues in short texts.
-EXAMPLE: Léigh mé aréir = I read last night. Léifidh mé anocht = I will read tonight.
+EXPLANATION: A place may depend on registration or payment even if the event is free. Identify the stated condition rather than assuming that free entry means no advance action.
+EXAMPLE: Tá sé saor in aisce, ach caithfidh tú clárú = it is free, but you must register.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-050
-TITLE: Three days in the diary
-QUESTION: Which day is Dé Céadaoin?
-A: Tuesday
-B: Thursday
-C: Friday
-D: Wednesday
+TITLE: An irregular verb in the right frame
+QUESTION: Complete the past question: An ___ tú go Corcaigh an deireadh seachtaine seo caite? B: Ní dheachaigh; d’fhan mé sa bhaile.
+A: chuaigh
+B: dtéann
+C: rachaidh
+D: ndeachaigh
 ANSWER: D
-EXPLANATION: Dé Céadaoin, Déardaoin and Dé hAoine name Wednesday, Thursday and Friday in day expressions. Déardaoin is written as one word.
-EXAMPLE: Beidh mé ann Dé hAoine means I will be there on Friday.
+EXPLANATION: Some irregular verbs have different independent and dependent past forms. Chonaic contrasts with an bhfaca; chuaigh contrasts with an ndeachaigh. The question particle is part of the grammatical context.
+EXAMPLE: Chonaic mé í, but an bhfaca tú í? = I saw her, but did you see her?
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-051
-TITLE: Months for a calendar
-QUESTION: Which month is Eanáir?
-A: January
-B: February
-C: June
-D: November
+TITLE: Choosing a place to live
+QUESTION: Read: Cé go bhfuil an seomra beag, tá sé ciúin agus níl an cíos ródhaor. Ghlac mé leis mar tá áit shocair de dhíth orm le staidéar a dhéanamh. Why did the speaker accept the room?
+A: It offers a quiet place to study at an acceptable rent
+B: It is the largest room available
+C: It is beside the workplace
+D: It has no rent to pay
 ANSWER: A
-EXPLANATION: Eanáir, Feabhra and Márta are January, February and March. These items ask for the month names, without introducing additional date-case endings.
-EXAMPLE: A simple calendar sequence begins Eanáir, Feabhra, Márta.
+EXPLANATION: Compare the reasons given for a housing decision rather than choosing the first attractive feature. Cé go introduces a concession: although something is true, another factor determines the decision.
+EXAMPLE: Cé go bhfuil sé níos mó, tá sé rófhada ón obair = although it is bigger, it is too far from work.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-052
-TITLE: Beyond ten
-QUESTION: Which abstract number is a haon déag?
-A: Twelve
-B: Ten
-C: Eleven
-D: Twenty-one
+TITLE: Possession changes hands
+QUESTION: Choose the completion meaning 'You plural have the tickets, not us': Tá na ticéid ___, ní againne.
+A: againn
+B: acu
+C: agaibh
+D: aige
 ANSWER: C
-EXPLANATION: The abstract counting forms a haon déag, a dó dhéag and fiche refer to eleven, twelve and twenty. Counting objects can use different constructions.
-EXAMPLE: Practise abstract counting separately from phrases such as two people or three books.
+EXPLANATION: Againn, agaibh and acu express possession by us, you plural and them. Follow any transfer or contrast in the message rather than selecting the first person mentioned.
+EXAMPLE: Bhí na ticéid againn, ach tá siad agaibh anois = We had the tickets, but you plural have them now.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-053
-TITLE: Counting people
-QUESTION: Read Tá beirt anseo. How many people are here?
-A: Three
-B: Four
-C: One
-D: Two
+TITLE: A shop’s return conditions
+QUESTION: Read: Bhí mé ag iarraidh an geansaí a thabhairt ar ais, ach bhí sé caite agam cheana féin. Dúirt an siopa nach bhféadfaidís é a ghlacadh ar ais mar sin. Why was this return refused?
+A: The jumper had never been worn
+B: The shop had closed permanently
+C: The speaker asked for the wrong size before buying
+D: The jumper had already been worn
 ANSWER: D
-EXPLANATION: Irish uses a special series for counting people: beirt = two people, triúr = three people, ceathrar = four people. These differ from the abstract number series.
-EXAMPLE: Tá triúr anseo means there are three people here.
+EXPLANATION: Conditions such as a receipt, time limit or original state determine what the shop offers. Distinguish a refund from an exchange and a general rule from an exception.
+EXAMPLE: Malartú means an exchange; aisíoc refers to a refund.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-054
-TITLE: Inside familiar places
-QUESTION: Choose 'He is at home.'
-A: Bhí sé sa bhaile.
-B: Tá sí sa bhaile.
-C: Tá sé ag dul abhaile.
-D: Tá sé sa bhaile.
+TITLE: Conditions expressed with ar
+QUESTION: Choose the completion meaning 'He was thirsty, but he is not thirsty now': Bhí tart ___, ach níl tart air anois.
+A: aige
+B: uirthi
+C: agam
+D: air
 ANSWER: D
-EXPLANATION: Sa combines in with the singular article. In common standard phrases, sa bhaile = at home, sa chistin = in the kitchen and sa bhanc = in the bank.
-EXAMPLE: Tá sí sa chistin means she is in the kitchen.
+EXPLANATION: Irish commonly expresses hunger, thirst and worry using a noun plus ar. Track who experiences the condition: orm is me, ort is you, air is him and uirthi is her.
+EXAMPLE: Tá imní orm faoi Mháire expresses my worry about Máire, not necessarily Máire’s own feeling.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-055
-TITLE: Where someone comes from
-QUESTION: Choose 'I am from Cork.'
-A: Is as Corcaigh tú.
-B: Is as Corcaigh mé.
-C: Tá mé i gCorcaigh.
-D: Is as Ciarraí mé.
+TITLE: Weather and a revised activity
+QUESTION: Read: Bhí picnic beartaithe againn, ach bhí báisteach throm ann. D’fhanamar sa teach agus d’itheamar ansin. What did they actually do?
+A: Had the picnic outside despite the rain
+B: Ate indoors because of the rain
+C: Postponed eating until the next day
+D: Went to a café before the rain began
 ANSWER: B
-EXPLANATION: Is as expresses being from a place. Tá ... i or in describes current location instead. The wording of Irish place names can change with grammatical context.
-EXAMPLE: Is as Corcaigh mé means I am from Cork, rather than simply being in Cork now.
+EXPLANATION: Distinguish the condition for an activity from a confirmed cancellation. Má introduces an open condition; otherwise and a fallback arrangement keep the outcome conditional.
+EXAMPLE: Má bhíonn sé tirim, rachaimid amach = if it is dry, we will go out.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-056
-TITLE: Better, worse, cheaper
-QUESTION: Which phrase means 'better'?
-A: níos fearr
-B: níos measa
-C: níos mó
-D: níos lú
+TITLE: Who prefers which option?
+QUESTION: Choose 'She would prefer to stay at home' in response to an invitation, not 'he' or 'I'.
+A: B’fhearr léi fanacht sa bhaile.
+B: B’fhearr leis fanacht sa bhaile.
+C: B’fhearr liom fanacht sa bhaile.
+D: B’fhearr leat fanacht sa bhaile.
 ANSWER: A
-EXPLANATION: Níos fearr means better, níos measa means worse and níos saoire means cheaper. Ná introduces the comparison in these simple sentences.
-EXAMPLE: Tá sé níos fearr ná sin means it is better than that.
+EXPLANATION: Is fearr le expresses preference; the pronoun identifies whose preference is meant. Liom is me, leat is you, leis is him and léi is her. Preserve both the person and the comparison.
+EXAMPLE: Is fearr léi tae ná caife = She prefers tea to coffee.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-057
-TITLE: Linking short ideas
-QUESTION: Complete 'tea or coffee': tae ___ caife.
-A: agus
-B: ach
-C: nó
-D: mar
+TITLE: Before, after and enough time
+QUESTION: Read: Tosaíonn an ceolchoirm ag 7.30. Ba mhaith linn a bheith ann leathuair roimhe sin, agus tógann an turas fiche nóiméad. What is the latest departure that meets that plan?
+A: 7.00
+B: 7.10
+C: 6.40
+D: 6.20
 ANSWER: C
-EXPLANATION: Agus adds, ach contrasts and nó offers an alternative. These conjunctions allow useful short connected sentences without advanced grammar.
-EXAMPLE: Tae nó caife? means tea or coffee. Tá sé fuar ach tirim means it is cold but dry.
+EXPLANATION: Work out the order of events and any time interval. Mentioning one service does not establish it is the service that can meet the stated deadline.
+EXAMPLE: Roimh means before; tar éis means after. Relate both times to the required arrival.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-058
-TITLE: Reading a two-part plan
-QUESTION: Read: Chuaigh mé go Gaillimh inné. Rachaidh mé go Corcaigh amárach. Where will the speaker go tomorrow?
-A: Cork
-B: Galway
-C: Dublin
-D: They will stay in Galway
+TITLE: Wanting something and needing something
+QUESTION: Read: Tá cabhair de dhíth orm leis an bhfoirm, ach is féidir liom an táille a íoc mé féin. What help is needed?
+A: Help with the form rather than payment of the fee
+B: Money for the fee rather than help with the form
+C: Both the fee and the form completed by someone else
+D: Neither financial nor practical help
 ANSWER: A
-EXPLANATION: Identify both the verb tense and the time expression when reading a short plan. Chuaigh is past and rachaidh is future.
-EXAMPLE: Chuaigh mé inné, ach rachaidh sí amárach separates what I did yesterday from what she will do tomorrow.
+EXPLANATION: Ba mhaith liom expresses a wish or polite request. Tá ... de dhíth orm and teastaíonn ... uaim express a need. A contrast can make one item wanted but another necessary.
+EXAMPLE: Ba mhaith liom caife, ach tá uisce de dhíth orm = I would like coffee, but I need water.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-059
-TITLE: Shopping and prices
-QUESTION: Which question asks 'How much does it cost?'
-A: Cé mhéad atá air?
-B: Cé mhéad a chosain sé?
-C: Cé mhéad atá agat?
-D: Cá bhfuil an praghas?
+TITLE: A library deadline
+QUESTION: Read: D’iarr mé síneadh ar an iasacht, ach tá an leabhar curtha in áirithe ag duine eile. Caithfidh mé é a thabhairt ar ais faoin Aoine mar a bhí socraithe. What happened to the deadline?
+A: It remains Friday
+B: It was extended by a week
+C: It was cancelled entirely
+D: It moved to the day the other reader finishes
 ANSWER: A
-EXPLANATION: Cé mhéad asks how much or how many. Daor means expensive and saor means cheap or free, with the intended meaning determined by context.
-EXAMPLE: Cé mhéad atá air? asks how much it costs. Tá sé an-daor means it is very expensive.
+EXPLANATION: A renewed loan changes a return deadline; an unavailable renewal does not. Track whether the message reports an action already completed or requests one.
+EXAMPLE: D’iarr mé síneadh means I requested an extension, not that the extension was granted.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-060
-TITLE: Keeping a conversation going
-QUESTION: Which sentence means 'I do not understand'?
-A: Níor thuig mé.
-B: Ní thuigfidh mé.
-C: Ní thuigim.
-D: Ní thuigeann sé.
+TITLE: Match the question to the reply
+QUESTION: Which question fits the reply Dhá uair sa tseachtain, de ghnáth?
+A: Cá fhad a fhanfaidh tú ann inniu?
+B: Cé mhéad duine a rachaidh ann?
+C: Cé chomh minic a théann tú ann?
+D: Cathain a tháinig tú abhaile aréir?
 ANSWER: C
-EXPLANATION: Simple repair phrases help sustain a conversation at A2/B1. Ní thuigim means I do not understand, and Cad is brí le ...? asks for meaning.
-EXAMPLE: Ní thuigim. An féidir leat é sin a rá arís? means I do not understand. Can you say that again?
+EXPLANATION: Distinguish duration, frequency, quantity and the time of an event. Cá fhad asks how long; cé chomh minic asks how often; cé mhéad asks how much/many; cathain asks when.
+EXAMPLE: Le trí bliana answers a duration question, not a question about a specific calendar date.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-061
-TITLE: Who has it?
-QUESTION: Complete 'He has a dog': Tá madra ___.
-A: aige
-B: aici
-C: agam
-D: leis
+TITLE: Work plans and availability
+QUESTION: Read: Ní oibrím ar an Aoine de ghnáth, ach tá mé ag cabhrú le comhghleacaí an tseachtain seo. Ní bheidh mé saor go dtí 5.00. What is unusual this week?
+A: The speaker is working on Friday
+B: The speaker has stopped working entirely
+C: The speaker is free before five on Friday
+D: Friday is always a normal workday for the speaker
 ANSWER: A
-EXPLANATION: Irish possession commonly uses tá with ag. The person changes the prepositional pronoun: agam = at me, agat = at you, aige = at him, aici = at her.
-EXAMPLE: Tá rothar agam means I have a bicycle. Change agam to aici for she has a bicycle.
+EXPLANATION: Read who is available, when and why. A stated work obligation can explain a refusal without implying lack of interest in the proposed activity.
+EXAMPLE: Ba bhreá liom teacht, ach tá mé ag obair = I would love to come, but I am working.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-062
-TITLE: How someone feels
-QUESTION: Complete 'He is thirsty': Tá tart ___.
-A: orm
-B: air
-C: ort
-D: aige
+TITLE: A dependent form after go
+QUESTION: Complete the explicitly current meaning 'I know she is home now': Tá a fhios agam go ___ sí sa bhaile anois.
+A: raibh
+B: bhfuil
+C: mbeidh
+D: mbeadh
 ANSWER: B
-EXPLANATION: Several Irish conditions use a noun plus ar: tá tart orm = I am thirsty. Orm, ort, air and uirthi change the person experiencing the condition.
-EXAMPLE: Tá fuacht orm means I feel cold. Tá fuacht ort means you feel cold.
+EXPLANATION: The form of bí after go depends on time and mood: go bhfuil is present, go raibh is past, go mbeidh is future and go mbeadh is conditional. Use the explicitly requested meaning.
+EXAMPLE: Tá súil agam go mbeidh tú ann amárach = I hope you will be there tomorrow.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-063
-TITLE: Different people like different things
-QUESTION: Complete 'He likes coffee': Is maith ___ caife.
-A: liom
-B: léi
-C: leis
-D: aige
+TITLE: A meal and a preference
+QUESTION: Read: Is maith liom caife, ach ní ólaim san oíche é mar cuireann sé isteach ar mo chodladh. Gheobhaidh mé uisce anois. Why is the speaker not ordering coffee?
+A: They dislike the taste of coffee
+B: They have already ordered another coffee
+C: It is late and coffee affects their sleep
+D: Coffee is unavailable at the café
 ANSWER: C
-EXPLANATION: Is maith le expresses liking; the prepositional pronoun identifies the person: liom, leat, leis, léi. The phrase is not an ordinary possession construction.
-EXAMPLE: Is maith léi ceol means she likes music; is maith leis ceol means he likes music.
+EXPLANATION: Identify the reason for a food choice and distinguish preference from inability or restriction. The meal mentioned first may be an option that was rejected.
+EXAMPLE: Ní ithim feoil, ach ithim iasc = I do not eat meat, but I eat fish.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-064
-TITLE: A name for each person
-QUESTION: Complete 'His name is Seán': Seán is ainm ___.
-A: di
-B: dom
-C: duit
-D: dó
+TITLE: Reported information and its time
+QUESTION: Read: Dúirt Seán go mbeidh sé anseo amárach. What has Seán said?
+A: He was here yesterday
+B: He is already here now
+C: He would be here if he had time
+D: He will be here tomorrow
 ANSWER: D
-EXPLANATION: In the naming pattern X is ainm do, the forms dom, duit and dó mean to me, to you and to him. Keep the person consistent with the intended meaning.
-EXAMPLE: Cad is ainm duit? asks your name; Matthew is ainm dom gives the speaker’s name.
+EXPLANATION: A reported statement still needs a time reference. Dúirt reports what was said; the clause after go states the reported content, which may be past, current or future.
+EXAMPLE: Dúirt sí go raibh sí gnóthach aréir reports that she was busy last night.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-065
-TITLE: Not liking and wanting politely
-QUESTION: Choose 'I would like a ticket.'
-A: Is maith liom ticéid.
-B: Ba mhaith liom ticéad.
-C: Ba mhaith leat ticéad.
-D: Níor mhaith liom ticéad.
+TITLE: Who is doing which task?
+QUESTION: Read: Thug Niamh an leabhar do Chiarán. Dúirt sí leis é a thabhairt dom nuair a bheadh sé críochnaithe aige. Who is expected to pass the book to the speaker?
+A: Niamh
+B: Ciarán
+C: The speaker’s mother
+D: Someone not mentioned in the message
 ANSWER: B
-EXPLANATION: Ní maith liom means I do not like. Ba mhaith liom means I would like. Their different verb forms change the meaning even when the following noun is the same.
-EXAMPLE: Ní maith liom caife says I do not like coffee. Ba mhaith liom tae asks for or expresses a wish for tea.
+EXPLANATION: Follow names and object pronouns across sentences. A person who makes an arrangement is not automatically the person carrying out the later task.
+EXAMPLE: Rachaidh Aoife, ach fanfaidh Seán = Aoife will go, but Seán will stay.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-066
-TITLE: Identity and location
-QUESTION: Which sentence means 'I am in the library'?
-A: Bhí mé sa leabharlann.
-B: Tá sí sa leabharlann.
-C: Tá mé sa leabharlann.
-D: Tá mé ag dul go dtí an leabharlann.
+TITLE: A hypothetical situation
+QUESTION: Choose the response meaning 'If I had time, I would go with you.'
+A: Beidh am agam agus rachaidh mé leat.
+B: Bhí am agam agus chuaigh mé leat.
+C: Dá mbeadh am agam, rachainn leat.
+D: Bíonn am agam agus téim leat.
 ANSWER: C
-EXPLANATION: Irish distinguishes copular identity/classification patterns from ordinary tá descriptions and locations. Is múinteoir mé means I am a teacher; tá mé sa scoil means I am in the school.
-EXAMPLE: Compare a role with a location: Is ceoltóir mé. Tá mé sa bhaile.
+EXPLANATION: Dá mbeadh introduces a hypothetical state, often paired with a conditional response such as rachainn (I would go). A stated hypothetical is not confirmation of a real future plan.
+EXAMPLE: Dá mbeadh am agam, rachainn leat = If I had time, I would go with you.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-067
-TITLE: Talking about yesterday
-QUESTION: Choose 'Were you tired?'
-A: An bhfuil tú tuirseach?
-B: An mbeidh tú tuirseach?
-C: An raibh tú tuirseach?
-D: An mbíonn tú tuirseach?
+TITLE: Following a route
+QUESTION: Read: Tá an caifé os comhair na leabharlainne, ní taobh thiar di. Tá an banc idir an caifé agus an siopa. Which position is stated?
+A: The café is behind the library
+B: The library is between the bank and shop
+C: The bank is between the café and the shop
+D: The café and bank are inside the library
 ANSWER: C
-EXPLANATION: Bhí is the affirmative past of bí; ní raibh is negative and an raibh introduces a question. Raibh is used in the dependent past forms here.
-EXAMPLE: An raibh tú sa bhaile? Bhí. Were you at home? Yes.
+EXPLANATION: Use the sequence and location cues rather than picking a landmark merely because it is mentioned. Ar chlé is left; ar dheis is right; os comhair is in front of or opposite, according to context.
+EXAMPLE: Cas ar dheis tar éis an bhainc = turn right after the bank.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-068
-TITLE: Tomorrow in the negative
-QUESTION: Choose 'Will you be ready?'
-A: An raibh tú réidh?
-B: An mbíonn tú réidh?
-C: An mbeadh tú réidh?
-D: An mbeidh tú réidh?
+TITLE: An offer, a preference or a habit?
+QUESTION: Read: An maith leat siúl? Is maith, ach níor mhaith liom dul amach anocht. Which meaning is correct?
+A: The person dislikes walking but has agreed to go tonight
+B: The person walked tonight and disliked it
+C: The person has never walked before
+D: The person likes walking generally but does not want to go out tonight
 ANSWER: D
-EXPLANATION: Future bí uses beidh, ní bheidh and an mbeidh in these ordinary affirmative, negative and question patterns. The initial mutation marks the grammatical context.
-EXAMPLE: Beidh mé ann = I will be there. Ní bheidh mé ann = I will not be there.
+EXPLANATION: Ar mhaith leat is a would-you-like offer. An maith leat asks about liking. Conditional polite language and ordinary questions about preferences are not interchangeable in every context.
+EXAMPLE: An maith leat tae? asks whether you like tea; ar mhaith leat tae? offers tea.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-069
-TITLE: Would be, not will be
-QUESTION: Choose 'I would not be ready.'
-A: Ní bheidh mé réidh.
-B: Ní bheadh mé réidh.
-C: Ní raibh mé réidh.
-D: Níl mé réidh.
+TITLE: A routine and an exception
+QUESTION: Read: Bíonn an leabharlann dúnta ar an Domhnach de ghnáth. Beidh sí ar oscailt an Domhnach seo don fhéile. What should a visitor expect this Sunday?
+A: The usual closure
+B: An exception to the normal closure
+C: Opening only on Saturday
+D: A permanent end to Sunday closures
 ANSWER: B
-EXPLANATION: Bheadh is a conditional form of bí, while beidh is future. Ní bheadh is the negative conditional. The distinction matters in hypothetical statements.
-EXAMPLE: Bheadh sé deas means it would be nice. Beidh sé deas means it will be nice.
+EXPLANATION: De ghnáth states a usual pattern; an tseachtain seo or inniu can introduce an exception. Do not turn a one-off change into a permanent routine.
+EXAMPLE: De ghnáth siúlaim, ach inniu thóg mé an bus separates the routine from today’s event.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-070
-TITLE: A daily routine
-QUESTION: Choose 'I eat breakfast at eight.'
-A: D'ith mé bricfeasta ar a hocht.
-B: Ithim bricfeasta ar a naoi.
-C: Ithim bricfeasta ar a hocht.
-D: Itheann sé bricfeasta ar a hocht.
+TITLE: Getting events in the right order
+QUESTION: Read: Tar éis an cruinniú a chríochnú, chuamar amach le haghaidh caife. Which order is stated?
+A: Go for coffee, then finish the meeting
+B: Leave the meeting unfinished to get coffee
+C: Finish the meeting, then go for coffee
+D: Have coffee throughout the meeting
 ANSWER: C
-EXPLANATION: The ordinary present tense often describes repeated actions. Léim means I read, scríobhaim means I write and ithim means I eat.
-EXAMPLE: Léim leabhar gach seachtain means I read a book every week.
+EXPLANATION: Sula/sular means before, while tar éis means after. Reconstruct the event order rather than following the order in which the clauses happen to be written.
+EXAMPLE: Sular imigh mé, ghlaoigh mé uirthi = Before I left, I called her; the call happened first.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-071
-TITLE: A completed ordinary action
-QUESTION: Choose 'He closed the door.'
-A: Dúnfaidh sé an doras.
-B: Dhún sé an doras.
-C: Dúnann sé an doras.
-D: Dhún sí an doras.
+TITLE: Choosing how to study
+QUESTION: Read: Tá an chéad chúrsa níos saoire, ach níl deis labhartha ann. Roghnaigh mé an dara ceann mar ba mhaith liom comhrá a chleachtadh. What mattered more than the lower price?
+A: A shorter journey
+B: Speaking practice
+C: Fewer lessons
+D: An earlier examination date
 ANSWER: B
-EXPLANATION: Many regular Irish past-tense verbs show lenition, and verbs beginning with a vowel can take d’. These examples are affirmative past statements.
-EXAMPLE: Cheannaigh mé leabhar = I bought a book. D’ól mé uisce = I drank water.
+EXPLANATION: Look for a choice based on practical constraints or learning preferences. Mentioning two course formats does not mean the person has chosen both.
+EXAMPLE: Roghnaigh mé an cúrsa ar líne mar ... = I chose the online course because ...
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-072
-TITLE: Planning an action
-QUESTION: Choose 'She will buy a book.'
-A: Cheannaigh sí leabhar.
-B: Ceannóidh sí leabhar.
-C: Ceannóidh sé leabhar.
-D: Ní cheannóidh sí leabhar.
+TITLE: Only, rather than not at all
+QUESTION: Read: Ní ithim feoil ach ar an Domhnach. Which meaning fits?
+A: I eat meat every day except Sunday
+B: I eat meat only on Sundays
+C: I never eat meat, including Sunday
+D: I stopped eating meat last Sunday
 ANSWER: B
-EXPLANATION: Léifidh, ólfaidh and ceannóidh are future forms of read, drink and buy. The exact ending depends on the verb’s conjugation and spelling.
-EXAMPLE: Léifidh mé an leabhar amárach means I will read the book tomorrow.
+EXPLANATION: A negative construction with ach can mean only or nothing but. Do not interpret ní ... ach as ordinary negation followed by an unrelated but-clause.
+EXAMPLE: Ní raibh ach beirt ann = There were only two people there, not that nobody was there.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-073
-TITLE: Three irregular past forms
-QUESTION: Complete 'She saw the dog': ___ sí an madra.
-A: Feicfidh
-B: Chuala
-C: Rinne
-D: Chonaic
+TITLE: An invitation and a polite answer
+QUESTION: Read: Go raibh maith agat as an gcuireadh. Nílim cinnte fós an mbeidh mé saor. Cuirfidh mé scéala chugat amárach. Has the speaker accepted?
+A: Yes, with attendance confirmed
+B: No, they have definitely refused
+C: Yes, but only for tomorrow’s event
+D: Not yet; they will reply tomorrow
 ANSWER: D
-EXPLANATION: Chuaigh, chonaic and rinne are affirmative past forms of téigh, feic and déan. Irregular forms need to be learned as patterns rather than guessed from regular endings.
-EXAMPLE: Chuaigh mé abhaile = I went home. Rinne mé obair = I did work.
+EXPLANATION: A positive expression of interest followed by ach may still decline the proposed arrangement. An alternative time can show willingness without acceptance of the original invitation.
+EXAMPLE: Ba bhreá liom é, ach ní féidir liom amárach = I would love to, but I cannot tomorrow.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-074
-TITLE: Three irregular future forms
-QUESTION: Complete 'She will see you tomorrow': ___ sí thú amárach.
-A: Feicfidh
-B: Chonaic
-C: Feiceann
-D: Déanfaidh
+TITLE: A description attached to the right person
+QUESTION: Read: Thug mé an leabhar a cheannaigh Aoife do Sheán. Who bought the book?
+A: Aoife
+B: Seán
+C: The speaker
+D: The sentence does not name the buyer
 ANSWER: A
-EXPLANATION: Rachaidh, feicfidh and déanfaidh are future forms of go, see and do/make. They contrast with chuaigh, chonaic and rinne in the affirmative past.
-EXAMPLE: Rachaidh mé abhaile means I will go home; chuaigh mé abhaile means I went home.
+EXPLANATION: A relative clause supplies information about the noun it follows. Track which person is described and distinguish that description from a later action involving somebody else.
+EXAMPLE: An bhean atá ina cónaí in aice liom = the woman who lives next to me.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-075
-TITLE: What is happening now?
-QUESTION: Choose 'He is walking now.'
-A: Bhí sé ag siúl inné.
-B: Tá sí ag siúl anois.
-C: Tá sé ag siúl anois.
-D: Tá sé ag rith anois.
+TITLE: Looking for something lost
+QUESTION: Read: Shíl mé gur fhág mé an fón sa chaifé, ach fuair mo dheartháir sa bhaile é. Ní gá dom filleadh ar an gcaifé anois. Where was the phone actually found?
+A: In the café
+B: At the brother’s workplace
+C: At home
+D: In the speaker’s car
 ANSWER: C
-EXPLANATION: Tá plus ag and a verbal noun expresses many ongoing activities. Ag léamh is reading, ag siúl is walking and ag obair is working.
-EXAMPLE: Tá mé ag siúl anois means I am walking now. The verbal noun stays the same when the subject changes.
+EXPLANATION: Track the difference between a place already searched and a place proposed for the next search. Fós can indicate that the search remains unresolved.
+EXAMPLE: D’fhéach mé sa charr, ach ní bhfuair mé é = I looked in the car, but did not find it.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-076
-TITLE: An activity in progress yesterday
-QUESTION: Choose 'He was sleeping.'
-A: Tá sé ag codladh.
-B: Beidh sé ag codladh.
-C: Bhí sé ag codladh.
-D: Bhí sí ag codladh.
+TITLE: An ongoing duration
+QUESTION: Read: Bhí mé i mo chónaí i gCorcaigh ar feadh trí bliana, ach tá mé i nGaillimh anois. What is described?
+A: Three years still ongoing in Cork
+B: A plan to move to Cork in three years
+C: A completed three-year period in Cork before the current Galway residence
+D: Three years living in Galway before Cork
 ANSWER: C
-EXPLANATION: Bhí plus the activity phrase places an ongoing activity in the past; beidh places it in the future. Tá describes the present.
-EXAMPLE: Bhí mé ag obair inné = I was working yesterday. Beidh mé ag obair amárach = I will be working tomorrow.
+EXPLANATION: A present activity with le and a duration commonly indicates that it began earlier and continues now. A completed past period or a future plan has a different time interpretation.
+EXAMPLE: Tá mé ag obair anseo le dhá bhliain = I have been working here for two years.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-077
-TITLE: Listening, speaking, waiting
-QUESTION: Choose 'I am speaking to you.'
-A: Tá mé ag labhairt leat.
-B: Tá tú ag labhairt liom.
-C: Bhí mé ag labhairt leat.
-D: Tá mé ag éisteacht leat.
+TITLE: Changing a volunteer rota
+QUESTION: Read: D’iarr mé ar Liam mo sheal a dhéanamh, ach níor thug sé freagra fós. Go dtí go mbeidh a fhios agam, tá mé féin fós ar an rota. What is currently confirmed?
+A: The speaker remains responsible for the shift
+B: Liam has accepted the shift
+C: The shift has been cancelled
+D: Both people must definitely work the shift
 ANSWER: A
-EXPLANATION: Irish verbal-noun phrases often select a particular preposition. Éist le means listen to, labhair le means speak to, and fan le can mean wait for.
-EXAMPLE: Tá mé ag éisteacht le ceol means I am listening to music.
+EXPLANATION: Work out both the original responsibility and the agreed swap. A request is not the same as a completed agreement unless the reply confirms it.
+EXAMPLE: Oibreoidh mé Dé Máirt ina áit = I will work Tuesday instead.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-078
-TITLE: Choosing a question word
-QUESTION: Which question means 'When will you be there?'
-A: Cá mbeidh tú?
-B: Cathain a bhí tú ann?
-C: Cathain a bheidh sé ann?
-D: Cathain a bheidh tú ann?
+TITLE: The comparison must match the facts
+QUESTION: Read: Tá an seomra nua níos mó ná an seancheann, ach tá sé níos daoire freisin. Which pair is correct for the new room?
+A: Smaller and cheaper
+B: Larger and cheaper
+C: Smaller and more expensive
+D: Larger and more expensive
 ANSWER: D
-EXPLANATION: Cé asks who, cad asks what, cathain asks when and cén fáth asks why. The rest of the sentence must also match the intended question.
-EXAMPLE: Cathain a bheidh tú ann? means when will you be there?
+EXPLANATION: Níos saoire is cheaper; níos daoire is more expensive. In a comparison with ná, reversing the subjects reverses which thing is cheaper or larger.
+EXAMPLE: Tá A níos saoire ná B expresses A costing less than B, not the other way round.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-079
-TITLE: Evenings and weeks
-QUESTION: What does anocht mean?
-A: Last night
-B: Tomorrow night
-C: This morning
-D: Tonight
+TITLE: A message about taking a break
+QUESTION: Read: Dúirt mé go ndéanfainn uair an chloig de chleachtadh, ach tá sos de dhíth orm. Déanfaidh mé fiche nóiméad anois agus an chuid eile níos déanaí. What changed?
+A: All practice has been cancelled
+B: The speaker has already completed the hour
+C: The entire practice is postponed until next week
+D: The practice is being split into shorter periods
 ANSWER: D
-EXPLANATION: Anocht means tonight, aréir means last night and an tseachtain seo chugainn means next week. Time expressions are useful clues in short texts.
-EXAMPLE: Léigh mé aréir = I read last night. Léifidh mé anocht = I will read tonight.
+EXPLANATION: Read the reason for a temporary change and whether the person is stopping completely or reducing an activity. Time expressions limit the claim being made.
+EXAMPLE: An tseachtain seo amháin = this week only; it does not describe a permanent decision.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-080
-TITLE: Three days in the diary
-QUESTION: Which day is Déardaoin?
-A: Wednesday
-B: Tuesday
-C: Friday
-D: Thursday
+TITLE: A reason and a concession
+QUESTION: Read: D’fhan mé sa bhaile mar bhí mé tinn, ní mar bhí drochaimsir ann. What reason is explicitly rejected?
+A: Illness
+B: Staying at home
+C: A reason is not given at all
+D: Bad weather
 ANSWER: D
-EXPLANATION: Dé Céadaoin, Déardaoin and Dé hAoine name Wednesday, Thursday and Friday in day expressions. Déardaoin is written as one word.
-EXAMPLE: Beidh mé ann Dé hAoine means I will be there on Friday.
+EXPLANATION: Mar and toisc introduce reasons; cé go introduces a concession. The relationship between clauses matters: although does not mean because, and a reason does not automatically describe the action taken.
+EXAMPLE: Cé go raibh sé tuirseach, chuaigh sé amach = Although he was tired, he went out.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-081
-TITLE: Months for a calendar
-QUESTION: Which month is Feabhra?
-A: January
-B: April
-C: September
-D: February
+TITLE: The journey that actually happened
+QUESTION: Read: Bhí an carr sa gharáiste agus bhí mé déanach. D’fhág mé an rothar sa bhaile agus ghlac mé tacsaí go dtí an stáisiún. Which transport got the speaker to the station?
+A: Their bicycle
+B: Their own car
+C: A lift from the garage
+D: A taxi
 ANSWER: D
-EXPLANATION: Eanáir, Feabhra and Márta are January, February and March. These items ask for the month names, without introducing additional date-case endings.
-EXAMPLE: A simple calendar sequence begins Eanáir, Feabhra, Márta.
+EXPLANATION: Separate an earlier plan from the action taken after ach (but). A transport mentioned first is not necessarily the one actually used; the final completed action resolves the question.
+EXAMPLE: Bhí mé chun siúl, ach thóg mé an bus = I was going to walk, but I took the bus.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-082
-TITLE: Beyond ten
-QUESTION: Which abstract number is a dó dhéag?
-A: Eleven
-B: Twenty-two
-C: Thirteen
-D: Twelve
+TITLE: A usual pattern rather than one occasion
+QUESTION: Read: Bíonn sé gnóthach ar an Aoine, ach bhí sé saor an Aoine seo caite. Which interpretation preserves the contrast?
+A: He was free every Friday until last week
+B: He will be free every Friday from now on
+C: He is busy now and was also busy last Friday
+D: He is usually busy on Fridays but was free last Friday
 ANSWER: D
-EXPLANATION: The abstract counting forms a haon déag, a dó dhéag and fiche refer to eleven, twelve and twenty. Counting objects can use different constructions.
-EXAMPLE: Practise abstract counting separately from phrases such as two people or three books.
+EXPLANATION: Bíonn and its personal forms express a habitual state or repeated pattern. Tá describes a current state; bhí and beidh place it in the past and future. Use the requested time meaning, not just a familiar form.
+EXAMPLE: Bím gnóthach ar an Luan, ach tá mé saor inniu = I am usually busy on Mondays, but I am free today.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-083
-TITLE: Counting people
-QUESTION: Read Tá triúr sa seomra. How many people are in the room?
-A: Two
-B: Three
-C: Four
-D: Six
+TITLE: A revised meeting time
+QUESTION: Read: Tá an scannán ag tosú ag 8.30 seachas 8.00. Buailfimid le chéile leathuair roimh thús an scannáin. When should they meet?
+A: 7.30
+B: 8.00
+C: 8.30
+D: 9.00
 ANSWER: B
-EXPLANATION: Irish uses a special series for counting people: beirt = two people, triúr = three people, ceathrar = four people. These differ from the abstract number series.
-EXAMPLE: Tá triúr anseo means there are three people here.
+EXPLANATION: Track the revised time rather than retaining the first time mentioned. Ní ... ach can contrast a rejected arrangement with the replacement, while níos déanaí means later.
+EXAMPLE: Ní ag a sé ach ag a seacht = not at six but at seven.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-084
-TITLE: Inside familiar places
-QUESTION: Choose 'She is in the kitchen.'
-A: Bhí sí sa chistin.
-B: Tá sí sa chistin.
-C: Tá sé sa chistin.
-D: Tá sí sa seomra suí.
+TITLE: The past in questions and negatives
+QUESTION: Read: Ní raibh sí sa bhaile nuair a ghlaoigh mé, ach tá sí ann anois. Which version keeps both times correct?
+A: She is out now but was home when I called
+B: She was out when I called but is home now
+C: She has never been home when I call
+D: She will not be home until I call again
 ANSWER: B
-EXPLANATION: Sa combines in with the singular article. In common standard phrases, sa bhaile = at home, sa chistin = in the kitchen and sa bhanc = in the bank.
-EXAMPLE: Tá sí sa chistin means she is in the kitchen.
+EXPLANATION: Past forms of bí depend on the construction: bhí is affirmative, an raibh asks a question and ní raibh negates it. Do not substitute the present dependent form bhfuil when the ordinary past is intended.
+EXAMPLE: An raibh tú ann? Ní raibh. = Were you there? No, I was not.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-085
-TITLE: Where someone comes from
-QUESTION: Choose 'She is from Dublin.'
-A: Is as Baile Átha Cliath é.
-B: Tá sí i mBaile Átha Cliath.
-C: Is as Baile Átha Cliath í.
-D: Is as Corcaigh í.
+TITLE: Done already, or still to do?
+QUESTION: Read: Tá na ticéid curtha in áirithe againn cheana féin. Íocfaimid astu nuair a shroichfimid an oifig amárach. What has happened so far?
+A: The tickets have been paid for but not reserved
+B: The tickets were collected yesterday
+C: The tickets are reserved but not yet paid for
+D: They have decided not to reserve tickets
 ANSWER: C
-EXPLANATION: Is as expresses being from a place. Tá ... i or in describes current location instead. The wording of Irish place names can change with grammatical context.
-EXAMPLE: Is as Corcaigh mé means I am from Cork, rather than simply being in Cork now.
+EXPLANATION: Cheana féin marks something already done; fós with a negative often means not yet. A future form states a plan and does not report completion.
+EXAMPLE: Cheannaigh mé é cheana féin, ach níor léigh mé é fós = I already bought it, but have not read it yet.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-086
-TITLE: Better, worse, cheaper
-QUESTION: Which phrase means 'worse'?
-A: níos fearr
-B: níos lú
-C: níos measa
-D: níos deacra
+TITLE: A completed action and its negative
+QUESTION: Read: Níor ól mé caife ar maidin; d’ól mé tae ina áit. What actually happened?
+A: The speaker drank both tea and coffee
+B: The speaker plans to drink tea tomorrow
+C: The speaker drank tea instead of coffee this morning
+D: The speaker has stopped drinking coffee permanently
 ANSWER: C
-EXPLANATION: Níos fearr means better, níos measa means worse and níos saoire means cheaper. Ná introduces the comparison in these simple sentences.
-EXAMPLE: Tá sé níos fearr ná sin means it is better than that.
+EXPLANATION: A negative past report is not a future prediction or a present habit. With regular verbs, níor normally precedes a lenited past form, as in níor cheannaigh.
+EXAMPLE: Cheannaigh mé é inné contrasts with níor cheannaigh mé é inné.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-087
-TITLE: Linking short ideas
-QUESTION: Complete 'It is cold but dry': Tá sé fuar ___ tirim.
-A: agus
-B: mar
-C: ach
-D: nó
+TITLE: A change at the clinic
+QUESTION: Read: Chuir mé glaoch chun an choinne a chur ar ceal, ach bhí an oifig dúnta. Seolfaidh mé ríomhphost anois. What can be concluded?
+A: The office has confirmed the cancellation
+B: The appointment was completed earlier
+C: The speaker tried to cancel and will now email
+D: A new appointment has already been agreed
 ANSWER: C
-EXPLANATION: Agus adds, ach contrasts and nó offers an alternative. These conjunctions allow useful short connected sentences without advanced grammar.
-EXAMPLE: Tae nó caife? means tea or coffee. Tá sé fuar ach tirim means it is cold but dry.
+EXPLANATION: Identify whether the message cancels, postpones or confirms an appointment. A practical reason for a change does not itself tell you the replacement date.
+EXAMPLE: Ní féidir liom teacht inniu; an mbeadh Dé Máirt oiriúnach? asks about Tuesday rather than confirming attendance today.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-088
-TITLE: Reading a two-part plan
-QUESTION: Read: Bhí mé sa bhaile inné. Beidh mé sa leabharlann amárach. Where was the speaker yesterday?
-A: At home
-B: In the library
-C: At home tomorrow
-D: In the bookshop
+TITLE: A future decision, not a past report
+QUESTION: Read: Ní imeoidh mé go dtí go mbeidh an obair críochnaithe. What commitment is expressed?
+A: The speaker will wait until the work is finished before leaving
+B: The speaker has already left the unfinished work
+C: The speaker never leaves after doing work
+D: The speaker would leave if there were work to finish
 ANSWER: A
-EXPLANATION: Identify both the verb tense and the time expression when reading a short plan. Chuaigh is past and rachaidh is future.
-EXAMPLE: Chuaigh mé inné, ach rachaidh sí amárach separates what I did yesterday from what she will do tomorrow.
+EXPLANATION: Ní followed by a future verb expresses a negative future statement. Similar-looking present, past and conditional forms change the time or certainty of the statement.
+EXAMPLE: Ní cheannóidh mé é = I will not buy it; ní cheannóinn é = I would not buy it.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-089
-TITLE: Shopping and prices
-QUESTION: What does Tá sé an-daor mean in a shop?
-A: It is cheaper
-B: It is very expensive
-C: It is more expensive than before
-D: It is very cheap
+TITLE: The condition for joining
+QUESTION: Read: Is féidir leat páirt a ghlacadh sa rith gan a bheith i do bhall den chlub. Caithfidh gach duine foirm a líonadh, áfach. Which statement is correct?
+A: Membership and the form are both optional
+B: Membership is optional, but the form is required
+C: Only club members need the form
+D: Membership is required, but the form is optional
 ANSWER: B
-EXPLANATION: Cé mhéad asks how much or how many. Daor means expensive and saor means cheap or free, with the intended meaning determined by context.
-EXAMPLE: Cé mhéad atá air? asks how much it costs. Tá sé an-daor means it is very expensive.
+EXPLANATION: A place may depend on registration or payment even if the event is free. Identify the stated condition rather than assuming that free entry means no advance action.
+EXAMPLE: Tá sé saor in aisce, ach caithfidh tú clárú = it is free, but you must register.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-090
-TITLE: Keeping a conversation going
-QUESTION: Which question asks for the meaning of a word?
-A: Cad é an focal Gaeilge air sin?
-B: Cad is brí leis an bhfocal sin?
-C: Conas a deir tú an focal sin?
-D: Conas a litríonn tú an focal sin?
+TITLE: An irregular verb in the right frame
+QUESTION: Read: Ní dhearna mé an obair inné, ach déanfaidh mé anocht í. Which distinction is correct?
+A: The work was completed yesterday and will be checked tonight
+B: The work was not done yesterday and is planned for tonight
+C: The work is always done at night
+D: The work would be done only if it had been started yesterday
 ANSWER: B
-EXPLANATION: Simple repair phrases help sustain a conversation at A2/B1. Ní thuigim means I do not understand, and Cad is brí le ...? asks for meaning.
-EXAMPLE: Ní thuigim. An féidir leat é sin a rá arís? means I do not understand. Can you say that again?
+EXPLANATION: Some irregular verbs have different independent and dependent past forms. Chonaic contrasts with an bhfaca; chuaigh contrasts with an ndeachaigh. The question particle is part of the grammatical context.
+EXAMPLE: Chonaic mé í, but an bhfaca tú í? = I saw her, but did you see her?
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-091
-TITLE: Who has it?
-QUESTION: Complete 'She has a bicycle': Tá rothar ___.
-A: aige
-B: agam
-C: léi
-D: aici
+TITLE: Choosing a place to live
+QUESTION: Read: Thaitin an teach liom, ach níor ghlac mé leis. Bhí orm an cíos ar feadh bliana a íoc roimh ré, agus ní raibh an t-airgead agam. Why was the house rejected?
+A: The rent was due only after a year
+B: The house itself was disliked
+C: The speaker had already paid for another year there
+D: A year’s rent had to be paid in advance
 ANSWER: D
-EXPLANATION: Irish possession commonly uses tá with ag. The person changes the prepositional pronoun: agam = at me, agat = at you, aige = at him, aici = at her.
-EXAMPLE: Tá rothar agam means I have a bicycle. Change agam to aici for she has a bicycle.
+EXPLANATION: Compare the reasons given for a housing decision rather than choosing the first attractive feature. Cé go introduces a concession: although something is true, another factor determines the decision.
+EXAMPLE: Cé go bhfuil sé níos mó, tá sé rófhada ón obair = although it is bigger, it is too far from work.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-092
-TITLE: How someone feels
-QUESTION: Complete 'She feels cold': Tá fuacht ___.
-A: uirthi
-B: air
-C: aici
-D: ort
+TITLE: Possession changes hands
+QUESTION: Read: Níl carr againn, ach tá ceann ag mo thuismitheoirí. Is féidir linn a gcarr a fháil ar iasacht. Which statement is supported?
+A: The speaker’s group can borrow the parents' car
+B: The speaker’s group owns two cars
+C: The parents need to borrow the speaker’s car
+D: Nobody mentioned has a car
 ANSWER: A
-EXPLANATION: Several Irish conditions use a noun plus ar: tá tart orm = I am thirsty. Orm, ort, air and uirthi change the person experiencing the condition.
-EXAMPLE: Tá fuacht orm means I feel cold. Tá fuacht ort means you feel cold.
+EXPLANATION: Againn, agaibh and acu express possession by us, you plural and them. Follow any transfer or contrast in the message rather than selecting the first person mentioned.
+EXAMPLE: Bhí na ticéid againn, ach tá siad agaibh anois = We had the tickets, but you plural have them now.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-093
-TITLE: Different people like different things
-QUESTION: Complete 'She likes the film': Is maith ___ an scannán.
-A: leis
-B: liom
-C: léi
-D: aici
+TITLE: A shop’s return conditions
+QUESTION: Read: Ní raibh an méid ceart sa siopa. D’ordaigh siad é dom agus gheobhaidh mé teachtaireacht nuair a bheidh sé tagtha. What should happen next?
+A: The correct size has already been collected
+B: The speaker must buy the wrong size now
+C: The speaker should receive a message when the ordered size arrives
+D: The shop will send a message only after a refund
 ANSWER: C
-EXPLANATION: Is maith le expresses liking; the prepositional pronoun identifies the person: liom, leat, leis, léi. The phrase is not an ordinary possession construction.
-EXAMPLE: Is maith léi ceol means she likes music; is maith leis ceol means he likes music.
+EXPLANATION: Conditions such as a receipt, time limit or original state determine what the shop offers. Distinguish a refund from an exchange and a general rule from an exception.
+EXAMPLE: Malartú means an exchange; aisíoc refers to a refund.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-094
-TITLE: A name for each person
-QUESTION: Which question asks 'What is your name?'
-A: Cad is ainm dom?
-B: Cad is ainm dó?
-C: Cad is ainm di?
-D: Cad is ainm duit?
+TITLE: Conditions expressed with ar
+QUESTION: Read: Tá ocras ortsa, ach níl ocras ormsa. Ith rud éigin más mian leat. What contrast is made?
+A: The speaker is hungry, but the other person is not
+B: Both people are hungry
+C: Neither person is hungry now
+D: The other person is hungry, but the speaker is not
 ANSWER: D
-EXPLANATION: In the naming pattern X is ainm do, the forms dom, duit and dó mean to me, to you and to him. Keep the person consistent with the intended meaning.
-EXAMPLE: Cad is ainm duit? asks your name; Matthew is ainm dom gives the speaker’s name.
+EXPLANATION: Irish commonly expresses hunger, thirst and worry using a noun plus ar. Track who experiences the condition: orm is me, ort is you, air is him and uirthi is her.
+EXAMPLE: Tá imní orm faoi Mháire expresses my worry about Máire, not necessarily Máire’s own feeling.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-095
-TITLE: Not liking and wanting politely
-QUESTION: Choose 'Would you like tea?'
-A: Ar mhaith leat tae?
-B: An maith leat tae?
-C: Ar mhaith liom tae?
-D: Ar mhaith léi tae?
+TITLE: Weather and a revised activity
+QUESTION: Read: Beidh an cluiche ar siúl mar a bhí beartaithe. Cuirfear ar ceal é má éiríonn an ghaoth níos láidre. What is the current situation?
+A: The match is going ahead, subject to the wind worsening
+B: The match has already been cancelled
+C: The match will go ahead only if the wind strengthens
+D: The match was moved indoors yesterday
 ANSWER: A
-EXPLANATION: Ní maith liom means I do not like. Ba mhaith liom means I would like. Their different verb forms change the meaning even when the following noun is the same.
-EXAMPLE: Ní maith liom caife says I do not like coffee. Ba mhaith liom tae asks for or expresses a wish for tea.
+EXPLANATION: Distinguish the condition for an activity from a confirmed cancellation. Má introduces an open condition; otherwise and a fallback arrangement keep the outcome conditional.
+EXAMPLE: Má bhíonn sé tirim, rachaimid amach = if it is dry, we will go out.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-096
-TITLE: Identity and location
-QUESTION: Which sentence means 'I am Irish'?
-A: Is Éireannach tú.
-B: Tá mé in Éirinn.
-C: Is as Sasana mé.
-D: Is Éireannach mé.
+TITLE: Who prefers which option?
+QUESTION: Read: Is maith liom an chéad leabhar, ach is fearr liom an dara ceann. What is the speaker saying?
+A: They dislike the first and have not read the second
+B: They prefer the first to the second
+C: They like neither book
+D: They like the first book but prefer the second
 ANSWER: D
-EXPLANATION: Irish distinguishes copular identity/classification patterns from ordinary tá descriptions and locations. Is múinteoir mé means I am a teacher; tá mé sa scoil means I am in the school.
-EXAMPLE: Compare a role with a location: Is ceoltóir mé. Tá mé sa bhaile.
+EXPLANATION: Is fearr le expresses preference; the pronoun identifies whose preference is meant. Liom is me, leat is you, leis is him and léi is her. Preserve both the person and the comparison.
+EXAMPLE: Is fearr léi tae ná caife = She prefers tea to coffee.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-097
-TITLE: Talking about yesterday
-QUESTION: Choose the negative reply to An raibh tú ann? (Were you there?)
-A: Níl.
-B: Ní bheidh.
-C: Ní raibh.
-D: Ní bheadh.
+TITLE: Before, after and enough time
+QUESTION: Read: Beidh mé sa stáisiún sula bhfágfaidh an traein, ach ní bheidh am agam caife a fháil ar dtús. What does the speaker expect?
+A: To miss the train while buying coffee
+B: To buy coffee before reaching the station
+C: To catch the train without first getting coffee
+D: To take a later train because there is enough time
 ANSWER: C
-EXPLANATION: Bhí is the affirmative past of bí; ní raibh is negative and an raibh introduces a question. Raibh is used in the dependent past forms here.
-EXAMPLE: An raibh tú sa bhaile? Bhí. Were you at home? Yes.
+EXPLANATION: Work out the order of events and any time interval. Mentioning one service does not establish it is the service that can meet the stated deadline.
+EXAMPLE: Roimh means before; tar éis means after. Relate both times to the required arrival.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-098
-TITLE: Tomorrow in the negative
-QUESTION: Choose the affirmative reply to An mbeidh tú ann? (Will you be there?)
-A: Bhí.
-B: Tá.
-C: Bheadh.
-D: Beidh.
+TITLE: Wanting something and needing something
+QUESTION: Choose the sentence that explicitly says 'I need more time', rather than merely wanting or having time.
+A: Ba mhaith liom níos mó ama.
+B: Tá níos mó ama agam.
+C: Bhí níos mó ama agam.
+D: Tá níos mó ama de dhíth orm.
 ANSWER: D
-EXPLANATION: Future bí uses beidh, ní bheidh and an mbeidh in these ordinary affirmative, negative and question patterns. The initial mutation marks the grammatical context.
-EXAMPLE: Beidh mé ann = I will be there. Ní bheidh mé ann = I will not be there.
+EXPLANATION: Ba mhaith liom expresses a wish or polite request. Tá ... de dhíth orm and teastaíonn ... uaim express a need. A contrast can make one item wanted but another necessary.
+EXAMPLE: Ba mhaith liom caife, ach tá uisce de dhíth orm = I would like coffee, but I need water.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-099
-TITLE: Would be, not will be
-QUESTION: Complete a hypothetical statement: ___ am agam dá mbeinn ar saoire. (I would have time if I were on holiday.)
-A: Beidh
-B: Bheadh
-C: Bhí
-D: Bíonn
+TITLE: A library deadline
+QUESTION: Read: Tá an leabhar a d’ordaigh tú tagtha. Coinneoimid ar leataobh duit é go dtí Dé Máirt. Ní gá é a bhailiú inniu. What should the reader understand?
+A: It will not arrive until Tuesday
+B: It can be collected by Tuesday rather than necessarily today
+C: It must be returned by Tuesday
+D: It has already been lent to someone else
 ANSWER: B
-EXPLANATION: Bheadh is a conditional form of bí, while beidh is future. Ní bheadh is the negative conditional. The distinction matters in hypothetical statements.
-EXAMPLE: Bheadh sé deas means it would be nice. Beidh sé deas means it will be nice.
+EXPLANATION: A renewed loan changes a return deadline; an unavailable renewal does not. Track whether the message reports an action already completed or requests one.
+EXAMPLE: D’iarr mé síneadh means I requested an extension, not that the extension was granted.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-100
-TITLE: A daily routine
-QUESTION: Which sentence describes a usual present routine?
-A: Léigh mé aréir.
-B: Léim gach oíche.
-C: Léifidh mé anocht.
-D: Tá mé ag léamh anois.
+TITLE: Match the question to the reply
+QUESTION: Which question fits the reply Cosnaíonn sé fiche euro?
+A: Cá fhad a mhaireann sé?
+B: Cé mhéad a chosnaíonn sé?
+C: Cathain a cheannaigh tú é?
+D: Cé chomh minic a úsáideann tú é?
 ANSWER: B
-EXPLANATION: The ordinary present tense often describes repeated actions. Léim means I read, scríobhaim means I write and ithim means I eat.
-EXAMPLE: Léim leabhar gach seachtain means I read a book every week.
+EXPLANATION: Distinguish duration, frequency, quantity and the time of an event. Cá fhad asks how long; cé chomh minic asks how often; cé mhéad asks how much/many; cathain asks when.
+EXAMPLE: Le trí bliana answers a duration question, not a question about a specific calendar date.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-101
-TITLE: A completed ordinary action
-QUESTION: Complete 'I drank water': ___ mé uisce.
-A: Ólfaidh
-B: D’ól
-C: D'ith
-D: D'oscail
+TITLE: Work plans and availability
+QUESTION: Read: Is féidir liom páirt a ghlacadh sa chruinniú ar líne, ach ní féidir liom taisteal go Baile Átha Cliath an lá sin. What option is the speaker offering?
+A: Travelling to Dublin instead of attending remotely
+B: Remote attendance instead of travelling that day
+C: Attendance only if the whole meeting is cancelled
+D: An in-person meeting already confirmed
 ANSWER: B
-EXPLANATION: Many regular Irish past-tense verbs show lenition, and verbs beginning with a vowel can take d’. These examples are affirmative past statements.
-EXAMPLE: Cheannaigh mé leabhar = I bought a book. D’ól mé uisce = I drank water.
+EXPLANATION: Read who is available, when and why. A stated work obligation can explain a refusal without implying lack of interest in the proposed activity.
+EXAMPLE: Ba bhreá liom teacht, ach tá mé ag obair = I would love to come, but I am working.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-102
-TITLE: Planning an action
-QUESTION: Choose 'He will drink water.'
-A: D'ól sé uisce.
-B: Ólfaidh sí uisce.
-C: Ólfaidh sé uisce.
-D: Ní ólfaidh sé uisce.
+TITLE: A dependent form after go
+QUESTION: Read: Tá súil agam go raibh an turas go maith. Which meaning is intended?
+A: The speaker hopes the journey will go well tomorrow
+B: The speaker knows every journey is good
+C: The speaker hopes the journey went well
+D: The speaker would take the journey if possible
 ANSWER: C
-EXPLANATION: Léifidh, ólfaidh and ceannóidh are future forms of read, drink and buy. The exact ending depends on the verb’s conjugation and spelling.
-EXAMPLE: Léifidh mé an leabhar amárach means I will read the book tomorrow.
+EXPLANATION: The form of bí after go depends on time and mood: go bhfuil is present, go raibh is past, go mbeidh is future and go mbeadh is conditional. Use the explicitly requested meaning.
+EXAMPLE: Tá súil agam go mbeidh tú ann amárach = I hope you will be there tomorrow.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-103
-TITLE: Three irregular past forms
-QUESTION: Complete 'He did the work': ___ sé an obair.
-A: Déanfaidh
-B: Déanann
-C: Chuaigh
-D: Rinne
+TITLE: A meal and a preference
+QUESTION: Read: D’iarr mé mias gan chnónna, ach tháinig an mhias le cnónna uirthi. D’iarr mé mias eile. What went wrong?
+A: The replacement meal had already been refused
+B: The speaker asked for extra nuts
+C: The speaker changed the order because of its price
+D: The meal did not meet the no-nuts request
 ANSWER: D
-EXPLANATION: Chuaigh, chonaic and rinne are affirmative past forms of téigh, feic and déan. Irregular forms need to be learned as patterns rather than guessed from regular endings.
-EXAMPLE: Chuaigh mé abhaile = I went home. Rinne mé obair = I did work.
+EXPLANATION: Identify the reason for a food choice and distinguish preference from inability or restriction. The meal mentioned first may be an option that was rejected.
+EXAMPLE: Ní ithim feoil, ach ithim iasc = I do not eat meat, but I eat fish.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-104
-TITLE: Three irregular future forms
-QUESTION: Complete 'He will do the work': ___ sé an obair.
-A: Rinne
-B: Déanann
-C: Déanfaidh
-D: D'fhéadfadh
+TITLE: Reported information and its time
+QUESTION: Read: Dúirt sí nach raibh an siopa ar oscailt inné, ach go mbeidh sé ar oscailt amárach. Which pair is correct?
+A: Open yesterday; closed tomorrow
+B: Closed yesterday and tomorrow
+C: Closed yesterday; open tomorrow
+D: Open yesterday and tomorrow
 ANSWER: C
-EXPLANATION: Rachaidh, feicfidh and déanfaidh are future forms of go, see and do/make. They contrast with chuaigh, chonaic and rinne in the affirmative past.
-EXAMPLE: Rachaidh mé abhaile means I will go home; chuaigh mé abhaile means I went home.
+EXPLANATION: A reported statement still needs a time reference. Dúirt reports what was said; the clause after go states the reported content, which may be past, current or future.
+EXAMPLE: Dúirt sí go raibh sí gnóthach aréir reports that she was busy last night.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-105
-TITLE: What is happening now?
-QUESTION: Choose 'I am working now.'
-A: Bhí mé ag obair inné.
-B: Tá tú ag obair anois.
-C: Tá mé ag obair anois.
-D: Tá mé ag foghlaim anois.
+TITLE: Who is doing which task?
+QUESTION: Read: Fuair Máire cuireadh agus fuair mise ceann freisin. Ní féidir léi teacht, ach beidh mé féin ann. Who has confirmed attendance?
+A: Máire only
+B: Both Máire and the speaker
+C: The speaker only
+D: Neither person
 ANSWER: C
-EXPLANATION: Tá plus ag and a verbal noun expresses many ongoing activities. Ag léamh is reading, ag siúl is walking and ag obair is working.
-EXAMPLE: Tá mé ag siúl anois means I am walking now. The verbal noun stays the same when the subject changes.
+EXPLANATION: Follow names and object pronouns across sentences. A person who makes an arrangement is not automatically the person carrying out the later task.
+EXAMPLE: Rachaidh Aoife, ach fanfaidh Seán = Aoife will go, but Seán will stay.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-106
-TITLE: An activity in progress yesterday
-QUESTION: Choose 'She will be working tomorrow.'
-A: Bhí sí ag obair inné.
-B: Bheadh sí ag obair amárach.
-C: Beidh sí ag obair amárach.
-D: Beidh sé ag obair amárach.
+TITLE: A hypothetical situation
+QUESTION: Read: Cheannóinn an rothar dá mbeadh sé níos saoire, ach tá sé ró-dhaor faoi láthair. What prevents the purchase now?
+A: The speaker already buying it yesterday
+B: Its being too cheap
+C: Its present price
+D: The shop not having any bicycles
 ANSWER: C
-EXPLANATION: Bhí plus the activity phrase places an ongoing activity in the past; beidh places it in the future. Tá describes the present.
-EXAMPLE: Bhí mé ag obair inné = I was working yesterday. Beidh mé ag obair amárach = I will be working tomorrow.
+EXPLANATION: Dá mbeadh introduces a hypothetical state, often paired with a conditional response such as rachainn (I would go). A stated hypothetical is not confirmation of a real future plan.
+EXAMPLE: Dá mbeadh am agam, rachainn leat = If I had time, I would go with you.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-107
-TITLE: Listening, speaking, waiting
-QUESTION: Choose 'I am waiting for the bus.'
-A: Tá mé ag dul ar an mbus.
-B: Bhí mé ag fanacht leis an mbus.
-C: Tá tú ag fanacht leis an mbus.
-D: Tá mé ag fanacht leis an mbus.
+TITLE: Following a route
+QUESTION: Read: Ní gá duit dul isteach sa stáisiún. Fan ag an mbealach isteach agus tiocfaidh mé amach chugat. Where should the other person wait?
+A: On the platform inside
+B: Behind the station
+C: Inside the ticket office
+D: At the station entrance
 ANSWER: D
-EXPLANATION: Irish verbal-noun phrases often select a particular preposition. Éist le means listen to, labhair le means speak to, and fan le can mean wait for.
-EXAMPLE: Tá mé ag éisteacht le ceol means I am listening to music.
+EXPLANATION: Use the sequence and location cues rather than picking a landmark merely because it is mentioned. Ar chlé is left; ar dheis is right; os comhair is in front of or opposite, according to context.
+EXAMPLE: Cas ar dheis tar éis an bhainc = turn right after the bank.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-108
-TITLE: Choosing a question word
-QUESTION: Which phrase asks 'Why?'
-A: Cén chaoi?
-B: Cathain?
-C: Cá fhad?
-D: Cén fáth?
+TITLE: An offer, a preference or a habit?
+QUESTION: Choose the polite preference meaning 'I would prefer to leave earlier', not a statement that leaving has already happened.
+A: D’imigh mé níos luaithe.
+B: Imeoidh mé níos luaithe.
+C: Imím níos luaithe de ghnáth.
+D: B’fhearr liom imeacht níos luaithe.
 ANSWER: D
-EXPLANATION: Cé asks who, cad asks what, cathain asks when and cén fáth asks why. The rest of the sentence must also match the intended question.
-EXAMPLE: Cathain a bheidh tú ann? means when will you be there?
+EXPLANATION: Ar mhaith leat is a would-you-like offer. An maith leat asks about liking. Conditional polite language and ordinary questions about preferences are not interchangeable in every context.
+EXAMPLE: An maith leat tae? asks whether you like tea; ar mhaith leat tae? offers tea.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-109
-TITLE: Evenings and weeks
-QUESTION: What does an tseachtain seo chugainn mean?
-A: This week
-B: Last week
-C: The week after next
-D: Next week
+TITLE: A routine and an exception
+QUESTION: Read: Ní ithim amach i rith na seachtaine de ghnáth, ach bhí lá breithe Aoife ann inné agus chuamar go bialann. What explains the exception?
+A: A new daily restaurant routine
+B: The restaurant being closed at weekends
+C: The speaker no longer eating at home
+D: Aoife’s birthday
 ANSWER: D
-EXPLANATION: Anocht means tonight, aréir means last night and an tseachtain seo chugainn means next week. Time expressions are useful clues in short texts.
-EXAMPLE: Léigh mé aréir = I read last night. Léifidh mé anocht = I will read tonight.
+EXPLANATION: De ghnáth states a usual pattern; an tseachtain seo or inniu can introduce an exception. Do not turn a one-off change into a permanent routine.
+EXAMPLE: De ghnáth siúlaim, ach inniu thóg mé an bus separates the routine from today’s event.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-110
-TITLE: Three days in the diary
-QUESTION: Which day is Dé hAoine?
-A: Thursday
-B: Saturday
-C: Wednesday
-D: Friday
+TITLE: Getting events in the right order
+QUESTION: Read: Níor thosaigh mé ag cócaireacht go dtí gur tháinig sí abhaile. What happened first?
+A: The speaker started cooking
+B: The meal was already finished
+C: The speaker left home
+D: She arrived home
 ANSWER: D
-EXPLANATION: Dé Céadaoin, Déardaoin and Dé hAoine name Wednesday, Thursday and Friday in day expressions. Déardaoin is written as one word.
-EXAMPLE: Beidh mé ann Dé hAoine means I will be there on Friday.
+EXPLANATION: Sula/sular means before, while tar éis means after. Reconstruct the event order rather than following the order in which the clauses happen to be written.
+EXAMPLE: Sular imigh mé, ghlaoigh mé uirthi = Before I left, I called her; the call happened first.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-111
-TITLE: Months for a calendar
-QUESTION: Which month is Márta?
-A: May
-B: February
-C: March
-D: April
+TITLE: Choosing how to study
+QUESTION: Read: Thaitin an rang liom, ach bhí an luas rómhall dom. Tá mé ag lorg grúpa ina mbeidh níos mó dúshláin. What does the speaker want next?
+A: The same material at a slower pace
+B: A course with no conversation
+C: A more challenging group
+D: To stop learning entirely
 ANSWER: C
-EXPLANATION: Eanáir, Feabhra and Márta are January, February and March. These items ask for the month names, without introducing additional date-case endings.
-EXAMPLE: A simple calendar sequence begins Eanáir, Feabhra, Márta.
+EXPLANATION: Look for a choice based on practical constraints or learning preferences. Mentioning two course formats does not mean the person has chosen both.
+EXAMPLE: Roghnaigh mé an cúrsa ar líne mar ... = I chose the online course because ...
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-112
-TITLE: Beyond ten
-QUESTION: What number does fiche mean?
-A: Twenty
-B: Twelve
-C: Nineteen
-D: Twenty-one
+TITLE: Only, rather than not at all
+QUESTION: Read: Níor cheannaigh mé ach leabhar amháin, cé go raibh go leor airgid agam. What was bought?
+A: Just one book
+B: No books at all
+C: Several books because there was enough money
+D: One book plus an unspecified number of other books
 ANSWER: A
-EXPLANATION: The abstract counting forms a haon déag, a dó dhéag and fiche refer to eleven, twelve and twenty. Counting objects can use different constructions.
-EXAMPLE: Practise abstract counting separately from phrases such as two people or three books.
+EXPLANATION: A negative construction with ach can mean only or nothing but. Do not interpret ní ... ach as ordinary negation followed by an unrelated but-clause.
+EXAMPLE: Ní raibh ach beirt ann = There were only two people there, not that nobody was there.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-113
-TITLE: Counting people
-QUESTION: Read Tá ceathrar ag obair. How many people are working?
-A: Three
-B: Five
-C: Two
-D: Four
+TITLE: An invitation and a polite answer
+QUESTION: Read: Is cuma liom cén bhialann a roghnaíonn sibh, ach b’fhearr liom ithe roimh 8.00. What preference is actually expressed?
+A: A particular restaurant regardless of time
+B: Eating after eight at any restaurant
+C: Not going to a restaurant
+D: An earlier meal, with flexibility about the restaurant
 ANSWER: D
-EXPLANATION: Irish uses a special series for counting people: beirt = two people, triúr = three people, ceathrar = four people. These differ from the abstract number series.
-EXAMPLE: Tá triúr anseo means there are three people here.
+EXPLANATION: A positive expression of interest followed by ach may still decline the proposed arrangement. An alternative time can show willingness without acceptance of the original invitation.
+EXAMPLE: Ba bhreá liom é, ach ní féidir liom amárach = I would love to, but I cannot tomorrow.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-114
-TITLE: Inside familiar places
-QUESTION: Choose 'I am in the bank.'
-A: Tá mé sa bhanc.
-B: Bhí mé sa bhanc.
-C: Tá mé ag an mbanc.
-D: Tá mé sa siopa.
+TITLE: A description attached to the right person
+QUESTION: Read: Is í Máire an múinteoir a chonaic mé sa stáisiún inné. What is stated about Máire?
+A: She is the teacher the speaker saw at the station yesterday
+B: She taught at the station yesterday
+C: She saw the speaker’s teacher yesterday
+D: She will meet the teacher at the station tomorrow
 ANSWER: A
-EXPLANATION: Sa combines in with the singular article. In common standard phrases, sa bhaile = at home, sa chistin = in the kitchen and sa bhanc = in the bank.
-EXAMPLE: Tá sí sa chistin means she is in the kitchen.
+EXPLANATION: A relative clause supplies information about the noun it follows. Track which person is described and distinguish that description from a later action involving somebody else.
+EXAMPLE: An bhean atá ina cónaí in aice liom = the woman who lives next to me.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-115
-TITLE: Where someone comes from
-QUESTION: What does Is as Éirinn mé mean?
-A: I am in Ireland
-B: I am from Ireland
-C: I am going to Ireland
-D: I came from Ireland yesterday
+TITLE: Looking for something lost
+QUESTION: Read: Níor thug mé an cóta liom ón oifig inné. Tá mé ag súil go bhfuil sé fós ann, ach níor chuir mé glaoch orthu fós. What is known rather than merely hoped?
+A: The office has confirmed it still has the coat
+B: The coat was not brought home from the office
+C: The coat has already been collected
+D: The coat was definitely lost somewhere else
 ANSWER: B
-EXPLANATION: Is as expresses being from a place. Tá ... i or in describes current location instead. The wording of Irish place names can change with grammatical context.
-EXAMPLE: Is as Corcaigh mé means I am from Cork, rather than simply being in Cork now.
+EXPLANATION: Track the difference between a place already searched and a place proposed for the next search. Fós can indicate that the search remains unresolved.
+EXAMPLE: D’fhéach mé sa charr, ach ní bhfuair mé é = I looked in the car, but did not find it.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-116
-TITLE: Better, worse, cheaper
-QUESTION: Choose 'This is cheaper than that.'
-A: Tá sé seo níos daoire ná sin.
-B: Tá sé sin níos saoire ná seo.
-C: Bhí sé seo níos saoire ná sin.
-D: Tá sé seo níos saoire ná sin.
+TITLE: An ongoing duration
+QUESTION: Read: Tá mé anseo ó bhí mé i mo pháiste. Which meaning is closest?
+A: I was here only during childhood
+B: I will come here with my child
+C: I was here before becoming a parent, but have left
+D: I have been here since I was a child
 ANSWER: D
-EXPLANATION: Níos fearr means better, níos measa means worse and níos saoire means cheaper. Ná introduces the comparison in these simple sentences.
-EXAMPLE: Tá sé níos fearr ná sin means it is better than that.
+EXPLANATION: A present activity with le and a duration commonly indicates that it began earlier and continues now. A completed past period or a future plan has a different time interpretation.
+EXAMPLE: Tá mé ag obair anseo le dhá bhliain = I have been working here for two years.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-117
-TITLE: Linking short ideas
-QUESTION: Choose 'a book and a pen'.
-A: leabhar nó peann
-B: leabhar agus peann
-C: leabhar ach ní peann
-D: leabhar gan pheann
+TITLE: Changing a volunteer rota
+QUESTION: Read: Is féidir liom cabhrú ar maidin, ach caithfidh mé imeacht faoi 1.00. Beidh duine eile ag teastáil don tráthnóna. What cover is still needed?
+A: Someone for the morning only
+B: Someone for the afternoon
+C: Nobody, because the speaker can stay all day
+D: Someone only before the speaker arrives
 ANSWER: B
-EXPLANATION: Agus adds, ach contrasts and nó offers an alternative. These conjunctions allow useful short connected sentences without advanced grammar.
-EXAMPLE: Tae nó caife? means tea or coffee. Tá sé fuar ach tirim means it is cold but dry.
+EXPLANATION: Work out both the original responsibility and the agreed swap. A request is not the same as a completed agreement unless the reply confirms it.
+EXAMPLE: Oibreoidh mé Dé Máirt ina áit = I will work Tuesday instead.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-118
-TITLE: Reading a two-part plan
-QUESTION: Read: Cheannaigh sí leabhar inné. Léifidh sí é anocht. What will she do tonight?
-A: Buy the book
-B: Read the book
-C: Write about the book
-D: Read it tomorrow night
+TITLE: The comparison must match the facts
+QUESTION: Read: Níl an dara turas chomh fada leis an gcéad cheann, ach tógann sé níos mó ama. Which distinction is made?
+A: The second journey is longer in distance and quicker
+B: The second journey is shorter in distance but takes longer
+C: Both journeys have the same distance and duration
+D: The second journey is shorter and takes less time
 ANSWER: B
-EXPLANATION: Identify both the verb tense and the time expression when reading a short plan. Chuaigh is past and rachaidh is future.
-EXAMPLE: Chuaigh mé inné, ach rachaidh sí amárach separates what I did yesterday from what she will do tomorrow.
+EXPLANATION: Níos saoire is cheaper; níos daoire is more expensive. In a comparison with ná, reversing the subjects reverses which thing is cheaper or larger.
+EXAMPLE: Tá A níos saoire ná B expresses A costing less than B, not the other way round.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-119
-TITLE: Shopping and prices
-QUESTION: In a price comparison, what does níos saoire mean?
-A: More expensive
-B: Cheapest of all
-C: Less than before in quantity
-D: Cheaper
+TITLE: A message about taking a break
+QUESTION: Read: Tá mé ag obair níos lú an tseachtain seo chun níos mó ama a chaitheamh leis an teaghlach. Fillfidh mé ar an ngnáthchlár an tseachtain seo chugainn. What is stated?
+A: The speaker has left the job
+B: The normal schedule starts for the first time today
+C: The family will be away next week
+D: The reduction in work is temporary
 ANSWER: D
-EXPLANATION: Cé mhéad asks how much or how many. Daor means expensive and saor means cheap or free, with the intended meaning determined by context.
-EXAMPLE: Cé mhéad atá air? asks how much it costs. Tá sé an-daor means it is very expensive.
+EXPLANATION: Read the reason for a temporary change and whether the person is stopping completely or reducing an activity. Time expressions limit the claim being made.
+EXAMPLE: An tseachtain seo amháin = this week only; it does not describe a permanent decision.
 SOURCE: https://www.teanglann.ie/en/
 ---
 ID: irish-120
-TITLE: Keeping a conversation going
-QUESTION: Choose 'Speak more slowly, please.'
-A: Labhair níos tapúla, le do thoil.
-B: Labhair níos moille, le do thoil.
-C: Labhair níos airde, le do thoil.
-D: Abair arís é, le do thoil.
+TITLE: A reason and a concession
+QUESTION: Read: Thóg mé an bus chun teacht in am, ach bhí moill air agus bhí mé déanach fós. What is the contrast?
+A: The speaker intended to arrive late and succeeded
+B: The intended purpose was punctuality, but the result was lateness
+C: The bus was on time but the speaker missed it
+D: The speaker arrived early because the bus was delayed
 ANSWER: B
-EXPLANATION: Simple repair phrases help sustain a conversation at A2/B1. Ní thuigim means I do not understand, and Cad is brí le ...? asks for meaning.
-EXAMPLE: Ní thuigim. An féidir leat é sin a rá arís? means I do not understand. Can you say that again?
+EXPLANATION: Mar and toisc introduce reasons; cé go introduces a concession. The relationship between clauses matters: although does not mean because, and a reason does not automatically describe the action taken.
+EXAMPLE: Cé go raibh sé tuirseach, chuaigh sé amach = Although he was tired, he went out.
 SOURCE: https://www.teanglann.ie/en/

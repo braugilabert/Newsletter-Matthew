@@ -154,40 +154,40 @@ D. Entering feared situations while preserving every protective strategy through
 
 
 05. A little Gaeilge
-Practical Irish at A2/B1, one small step at a time.
+Towards B1: messages, meaning and grammar in context.
 
-5.1. Yesterday versus tomorrow
-Which word means 'yesterday'?
+5.1. An irregular verb in the right frame
+Complete the past question matching the reply: A: An ___ tú Máire inné? B: Chonaic, ag an stáisiún.
 
-A. inné
+A. bhfaca
 
-B. inniu
+B. chonaic
 
-C. amárach
+C. bhfeiceann
 
-D. aréir
+D. bhfeicfidh
 
-5.2. Past tense of bí
-Complete: ___ mé sa bhaile inné. Meaning: I was at home yesterday.
+5.2. Choosing a place to live
+Read: Tá an chéad árasán níos saoire, ach tá sé i bhfad ón obair. Tá an dara ceann gar don oifig, agus sin an ceann a roghnaigh mé. What determined the choice?
 
-A. Tá
+A. The first flat’s lower rent
 
-B. Beidh
+B. The second flat being the larger one
 
-C. Bhí
+C. The second flat’s proximity to work
 
-D. Bheadh
+D. The first flat being available sooner
 
-5.3. Future tense of bí
-Complete: ___ mé ann amárach. Meaning: I will be there tomorrow.
+5.3. Possession changes hands
+Read: Bhí na heochracha againne, ach thugamar do na comharsana iad ar maidin. Tá siad acu anois. Who has the keys now?
 
-A. Bhí
+A. The speaker’s group
 
-B. Beidh
+B. The neighbours
 
-C. Bheadh
+C. Both groups each have the same keys
 
-D. Bím
+D. The message does not identify the current holder
 
 
 06. Music theory, finally
@@ -326,23 +326,23 @@ Answer: A. Planned contact with feared but sufficiently safe situations to suppo
 Exposure is collaborative and tailored to a formulation. Learning can occur even when some anxiety remains; safety and consent matter.
 Worked example / practice: In a fictional graded plan, someone might begin by looking at a lift before later practising a short ride with agreed support.
 
-5.1. Yesterday versus tomorrow
-Which word means 'yesterday'?
-Answer: A. inné
-Inné means yesterday, inniu means today and amárach means tomorrow. These time words help interpret a short text.
-Worked example / practice: Mini-sequence: inné -> inniu -> amárach. Yesterday -> today -> tomorrow.
+5.1. An irregular verb in the right frame
+Complete the past question matching the reply: A: An ___ tú Máire inné? B: Chonaic, ag an stáisiún.
+Answer: A. bhfaca
+Some irregular verbs have different independent and dependent past forms. Chonaic contrasts with an bhfaca; chuaigh contrasts with an ndeachaigh. The question particle is part of the grammatical context.
+Worked example / practice: Chonaic mé í, but an bhfaca tú í? = I saw her, but did you see her?
 
-5.2. Past tense of bí
-Complete: ___ mé sa bhaile inné. Meaning: I was at home yesterday.
-Answer: C. Bhí
-Bhí is the affirmative past form of bí. The time word inné reinforces the past meaning.
-Worked example / practice: Compare: Tá mé sa bhaile = I am at home. Bhí mé sa bhaile = I was at home.
+5.2. Choosing a place to live
+Read: Tá an chéad árasán níos saoire, ach tá sé i bhfad ón obair. Tá an dara ceann gar don oifig, agus sin an ceann a roghnaigh mé. What determined the choice?
+Answer: C. The second flat’s proximity to work
+Compare the reasons given for a housing decision rather than choosing the first attractive feature. Cé go introduces a concession: although something is true, another factor determines the decision.
+Worked example / practice: Cé go bhfuil sé níos mó, tá sé rófhada ón obair = although it is bigger, it is too far from work.
 
-5.3. Future tense of bí
-Complete: ___ mé ann amárach. Meaning: I will be there tomorrow.
-Answer: B. Beidh
-Beidh is the affirmative future form of bí. Ann here means there.
-Worked example / practice: Time swap: Bhí mé ann inné. Beidh mé ann amárach. I was there yesterday. I will be there tomorrow.
+5.3. Possession changes hands
+Read: Bhí na heochracha againne, ach thugamar do na comharsana iad ar maidin. Tá siad acu anois. Who has the keys now?
+Answer: B. The neighbours
+Againn, agaibh and acu express possession by us, you plural and them. Follow any transfer or contrast in the message rather than selecting the first person mentioned.
+Worked example / practice: Bhí na ticéid againn, ach tá siad agaibh anois = We had the tickets, but you plural have them now.
 
 6.1. The bass staff
 In bass clef, what are the staff lines from bottom to top?

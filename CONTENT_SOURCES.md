@@ -45,8 +45,9 @@ Source URLs remain in every TXT record for editorial traceability. **They are no
 - [Teanglann: dictionary, grammar and pronunciation](https://www.teanglann.ie/en/).
 - [Teanglann: bí](https://www.teanglann.ie/en/fgb/b%C3%AD): present, past, future and habitual forms.
 - [Foclóir: English–Irish dictionary](https://www.focloir.ie/): further word and phrase lookup.
+- [TEG: B1 guidelines](https://www.teg.ie/_fileupload/guides/B1_treoir_EN.pdf): background for the target reading skills, including everyday messages and descriptions. No examination questions have been copied.
 
-Instructions are in English. Tasks use short practical sentences at approximately A2/B1, with standard forms and explanations in English. Regional variants are not automatically wrong. Pronunciation practice is directed to native audio rather than invented English phonetic spellings.
+Instructions and explanations are in English. The 120 original exercises now alternate 60 short reading messages with 60 contextual grammar and meaning tasks, moving towards B1. Topics include revised plans, conditions, reported information, ongoing duration, preferences and pronoun reference. Distractors change a relevant detail, time, participant or condition rather than testing isolated vocabulary alone. B1 is an editorial target, not a certified level or a claim of equivalence to the TEG examination. Standard forms are used without treating regional alternatives as inherently wrong.
 
 ## Music
 
@@ -66,6 +67,6 @@ The preview snapshot was fetched from the Spanish RSS feeds on 21 November 2026.
 
 ## Difficulty revision
 
-All six banks retain 120 questions, stable IDs and four answer positions. Distractors now emphasise nearby concepts, differential diagnoses, related grammatical forms and common musical errors. Neuropsychology vignettes include additional discriminating findings where needed. Irish remains approximately A2/B1 and music remains introductory.
+All six banks retain 120 questions, stable IDs and four answer positions. Distractors now emphasise nearby concepts, differential diagnoses, related grammatical forms and common musical errors. Neuropsychology vignettes include additional discriminating findings where needed. Music remains introductory. The full client feedback supports keeping the clinical sections at their current level, strengthening neuroscience and psychotherapy distractors, and moving Irish from elementary recall to contextual reading and grammar towards B1. The latest revision replaces the Irish exercises while preserving question IDs, used-question history and all archived real editions.
 
 Neuroscience has a more substantial revision: applied experimental scenarios replace simple recall prompts, with attention to prediction errors, receptor/circuit context, shunting inhibition, synaptic mechanisms, method selection, confounds and limits on causal inference. Some correct answer content was updated to match the revised question. Classification names in mental-health cases retain the stated DSM-5-TR or ICD-11 framework.

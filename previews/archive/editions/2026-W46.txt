@@ -154,40 +154,40 @@ D. What earlier relationship might this expectation be repeating?
 
 
 05. A little Gaeilge
-Practical Irish at A2/B1, one small step at a time.
+Towards B1: messages, meaning and grammar in context.
 
-5.1. An ordinary greeting
-What is the usual reply to Dia duit when greeting one person?
+5.1. A change at the clinic
+Read: Ní bheidh an dochtúir ar fáil amárach. Tá coinne nua curtha in áirithe duit don Aoine. Cuir glaoch orainn mura n-oireann sé sin duit. What should the patient do if Friday is unsuitable?
 
-A. Dia is Muire daoibh.
+A. Attend tomorrow’s original appointment
 
-B. Dia is Muire duit.
+B. Phone the clinic to discuss the replacement
 
-C. Go raibh maith agat.
+C. Assume the Friday appointment is cancelled
 
-D. Slán leat.
+D. Wait for the doctor to visit their home
 
-5.2. Counting objects simply
-Which standalone number is 'three'?
+5.2. A future decision, not a past report
+Complete the firm future decision: Ní ___ mé ticéad amárach; tá ceann agam cheana féin. Choose 'will buy' in the required negative construction.
 
-A. a trí
+A. cheannóidh
 
-B. a dó
+B. cheannaíonn
 
-C. a ceathair
+C. cheannaigh
 
-D. a sé
+D. cheannódh
 
-5.3. Tea, please
-Choose the polite phrase meaning 'a cup of tea, please'.
+5.3. The condition for joining
+Read: Tá an cheardlann saor in aisce, ach caithfidh tú clárú roimh Dé hAoine. Ní bheidh cead ag daoine gan chlárú freastal uirthi. What must a participant do?
 
-A. Cupán tae, le do thoil.
+A. Register before Friday despite the workshop being free
 
-B. Cupán caife, le do thoil.
+B. Pay at the door instead of registering
 
-C. Dhá chupán tae, le do thoil.
+C. Wait until Friday to see whether registration is needed
 
-D. Cupán tae, go raibh maith agat.
+D. Attend without registering because there is no charge
 
 
 06. Music theory, finally
@@ -306,23 +306,23 @@ Answer: B. What evidence supports this thought, and what evidence complicates it
 Cognitive reappraisal examines accuracy and usefulness. It does not assume distress is irrational or that real difficulties can be wished away.
 Worked example / practice: 'I failed one exam' is specific evidence. 'I will fail everything forever' is a much broader prediction.
 
-5.1. An ordinary greeting
-What is the usual reply to Dia duit when greeting one person?
-Answer: B. Dia is Muire duit.
-Dia is Muire duit is the traditional response to Dia duit. Other greetings and local forms are also used.
-Worked example / practice: Two-person dialogue: A: Dia duit. B: Dia is Muire duit. A simple friendly greeting exchange.
+5.1. A change at the clinic
+Read: Ní bheidh an dochtúir ar fáil amárach. Tá coinne nua curtha in áirithe duit don Aoine. Cuir glaoch orainn mura n-oireann sé sin duit. What should the patient do if Friday is unsuitable?
+Answer: B. Phone the clinic to discuss the replacement
+Identify whether the message cancels, postpones or confirms an appointment. A practical reason for a change does not itself tell you the replacement date.
+Worked example / practice: Ní féidir liom teacht inniu; an mbeadh Dé Máirt oiriúnach? asks about Tuesday rather than confirming attendance today.
 
-5.2. Counting objects simply
-Which standalone number is 'three'?
-Answer: A. a trí
-A trí is three in the basic counting series. Counting people and counting objects introduce additional patterns.
-Worked example / practice: Count aloud: a haon, a dó, a trí, a ceathair, a cúig. This is practice with the abstract counting series.
+5.2. A future decision, not a past report
+Complete the firm future decision: Ní ___ mé ticéad amárach; tá ceann agam cheana féin. Choose 'will buy' in the required negative construction.
+Answer: A. cheannóidh
+Ní followed by a future verb expresses a negative future statement. Similar-looking present, past and conditional forms change the time or certainty of the statement.
+Worked example / practice: Ní cheannóidh mé é = I will not buy it; ní cheannóinn é = I would not buy it.
 
-5.3. Tea, please
-Choose the polite phrase meaning 'a cup of tea, please'.
-Answer: A. Cupán tae, le do thoil.
-Le do thoil means please when speaking to one person. Le bhur dtoil is the plural form.
-Worked example / practice: At a café: Ba mhaith liom cupán tae, le do thoil. Meaning: I would like a cup of tea, please.
+5.3. The condition for joining
+Read: Tá an cheardlann saor in aisce, ach caithfidh tú clárú roimh Dé hAoine. Ní bheidh cead ag daoine gan chlárú freastal uirthi. What must a participant do?
+Answer: A. Register before Friday despite the workshop being free
+A place may depend on registration or payment even if the event is free. Identify the stated condition rather than assuming that free entry means no advance action.
+Worked example / practice: Tá sé saor in aisce, ach caithfidh tú clárú = it is free, but you must register.
 
 6.1. The smallest keyboard step
 How many semitones separate adjacent keys on a conventionally tuned piano, including black keys?

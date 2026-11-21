@@ -1,6 +1,6 @@
 # Matt's Newsletter
 
-Una newsletter semanal hecha para Matthew: cuestionarios en inglés de neuropsicología, casos diagnósticos de salud mental, neurociencia, psicoterapia, irlandés A2/B1 y teoría musical básica, seguidos de cinco noticias de España en español. Diseño en blanco y negro, sin imágenes remotas, con versión HTML y texto plano.
+Una newsletter semanal hecha para Matthew: cuestionarios en inglés de neuropsicología, casos diagnósticos de salud mental, neurociencia, psicoterapia, irlandés orientado a B1 y teoría musical básica, seguidos de cinco noticias de España en español. Diseño en blanco y negro, sin imágenes remotas, con versión HTML y texto plano.
 
 El proyecto adapta el enfoque del `newsletter.py` original: contenido editable en TXT, noticias RSS, envío SMTP por Gmail y archivo estático de ediciones. No necesita una API de IA ni servicios de pago para generar los ejercicios.
 
@@ -9,13 +9,13 @@ El proyecto adapta el enfoque del `newsletter.py` original: contenido editable e
 - [Previsualización del correo](vista_previa.html).
 - [El mismo correo en texto plano](vista_previa.txt).
 - [Historial de ejemplo: cuatro ediciones](previews/archive/index.html).
-- [Archivo real](docs/index.html), inicialmente vacío hasta el primer envío.
+- [Archivo real](docs/index.html), con las ediciones registradas por el proceso de envío.
 
 Descarga la carpeta y abre los HTML en un navegador. La vista de archivos de GitHub muestra el código HTML, no el correo renderizado. Las cuatro ediciones del historial de ejemplo están marcadas como DEMO y nunca se han enviado. No se presentan como un historial real del cliente.
 
 También puedes ver capturas directamente desde GitHub: [correo en escritorio](previews/email-preview.png), [correo en móvil](previews/mobile-preview.png), [archivo de ediciones](previews/archive-preview.png) y [soluciones con el enunciado completo](previews/answers-preview.png). Son capturas parciales; los HTML contienen la edición completa.
 
-La revisión de dificultad y noticias se puede comprobar también en las capturas de [Neurociencia](previews/neuroscience-preview.png) y [las cinco noticias de España](previews/news-preview.png).
+La revisión de dificultad y noticias se puede comprobar también en las capturas de [Neurociencia](previews/neuroscience-preview.png), [irlandés en contexto](previews/irish-preview.png), [irlandés en móvil](previews/irish-mobile-preview.png) y [las cinco noticias de España](previews/news-preview.png).
 
 ## Qué recibe Matt
 
@@ -25,7 +25,7 @@ Cada semana, en este orden:
 2. **Mental health case files**: tres casos diagnósticos ficticios de depresión, ansiedad, pánico, fobias, PTSD, OCD, bipolaridad y otros cuadros. Cada caso indica **DSM-5-TR** o **ICD-11**; sus reglas no se mezclan.
 3. **Neuroscience**: tres problemas de aplicación sobre neurotransmisores, receptores, circuitos, plasticidad, memoria e interpretación de experimentos. Es la sección de mayor refuerzo de dificultad: requiere distinguir mecanismos, interpretar observaciones y reconocer los límites de una conclusión.
 4. **Psychotherapy toolkit**: tres preguntas sobre métodos, historia y términos de CBT, DBT, psicoanálisis y otras escuelas.
-5. **A little Gaeilge**: tres ejercicios prácticos de irlandés A2/B1, con instrucciones en inglés y frases en irlandés.
+5. **A little Gaeilge**: tres ejercicios de irlandés orientados a B1, con instrucciones en inglés. Alternan comprensión de mensajes y gramática en contexto: cambios de planes, condiciones, tiempos verbales, pronombres y preferencias.
 6. **Music theory, finally**: tres ejercicios de ritmo, lectura, intervalos, escalas y acordes, con términos británicos/irlandeses y sus equivalentes estadounidenses cuando ayudan.
 7. **España: cinco noticias de la semana**: cinco titulares de actualidad nacional de los últimos siete días, en español, con medio, fecha y enlace. Si no hay cinco noticias nuevas verificadas disponibles, se indica la limitación.
 
@@ -33,9 +33,11 @@ Todas las preguntas tienen **cuatro opciones, A–D**, y una respuesta correcta.
 
 Hay **720 preguntas con explicación y ejemplo/práctica adicional**, **120 por materia**. Las cinco categorías originales han pasado de 30 a 120 cada una: cuatro veces su tamaño anterior, más 120 preguntas nuevas de salud mental. Con tres por materia son **18 preguntas por edición y 40 semanas sin repetir**, aproximadamente nueve meses. Al agotar el banco, se recuperan primero las preguntas utilizadas hace más tiempo.
 
-La batería combina casos, preguntas de discriminación clínica y ejercicios de aplicación. Se han revisado los distractores de las seis materias para usar alternativas del mismo campo y errores plausibles. Cuando un diagnóstico cercano lo exigía, se han añadido datos a la viñeta para mantener una respuesta mejor sustentada que las demás. El irlandés sigue en A2/B1 y la música en nivel básico.
+La batería combina casos, preguntas de discriminación clínica y ejercicios de aplicación. Se han revisado los distractores de las seis materias para usar alternativas del mismo campo y errores plausibles. Cuando un diagnóstico cercano lo exigía, se han añadido datos a la viñeta para mantener una respuesta mejor sustentada que las demás. La música conserva el nivel básico que Matthew consideró adecuado.
 
 Neurociencia tiene además enunciados más exigentes: errores de predicción de recompensa, inhibición por derivación, expresión de plasticidad, interpretación de BOLD y EEG, diseños de control y causalidad. Las soluciones conservan el enunciado completo y explican la distinción relevante. Los `ID` y las posiciones de las claves A–D se mantienen para que el historial siga reconociendo las preguntas; algunos contenidos correctos de Neurociencia se han actualizado al reformular el problema.
+
+Tras el comentario completo de Matthew, los casos de neuropsicología y salud mental mantienen su nivel actual y Psicoterapia conserva las preguntas con alternativas más próximas entre sí. Se han sustituido los 120 ejercicios elementales de irlandés por 60 mensajes breves originales y 60 ejercicios de gramática y significado en contexto. Las opciones confunden detalles del propio texto, personas, tiempos o condiciones: ya no basta con reconocer una palabra aislada. B1 es una orientación editorial, no una certificación ni una equivalencia con un examen oficial. Se conservan los identificadores usados por la rotación y no se modifica ninguna edición real archivada.
 
 Los casos son educativos y las localizaciones se expresan como regiones o redes plausibles. No son historias clínicas reales ni una herramienta de diagnóstico.
 
@@ -48,7 +50,7 @@ content/
   mental_health.txt             120 casos diagnósticos DSM-5-TR / ICD-11
   neuroscience.txt              120 preguntas
   psychotherapy.txt             120 preguntas
-  irish.txt                     120 ejercicios A2/B1
+  irish.txt                     120 ejercicios de irlandés en contexto, orientados a B1
   music.txt                     120 ejercicios básicos
 config/news_sources.json        Fuentes RSS y prioridades editoriales
 state/history.json              Semanas enviadas y contenido utilizado
@@ -190,4 +192,4 @@ Haz commit y push del estado reconciliado antes de volver a ejecutar Actions. Si
 
 ## Validación de esta entrega
 
-Se generaron el correo de muestra y cuatro ediciones de demostración, con capturas de escritorio, móvil, archivo y soluciones. Los 720 bloques pasan el validador y las 32 pruebas pasan con SMTP simulado, incluida la rotación de 40 semanas, las cuatro opciones, las soluciones con enunciado, el tamaño del correo y la sección española de noticias. Se comprobaron los tres RSS españoles y se guardó una muestra de cinco titulares reales. No se han enviado correos ni reiniciado el historial real. La entrega con Gmail y la publicación en GitHub requieren subir los cambios y configurar el repositorio siguiendo los pasos anteriores.
+Se regeneraron el correo de muestra y cuatro ediciones de demostración con los nuevos ejercicios de irlandés. Los 720 bloques pasan el validador y las 32 pruebas pasan con SMTP simulado, incluida la rotación de 40 semanas, las cuatro opciones, las soluciones con enunciado, el tamaño del correo y la sección española de noticias. Se conserva la muestra de cinco titulares reales consultada el 21 de noviembre de 2026 y se añade una captura de irlandés. En esta revisión no se envían correos ni se modifica el historial o el archivo real. Los cambios quedan preparados para subirlos al repositorio; la configuración de Gmail y GitHub Pages se describe en los apartados anteriores.

@@ -36,7 +36,7 @@ SECTIONS = (
     ("mental_health", "Mental health case files", "Fictional diagnostic cases: DSM-5-TR and ICD-11."),
     ("neuroscience", "Neuroscience", "Neurotransmitters, circuits and how the brain works."),
     ("psychotherapy", "Psychotherapy toolkit", "Methods, origins and the language of therapy."),
-    ("irish", "A little Gaeilge", "Practical Irish at A2/B1, one small step at a time."),
+    ("irish", "A little Gaeilge", "Towards B1: messages, meaning and grammar in context."),
     ("music", "Music theory, finally", "A few minutes of practice count. Start here."),
 )
 FIELDS = {"ID", "TITLE", "QUESTION", "A", "B", "C", "D", "ANSWER", "EXPLANATION", "EXAMPLE", "SOURCE"}

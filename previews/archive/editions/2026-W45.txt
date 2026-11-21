@@ -154,40 +154,40 @@ D. A deliberate reappraisal generated after evaluating evidence
 
 
 05. A little Gaeilge
-Practical Irish at A2/B1, one small step at a time.
+Towards B1: messages, meaning and grammar in context.
 
-5.1. The negative of tá
-Complete: ___ mé tuirseach. Meaning: I am not tired.
+5.1. The past in questions and negatives
+Complete the ordinary past question in this exchange: A: An ___ tú ag an gcruinniú aréir? B: Ní raibh, bhí mé ag obair.
 
-A. Ní raibh
+A. bhfuil
 
-B. Níl
+B. raibh
 
-C. Ní bheidh
+C. mbeidh
 
-D. Ní bhíonn
+D. mbeadh
 
-5.2. Where is the bus?
-Which question means 'Where is the bus?'
+5.2. Done already, or still to do?
+Read: Cheannaigh mé an leabhar cheana féin, ach níor thosaigh mé á léamh fós. Tosóidh mé anocht má bhíonn am agam. Which statement is supported?
 
-A. Cá raibh an bus?
+A. The book has already been finished
 
-B. Cá mbeidh an bus?
+B. The speaker still needs to buy the book tonight
 
-C. Cá bhfuil an bus?
+C. The book has been bought but reading has not started
 
-D. Cathain a bheidh an bus ann?
+D. The speaker started it earlier but has not finished it
 
-5.3. Saying your name
-Which sentence means 'My name is Matthew'?
+5.3. A completed action and its negative
+Complete the explicit report 'She did not buy the book yesterday': Níor ___ sí an leabhar inné, cé go raibh airgead aici.
 
-A. Matthew is ainm duit.
+A. cheannóidh
 
-B. Matthew is ainm dó.
+B. cheannaíonn
 
-C. Matthew is ainm dom.
+C. cheannaigh
 
-D. Cad is ainm duit?
+D. cheannódh
 
 
 06. Music theory, finally
@@ -306,23 +306,23 @@ Answer: C. A quickly arising interpretation of a situation
 Automatic thoughts can be words or images and are often taken for granted. Identifying one allows it to be examined.
 Worked example / practice: 'I stumbled over a word, so everyone thinks I am incompetent' is an interpretation to examine, not a conclusion to accept automatically.
 
-5.1. The negative of tá
-Complete: ___ mé tuirseach. Meaning: I am not tired.
-Answer: B. Níl
-The present negative form of bí is níl. A simple ní before tá is not the standard construction.
-Worked example / practice: Positive: Tá mé tuirseach. Negative: Níl mé tuirseach. Meaning: I am tired / I am not tired.
+5.1. The past in questions and negatives
+Complete the ordinary past question in this exchange: A: An ___ tú ag an gcruinniú aréir? B: Ní raibh, bhí mé ag obair.
+Answer: B. raibh
+Past forms of bí depend on the construction: bhí is affirmative, an raibh asks a question and ní raibh negates it. Do not substitute the present dependent form bhfuil when the ordinary past is intended.
+Worked example / practice: An raibh tú ann? Ní raibh. = Were you there? No, I was not.
 
-5.2. Where is the bus?
-Which question means 'Where is the bus?'
-Answer: C. Cá bhfuil an bus?
-Cá bhfuil is a common where-is construction. An bus means the bus.
-Worked example / practice: Useful travel question: Cá bhfuil an stáisiún? Meaning: Where is the station?
+5.2. Done already, or still to do?
+Read: Cheannaigh mé an leabhar cheana féin, ach níor thosaigh mé á léamh fós. Tosóidh mé anocht má bhíonn am agam. Which statement is supported?
+Answer: C. The book has been bought but reading has not started
+Cheana féin marks something already done; fós with a negative often means not yet. A future form states a plan and does not report completion.
+Worked example / practice: Cheannaigh mé é cheana féin, ach níor léigh mé é fós = I already bought it, but have not read it yet.
 
-5.3. Saying your name
-Which sentence means 'My name is Matthew'?
-Answer: C. Matthew is ainm dom.
-X is ainm dom is a standard naming pattern. Dom is the combined form of do plus mé.
-Worked example / practice: Swap the name: Aoife is ainm dom. To ask someone's name: Cad is ainm duit?
+5.3. A completed action and its negative
+Complete the explicit report 'She did not buy the book yesterday': Níor ___ sí an leabhar inné, cé go raibh airgead aici.
+Answer: C. cheannaigh
+A negative past report is not a future prediction or a present habit. With regular verbs, níor normally precedes a lenited past form, as in níor cheannaigh.
+Worked example / practice: Cheannaigh mé é inné contrasts with níor cheannaigh mé é inné.
 
 6.1. Quavers in a bar
 How many quavers (eighth notes) fill a 4/4 bar containing only quavers?

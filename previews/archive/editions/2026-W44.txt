@@ -154,40 +154,40 @@ D. Alan E. Kazdin
 
 
 05. A little Gaeilge
-Practical Irish at A2/B1, one small step at a time.
+Towards B1: messages, meaning and grammar in context.
 
-5.1. How are you?
-Choose the ordinary Irish question meaning 'How are you?'
+5.1. The journey that actually happened
+Read: Bhí mé chun an traein a thógáil, ach cuireadh ar ceal í. Thug mo dheirfiúr síob dom, mar ní raibh bus ar bith ag dul ag an am sin. How did the speaker actually travel?
 
-A. Conas a bhí tú?
+A. They took a later train
 
-B. Conas atá sí?
+B. They caught the bus
 
-C. Conas atá tú?
+C. Their sister gave them a lift
 
-D. Conas a bheidh tú?
+D. They walked to the destination
 
-5.2. I have a book
-Complete: Tá leabhar ___. Meaning: I have a book.
+5.2. A usual pattern rather than one occasion
+Choose the completion that explicitly expresses a regular habit: ___ sa leabharlann gach tráthnóna tar éis na hoibre, ach tá mé sa bhaile inniu.
 
-A. agat
+A. Bhí mé
 
-B. aige
+B. Beidh mé
 
-C. agam
+C. Bím
 
-D. liom
+D. Bheinn
 
-5.3. I like music
-Choose the sentence meaning 'I like music.'
+5.3. A revised meeting time
+Read: Bhí an cruinniú le tosú ag 6.00, ach beidh sé uair an chloig níos déanaí. Ná bí ann ag a sé; feicfidh mé thú ag an am nua. When is the revised start?
 
-A. Is maith leat ceol.
+A. 5.00
 
-B. Is maith liom ceol.
+B. 7.00
 
-C. Ba mhaith liom ceol.
+C. 6.00
 
-D. Ní maith liom ceol.
+D. 8.00
 
 
 06. Music theory, finally
@@ -306,23 +306,23 @@ Answer: B. Marsha Linehan
 DBT grew from behavioural work with people experiencing severe emotion dysregulation and suicidal behaviour, combining acceptance and change strategies.
 Worked example / practice: Remember the balance with a fictional phrase: 'Your feelings make sense, and we can practise a different response.'
 
-5.1. How are you?
-Choose the ordinary Irish question meaning 'How are you?'
-Answer: C. Conas atá tú?
-Conas asks how. Cá asks where. Cé asks who. Conas atá tú? is a common standard form, with regional alternatives in everyday speech.
-Worked example / practice: Mini-dialogue: Conas atá tú? Tá mé go maith, go raibh maith agat. Meaning: How are you? I am well, thank you.
+5.1. The journey that actually happened
+Read: Bhí mé chun an traein a thógáil, ach cuireadh ar ceal í. Thug mo dheirfiúr síob dom, mar ní raibh bus ar bith ag dul ag an am sin. How did the speaker actually travel?
+Answer: C. Their sister gave them a lift
+Separate an earlier plan from the action taken after ach (but). A transport mentioned first is not necessarily the one actually used; the final completed action resolves the question.
+Worked example / practice: Bhí mé chun siúl, ach thóg mé an bus = I was going to walk, but I took the bus.
 
-5.2. I have a book
-Complete: Tá leabhar ___. Meaning: I have a book.
-Answer: C. agam
-Irish commonly expresses possession using tá plus ag. Agam means at me; tá leabhar agam literally frames a book as being at me.
-Worked example / practice: Try the same pattern: Tá peann agam. Meaning: I have a pen. Tá cat agam means I have a cat.
+5.2. A usual pattern rather than one occasion
+Choose the completion that explicitly expresses a regular habit: ___ sa leabharlann gach tráthnóna tar éis na hoibre, ach tá mé sa bhaile inniu.
+Answer: C. Bím
+Bíonn and its personal forms express a habitual state or repeated pattern. Tá describes a current state; bhí and beidh place it in the past and future. Use the requested time meaning, not just a familiar form.
+Worked example / practice: Bím gnóthach ar an Luan, ach tá mé saor inniu = I am usually busy on Mondays, but I am free today.
 
-5.3. I like music
-Choose the sentence meaning 'I like music.'
-Answer: B. Is maith liom ceol.
-Is maith liom is a common way to express liking something. Liom is the combined form of le plus mé.
-Worked example / practice: Pattern swap: Is maith liom tae = I like tea. Is maith liom an leabhar = I like the book.
+5.3. A revised meeting time
+Read: Bhí an cruinniú le tosú ag 6.00, ach beidh sé uair an chloig níos déanaí. Ná bí ann ag a sé; feicfidh mé thú ag an am nua. When is the revised start?
+Answer: B. 7.00
+Track the revised time rather than retaining the first time mentioned. Ní ... ach can contrast a rejected arrangement with the replacement, while níos déanaí means later.
+Worked example / practice: Ní ag a sé ach ag a seacht = not at six but at seven.
 
 6.1. One beat at a time
 In 4/4, with the crotchet (quarter note) as one beat, how long is a minim (half note)?
