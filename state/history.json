@@ -17,18 +17,45 @@
     "irish-003": "2026-11-20",
     "music-001": "2026-11-20",
     "music-002": "2026-11-20",
-    "music-003": "2026-11-20"
+    "music-003": "2026-11-20",
+    "neuropsychology-004": "2026-11-25",
+    "neuropsychology-005": "2026-11-25",
+    "neuropsychology-006": "2026-11-25",
+    "mental_health-004": "2026-11-25",
+    "mental_health-005": "2026-11-25",
+    "mental_health-006": "2026-11-25",
+    "neuroscience-004": "2026-11-25",
+    "neuroscience-005": "2026-11-25",
+    "neuroscience-006": "2026-11-25",
+    "psychotherapy-004": "2026-11-25",
+    "psychotherapy-005": "2026-11-25",
+    "psychotherapy-006": "2026-11-25",
+    "irish-004": "2026-11-25",
+    "irish-005": "2026-11-25",
+    "irish-006": "2026-11-25",
+    "music-004": "2026-11-25",
+    "music-005": "2026-11-25",
+    "music-006": "2026-11-25"
   },
   "news": {
     "fadf6de08845d96029c8c785797a12d488e9e40ff94778e18e3f035b009faa73": "2026-11-20",
     "adb73d57dcd8285e3965541e35c09e0a8db0d78790f371091d5325c381623577": "2026-11-20",
     "5c71f0ebd4c2420a0fd4a58c9619da7b1771c72ea17abc4d5722f4fa20cd36a4": "2026-11-20",
     "c35d20a91cab27bb3249a0e5aa51473480d783387ccf1697be886902b7824230": "2026-11-20",
-    "dcf91a478ab22f4c28e44fcadccb10bdec0a7c150a4909841d573f3d866cb73f": "2026-11-20"
+    "dcf91a478ab22f4c28e44fcadccb10bdec0a7c150a4909841d573f3d866cb73f": "2026-11-20",
+    "3939c028b6bdae2cdf741a4ba95ed14e8b3a9e9ce7aae30eab4eef9b8e132a3b": "2026-11-25",
+    "45ce63f31b8b6511c0fcbe7b7494ada625edaa32ae32a89c226984d6e3634b18": "2026-11-25",
+    "107ca395ea4e7b9a03d4f386f13c681fbc49561282bce071fbd94ef473a39e76": "2026-11-25",
+    "20fd7531bd5c9b26fabcdaca634fdacb5de80dc6cb8686ecb33fc3f975ee659c": "2026-11-25",
+    "79ae488486ec3e04ba747fc3f1044ba2a3938eb10b940cdb330c0d87059331e9": "2026-11-25"
   },
   "editions": {
     "2026-W47": {
       "date": "2026-11-20",
+      "status": "sent"
+    },
+    "2026-W48": {
+      "date": "2026-11-25",
       "status": "sent"
     }
   }

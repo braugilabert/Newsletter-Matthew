@@ -1,0 +1,365 @@
+Matt's Newsletter | 2026-W48 | 25 November 2026
+
+Try the questions before the answer key.
+
+
+01. Neuropsychology case files
+Symptoms, brain regions and the most likely syndrome.
+
+1.1. The repetition gap
+A patient with a small dominant temporoparietal stroke speaks fairly fluently and understands conversation, but cannot accurately repeat even short unfamiliar phrases. Which pairing is most likely?
+
+A. Conduction aphasia; dorsal language pathways
+
+B. Wernicke-type aphasia; dominant posterior temporal network
+
+C. Transcortical sensory aphasia; posterior watershed network
+
+D. Anomic aphasia; dominant lexical retrieval network
+
+1.2. An island of repetition
+Following a left frontal watershed infarct that spares the core perisylvian language network, spontaneous speech is sparse, comprehension is relatively good, and repetition is preserved. Which pairing fits best?
+
+A. Broca-type aphasia; dominant frontal language network
+
+B. Mixed transcortical aphasia; surrounding language-network connections
+
+C. Transcortical motor aphasia; frontal regions around the language network
+
+D. Conduction aphasia; dominant dorsal language pathways
+
+1.3. More than word finding
+A large left middle cerebral artery infarct causes very limited speech, poor comprehension and poor repetition. Right-sided weakness is also present. Which pairing is most likely?
+
+A. Mixed transcortical aphasia; watershed isolation of language networks
+
+B. Wernicke-type aphasia; dominant posterior language network
+
+C. Global aphasia; extensive dominant perisylvian network injury
+
+D. Severe Broca-type aphasia; dominant frontal language network
+
+
+02. Mental health case files
+Fictional diagnostic cases: DSM-5-TR and ICD-11.
+
+2.1. A history beyond the lows
+DSM-5-TR. An adult has a documented major depressive episode and a previous five-day period of elevated mood, increased energy, little need for sleep, more talking, racing thoughts and increased projects. The change was clear but caused no marked impairment, psychosis or hospitalisation. There has never been mania. Which diagnosis best fits this fictional case?
+
+A. Bipolar I disorder
+
+B. Bipolar II disorder
+
+C. Cyclothymic disorder
+
+D. Major depressive disorder with mixed features
+
+2.2. Fluctuations below episode thresholds
+DSM-5-TR. Medical and substance-related explanations are excluded. For three years, an adult has frequent periods of mildly elevated energy and periods of depressive symptoms, present for more than half the time without gaps longer than two months. No period has met full hypomanic, manic or major depressive episode criteria, but functioning suffers. Which diagnosis best fits this fictional case?
+
+A. Bipolar II disorder
+
+B. Persistent depressive disorder
+
+C. Bipolar I disorder
+
+D. Cyclothymic disorder
+
+2.3. Worry that spreads across life
+DSM-5-TR. Medical and substance-related explanations are excluded. For eight months, an adult worries excessively on most days about money, health and ordinary work tasks, struggles to control it, and has restlessness, muscle tension, fatigue and poor sleep with impairment. Which diagnosis best fits this fictional case?
+
+A. Panic disorder
+
+B. Illness anxiety disorder
+
+C. Obsessive-compulsive disorder
+
+D. Generalized anxiety disorder
+
+
+03. Neuroscience
+Neurotransmitters, circuits and how the brain works.
+
+3.1. Depolarising does not settle the question
+A neuron rests at -70 mV, its spike threshold is -50 mV, and a GABA-A conductance reverses near -65 mV. Opening it slightly depolarises the cell but reduces the effect of a simultaneous excitatory input. Which description fits?
+
+A. Depolarising but potentially inhibitory through shunting of excitation
+
+B. Excitatory because the voltage moves towards threshold even when the concurrent EPSP is shunted
+
+C. Inhibitory specifically because chloride conductance must hyperpolarise the membrane
+
+D. Initially excitatory and then inhibitory solely because receptor activation becomes metabotropic
+
+3.2. Where is a strengthened synapse expressed?
+After a plasticity-inducing protocol, a glutamatergic synapse has a larger AMPA-mediated postsynaptic response, while tests of presynaptic release are unchanged. Which account is most directly supported?
+
+A. Postsynaptic expression through increased AMPA-mediated responsiveness
+
+B. Presynaptic expression through a higher release probability
+
+C. Postsynaptic weakening offset by a larger presynaptic release pool
+
+D. A change in intrinsic spike threshold rather than the measured synaptic responsiveness
+
+3.3. One transmitter, different targets
+The same transmitter activates skeletal neuromuscular junctions and modulates cortical attention, with different receptor families contributing at different sites. Which account best identifies the common system?
+
+A. Noradrenaline acting through adrenergic receptors at both skeletal end plates and cortical targets
+
+B. Dopamine acting at nicotinic receptors in muscle and D2 receptors in cortex
+
+C. Acetylcholine acting through distinct peripheral and central receptor systems
+
+D. Glutamate acting as the primary skeletal end-plate transmitter and cortical modulator
+
+
+04. Psychotherapy toolkit
+Methods, origins and the language of therapy.
+
+4.1. The dialectic
+Which statement best expresses the acceptance-change balance in DBT?
+
+A. Accepting the emotion means postponing change work until distress has substantially subsided
+
+B. I can accept my current experience while working to change harmful patterns
+
+C. Change strategies are prioritised first, while validation is reserved for setbacks
+
+D. Acceptance concerns present behaviour, whereas change work is limited to the interpretation of it
+
+4.2. The four skills groups
+Which list gives the standard DBT skills modules?
+
+A. Mindfulness, behavioural activation, exposure and cognitive restructuring
+
+B. Distress tolerance, motivational interviewing, relapse prevention and problem solving
+
+C. Mindfulness, distress tolerance, emotion regulation and interpersonal effectiveness
+
+D. Emotion regulation, cognitive defusion, values clarification and committed action
+
+4.3. An automatic thought
+In CBT, what is an automatic thought?
+
+A. A relatively enduring general belief about oneself
+
+B. A conditional rule linking performance to acceptance
+
+C. A quickly arising interpretation of a situation
+
+D. A deliberate reappraisal generated after evaluating evidence
+
+
+05. A little Gaeilge
+Towards B1: messages, meaning and grammar in context.
+
+5.1. The past in questions and negatives
+Complete the ordinary past question in this exchange: A: An ___ tú ag an gcruinniú aréir? B: Ní raibh, bhí mé ag obair.
+
+A. bhfuil
+
+B. raibh
+
+C. mbeidh
+
+D. mbeadh
+
+5.2. Done already, or still to do?
+Read: Cheannaigh mé an leabhar cheana féin, ach níor thosaigh mé á léamh fós. Tosóidh mé anocht má bhíonn am agam. Which statement is supported?
+
+A. The book has already been finished
+
+B. The speaker still needs to buy the book tonight
+
+C. The book has been bought but reading has not started
+
+D. The speaker started it earlier but has not finished it
+
+5.3. A completed action and its negative
+Complete the explicit report 'She did not buy the book yesterday': Níor ___ sí an leabhar inné, cé go raibh airgead aici.
+
+A. cheannóidh
+
+B. cheannaíonn
+
+C. cheannaigh
+
+D. cheannódh
+
+
+06. Music theory, finally
+A few minutes of practice count. Start here.
+
+6.1. Quavers in a bar
+How many quavers (eighth notes) fill a 4/4 bar containing only quavers?
+
+A. Four
+
+B. Eight
+
+C. Six
+
+D. Sixteen
+
+6.2. A dot changes duration
+In 4/4, how many crotchet beats does a dotted minim (dotted half note) last?
+
+A. Two
+
+B. Four
+
+C. Three
+
+D. Six
+
+6.3. Sharps and flats
+In standard Western notation, what does a sharp normally do to a note?
+
+A. Raises it by one whole tone
+
+B. Raises it by one semitone
+
+C. Lowers it by one semitone
+
+D. Raises it by one octave
+
+
+07. España: cinco noticias de la semana
+
+Canarias declara la emergencia en El Hierro y pide el despliegue de la UME
+EL PAÍS — España | 25 de noviembre de 2026
+https://elpais.com/espana/2026-11-25/sin-pausa-en-la-ruta-canaria-190-personas-mas-llegan-en-dos-cayucos-a-el-hierro.html
+
+El Congreso se prepara para votar los últimos cinco decretos del Gobierno
+Europa Press — Nacional | 25 de noviembre de 2026
+https://www.europapress.es/nacional/noticia-congreso-prepara-votar-ultimos-cinco-decretos-gobierno-20261125121705.html
+
+Últimas horas para votar por correo en las elecciones generales del 29N
+Europa Press — Nacional | 25 de noviembre de 2026
+https://www.europapress.es/nacional/noticia-ultimas-horas-votar-correo-elecciones-generales-29n-20261125123559.html
+
+Comparador de los programas electorales para las elecciones generales del 29-N
+EL PAÍS — España | 25 de noviembre de 2026
+https://elpais.com/espana/elecciones-generales/2026-11-25/comparador-de-los-programas-electorales-para-las-elecciones-generales-del-29-n.html
+
+El PP utiliza el día contra la violencia machista para cargar contra el Gobierno: "Le pusieron un piso a una puta"
+elDiario.es — Política | 25 de noviembre de 2026
+https://www.eldiario.es/politica/pp-utiliza-dia-violencia-machista-cargar-gobierno-le-pusieron-piso-puta_1_13692754.html
+
+
+ANSWER KEY AND WORKED EXAMPLES
+
+1.1. The repetition gap
+A patient with a small dominant temporoparietal stroke speaks fairly fluently and understands conversation, but cannot accurately repeat even short unfamiliar phrases. Which pairing is most likely?
+Answer: A. Conduction aphasia; dorsal language pathways
+Disproportionately impaired repetition with relatively preserved fluency and comprehension suggests conduction aphasia. Dorsal perisylvian connections and cortical regions can be involved.
+Worked example / practice: Build a three-column language checklist: fluency, comprehension and repetition. Conduction aphasia has its biggest weakness in the third column.
+
+1.2. An island of repetition
+Following a left frontal watershed infarct that spares the core perisylvian language network, spontaneous speech is sparse, comprehension is relatively good, and repetition is preserved. Which pairing fits best?
+Answer: C. Transcortical motor aphasia; frontal regions around the language network
+Preserved repetition distinguishes this nonfluent pattern from many Broca-type presentations. Lesions can isolate otherwise functioning language circuitry from initiation systems.
+Worked example / practice: Compare two nonfluent speakers: if repetition is strikingly good in one, consider a transcortical pattern in the fictional case.
+
+1.3. More than word finding
+A large left middle cerebral artery infarct causes very limited speech, poor comprehension and poor repetition. Right-sided weakness is also present. Which pairing is most likely?
+Answer: C. Global aphasia; extensive dominant perisylvian network injury
+Global aphasia affects expression and comprehension across several language tasks, usually reflecting widespread dominant language-network injury.
+Worked example / practice: Compare: naming difficulty alone with otherwise fluent, comprehensible speech would be a much milder anomic pattern.
+
+2.1. A history beyond the lows
+DSM-5-TR. An adult has a documented major depressive episode and a previous five-day period of elevated mood, increased energy, little need for sleep, more talking, racing thoughts and increased projects. The change was clear but caused no marked impairment, psychosis or hospitalisation. There has never been mania. Which diagnosis best fits this fictional case?
+Answer: B. Bipolar II disorder
+Bipolar II disorder requires hypomanic and major depressive episodes without a manic episode. Hypomania is an observable sustained change without the marked impairment, hospitalisation or psychosis that would make the elevated episode manic.
+Worked example / practice: Always ask about past elevated periods when evaluating a depressive presentation; current low mood alone does not establish unipolar depression.
+
+2.2. Fluctuations below episode thresholds
+DSM-5-TR. Medical and substance-related explanations are excluded. For three years, an adult has frequent periods of mildly elevated energy and periods of depressive symptoms, present for more than half the time without gaps longer than two months. No period has met full hypomanic, manic or major depressive episode criteria, but functioning suffers. Which diagnosis best fits this fictional case?
+Answer: D. Cyclothymic disorder
+Cyclothymic disorder in adults involves at least two years of numerous subthreshold hypomanic and depressive symptoms, present for much of the time, without long symptom-free intervals or a history meeting full mood-episode criteria.
+Worked example / practice: Subthreshold does not mean unimportant: impairment may occur even when no single period meets a full episode definition.
+
+2.3. Worry that spreads across life
+DSM-5-TR. Medical and substance-related explanations are excluded. For eight months, an adult worries excessively on most days about money, health and ordinary work tasks, struggles to control it, and has restlessness, muscle tension, fatigue and poor sleep with impairment. Which diagnosis best fits this fictional case?
+Answer: D. Generalized anxiety disorder
+Generalized anxiety disorder involves difficult-to-control excessive worry across several areas with associated symptoms and impairment. DSM-5-TR adult duration is at least six months; it is not restricted to one object or social scrutiny.
+Worked example / practice: Ask what the worry concerns, how controllable it feels and its duration, rather than treating worry as diagnostic by itself.
+
+3.1. Depolarising does not settle the question
+A neuron rests at -70 mV, its spike threshold is -50 mV, and a GABA-A conductance reverses near -65 mV. Opening it slightly depolarises the cell but reduces the effect of a simultaneous excitatory input. Which description fits?
+Answer: A. Depolarising but potentially inhibitory through shunting of excitation
+Excitatory versus inhibitory describes the effect on firing probability, not simply the direction of the voltage change. A conductance with reversal below threshold can reduce the impact of concurrent excitation by shunting it.
+Worked example / practice: Ask separately where the conductance drives voltage and how the added conductance changes a concurrent EPSP.
+
+3.2. Where is a strengthened synapse expressed?
+After a plasticity-inducing protocol, a glutamatergic synapse has a larger AMPA-mediated postsynaptic response, while tests of presynaptic release are unchanged. Which account is most directly supported?
+Answer: A. Postsynaptic expression through increased AMPA-mediated responsiveness
+With presynaptic release held unchanged, increased postsynaptic responsiveness is the most direct account. A larger response does not by itself establish whether receptor number, conductance or another postsynaptic factor changed.
+Worked example / practice: Do not infer more transmitter release merely because the recorded postsynaptic current became larger.
+
+3.3. One transmitter, different targets
+The same transmitter activates skeletal neuromuscular junctions and modulates cortical attention, with different receptor families contributing at different sites. Which account best identifies the common system?
+Answer: C. Acetylcholine acting through distinct peripheral and central receptor systems
+Acetylcholine acts at nicotinic receptors at skeletal neuromuscular junctions and through nicotinic and muscarinic systems in the brain. A shared transmitter does not imply an identical effect at each target.
+Worked example / practice: Distinguish transmitter identity from receptor subtype and circuit function when comparing two tissues.
+
+4.1. The dialectic
+Which statement best expresses the acceptance-change balance in DBT?
+Answer: B. I can accept my current experience while working to change harmful patterns
+Dialectical thinking makes room for apparently opposing truths. Validation does not mean endorsing every behaviour.
+Worked example / practice: A therapist can validate disappointment while helping a client choose a more effective way to communicate it.
+
+4.2. The four skills groups
+Which list gives the standard DBT skills modules?
+Answer: C. Mindfulness, distress tolerance, emotion regulation and interpersonal effectiveness
+These four modules teach practical skills, while comprehensive DBT includes additional treatment components beyond a skills class.
+Worked example / practice: Sort an example: noticing an urge without immediately acting fits mindfulness; making a clear request fits interpersonal effectiveness.
+
+4.3. An automatic thought
+In CBT, what is an automatic thought?
+Answer: C. A quickly arising interpretation of a situation
+Automatic thoughts can be words or images and are often taken for granted. Identifying one allows it to be examined.
+Worked example / practice: 'I stumbled over a word, so everyone thinks I am incompetent' is an interpretation to examine, not a conclusion to accept automatically.
+
+5.1. The past in questions and negatives
+Complete the ordinary past question in this exchange: A: An ___ tú ag an gcruinniú aréir? B: Ní raibh, bhí mé ag obair.
+Answer: B. raibh
+Past forms of bí depend on the construction: bhí is affirmative, an raibh asks a question and ní raibh negates it. Do not substitute the present dependent form bhfuil when the ordinary past is intended.
+Worked example / practice: An raibh tú ann? Ní raibh. = Were you there? No, I was not.
+
+5.2. Done already, or still to do?
+Read: Cheannaigh mé an leabhar cheana féin, ach níor thosaigh mé á léamh fós. Tosóidh mé anocht má bhíonn am agam. Which statement is supported?
+Answer: C. The book has been bought but reading has not started
+Cheana féin marks something already done; fós with a negative often means not yet. A future form states a plan and does not report completion.
+Worked example / practice: Cheannaigh mé é cheana féin, ach níor léigh mé é fós = I already bought it, but have not read it yet.
+
+5.3. A completed action and its negative
+Complete the explicit report 'She did not buy the book yesterday': Níor ___ sí an leabhar inné, cé go raibh airgead aici.
+Answer: C. cheannaigh
+A negative past report is not a future prediction or a present habit. With regular verbs, níor normally precedes a lenited past form, as in níor cheannaigh.
+Worked example / practice: Cheannaigh mé é inné contrasts with níor cheannaigh mé é inné.
+
+6.1. Quavers in a bar
+How many quavers (eighth notes) fill a 4/4 bar containing only quavers?
+Answer: B. Eight
+Each quaver lasts half a crotchet beat. Four crotchet beats therefore contain eight quavers.
+Worked example / practice: Count 1-and-2-and-3-and-4-and while tapping once on each spoken syllable.
+
+6.2. A dot changes duration
+In 4/4, how many crotchet beats does a dotted minim (dotted half note) last?
+Answer: C. Three
+A dot adds half of the original note's duration. A two-beat minim gains one beat, making three.
+Worked example / practice: A dotted minim plus one crotchet fills a 4/4 bar: 3 + 1 = 4 beats.
+
+6.3. Sharps and flats
+In standard Western notation, what does a sharp normally do to a note?
+Answer: B. Raises it by one semitone
+A sharp changes pitch, not loudness. Its precise frequency depends on the tuning system, but the notated interval is one semitone.
+Worked example / practice: On a piano, C-sharp is the next key above C. Volume instructions use other markings such as forte or piano.
+
+Clinical vignettes are fictional educational examples. Brain functions involve networks; a likely quiz answer is not a clinical assessment. Irish follows broadly standard usage; dialect forms may differ.
+
+To stop receiving this newsletter, reply to the sender and ask to be removed.
+
+Past editions: ../index.html

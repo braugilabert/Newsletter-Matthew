@@ -7,5 +7,15 @@
     "subjects": 6,
     "file": "editions/2026-W47.html",
     "demo": false
+  },
+  {
+    "id": "2026-W48",
+    "date": "2026-11-25",
+    "title": "The repetition gap",
+    "questions": 18,
+    "subjects": 6,
+    "news_title": "España: cinco noticias de la semana",
+    "file": "editions/2026-W48.html",
+    "demo": false
   }
 ]
